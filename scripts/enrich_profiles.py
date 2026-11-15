@@ -32,7 +32,7 @@ def main():
   fields={x['label'].casefold():x['value'] for x in metadata['intro_fields']}
   d['profile_metadata']=metadata;d['origin']=fields.get('from');d['best_known_for']=fields.get('best known for');d['styles']=[fields['dj style']] if fields.get('dj style') else []
   # Compose an original summary only from explicit source facts; preserve raw movement.
-  r=d['rankings'][-1];d['description']=description(d)
+  r=d['rankings'][-1];d['description']=None # Biography text is not a generated ranking summary.
   if metadata['image_url']:d['image']['url']=metadata['image_url']
   r['previous_rank']=None # Source movement is retained verbatim, not inferred history.
   d['sources'].append(dict(url=url,publisher='DJ Mag',retrieved_at=now,fields=['/profile_metadata','/origin','/best_known_for','/styles','/description','/image','/rankings']))

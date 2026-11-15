@@ -5,11 +5,13 @@
   "entity_type": "unknown",
   "description": null,
   "nationalities": [],
-  "styles": [],
+  "styles": [
+    "House."
+  ],
   "birth_date": null,
   "gender": null,
   "image": {
-    "url": "https://djmag.com/sites/default/files/styles/djm_23_323x182/public/top-100-d/abx-g/6/t10026_Claptone.jpg.webp?itok=lpq0gTd4",
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_Claptone.jpg.webp?itok=kvsM2HcM",
     "source_url": "https://djmag.com/top100djs/2026/43/claptone",
     "credit": null,
     "license": null,
@@ -33,7 +35,49 @@
         "/rankings",
         "/image"
       ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/43/claptone",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-15T18:23:38.691752+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
+        "/image",
+        "/rankings"
+      ]
     }
   ],
-  "updated_at": "2026-11-15T04:08:56Z"
+  "updated_at": "2026-11-15T18:23:38.691752+00:00",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "Germany"
+      },
+      {
+        "label": "DJ style",
+        "value": "House."
+      },
+      {
+        "label": "Best known for",
+        "value": "‘Cream’, ‘No Eyes (feat. Jaw)’, ‘In The Night’."
+      }
+    ],
+    "movement_places": 13,
+    "movement": "Down",
+    "article": {
+      "headline": "Claptone | #43 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/43/claptone"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_Claptone.jpg.webp?itok=kvsM2HcM"
+  },
+  "origin": "Germany",
+  "best_known_for": "‘Cream’, ‘No Eyes (feat. Jaw)’, ‘In The Night’."
 }
