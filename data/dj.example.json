@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0.0",
+  "id": "example-dj",
+  "name": "Example DJ (fictional)",
+  "entity_type": "unknown",
+  "description": null,
+  "nationalities": [],
+  "styles": [],
+  "birth_date": null,
+  "gender": null,
+  "image": null,
+  "rankings": [],
+  "sources": [],
+  "updated_at": "2026-11-15T04:00:00Z"
+}

@@ -1,0 +1,350 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "schema_version": {
+      "const": "1.0.0"
+    },
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "entity_type": {
+      "enum": [
+        "person",
+        "duo",
+        "group",
+        "unknown"
+      ]
+    },
+    "description": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Original concise factual summary, not copied editorial prose. Null if unavailable."
+    },
+    "nationalities": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "uniqueItems": true
+    },
+    "styles": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "uniqueItems": true
+    },
+    "birth_date": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date",
+      "description": "Only verified full DOB for a person. Never infer from age or image."
+    },
+    "gender": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Explicitly sourced public identification only. Null if unknown or not applicable; never inferred."
+    },
+    "image": {
+      "anyOf": [
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "url": {
+              "type": "string",
+              "format": "uri",
+              "pattern": "^https?://"
+            },
+            "source_url": {
+              "type": "string",
+              "format": "uri",
+              "pattern": "^https?://"
+            },
+            "credit": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "license": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "license_url": {
+              "anyOf": [
+                {
+                  "type": "string",
+                  "format": "uri",
+                  "pattern": "^https?://"
+                },
+                {
+                  "type": "null"
+                }
+              ]
+            }
+          },
+          "required": [
+            "url",
+            "source_url",
+            "credit",
+            "license",
+            "license_url"
+          ]
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "rankings": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "year": {
+            "type": "integer",
+            "minimum": 1991
+          },
+          "rank": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "previous_rank": {
+            "type": [
+              "integer",
+              "null"
+            ],
+            "minimum": 1
+          },
+          "source_url": {
+            "type": "string",
+            "format": "uri",
+            "pattern": "^https?://"
+          }
+        },
+        "required": [
+          "year",
+          "rank",
+          "previous_rank",
+          "source_url"
+        ]
+      },
+      "uniqueItems": true
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "url": {
+            "type": "string",
+            "format": "uri",
+            "pattern": "^https?://"
+          },
+          "publisher": {
+            "type": "string",
+            "minLength": 1
+          },
+          "retrieved_at": {
+            "type": "string",
+            "format": "date-time",
+            "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(?:\\.\\d+)?(?:Z|[+-]\\d{2}:\\d{2})$"
+          },
+          "fields": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "pattern": "^/"
+            },
+            "uniqueItems": true
+          }
+        },
+        "required": [
+          "url",
+          "publisher",
+          "retrieved_at",
+          "fields"
+        ]
+      },
+      "uniqueItems": true
+    },
+    "updated_at": {
+      "type": "string",
+      "format": "date-time",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(?:\\.\\d+)?(?:Z|[+-]\\d{2}:\\d{2})$"
+    },
+    "origin": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Verbatim source From label; geographic origin is not automatically citizenship/nationality."
+    },
+    "best_known_for": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Explicit source-labelled short fact."
+    },
+    "profile_metadata": {
+      "type": [
+        "object",
+        "null"
+      ],
+      "additionalProperties": false,
+      "required": [
+        "intro_fields",
+        "movement",
+        "article",
+        "image_url",
+        "movement_places"
+      ],
+      "properties": {
+        "intro_fields": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "label",
+              "value"
+            ],
+            "properties": {
+              "label": {
+                "type": "string"
+              },
+              "value": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        "movement": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "article": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "headline",
+            "published_at",
+            "modified_at",
+            "author_name",
+            "url"
+          ],
+          "properties": {
+            "headline": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "published_at": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "modified_at": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "author_name": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "url": {
+              "type": [
+                "string",
+                "null"
+              ]
+            }
+          }
+        },
+        "image_url": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "movement_places": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "minimum": 0
+        }
+      }
+    }
+  },
+  "required": [
+    "schema_version",
+    "id",
+    "name",
+    "entity_type",
+    "description",
+    "nationalities",
+    "styles",
+    "birth_date",
+    "gender",
+    "image",
+    "rankings",
+    "sources",
+    "updated_at"
+  ],
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "DJ profile",
+  "description": "One source-backed artist profile per data/djs/<id>.json. Missing arrays mean no verified values, not a negative assertion. Age is calculated from birth_date at display time; do not persist a stale age.",
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "entity_type": {
+            "enum": [
+              "duo",
+              "group",
+              "unknown"
+            ]
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "birth_date": {
+            "type": "null"
+          },
+          "gender": {
+            "type": "null"
+          }
+        }
+      }
+    }
+  ]
+}

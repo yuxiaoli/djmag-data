@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0.0",
+  "id": "nico-moreno",
+  "name": "Nico Moreno",
+  "entity_type": "unknown",
+  "description": null,
+  "nationalities": [],
+  "styles": [],
+  "birth_date": null,
+  "gender": null,
+  "image": {
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_323x182/public/top-100-d/abx-g/6/t10026_NicoMoreno.jpg.webp?itok=CS5M-J5Q",
+    "source_url": "https://djmag.com/top100djs/2026/82/nico-moreno",
+    "credit": null,
+    "license": null,
+    "license_url": null
+  },
+  "rankings": [
+    {
+      "year": 2026,
+      "rank": 82,
+      "previous_rank": null,
+      "source_url": "https://djmag.com/top100djs/2026/82/nico-moreno"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://djmag.com/top100djs/2026/82/nico-moreno",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-15T04:08:56Z",
+      "fields": [
+        "/name",
+        "/rankings",
+        "/image"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-15T04:08:56Z"
+}

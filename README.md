@@ -1,1 +1,39 @@
-# djmag-data
+# DJ metadata catalog
+
+Public source-attributed DJ metadata and static artist pages. One JSON per `data/djs/<id>.json`, described by `data/dj.schema.json`.
+
+## Scope
+
+Collect the latest DJ Mag ranking edition only. Historical year links are excluded, not followed. Include ranks beyond 100 only if the current edition actually provides them; do not manufacture additional artists to meet a numerical target. The observed 2026 page supplies 100 artists. Prior-year links alone are not a reason to expand collection.
+
+Refresh annually, not weekly. Prepared Actions schedule: November 15 at 04:17 Asia/Hong_Kong. Collection remains gated by `SOURCE_COLLECTION_ENABLED` (not enabled) until the existing access denial is resolved. Publishing the workflow alone is not activation. Manual execution remains available for initial collection and repairs. The annual workflow collects current profiles with a 1,000-profile safety budget and 350-minute maximum; any incomplete coverage must be reported, not hidden.
+
+## Data
+
+Rank and edition year remain separate from fetch/publication dates. Preserve verified ranking history already collected, without proactively crawling historical editions. Origin is distinct from nationality/citizenship. Explicit profile labels, style, best-known-for, movement/place delta, article metadata and image source links are retained with provenance. Publisher social accounts are never mistaken for artist accounts. Missing birth date, gender or nationality stays unknown; no inference from names/images. Long editorial biography is linked rather than copied wholesale. Age should be calculated from verified birth date at display time.
+
+## Commands
+
+```
+python -m pip install -r requirements.txt
+python -m unittest discover -s tests -v
+python scripts/sync.py
+python scripts/enrich_profiles.py --max-profiles 1000
+python scripts/build_site.py
+```
+
+Requests honor robots and a minimum 10-second delay, fail on unexpected hosts/structure, and never bypass access controls. Profile writes checkpoint atomically; collection failure does not publish a partial workflow result.
+
+## Current checkpoint
+
+100 current-year ranking records and 100 image source links; two profiles enriched. Catalog and 100 detail pages build locally. The sole collector stopped when the execution tool blocked network access to djmag.com:443. No network retry or alternate route has been attempted. Further collection, source publication, schedule activation and Pages verification remain incomplete.
+
+## Follow-on integration
+
+Half Saints / Vegas Party Menu daily DJ listings should link stable `/djs/<id>.html` pages and show annual rank with its year, not a fabricated daily ranking. Join through stable IDs and explicitly reviewed aliases. Preserve original event descriptions, arrival times, schedules and fallback text. Ambiguous or unnamed performers remain unmatched; genre strings and event titles are not artists.
+
+## Attribution
+
+DJ Mag: https://djmag.com/top100djs . Independent project, not affiliated with DJ Mag. Source text and images retain their owners' rights. Images are linked, not copied into the repository. Wikidata CC0 structured facts may later enrich missing fields with provenance; image licensing is separate.
+
+Pages workflow is manual-only while Pages settings remain unresolved. No deployment or collection is triggered by this source publication.

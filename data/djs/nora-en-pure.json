@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0.0",
+  "id": "nora-en-pure",
+  "name": "Nora En Pure",
+  "entity_type": "unknown",
+  "description": null,
+  "nationalities": [],
+  "styles": [],
+  "birth_date": null,
+  "gender": null,
+  "image": {
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_323x182/public/top-100-d/abx-g/6/t10026_NoraEnPure.jpg.webp?itok=iqJTGs1f",
+    "source_url": "https://djmag.com/top100djs/2026/73/nora-en-pure",
+    "credit": null,
+    "license": null,
+    "license_url": null
+  },
+  "rankings": [
+    {
+      "year": 2026,
+      "rank": 73,
+      "previous_rank": null,
+      "source_url": "https://djmag.com/top100djs/2026/73/nora-en-pure"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://djmag.com/top100djs/2026/73/nora-en-pure",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-15T04:08:56Z",
+      "fields": [
+        "/name",
+        "/rankings",
+        "/image"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-15T04:08:56Z"
+}
