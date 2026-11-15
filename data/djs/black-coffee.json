@@ -5,11 +5,13 @@
   "entity_type": "unknown",
   "description": null,
   "nationalities": [],
-  "styles": [],
+  "styles": [
+    "Afro-house, deep house."
+  ],
   "birth_date": null,
   "gender": null,
   "image": {
-    "url": "https://djmag.com/sites/default/files/styles/djm_23_323x182/public/top-100-d/abx-g/6/t10026_BlackCoffee.jpg.webp?itok=cqtA2xVc",
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_BlackCoffee.jpg.webp?itok=i1h49E6W",
     "source_url": "https://djmag.com/top100djs/2026/14/black-coffee",
     "credit": null,
     "license": null,
@@ -33,7 +35,49 @@
         "/rankings",
         "/image"
       ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/14/black-coffee",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-15T18:23:09.999749+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
+        "/image",
+        "/rankings"
+      ]
     }
   ],
-  "updated_at": "2026-11-15T04:08:56Z"
+  "updated_at": "2026-11-15T18:23:09.999749+00:00",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "South Africa"
+      },
+      {
+        "label": "DJ style",
+        "value": "Afro-house, deep house."
+      },
+      {
+        "label": "Best known for",
+        "value": "Popularising Afro-house globally."
+      }
+    ],
+    "movement_places": 3,
+    "movement": "Up",
+    "article": {
+      "headline": "Black Coffee | #14 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/14/black-coffee"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_BlackCoffee.jpg.webp?itok=i1h49E6W"
+  },
+  "origin": "South Africa",
+  "best_known_for": "Popularising Afro-house globally."
 }

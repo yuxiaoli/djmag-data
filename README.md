@@ -26,9 +26,9 @@ Requests honor robots and a minimum 10-second delay, fail on unexpected hosts/st
 
 ## Current checkpoint
 
-100 current-year ranking records and image source links; 19 profiles enriched with source labels, exact movement and concise factual descriptions. The remaining 81 are not represented as complete. The original reviewed HTTP collector resumed successfully after the earlier policy denial, then checkpointed 19 profiles; its final process receipt is unavailable. Black Coffee had a recorded transport timeout. No alternate route or automatic retry is used. Annual collection remains disabled pending complete validated operation.
+100 current-year ranking records and image source links; 24 profiles enriched with source labels and exact movement. The remaining 76 are not represented as complete. The original reviewed HTTP collector resumed successfully after the earlier policy denial, then checkpointed 24 profiles before the execution service returned a further djmag.com network-policy denial. Black Coffee was subsequently collected successfully. No alternate route or automatic retry is used. Annual collection remains disabled pending complete validated operation.
 
-The catalog is live at https://yuxiaoli.github.io/djmag-data/ . Stable discovery index: `data/index.json`; each entry links its JSON record and detail page. Missing profile fields remain explicitly unknown. Movement text and source place value are retained without inferring previous ranks.
+The catalog is live at https://yuxiaoli.github.io/djmag-data/ . Stable discovery index: `data/index.json`; each entry links its JSON record and detail page. Generated ranking summaries have been removed from the biography field. Full editorial biographies are linked at the source, not represented as collected text. Unknown birth date/gender render empty; From and DJ style appear once. Missing profile fields remain explicitly unknown. Movement text and source place value are retained without inferring previous ranks.
 
 ## Follow-on integration
 

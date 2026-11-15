@@ -5,11 +5,13 @@
   "entity_type": "unknown",
   "description": null,
   "nationalities": [],
-  "styles": [],
+  "styles": [
+    "All forms of dance music."
+  ],
   "birth_date": null,
   "gender": null,
   "image": {
-    "url": "https://djmag.com/sites/default/files/styles/djm_23_961x540/public/top-100-d/abx-g/6/t10026_DavidGuetta.jpg.webp?itok=HBTnUET7",
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_DavidGuetta.jpg.webp?itok=oGs4Jnq8",
     "source_url": "https://djmag.com/top100djs/2026/1/david-guetta",
     "credit": null,
     "license": null,
@@ -33,7 +35,49 @@
         "/rankings",
         "/image"
       ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/1/david-guetta",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-15T18:24:47.919697+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
+        "/image",
+        "/rankings"
+      ]
     }
   ],
-  "updated_at": "2026-11-15T04:08:56Z"
+  "updated_at": "2026-11-15T18:24:47.919697+00:00",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "France"
+      },
+      {
+        "label": "DJ style",
+        "value": "All forms of dance music."
+      },
+      {
+        "label": "Best known for",
+        "value": "Huge hits, constant touring, Ibiza residencies and much more."
+      }
+    ],
+    "movement_places": null,
+    "movement": "Non-mover",
+    "article": {
+      "headline": "David Guetta | #1 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/1/david-guetta"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_DavidGuetta.jpg.webp?itok=oGs4Jnq8"
+  },
+  "origin": "France",
+  "best_known_for": "Huge hits, constant touring, Ibiza residencies and much more."
 }
