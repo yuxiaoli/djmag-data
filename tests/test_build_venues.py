@@ -5,7 +5,7 @@ from build_venues import build
 class BuildTest(unittest.TestCase):
  def test_isolation_escaping(self):
   with tempfile.TemporaryDirectory() as temp:
-   p=Path(temp);(p/'data/venues').mkdir(parents=True);(p/'site').mkdir();(p/'site/index.html').write_text('DJ unchanged')
+   p=Path(temp);(p/'assets').mkdir();(p/'assets/venues.css').write_text('body{}');(p/'data/venues').mkdir(parents=True);(p/'site').mkdir();(p/'site/index.html').write_text('DJ unchanged')
    d={'id':'test','name':'<unsafe>','listing_category':'nightclub','description':None,'facts':{},'links':[],'source':{'url':'https://nocovernightclubs.com/test','observed_at':'2026-11-15'}}
    (p/'data/venues/test.json').write_text(json.dumps(d));self.assertEqual(build(p),1)
    self.assertEqual((p/'site/index.html').read_text(),'DJ unchanged');self.assertIn('&lt;unsafe&gt;',(p/'site/venues/test.html').read_text())
