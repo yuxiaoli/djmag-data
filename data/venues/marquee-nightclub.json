@@ -1,0 +1,117 @@
+{
+  "id": "marquee-nightclub",
+  "name": "Marquee Nightclub",
+  "listing_category": "nightclub",
+  "facts": {
+    "location": "Cosmopolitan Hotel",
+    "nights": "Monday, Wednesday, Friday, Saturday",
+    "music": "Open Format, EDM, Top 40",
+    "size": "60,000 sq-ft",
+    "hours": "from 10:30pm until 4am"
+  },
+  "description": "Marquee Nightclub at Cosmopolitan Hotel. Listed music: Open Format, EDM, Top 40.",
+  "sections": [
+    {
+      "heading": "About Marquee Las Vegas | The Complete Guide",
+      "source_url": "https://nocovernightclubs.com/nightclubs/marquee-nightclub/"
+    },
+    {
+      "heading": "Where Is Marquee Las Vegas Located?",
+      "source_url": "https://nocovernightclubs.com/nightclubs/marquee-nightclub/"
+    },
+    {
+      "heading": "How To Get To Marquee",
+      "source_url": "https://nocovernightclubs.com/nightclubs/marquee-nightclub/"
+    },
+    {
+      "heading": "Marquee Nightclub Virtual Tour",
+      "source_url": "https://nocovernightclubs.com/nightclubs/marquee-nightclub/"
+    },
+    {
+      "heading": "How Much Does It Cost To Get In?",
+      "source_url": "https://nocovernightclubs.com/nightclubs/marquee-nightclub/"
+    },
+    {
+      "heading": "When Is Marquee Nightclub Open?",
+      "source_url": "https://nocovernightclubs.com/nightclubs/marquee-nightclub/"
+    },
+    {
+      "heading": "What Music Is Played At Marquee?",
+      "source_url": "https://nocovernightclubs.com/nightclubs/marquee-nightclub/"
+    },
+    {
+      "heading": "What To Wear To Club Marquee?",
+      "source_url": "https://nocovernightclubs.com/nightclubs/marquee-nightclub/"
+    }
+  ],
+  "field_provenance": {
+    "location": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/marquee-nightclub/",
+      "retrieved_at": "2026-11-15T18:23:12.493103+00:00"
+    },
+    "nights": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/marquee-nightclub/",
+      "retrieved_at": "2026-11-15T18:23:12.493103+00:00"
+    },
+    "music": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/marquee-nightclub/",
+      "retrieved_at": "2026-11-15T18:23:12.493103+00:00"
+    },
+    "size": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/marquee-nightclub/",
+      "retrieved_at": "2026-11-15T18:23:12.493103+00:00"
+    },
+    "hours": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/marquee-nightclub/",
+      "retrieved_at": "2026-11-15T18:23:12.493103+00:00"
+    }
+  },
+  "links": [
+    {
+      "kind": "video",
+      "url": "https://www.youtube.com/embed/7z8WygsEgv0"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/nightclubs/marquee-nightclub-guest-list/#guestlist"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/nightclubs/marquee-nightclub-table-service-reservations/"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/marquee-nightclub-las-vegas-event-calendar/"
+    },
+    {
+      "kind": "image",
+      "url": "https://nocovernightclubs.com/wp-content/uploads/2025/10/Marquee-Nightclub-2025-L.jpg"
+    },
+    {
+      "kind": "source",
+      "url": "http://nocovernightclubs.com/nightclubs/marquee-nightclub-table-service-reservations/"
+    },
+    {
+      "kind": "virtual_tour",
+      "url": "https://taogroup.com/venues/marquee-las-vegas-2/360-tour/"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/nightclubs/marquee-nightclub-guest-list/"
+    }
+  ],
+  "source": {
+    "url": "https://nocovernightclubs.com/nightclubs/marquee-nightclub/",
+    "observed_at": "2026-11-15T18:23:12.493103+00:00",
+    "listing_url": "https://nocovernightclubs.com/nightclubs/"
+  },
+  "quality": {
+    "profile_parsed": true,
+    "description_kind": "fact_summary"
+  },
+  "directory_facts": {
+    "location": "Cosmopolitan Hotel",
+    "days": "Mon, Wed, Fri, Sat",
+    "music": "Open Format, EDM, Top 40"
+  }
+}

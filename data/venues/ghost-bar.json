@@ -1,0 +1,110 @@
+{
+  "id": "ghost-bar",
+  "name": "Ghostbar Las Vegas",
+  "listing_category": "nightclub",
+  "facts": {
+    "location": "Palms Hotel",
+    "nights": "Wednesday, Thursday, Friday, Saturday",
+    "music": "Top 40, Open Format",
+    "size": "8,000 sq-ft",
+    "address": "4321 W Flamingo Rd, Las Vegas, NV 89103",
+    "hours": "from 10:30pm until 4am"
+  },
+  "description": "Ghostbar Las Vegas at Palms Hotel. Listed music: Top 40, Open Format.",
+  "sections": [
+    {
+      "heading": "About Ghostbar Nightclub | The Complete Guide",
+      "source_url": "https://nocovernightclubs.com/nightclubs/ghost-bar"
+    },
+    {
+      "heading": "Where Is Ghostbar Las Vegas Located?",
+      "source_url": "https://nocovernightclubs.com/nightclubs/ghost-bar"
+    },
+    {
+      "heading": "How To Get To Ghostbar?",
+      "source_url": "https://nocovernightclubs.com/nightclubs/ghost-bar"
+    },
+    {
+      "heading": "How Much Does It Cost To Get In?",
+      "source_url": "https://nocovernightclubs.com/nightclubs/ghost-bar"
+    },
+    {
+      "heading": "When Is Ghostbar Open?",
+      "source_url": "https://nocovernightclubs.com/nightclubs/ghost-bar"
+    },
+    {
+      "heading": "What Music Is Played At Ghostbar?",
+      "source_url": "https://nocovernightclubs.com/nightclubs/ghost-bar"
+    },
+    {
+      "heading": "What To Wear To Ghostbar?",
+      "source_url": "https://nocovernightclubs.com/nightclubs/ghost-bar"
+    }
+  ],
+  "field_provenance": {
+    "location": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/ghost-bar",
+      "retrieved_at": "2026-11-15T18:23:49.337362+00:00"
+    },
+    "nights": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/ghost-bar",
+      "retrieved_at": "2026-11-15T18:23:49.337362+00:00"
+    },
+    "music": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/ghost-bar",
+      "retrieved_at": "2026-11-15T18:23:49.337362+00:00"
+    },
+    "size": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/ghost-bar",
+      "retrieved_at": "2026-11-15T18:23:49.337362+00:00"
+    },
+    "address": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/ghost-bar",
+      "retrieved_at": "2026-11-15T18:23:49.337362+00:00"
+    },
+    "hours": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/ghost-bar",
+      "retrieved_at": "2026-11-15T18:23:49.337362+00:00"
+    }
+  },
+  "links": [
+    {
+      "kind": "image",
+      "url": "https://nocovernightclubs.com/wp-content/uploads/2022/12/Ghostbar-Nightclub-L.jpg"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/nightclubs/ghostbar-nightclub-guest-list/#guestlist"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/nightclubs/ghostbar-nightclub-table-service-reservations/"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/ghostbar-nightclub-event-calendar/"
+    },
+    {
+      "kind": "image",
+      "url": "https://nocovernightclubs.com/wp-content/uploads/2022/12/Ghostbar-Nightclub-Guest-List-L.jpg"
+    },
+    {
+      "kind": "source",
+      "url": "http://nocovernightclubs.com/nightclubs/ghostbar-nightclub-table-service-reservations/"
+    }
+  ],
+  "source": {
+    "url": "https://nocovernightclubs.com/nightclubs/ghost-bar",
+    "observed_at": "2026-11-15T18:23:49.337362+00:00",
+    "listing_url": "https://nocovernightclubs.com/nightclubs/"
+  },
+  "quality": {
+    "profile_parsed": true,
+    "description_kind": "fact_summary"
+  },
+  "directory_facts": {
+    "location": "Palms Hotel",
+    "days": "Wed, Thu, Fri, Sat",
+    "music": "Top 40, Open Format"
+  }
+}

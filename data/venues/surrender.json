@@ -1,0 +1,114 @@
+{
+  "id": "surrender",
+  "name": "EBC At Night",
+  "listing_category": "nightclub",
+  "facts": {
+    "location": "Encore Hotel",
+    "nights": "Wednesday & Saturday",
+    "music": "EDM, Top 40, Open Format",
+    "size": "60,000 sq-ft",
+    "address": "3131 S Las Vegas Blvd, Las Vegas, NV 89109",
+    "hours": "from 10:30pm until 4am"
+  },
+  "description": "EBC At Night at Encore Hotel. Listed music: EDM, Top 40, Open Format.",
+  "sections": [
+    {
+      "heading": "About EBC At Night | The Complete Guide",
+      "source_url": "https://nocovernightclubs.com/nightclubs/surrender/"
+    },
+    {
+      "heading": "Where Is EBC At Night In Las Vegas Located?",
+      "source_url": "https://nocovernightclubs.com/nightclubs/surrender/"
+    },
+    {
+      "heading": "How To Get To EBC",
+      "source_url": "https://nocovernightclubs.com/nightclubs/surrender/"
+    },
+    {
+      "heading": "EBC At Night Virtual Tour",
+      "source_url": "https://nocovernightclubs.com/nightclubs/surrender/"
+    },
+    {
+      "heading": "How Much Does It Cost To Get In?",
+      "source_url": "https://nocovernightclubs.com/nightclubs/surrender/"
+    },
+    {
+      "heading": "When Is Encore Beach At Night Open?",
+      "source_url": "https://nocovernightclubs.com/nightclubs/surrender/"
+    },
+    {
+      "heading": "What Music Is Played?",
+      "source_url": "https://nocovernightclubs.com/nightclubs/surrender/"
+    },
+    {
+      "heading": "What To Wear To EBC At Night?",
+      "source_url": "https://nocovernightclubs.com/nightclubs/surrender/"
+    }
+  ],
+  "field_provenance": {
+    "location": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/surrender/",
+      "retrieved_at": "2026-11-15T18:26:10.729985+00:00"
+    },
+    "nights": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/surrender/",
+      "retrieved_at": "2026-11-15T18:26:10.729985+00:00"
+    },
+    "music": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/surrender/",
+      "retrieved_at": "2026-11-15T18:26:10.729985+00:00"
+    },
+    "size": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/surrender/",
+      "retrieved_at": "2026-11-15T18:26:10.729985+00:00"
+    },
+    "address": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/surrender/",
+      "retrieved_at": "2026-11-15T18:26:10.729985+00:00"
+    },
+    "hours": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/surrender/",
+      "retrieved_at": "2026-11-15T18:26:10.729985+00:00"
+    }
+  },
+  "links": [
+    {
+      "kind": "image",
+      "url": "https://nocovernightclubs.com/wp-content/uploads/2022/01/EBC-at-Night-L.jpg"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/nightclubs/surrender-nightclub-guest-list/#guestlist"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/nightclubs/surrender-nightclub-table-service-reservations/"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/encore-beach-club-event-calendar/"
+    },
+    {
+      "kind": "source",
+      "url": "http://nocovernightclubs.com/nightclubs/surrender-nightclub-table-service-reservations/"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/nightclubs/surrender-nightclub-guest-list/"
+    }
+  ],
+  "source": {
+    "url": "https://nocovernightclubs.com/nightclubs/surrender/",
+    "observed_at": "2026-11-15T18:26:10.729985+00:00",
+    "listing_url": "https://nocovernightclubs.com/nightclubs/"
+  },
+  "quality": {
+    "profile_parsed": true,
+    "description_kind": "fact_summary"
+  },
+  "directory_facts": {
+    "location": "Encore Hotel",
+    "days": "Wed, Fri, Sat",
+    "music": "EDM, Top 40, Open Format"
+  }
+}

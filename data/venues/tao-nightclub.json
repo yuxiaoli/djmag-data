@@ -1,0 +1,122 @@
+{
+  "id": "tao-nightclub",
+  "name": "TAO Nightclub",
+  "listing_category": "nightclub",
+  "facts": {
+    "location": "Venetian Hotel",
+    "nights": "Thursday, Friday, Saturday",
+    "music": "Hip Hop, Top 40, Open Format",
+    "size": "10,000 sq-ft",
+    "address": "3377 S Las Vegas Blvd, Las Vegas, NV 89109",
+    "hours": "from 10:30pm until 4am"
+  },
+  "description": "TAO Nightclub at Venetian Hotel. Listed music: Hip Hop, Top 40, Open Format.",
+  "sections": [
+    {
+      "heading": "About TAO Nightclub | The Complete Guide",
+      "source_url": "https://nocovernightclubs.com/nightclubs/tao-nightclub/"
+    },
+    {
+      "heading": "Where Is TAO Las Vegas Located?",
+      "source_url": "https://nocovernightclubs.com/nightclubs/tao-nightclub/"
+    },
+    {
+      "heading": "How To Get To TAO?",
+      "source_url": "https://nocovernightclubs.com/nightclubs/tao-nightclub/"
+    },
+    {
+      "heading": "TAO Nightclub Virtual Tour",
+      "source_url": "https://nocovernightclubs.com/nightclubs/tao-nightclub/"
+    },
+    {
+      "heading": "How Much Does It Cost To Get In?",
+      "source_url": "https://nocovernightclubs.com/nightclubs/tao-nightclub/"
+    },
+    {
+      "heading": "When Is TAO Open?",
+      "source_url": "https://nocovernightclubs.com/nightclubs/tao-nightclub/"
+    },
+    {
+      "heading": "What Music Is Played At TAO?",
+      "source_url": "https://nocovernightclubs.com/nightclubs/tao-nightclub/"
+    },
+    {
+      "heading": "What To Wear To TAO?",
+      "source_url": "https://nocovernightclubs.com/nightclubs/tao-nightclub/"
+    }
+  ],
+  "field_provenance": {
+    "location": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/tao-nightclub/",
+      "retrieved_at": "2026-11-15T18:24:25.397953+00:00"
+    },
+    "nights": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/tao-nightclub/",
+      "retrieved_at": "2026-11-15T18:24:25.397953+00:00"
+    },
+    "music": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/tao-nightclub/",
+      "retrieved_at": "2026-11-15T18:24:25.397953+00:00"
+    },
+    "size": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/tao-nightclub/",
+      "retrieved_at": "2026-11-15T18:24:25.397953+00:00"
+    },
+    "address": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/tao-nightclub/",
+      "retrieved_at": "2026-11-15T18:24:25.397953+00:00"
+    },
+    "hours": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/tao-nightclub/",
+      "retrieved_at": "2026-11-15T18:24:25.397953+00:00"
+    }
+  },
+  "links": [
+    {
+      "kind": "video",
+      "url": "https://www.youtube.com/embed/ioJedbG2ME4"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/nightclubs/tao-nightclub-guest-list/#guestlist"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/nightclubs/tao-nightclub-table-service-reservations/"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/tao-nightclub-las-vegas-event-calendar/"
+    },
+    {
+      "kind": "image",
+      "url": "https://nocovernightclubs.com/wp-content/uploads/2022/01/Tao-Nightclub-L.jpg"
+    },
+    {
+      "kind": "source",
+      "url": "http://nocovernightclubs.com/nightclubs/tao-nightclub-table-service-reservations/"
+    },
+    {
+      "kind": "virtual_tour",
+      "url": "https://taogroup.com/venues/tao-asian-bistro-las-vegas/360-tour/"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/nightclubs/tao-nightclub-guest-list/"
+    }
+  ],
+  "source": {
+    "url": "https://nocovernightclubs.com/nightclubs/tao-nightclub/",
+    "observed_at": "2026-11-15T18:24:25.397953+00:00",
+    "listing_url": "https://nocovernightclubs.com/nightclubs/"
+  },
+  "quality": {
+    "profile_parsed": true,
+    "description_kind": "fact_summary"
+  },
+  "directory_facts": {
+    "location": "Venetian Hotel",
+    "days": "Thu, Fri, Sat, Sun",
+    "music": "Hip Hop, Top 40, Open Format"
+  }
+}

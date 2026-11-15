@@ -1,0 +1,122 @@
+{
+  "id": "jewel-nightclub",
+  "name": "Jewel Nightclub",
+  "listing_category": "nightclub",
+  "facts": {
+    "location": "Aria Hotel",
+    "nights": "Friday & Saturday",
+    "music": "Hip Hop, Top 40, Open Format",
+    "size": "24,000 sq-ft",
+    "address": "3730 S Las Vegas Blvd, Las Vegas, NV 89158",
+    "hours": "from 10:30pm until 4am"
+  },
+  "description": "Jewel Nightclub at Aria Hotel. Listed music: Hip Hop, Top 40, Open Format.",
+  "sections": [
+    {
+      "heading": "About Jewel Nightclub | The Complete Guide",
+      "source_url": "https://nocovernightclubs.com/nightclubs/jewel-nightclub/"
+    },
+    {
+      "heading": "Where Is Jewel Las Vegas Located?",
+      "source_url": "https://nocovernightclubs.com/nightclubs/jewel-nightclub/"
+    },
+    {
+      "heading": "How To Get To Jewel",
+      "source_url": "https://nocovernightclubs.com/nightclubs/jewel-nightclub/"
+    },
+    {
+      "heading": "Jewel Nightclub Virtual Tour",
+      "source_url": "https://nocovernightclubs.com/nightclubs/jewel-nightclub/"
+    },
+    {
+      "heading": "How Much Does It Cost To Get In?",
+      "source_url": "https://nocovernightclubs.com/nightclubs/jewel-nightclub/"
+    },
+    {
+      "heading": "When Is Jewel Open?",
+      "source_url": "https://nocovernightclubs.com/nightclubs/jewel-nightclub/"
+    },
+    {
+      "heading": "What Music Is Played At Jewel?",
+      "source_url": "https://nocovernightclubs.com/nightclubs/jewel-nightclub/"
+    },
+    {
+      "heading": "What To Wear To Jewel?",
+      "source_url": "https://nocovernightclubs.com/nightclubs/jewel-nightclub/"
+    }
+  ],
+  "field_provenance": {
+    "location": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/jewel-nightclub/",
+      "retrieved_at": "2026-11-15T18:25:08.512659+00:00"
+    },
+    "nights": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/jewel-nightclub/",
+      "retrieved_at": "2026-11-15T18:25:08.512659+00:00"
+    },
+    "music": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/jewel-nightclub/",
+      "retrieved_at": "2026-11-15T18:25:08.512659+00:00"
+    },
+    "size": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/jewel-nightclub/",
+      "retrieved_at": "2026-11-15T18:25:08.512659+00:00"
+    },
+    "address": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/jewel-nightclub/",
+      "retrieved_at": "2026-11-15T18:25:08.512659+00:00"
+    },
+    "hours": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/jewel-nightclub/",
+      "retrieved_at": "2026-11-15T18:25:08.512659+00:00"
+    }
+  },
+  "links": [
+    {
+      "kind": "video",
+      "url": "https://www.youtube.com/embed/zF5KGYKUC2c"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/nightclubs/jewel-nightclub-guest-list/#guestlist"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/nightclubs/jewel-nightclub-table-service-reservations/"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/jewel-nightclub-event-calendar/"
+    },
+    {
+      "kind": "image",
+      "url": "https://nocovernightclubs.com/wp-content/uploads/2022/01/Jewel-Nightclub-L.jpg"
+    },
+    {
+      "kind": "source",
+      "url": "http://nocovernightclubs.com/nightclubs/jewel-nightclub-table-service-reservations/"
+    },
+    {
+      "kind": "source",
+      "url": "http://assets.jewelnightclub.com/360/"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/nightclubs/jewel-nightclub-guest-list/"
+    }
+  ],
+  "source": {
+    "url": "https://nocovernightclubs.com/nightclubs/jewel-nightclub/",
+    "observed_at": "2026-11-15T18:25:08.512659+00:00",
+    "listing_url": "https://nocovernightclubs.com/nightclubs/"
+  },
+  "quality": {
+    "profile_parsed": true,
+    "description_kind": "fact_summary"
+  },
+  "directory_facts": {
+    "location": "Aria Hotel",
+    "days": "Fri, Sat",
+    "music": "Hip Hop, Top 40, Open Format"
+  }
+}

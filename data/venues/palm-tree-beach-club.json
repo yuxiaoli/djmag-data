@@ -1,0 +1,114 @@
+{
+  "id": "palm-tree-beach-club",
+  "name": "Palm Tree Beach Club",
+  "listing_category": "dayclub",
+  "facts": {
+    "location": "MGM Grand Hotel",
+    "days": "Wed, Thu, Fri, Sat, Sun",
+    "music": "EDM, Top 40, Open Format",
+    "size": "54,500 sq-ft",
+    "address": "3799 S Las Vegas Blvd Las Vegas, NV 89109",
+    "hours": "from 11am until 5pm"
+  },
+  "description": "Palm Tree Beach Club at MGM Grand Hotel. Listed music: EDM, Top 40, Open Format.",
+  "sections": [
+    {
+      "heading": "About Palm Tree Beach Club | The Complete Guide",
+      "source_url": "https://nocovernightclubs.com/pool-parties/palm-tree-beach-club/"
+    },
+    {
+      "heading": "Where Is Palm Tree Beach Club Las Vegas Located?",
+      "source_url": "https://nocovernightclubs.com/pool-parties/palm-tree-beach-club/"
+    },
+    {
+      "heading": "How To Get To Palm Tree Beach Club",
+      "source_url": "https://nocovernightclubs.com/pool-parties/palm-tree-beach-club/"
+    },
+    {
+      "heading": "How Much Does It Cost To Get In?",
+      "source_url": "https://nocovernightclubs.com/pool-parties/palm-tree-beach-club/"
+    },
+    {
+      "heading": "When Is Palm Tree Beach Club Open?",
+      "source_url": "https://nocovernightclubs.com/pool-parties/palm-tree-beach-club/"
+    },
+    {
+      "heading": "What Music Is Played At Palm Tree Beach Club?",
+      "source_url": "https://nocovernightclubs.com/pool-parties/palm-tree-beach-club/"
+    },
+    {
+      "heading": "What To Wear To Palm Tree Beach Club?",
+      "source_url": "https://nocovernightclubs.com/pool-parties/palm-tree-beach-club/"
+    }
+  ],
+  "field_provenance": {
+    "location": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/palm-tree-beach-club/",
+      "retrieved_at": "2026-11-15T18:29:21.930143+00:00"
+    },
+    "days": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/palm-tree-beach-club/",
+      "retrieved_at": "2026-11-15T18:29:21.930143+00:00"
+    },
+    "music": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/palm-tree-beach-club/",
+      "retrieved_at": "2026-11-15T18:29:21.930143+00:00"
+    },
+    "size": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/palm-tree-beach-club/",
+      "retrieved_at": "2026-11-15T18:29:21.930143+00:00"
+    },
+    "address": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/palm-tree-beach-club/",
+      "retrieved_at": "2026-11-15T18:29:21.930143+00:00"
+    },
+    "hours": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/palm-tree-beach-club/",
+      "retrieved_at": "2026-11-15T18:29:21.930143+00:00"
+    }
+  },
+  "links": [
+    {
+      "kind": "video",
+      "url": "https://www.youtube.com/embed/NrAeSy-EDKg"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/pool-parties/palm-tree-beach-club-guest-list/#guestlist"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/pool-parties/palm-tree-beach-club-table-service-reservations/"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/palm-tree-beach-club-event-calendar/"
+    },
+    {
+      "kind": "image",
+      "url": "https://nocovernightclubs.com/wp-content/uploads/2025/01/Palm-Tree-Beach-Club-Las-Vegas.jpg"
+    },
+    {
+      "kind": "source",
+      "url": "http://nocovernightclubs.com/nightclubs/palm-tree-beach-club-table-service-reservations/"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/pool-parties/palm-tree-beach-club-guest-list/"
+    }
+  ],
+  "source": {
+    "url": "https://nocovernightclubs.com/pool-parties/palm-tree-beach-club/",
+    "observed_at": "2026-11-15T18:29:21.930143+00:00",
+    "listing_url": "https://nocovernightclubs.com/pool-parties/"
+  },
+  "quality": {
+    "profile_parsed": true,
+    "description_kind": "fact_summary"
+  },
+  "directory_facts": {
+    "location": "MGM Grand Hotel",
+    "days": "Wed, Thu, Fri, Sat, Sun",
+    "music": "EDM, Top 40, Open Format"
+  }
+}

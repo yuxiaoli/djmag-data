@@ -1,0 +1,110 @@
+{
+  "id": "lavo-brunch",
+  "name": "Lavo Party Brunch",
+  "listing_category": "dayclub",
+  "facts": {
+    "location": "Palazzo Hotel",
+    "days": "Saturday",
+    "music": "Open Format & Top 40",
+    "size": "20,000 sq-ft",
+    "address": "3325 S Las Vegas Blvd, Las Vegas, NV 89109",
+    "hours": "from 1pm until 7pm"
+  },
+  "description": "Lavo Party Brunch at Palazzo Hotel. Listed music: Open Format & Top 40.",
+  "sections": [
+    {
+      "heading": "About Lavo Party Brunch | The Complete Guide",
+      "source_url": "https://nocovernightclubs.com/pool-parties/lavo-brunch/"
+    },
+    {
+      "heading": "Where Is Lavo Las Vegas Located?",
+      "source_url": "https://nocovernightclubs.com/pool-parties/lavo-brunch/"
+    },
+    {
+      "heading": "How To Get To Lavo Brunch",
+      "source_url": "https://nocovernightclubs.com/pool-parties/lavo-brunch/"
+    },
+    {
+      "heading": "How Much Does It Cost To Get In?",
+      "source_url": "https://nocovernightclubs.com/pool-parties/lavo-brunch/"
+    },
+    {
+      "heading": "When Is Lavo Party Brunch Open?",
+      "source_url": "https://nocovernightclubs.com/pool-parties/lavo-brunch/"
+    },
+    {
+      "heading": "What Music Is Played At Lavo?",
+      "source_url": "https://nocovernightclubs.com/pool-parties/lavo-brunch/"
+    },
+    {
+      "heading": "What To Wear To Lavo Brunch?",
+      "source_url": "https://nocovernightclubs.com/pool-parties/lavo-brunch/"
+    }
+  ],
+  "field_provenance": {
+    "location": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/lavo-brunch/",
+      "retrieved_at": "2026-11-15T18:27:44.337705+00:00"
+    },
+    "days": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/lavo-brunch/",
+      "retrieved_at": "2026-11-15T18:27:44.337705+00:00"
+    },
+    "music": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/lavo-brunch/",
+      "retrieved_at": "2026-11-15T18:27:44.337705+00:00"
+    },
+    "size": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/lavo-brunch/",
+      "retrieved_at": "2026-11-15T18:27:44.337705+00:00"
+    },
+    "address": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/lavo-brunch/",
+      "retrieved_at": "2026-11-15T18:27:44.337705+00:00"
+    },
+    "hours": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/lavo-brunch/",
+      "retrieved_at": "2026-11-15T18:27:44.337705+00:00"
+    }
+  },
+  "links": [
+    {
+      "kind": "video",
+      "url": "https://www.youtube.com/embed/AyvVgjzN5HA"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/pool-parties/lavo-party-brunch-guest-list/#guestlist"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/pool-parties/lavo-brunch-table-service/"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/lavo-brunch-las-vegas-event-calendar/"
+    },
+    {
+      "kind": "image",
+      "url": "https://nocovernightclubs.com/wp-content/uploads/2022/01/Lavo-Party-Brunch-L.jpg"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/pool-parties/lavo-party-brunch-guest-list/"
+    }
+  ],
+  "source": {
+    "url": "https://nocovernightclubs.com/pool-parties/lavo-brunch/",
+    "observed_at": "2026-11-15T18:27:44.337705+00:00",
+    "listing_url": "https://nocovernightclubs.com/pool-parties/"
+  },
+  "quality": {
+    "profile_parsed": true,
+    "description_kind": "fact_summary"
+  },
+  "directory_facts": {
+    "location": "Palazzo Hotel",
+    "days": "Sat",
+    "music": "Open Format & Top 40"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "id": "omnia-nightclub",
+  "name": "Omnia Nightclub",
+  "listing_category": "nightclub",
+  "facts": {
+    "location": "Caesars Palace Hotel",
+    "nights": "Tuesday, Friday, Saturday, Sunday",
+    "music": "EDM, Top 40, Open Format",
+    "size": "75,000 sq-ft",
+    "address": "3570 S Las Vegas Blvd, Las Vegas, NV 89109",
+    "hours": "from 10:30pm until 4am"
+  },
+  "description": "Omnia Nightclub at Caesars Palace Hotel. Listed music: EDM, Top 40, Open Format.",
+  "sections": [
+    {
+      "heading": "About Omnia Nightclub | The Complete Guide",
+      "source_url": "https://nocovernightclubs.com/nightclubs/omnia-nightclub/"
+    },
+    {
+      "heading": "Where Is Omnia Las Vegas Located?",
+      "source_url": "https://nocovernightclubs.com/nightclubs/omnia-nightclub/"
+    },
+    {
+      "heading": "How To Get To Omnia",
+      "source_url": "https://nocovernightclubs.com/nightclubs/omnia-nightclub/"
+    },
+    {
+      "heading": "Omnia Virtual Tour",
+      "source_url": "https://nocovernightclubs.com/nightclubs/omnia-nightclub/"
+    },
+    {
+      "heading": "How Much Does It Cost To Get In?",
+      "source_url": "https://nocovernightclubs.com/nightclubs/omnia-nightclub/"
+    },
+    {
+      "heading": "When Is Omnia Open?",
+      "source_url": "https://nocovernightclubs.com/nightclubs/omnia-nightclub/"
+    },
+    {
+      "heading": "What Music Is Played At Omnia?",
+      "source_url": "https://nocovernightclubs.com/nightclubs/omnia-nightclub/"
+    },
+    {
+      "heading": "What To Wear To Omnia?",
+      "source_url": "https://nocovernightclubs.com/nightclubs/omnia-nightclub/"
+    }
+  ],
+  "field_provenance": {
+    "location": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/omnia-nightclub/",
+      "retrieved_at": "2026-11-15T18:25:43.167832+00:00"
+    },
+    "nights": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/omnia-nightclub/",
+      "retrieved_at": "2026-11-15T18:25:43.167832+00:00"
+    },
+    "music": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/omnia-nightclub/",
+      "retrieved_at": "2026-11-15T18:25:43.167832+00:00"
+    },
+    "size": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/omnia-nightclub/",
+      "retrieved_at": "2026-11-15T18:25:43.167832+00:00"
+    },
+    "address": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/omnia-nightclub/",
+      "retrieved_at": "2026-11-15T18:25:43.167832+00:00"
+    },
+    "hours": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/omnia-nightclub/",
+      "retrieved_at": "2026-11-15T18:25:43.167832+00:00"
+    }
+  },
+  "links": [
+    {
+      "kind": "video",
+      "url": "https://www.youtube.com/embed/UAGuJJF2KDo"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/omnia-nightclub-guest-list/#guestlist"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/nightclubs/omnia-nightclub-table-service-reservations/"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/omnia-nightclub-las-vegas-event-calendar/"
+    },
+    {
+      "kind": "image",
+      "url": "https://nocovernightclubs.com/wp-content/uploads/2022/01/Omnia-Nightclub-L.jpg"
+    },
+    {
+      "kind": "source",
+      "url": "http://nocovernightclubs.com/nightclubs/omnia-nightclub-table-service-reservations/"
+    },
+    {
+      "kind": "virtual_tour",
+      "url": "https://invisionstudio.com/projects/omnia-nightclub-virtual-tour/"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/nightclubs/omnia-nightclub-guest-list/"
+    }
+  ],
+  "source": {
+    "url": "https://nocovernightclubs.com/nightclubs/omnia-nightclub/",
+    "observed_at": "2026-11-15T18:25:43.167832+00:00",
+    "listing_url": "https://nocovernightclubs.com/nightclubs/"
+  },
+  "quality": {
+    "profile_parsed": true,
+    "description_kind": "fact_summary",
+    "source_conflicts": [
+      "Directory includes Thursday; profile lists Tuesday, Friday, Saturday, Sunday. Neither is silently promoted to current verified hours.",
+      "Profile dress-code section names XS; excluded as possible source copy error."
+    ]
+  },
+  "directory_facts": {
+    "location": "Caesars Palace Hotel",
+    "days": "Tue, Thu, Fri, Sat, Sun",
+    "music": "EDM, Top 40, Open Format"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "liv-beach",
+  "name": "LIV Beach",
+  "listing_category": "dayclub",
+  "facts": {
+    "location": "Fontainebleau Hotel",
+    "days": "Friday, Saturday, Sunday",
+    "music": "EDM, Top 40, Open Format",
+    "size": "TBA sq-ft",
+    "hours": "from 11am until 5pm"
+  },
+  "description": "LIV Beach at Fontainebleau Hotel. Listed music: EDM, Top 40, Open Format.",
+  "sections": [
+    {
+      "heading": "About LIV Beach | The Complete Guide",
+      "source_url": "https://nocovernightclubs.com/pool-parties/liv-beach/"
+    },
+    {
+      "heading": "How To Get To LIV Beach?",
+      "source_url": "https://nocovernightclubs.com/pool-parties/liv-beach/"
+    },
+    {
+      "heading": "How Much Does It Cost To Get In?",
+      "source_url": "https://nocovernightclubs.com/pool-parties/liv-beach/"
+    },
+    {
+      "heading": "When Is LIV Beach Open?",
+      "source_url": "https://nocovernightclubs.com/pool-parties/liv-beach/"
+    },
+    {
+      "heading": "What Music Is Played At LIV Beach?",
+      "source_url": "https://nocovernightclubs.com/pool-parties/liv-beach/"
+    },
+    {
+      "heading": "What To Wear To LIV Beach?",
+      "source_url": "https://nocovernightclubs.com/pool-parties/liv-beach/"
+    }
+  ],
+  "field_provenance": {
+    "location": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/liv-beach/",
+      "retrieved_at": "2026-11-15T18:30:03.835423+00:00"
+    },
+    "days": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/liv-beach/",
+      "retrieved_at": "2026-11-15T18:30:03.835423+00:00"
+    },
+    "music": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/liv-beach/",
+      "retrieved_at": "2026-11-15T18:30:03.835423+00:00"
+    },
+    "size": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/liv-beach/",
+      "retrieved_at": "2026-11-15T18:30:03.835423+00:00"
+    },
+    "hours": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/liv-beach/",
+      "retrieved_at": "2026-11-15T18:30:03.835423+00:00"
+    }
+  },
+  "links": [
+    {
+      "kind": "video",
+      "url": "https://www.youtube.com/embed/9rZu54n86FE"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/pool-parties/liv-beach-guest-list/#guestlist"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/pool-parties/liv-beach-table-service-reservations/"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/liv-beach-event-calendar/"
+    },
+    {
+      "kind": "image",
+      "url": "https://nocovernightclubs.com/wp-content/uploads/2026/07/LIV-Beach-Table-Service-L.jpg"
+    }
+  ],
+  "source": {
+    "url": "https://nocovernightclubs.com/pool-parties/liv-beach/",
+    "observed_at": "2026-11-15T18:30:03.835423+00:00",
+    "listing_url": "https://nocovernightclubs.com/pool-parties/"
+  },
+  "quality": {
+    "profile_parsed": true,
+    "description_kind": "fact_summary"
+  },
+  "directory_facts": {
+    "location": "Fontainebleau Hotel",
+    "days": "Fri, Sat, Sun",
+    "music": "EDM, Top 40, Open Format"
+  }
+}

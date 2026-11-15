@@ -1,0 +1,118 @@
+{
+  "id": "encore-beach-club",
+  "name": "Encore Beach Club",
+  "listing_category": "dayclub",
+  "facts": {
+    "location": "Encore Hotel",
+    "days": "Friday, Saturday, Sunday",
+    "music": "EDM, Top 40, Open Format",
+    "size": "60,000 sq-ft",
+    "address": "3131 S Las Vegas Blvd, Las Vegas, NV 89109",
+    "hours": "from 11am until 5pm"
+  },
+  "description": "Encore Beach Club at Encore Hotel. Listed music: EDM, Top 40, Open Format.",
+  "sections": [
+    {
+      "heading": "About Encore Beach Club | The Complete Guide",
+      "source_url": "https://nocovernightclubs.com/pool-parties/encore-beach-club/"
+    },
+    {
+      "heading": "Where Is Encore Beach Club Located?",
+      "source_url": "https://nocovernightclubs.com/pool-parties/encore-beach-club/"
+    },
+    {
+      "heading": "How To Get To Encore Beach Club",
+      "source_url": "https://nocovernightclubs.com/pool-parties/encore-beach-club/"
+    },
+    {
+      "heading": "Encore Beach Club Virtual Tour",
+      "source_url": "https://nocovernightclubs.com/pool-parties/encore-beach-club/"
+    },
+    {
+      "heading": "How Much Does It Cost To Get In?",
+      "source_url": "https://nocovernightclubs.com/pool-parties/encore-beach-club/"
+    },
+    {
+      "heading": "When Is Encore Beach Club Open?",
+      "source_url": "https://nocovernightclubs.com/pool-parties/encore-beach-club/"
+    },
+    {
+      "heading": "What Music Is Played At Encore Beach Club?",
+      "source_url": "https://nocovernightclubs.com/pool-parties/encore-beach-club/"
+    },
+    {
+      "heading": "What To Wear To EBC?",
+      "source_url": "https://nocovernightclubs.com/pool-parties/encore-beach-club/"
+    }
+  ],
+  "field_provenance": {
+    "location": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/encore-beach-club/",
+      "retrieved_at": "2026-11-15T18:28:48.599648+00:00"
+    },
+    "days": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/encore-beach-club/",
+      "retrieved_at": "2026-11-15T18:28:48.599648+00:00"
+    },
+    "music": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/encore-beach-club/",
+      "retrieved_at": "2026-11-15T18:28:48.599648+00:00"
+    },
+    "size": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/encore-beach-club/",
+      "retrieved_at": "2026-11-15T18:28:48.599648+00:00"
+    },
+    "address": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/encore-beach-club/",
+      "retrieved_at": "2026-11-15T18:28:48.599648+00:00"
+    },
+    "hours": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/encore-beach-club/",
+      "retrieved_at": "2026-11-15T18:28:48.599648+00:00"
+    }
+  },
+  "links": [
+    {
+      "kind": "video",
+      "url": "https://www.youtube.com/embed/e0rCqUwgDsE"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/pool-parties/encore-beach-club-guest-list/#guestlist"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/pool-parties/encore-beach-club-table-service-reservations/"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/encore-beach-club-event-calendar/"
+    },
+    {
+      "kind": "image",
+      "url": "https://nocovernightclubs.com/wp-content/uploads/2022/01/Encore-Beach-Club-L.jpg"
+    },
+    {
+      "kind": "source",
+      "url": "http://nocovernightclubs.com/nightclubs/encore-beach-club-table-service-reservations/"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/pool-parties/encore-beach-club-guest-list/"
+    }
+  ],
+  "source": {
+    "url": "https://nocovernightclubs.com/pool-parties/encore-beach-club/",
+    "observed_at": "2026-11-15T18:28:48.599648+00:00",
+    "listing_url": "https://nocovernightclubs.com/pool-parties/"
+  },
+  "quality": {
+    "profile_parsed": true,
+    "description_kind": "fact_summary"
+  },
+  "directory_facts": {
+    "location": "Encore Hotel",
+    "days": "Fri, Sat, Sun",
+    "music": "EDM, Top 40, Open Format"
+  }
+}
