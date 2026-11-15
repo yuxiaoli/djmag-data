@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0.0",
+  "id": "maddix",
+  "name": "Maddix",
+  "entity_type": "unknown",
+  "description": null,
+  "nationalities": [],
+  "styles": [],
+  "birth_date": null,
+  "gender": null,
+  "image": {
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_323x182/public/2026-11/Maddix%202026%20-%20Credit%20Sven%20Scholten.jpg.webp?itok=Ak6EWH5D",
+    "source_url": "https://djmag.com/top100djs/2026/52/maddix",
+    "credit": null,
+    "license": null,
+    "license_url": null
+  },
+  "rankings": [
+    {
+      "year": 2026,
+      "rank": 52,
+      "previous_rank": null,
+      "source_url": "https://djmag.com/top100djs/2026/52/maddix"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://djmag.com/top100djs/2026/52/maddix",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-15T04:08:56Z",
+      "fields": [
+        "/name",
+        "/rankings",
+        "/image"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-15T04:08:56Z"
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0.0",
+  "id": "b-jones",
+  "name": "B Jones",
+  "entity_type": "unknown",
+  "description": null,
+  "nationalities": [],
+  "styles": [],
+  "birth_date": null,
+  "gender": null,
+  "image": {
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_323x182/public/top-100-d/abx-g/6/t10026_BJones.jpg.webp?itok=xFJyWofD",
+    "source_url": "https://djmag.com/top100djs/2026/74/b-jones",
+    "credit": null,
+    "license": null,
+    "license_url": null
+  },
+  "rankings": [
+    {
+      "year": 2026,
+      "rank": 74,
+      "previous_rank": null,
+      "source_url": "https://djmag.com/top100djs/2026/74/b-jones"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://djmag.com/top100djs/2026/74/b-jones",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-15T04:08:56Z",
+      "fields": [
+        "/name",
+        "/rankings",
+        "/image"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-15T04:08:56Z"
+}

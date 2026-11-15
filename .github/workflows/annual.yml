@@ -1,0 +1,46 @@
+name: Annual DJ metadata sync
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 20 14 11 *' # November 15 04:17 Asia/Hong_Kong annually
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: dj-metadata-sync
+  cancel-in-progress: false
+jobs:
+  sync:
+    if: vars.SOURCE_COLLECTION_ENABLED == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: develop
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python -m pip install -r requirements.txt
+      - run: python -m unittest discover -s tests -v
+      - run: python scripts/sync.py
+      - run: python scripts/enrich_profiles.py --max-profiles 1000
+      - name: Publish validated data only
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/djs/
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m 'data: refresh DJ ranking metadata'
+          git push origin HEAD:develop
+      - run: python scripts/build_site.py
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deployment
+        uses: actions/deploy-pages@v4
