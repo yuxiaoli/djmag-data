@@ -3,13 +3,15 @@
   "id": "amelie-lens",
   "name": "Amelie Lens",
   "entity_type": "unknown",
-  "description": null,
+  "description": "Amelie Lens ranked #47 in DJ Mag's 2026 poll. From: Belgium. DJ style: Techno, acid, hard dance. Best known for: Her EXHALE label and parties.",
   "nationalities": [],
-  "styles": [],
+  "styles": [
+    "Techno, acid, hard dance."
+  ],
   "birth_date": null,
   "gender": null,
   "image": {
-    "url": "https://djmag.com/sites/default/files/styles/djm_23_323x182/public/top-100-d/abx-g/6/t10026_AmelieLens.jpg.webp?itok=G8AgA0c_",
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_AmelieLens.jpg.webp?itok=41LiZhdY",
     "source_url": "https://djmag.com/top100djs/2026/47/amelie-lens",
     "credit": null,
     "license": null,
@@ -33,7 +35,49 @@
         "/rankings",
         "/image"
       ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/47/amelie-lens",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-15T17:40:03.635305+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
+        "/image",
+        "/rankings"
+      ]
     }
   ],
-  "updated_at": "2026-11-15T04:08:56Z"
+  "updated_at": "2026-11-15T17:40:03.635305+00:00",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "Belgium"
+      },
+      {
+        "label": "DJ style",
+        "value": "Techno, acid, hard dance."
+      },
+      {
+        "label": "Best known for",
+        "value": "Her EXHALE label and parties."
+      }
+    ],
+    "movement_places": 9,
+    "movement": "Down",
+    "article": {
+      "headline": "Amelie Lens | #47 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/47/amelie-lens"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_AmelieLens.jpg.webp?itok=41LiZhdY"
+  },
+  "origin": "Belgium",
+  "best_known_for": "Her EXHALE label and parties."
 }

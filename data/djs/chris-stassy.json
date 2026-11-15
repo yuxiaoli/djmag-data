@@ -3,13 +3,15 @@
   "id": "chris-stassy",
   "name": "CHRIS STASSY",
   "entity_type": "unknown",
-  "description": null,
+  "description": "CHRIS STASSY ranked #59 in DJ Mag's 2026 poll. From: The Netherlands. DJ style: “House.”. Best known for: “Unreleased tracks and his label Up The Stuss.”.",
   "nationalities": [],
-  "styles": [],
+  "styles": [
+    "“House.”"
+  ],
   "birth_date": null,
   "gender": null,
   "image": {
-    "url": "https://djmag.com/sites/default/files/styles/djm_23_323x182/public/top-100-d/abx-g/6/t10026_CHRISSTASSY.jpg.webp?itok=XWqq_lGA",
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_CHRISSTASSY.jpg.webp?itok=2UkMC_I7",
     "source_url": "https://djmag.com/top100djs/2026/59/chris-stassy",
     "credit": null,
     "license": null,
@@ -33,7 +35,49 @@
         "/rankings",
         "/image"
       ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/59/chris-stassy",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-15T17:46:41.002707+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
+        "/image",
+        "/rankings"
+      ]
     }
   ],
-  "updated_at": "2026-11-15T04:08:56Z"
+  "updated_at": "2026-11-15T17:46:41.002707+00:00",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "The Netherlands"
+      },
+      {
+        "label": "DJ style",
+        "value": "“House.”"
+      },
+      {
+        "label": "Best known for",
+        "value": "“Unreleased tracks and his label Up The Stuss.”"
+      }
+    ],
+    "movement_places": 22,
+    "movement": "Up",
+    "article": {
+      "headline": "CHRIS STASSY | #59 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/59/chris-stassy"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_CHRISSTASSY.jpg.webp?itok=2UkMC_I7"
+  },
+  "origin": "The Netherlands",
+  "best_known_for": "“Unreleased tracks and his label Up The Stuss.”"
 }

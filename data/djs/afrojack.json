@@ -3,7 +3,7 @@
   "id": "afrojack",
   "name": "Afrojack",
   "entity_type": "unknown",
-  "description": "Afrojack placed #15 in DJ Mag's 2026 Top 100 DJs poll.",
+  "description": "Afrojack ranked #15 in DJ Mag's 2026 poll. From: The Netherlands. DJ style: EDM. Best known for: Big tracks and his Wall Recordings label.",
   "nationalities": [],
   "styles": [
     "EDM."
@@ -21,7 +21,7 @@
     {
       "year": 2026,
       "rank": 15,
-      "previous_rank": 8,
+      "previous_rank": null,
       "source_url": "https://djmag.com/top100djs/2026/15/afrojack"
     }
   ],

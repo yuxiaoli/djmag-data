@@ -3,13 +3,15 @@
   "id": "anyma",
   "name": "Anyma",
   "entity_type": "unknown",
-  "description": null,
+  "description": "Anyma ranked #3 in DJ Mag's 2026 poll. From: Italy. DJ style: Melodic techno. Best known for: Eye-boggling A/V performances.",
   "nationalities": [],
-  "styles": [],
+  "styles": [
+    "Melodic techno."
+  ],
   "birth_date": null,
   "gender": null,
   "image": {
-    "url": "https://djmag.com/sites/default/files/styles/djm_23_323x182/public/top-100-d/abx-g/6/t10026_Anyma.jpg.webp?itok=o6bu8gx9",
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_Anyma.jpg.webp?itok=EWPDELQL",
     "source_url": "https://djmag.com/top100djs/2026/3/anyma",
     "credit": null,
     "license": null,
@@ -33,7 +35,49 @@
         "/rankings",
         "/image"
       ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/3/anyma",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-15T17:41:33.949351+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
+        "/image",
+        "/rankings"
+      ]
     }
   ],
-  "updated_at": "2026-11-15T04:08:56Z"
+  "updated_at": "2026-11-15T17:41:33.949351+00:00",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "Italy"
+      },
+      {
+        "label": "DJ style",
+        "value": "Melodic techno."
+      },
+      {
+        "label": "Best known for",
+        "value": "Eye-boggling A/V performances."
+      }
+    ],
+    "movement_places": 7,
+    "movement": "Up",
+    "article": {
+      "headline": "Anyma | #3 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/3/anyma"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_Anyma.jpg.webp?itok=EWPDELQL"
+  },
+  "origin": "Italy",
+  "best_known_for": "Eye-boggling A/V performances."
 }

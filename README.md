@@ -26,7 +26,9 @@ Requests honor robots and a minimum 10-second delay, fail on unexpected hosts/st
 
 ## Current checkpoint
 
-100 current-year ranking records and 100 image source links; two profiles enriched. Catalog and 100 detail pages build locally. The sole collector stopped when the execution tool blocked network access to djmag.com:443. No network retry or alternate route has been attempted. Further collection, source publication, schedule activation and Pages verification remain incomplete.
+100 current-year ranking records and image source links; 19 profiles enriched with source labels, exact movement and concise factual descriptions. The remaining 81 are not represented as complete. The original reviewed HTTP collector resumed successfully after the earlier policy denial, then checkpointed 19 profiles; its final process receipt is unavailable. Black Coffee had a recorded transport timeout. No alternate route or automatic retry is used. Annual collection remains disabled pending complete validated operation.
+
+The catalog is live at https://yuxiaoli.github.io/djmag-data/ . Stable discovery index: `data/index.json`; each entry links its JSON record and detail page. Missing profile fields remain explicitly unknown. Movement text and source place value are retained without inferring previous ranks.
 
 ## Follow-on integration
 
@@ -36,4 +38,4 @@ Half Saints / Vegas Party Menu daily DJ listings should link stable `/djs/<id>.h
 
 DJ Mag: https://djmag.com/top100djs . Independent project, not affiliated with DJ Mag. Source text and images retain their owners' rights. Images are linked, not copied into the repository. Wikidata CC0 structured facts may later enrich missing fields with provenance; image licensing is separate.
 
-Pages workflow is manual-only while Pages settings remain unresolved. No deployment or collection is triggered by this source publication.
+Pages workflow is manual-only and Pages uses GitHub Actions. Source publication alone does not trigger deployment or collection.
