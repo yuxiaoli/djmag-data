@@ -3,13 +3,15 @@
   "id": "artbat",
   "name": "ARTBAT",
   "entity_type": "unknown",
-  "description": null,
+  "description": "ARTBAT ranked #70 in DJ Mag's 2026 poll. From: Ukraine. DJ style: Melodic techno, progressive house. Best known for: Remixing Monolink’s ‘Return To Oz’.",
   "nationalities": [],
-  "styles": [],
+  "styles": [
+    "Melodic techno, progressive house."
+  ],
   "birth_date": null,
   "gender": null,
   "image": {
-    "url": "https://djmag.com/sites/default/files/styles/djm_23_323x182/public/top-100-d/abx-g/6/t10026_ARTBAT.jpg.webp?itok=VJ0qkAAi",
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_ARTBAT.jpg.webp?itok=NzapLVtu",
     "source_url": "https://djmag.com/top100djs/2026/70/artbat",
     "credit": null,
     "license": null,
@@ -33,7 +35,49 @@
         "/rankings",
         "/image"
       ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/70/artbat",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-15T17:42:09.415820+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
+        "/image",
+        "/rankings"
+      ]
     }
   ],
-  "updated_at": "2026-11-15T04:08:56Z"
+  "updated_at": "2026-11-15T17:42:09.415820+00:00",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "Ukraine"
+      },
+      {
+        "label": "DJ style",
+        "value": "Melodic techno, progressive house."
+      },
+      {
+        "label": "Best known for",
+        "value": "Remixing Monolink’s ‘Return To Oz’."
+      }
+    ],
+    "movement_places": 3,
+    "movement": "Up",
+    "article": {
+      "headline": "ARTBAT | #70 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/70/artbat"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_ARTBAT.jpg.webp?itok=NzapLVtu"
+  },
+  "origin": "Ukraine",
+  "best_known_for": "Remixing Monolink’s ‘Return To Oz’."
 }

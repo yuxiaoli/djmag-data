@@ -3,13 +3,15 @@
   "id": "carl-cox",
   "name": "Carl Cox",
   "entity_type": "unknown",
-  "description": null,
+  "description": "Carl Cox ranked #23 in DJ Mag's 2026 poll. From: UK. DJ style: Chiefly techno, breakbeat, rave. Best known for: Ultimate positivity as a global ambassador.",
   "nationalities": [],
-  "styles": [],
+  "styles": [
+    "Chiefly techno, breakbeat, rave."
+  ],
   "birth_date": null,
   "gender": null,
   "image": {
-    "url": "https://djmag.com/sites/default/files/styles/djm_23_323x182/public/top-100-d/abx-g/6/t10026_CarlCox.jpg.webp?itok=dpK0lgEF",
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_CarlCox.jpg.webp?itok=Q6bqQbiJ",
     "source_url": "https://djmag.com/top100djs/2026/23/carl-cox",
     "credit": null,
     "license": null,
@@ -33,7 +35,49 @@
         "/rankings",
         "/image"
       ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/23/carl-cox",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-15T17:45:24.945554+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
+        "/image",
+        "/rankings"
+      ]
     }
   ],
-  "updated_at": "2026-11-15T04:08:56Z"
+  "updated_at": "2026-11-15T17:45:24.945554+00:00",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "UK"
+      },
+      {
+        "label": "DJ style",
+        "value": "Chiefly techno, breakbeat, rave."
+      },
+      {
+        "label": "Best known for",
+        "value": "Ultimate positivity as a global ambassador."
+      }
+    ],
+    "movement_places": 2,
+    "movement": "Up",
+    "article": {
+      "headline": "Carl Cox | #23 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/23/carl-cox"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_CarlCox.jpg.webp?itok=Q6bqQbiJ"
+  },
+  "origin": "UK",
+  "best_known_for": "Ultimate positivity as a global ambassador."
 }

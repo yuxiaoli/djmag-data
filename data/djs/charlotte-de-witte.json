@@ -3,13 +3,15 @@
   "id": "charlotte-de-witte",
   "name": "Charlotte de Witte",
   "entity_type": "unknown",
-  "description": null,
+  "description": "Charlotte de Witte ranked #6 in DJ Mag's 2026 poll. From: Belgium. DJ style: Techno, acid, rave. Best known for: Big-room techno and immersive live shows.",
   "nationalities": [],
-  "styles": [],
+  "styles": [
+    "Techno, acid, rave."
+  ],
   "birth_date": null,
   "gender": null,
   "image": {
-    "url": "https://djmag.com/sites/default/files/styles/djm_23_323x182/public/top-100-d/abx-g/6/t10026_CharlottedeWitte.jpg.webp?itok=1bBpR5qb",
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_CharlottedeWitte.jpg.webp?itok=8a8KH2uK",
     "source_url": "https://djmag.com/top100djs/2026/6/charlotte-de-witte",
     "credit": null,
     "license": null,
@@ -33,7 +35,49 @@
         "/rankings",
         "/image"
       ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/6/charlotte-de-witte",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-15T17:46:01.048139+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
+        "/image",
+        "/rankings"
+      ]
     }
   ],
-  "updated_at": "2026-11-15T04:08:56Z"
+  "updated_at": "2026-11-15T17:46:01.048139+00:00",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "Belgium"
+      },
+      {
+        "label": "DJ style",
+        "value": "Techno, acid, rave."
+      },
+      {
+        "label": "Best known for",
+        "value": "Big-room techno and immersive live shows."
+      }
+    ],
+    "movement_places": 3,
+    "movement": "Up",
+    "article": {
+      "headline": "Charlotte de Witte | #6 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/6/charlotte-de-witte"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_CharlottedeWitte.jpg.webp?itok=8a8KH2uK"
+  },
+  "origin": "Belgium",
+  "best_known_for": "Big-room techno and immersive live shows."
 }

@@ -3,13 +3,15 @@
   "id": "chainsmokers",
   "name": "The Chainsmokers",
   "entity_type": "unknown",
-  "description": null,
+  "description": "The Chainsmokers ranked #89 in DJ Mag's 2026 poll. From: USA. DJ style: “Anthemic EDM.”. Best known for: “Over 10 years of elevating and defining popular dance music with multiple RIAA Diamond-certified hits.”.",
   "nationalities": [],
-  "styles": [],
+  "styles": [
+    "“Anthemic EDM.”"
+  ],
   "birth_date": null,
   "gender": null,
   "image": {
-    "url": "https://djmag.com/sites/default/files/styles/djm_23_323x182/public/top-100-d/abx-g/6/t10026_TheChainsmokers.jpg.webp?itok=yGVyOygW",
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_TheChainsmokers.jpg.webp?itok=k15Gb1GI",
     "source_url": "https://djmag.com/top100djs/2026/89/chainsmokers",
     "credit": null,
     "license": null,
@@ -33,7 +35,49 @@
         "/rankings",
         "/image"
       ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/89/chainsmokers",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-15T17:45:40.051282+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
+        "/image",
+        "/rankings"
+      ]
     }
   ],
-  "updated_at": "2026-11-15T04:08:56Z"
+  "updated_at": "2026-11-15T17:45:40.051282+00:00",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "USA"
+      },
+      {
+        "label": "DJ style",
+        "value": "“Anthemic EDM.”"
+      },
+      {
+        "label": "Best known for",
+        "value": "“Over 10 years of elevating and defining popular dance music with multiple RIAA Diamond-certified hits.”"
+      }
+    ],
+    "movement_places": 19,
+    "movement": "Down",
+    "article": {
+      "headline": "The Chainsmokers | #89 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/89/chainsmokers"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_TheChainsmokers.jpg.webp?itok=k15Gb1GI"
+  },
+  "origin": "USA",
+  "best_known_for": "“Over 10 years of elevating and defining popular dance music with multiple RIAA Diamond-certified hits.”"
 }

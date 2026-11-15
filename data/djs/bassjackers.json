@@ -3,13 +3,15 @@
   "id": "bassjackers",
   "name": "Bassjackers",
   "entity_type": "unknown",
-  "description": null,
+  "description": "Bassjackers ranked #58 in DJ Mag's 2026 poll. From: The Netherlands. DJ style: EDM, hard dance. Best known for: Festival-sized productions, explosive sets, embracing faster sounds.",
   "nationalities": [],
-  "styles": [],
+  "styles": [
+    "EDM, hard dance."
+  ],
   "birth_date": null,
   "gender": null,
   "image": {
-    "url": "https://djmag.com/sites/default/files/styles/djm_23_323x182/public/top-100-d/abx-g/6/t10026_Bassjackers.jpg.webp?itok=YM9SHJ0j",
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_Bassjackers.jpg.webp?itok=uKITST7z",
     "source_url": "https://djmag.com/top100djs/2026/58/bassjackers",
     "credit": null,
     "license": null,
@@ -33,7 +35,49 @@
         "/rankings",
         "/image"
       ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/58/bassjackers",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-15T17:43:26.498121+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
+        "/image",
+        "/rankings"
+      ]
     }
   ],
-  "updated_at": "2026-11-15T04:08:56Z"
+  "updated_at": "2026-11-15T17:43:26.498121+00:00",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "The Netherlands"
+      },
+      {
+        "label": "DJ style",
+        "value": "EDM, hard dance."
+      },
+      {
+        "label": "Best known for",
+        "value": "Festival-sized productions, explosive sets, embracing faster sounds."
+      }
+    ],
+    "movement_places": 13,
+    "movement": "Down",
+    "article": {
+      "headline": "Bassjackers | #58 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/58/bassjackers"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_Bassjackers.jpg.webp?itok=uKITST7z"
+  },
+  "origin": "The Netherlands",
+  "best_known_for": "Festival-sized productions, explosive sets, embracing faster sounds."
 }

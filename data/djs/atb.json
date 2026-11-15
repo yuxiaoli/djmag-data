@@ -3,13 +3,15 @@
   "id": "atb",
   "name": "ATB",
   "entity_type": "unknown",
-  "description": null,
+  "description": "ATB ranked #63 in DJ Mag's 2026 poll. From: Germany. DJ style: Emotional, energetic dance music. Best known for: ‘9PM (Till I Come)’, ‘Ecstasy’.",
   "nationalities": [],
-  "styles": [],
+  "styles": [
+    "Emotional, energetic dance music."
+  ],
   "birth_date": null,
   "gender": null,
   "image": {
-    "url": "https://djmag.com/sites/default/files/styles/djm_23_323x182/public/top-100-d/abx-g/6/t10026_ATB.jpg.webp?itok=lpVph_TN",
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_ATB.jpg.webp?itok=wmotUCaz",
     "source_url": "https://djmag.com/top100djs/2026/63/atb",
     "credit": null,
     "license": null,
@@ -33,7 +35,49 @@
         "/rankings",
         "/image"
       ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/63/atb",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-15T17:42:39.258726+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
+        "/image",
+        "/rankings"
+      ]
     }
   ],
-  "updated_at": "2026-11-15T04:08:56Z"
+  "updated_at": "2026-11-15T17:42:39.258726+00:00",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "Germany"
+      },
+      {
+        "label": "DJ style",
+        "value": "Emotional, energetic dance music."
+      },
+      {
+        "label": "Best known for",
+        "value": "‘9PM (Till I Come)’, ‘Ecstasy’."
+      }
+    ],
+    "movement_places": 4,
+    "movement": "Down",
+    "article": {
+      "headline": "ATB | #63 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/63/atb"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_ATB.jpg.webp?itok=wmotUCaz"
+  },
+  "origin": "Germany",
+  "best_known_for": "‘9PM (Till I Come)’, ‘Ecstasy’."
 }

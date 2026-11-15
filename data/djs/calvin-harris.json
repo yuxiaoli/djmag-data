@@ -3,13 +3,15 @@
   "id": "calvin-harris",
   "name": "Calvin Harris",
   "entity_type": "unknown",
-  "description": null,
+  "description": "Calvin Harris ranked #11 in DJ Mag's 2026 poll. From: UK. DJ style: Dance-pop and party anthems. Best known for: Chart hits like ‘Under Control’, ‘Summer’ and ‘Blame’.",
   "nationalities": [],
-  "styles": [],
+  "styles": [
+    "Dance-pop and party anthems."
+  ],
   "birth_date": null,
   "gender": null,
   "image": {
-    "url": "https://djmag.com/sites/default/files/styles/djm_23_323x182/public/top-100-d/abx-g/6/t10026_CalvinHarris.jpg.webp?itok=JDT_otgs",
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_CalvinHarris.jpg.webp?itok=LnVQNb2Y",
     "source_url": "https://djmag.com/top100djs/2026/11/calvin-harris",
     "credit": null,
     "license": null,
@@ -33,7 +35,49 @@
         "/rankings",
         "/image"
       ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/11/calvin-harris",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-15T17:45:09.149282+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
+        "/image",
+        "/rankings"
+      ]
     }
   ],
-  "updated_at": "2026-11-15T04:08:56Z"
+  "updated_at": "2026-11-15T17:45:09.149282+00:00",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "UK"
+      },
+      {
+        "label": "DJ style",
+        "value": "Dance-pop and party anthems."
+      },
+      {
+        "label": "Best known for",
+        "value": "Chart hits like ‘Under Control’, ‘Summer’ and ‘Blame’."
+      }
+    ],
+    "movement_places": 5,
+    "movement": "Up",
+    "article": {
+      "headline": "Calvin Harris | #11 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/11/calvin-harris"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_CalvinHarris.jpg.webp?itok=LnVQNb2Y"
+  },
+  "origin": "UK",
+  "best_known_for": "Chart hits like ‘Under Control’, ‘Summer’ and ‘Blame’."
 }

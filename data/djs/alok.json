@@ -3,13 +3,15 @@
   "id": "alok",
   "name": "Alok",
   "entity_type": "unknown",
-  "description": null,
+  "description": "Alok ranked #4 in DJ Mag's 2026 poll. From: Brazil. DJ style: Brazilian bass/EDM. Best known for: Playing to millions-strong crowds in Brazil and his philanthropy.",
   "nationalities": [],
-  "styles": [],
+  "styles": [
+    "Brazilian bass/EDM."
+  ],
   "birth_date": null,
   "gender": null,
   "image": {
-    "url": "https://djmag.com/sites/default/files/styles/djm_23_323x182/public/top-100-d/abx-g/6/t10026_Alok.jpg.webp?itok=-SAE_cY7",
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_Alok.jpg.webp?itok=ygJ1OPmO",
     "source_url": "https://djmag.com/top100djs/2026/4/alok",
     "credit": null,
     "license": null,
@@ -33,7 +35,49 @@
         "/rankings",
         "/image"
       ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/4/alok",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-15T17:39:49.179435+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
+        "/image",
+        "/rankings"
+      ]
     }
   ],
-  "updated_at": "2026-11-15T04:08:56Z"
+  "updated_at": "2026-11-15T17:39:49.179435+00:00",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "Brazil"
+      },
+      {
+        "label": "DJ style",
+        "value": "Brazilian bass/EDM."
+      },
+      {
+        "label": "Best known for",
+        "value": "Playing to millions-strong crowds in Brazil and his philanthropy."
+      }
+    ],
+    "movement_places": 1,
+    "movement": "Down",
+    "article": {
+      "headline": "Alok | #4 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/4/alok"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_Alok.jpg.webp?itok=ygJ1OPmO"
+  },
+  "origin": "Brazil",
+  "best_known_for": "Playing to millions-strong crowds in Brazil and his philanthropy."
 }
