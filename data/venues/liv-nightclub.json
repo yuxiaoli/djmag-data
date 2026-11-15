@@ -1,0 +1,97 @@
+{
+  "id": "liv-nightclub",
+  "name": "LIV Nightclub Las Vegas",
+  "listing_category": "nightclub",
+  "facts": {
+    "location": "Fontainebleau Hotel",
+    "nights": "Friday, Saturday, Sunday",
+    "music": "EDM, Top 40, Open Format",
+    "size": "50,000 sq-ft",
+    "hours": "from 10:30pm until 4am"
+  },
+  "description": "LIV Nightclub Las Vegas at Fontainebleau Hotel. Listed music: EDM, Top 40, Open Format.",
+  "sections": [
+    {
+      "heading": "About LIV Nightclub | The Complete Guide",
+      "source_url": "https://nocovernightclubs.com/nightclubs/liv-nightclub/"
+    },
+    {
+      "heading": "How To Get To LIV?",
+      "source_url": "https://nocovernightclubs.com/nightclubs/liv-nightclub/"
+    },
+    {
+      "heading": "How Much Does It Cost To Get In?",
+      "source_url": "https://nocovernightclubs.com/nightclubs/liv-nightclub/"
+    },
+    {
+      "heading": "When Is LIV Nightclub Open?",
+      "source_url": "https://nocovernightclubs.com/nightclubs/liv-nightclub/"
+    },
+    {
+      "heading": "What Music Is Played At LIV?",
+      "source_url": "https://nocovernightclubs.com/nightclubs/liv-nightclub/"
+    },
+    {
+      "heading": "What To Wear To LIV?",
+      "source_url": "https://nocovernightclubs.com/nightclubs/liv-nightclub/"
+    }
+  ],
+  "field_provenance": {
+    "location": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/liv-nightclub/",
+      "retrieved_at": "2026-11-15T18:26:24.793304+00:00"
+    },
+    "nights": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/liv-nightclub/",
+      "retrieved_at": "2026-11-15T18:26:24.793304+00:00"
+    },
+    "music": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/liv-nightclub/",
+      "retrieved_at": "2026-11-15T18:26:24.793304+00:00"
+    },
+    "size": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/liv-nightclub/",
+      "retrieved_at": "2026-11-15T18:26:24.793304+00:00"
+    },
+    "hours": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/liv-nightclub/",
+      "retrieved_at": "2026-11-15T18:26:24.793304+00:00"
+    }
+  },
+  "links": [
+    {
+      "kind": "video",
+      "url": "https://www.youtube.com/embed/nU2DUZzQ2Ek"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/nightclubs/liv-nightclub-guest-list/#guestlist"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/nightclubs/liv-nightclub-table-service-reservations/"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/liv-nightclub-event-calendar/"
+    },
+    {
+      "kind": "image",
+      "url": "https://nocovernightclubs.com/wp-content/uploads/2024/01/LIV-Nightclub-Table-Service-L.jpg"
+    }
+  ],
+  "source": {
+    "url": "https://nocovernightclubs.com/nightclubs/liv-nightclub/",
+    "observed_at": "2026-11-15T18:26:24.793304+00:00",
+    "listing_url": "https://nocovernightclubs.com/nightclubs/"
+  },
+  "quality": {
+    "profile_parsed": true,
+    "description_kind": "fact_summary"
+  },
+  "directory_facts": {
+    "location": "Fontainebleau Hotel",
+    "days": "Fri, Sat, Sun",
+    "music": "EDM, Top 40, Open Format"
+  }
+}

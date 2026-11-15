@@ -1,0 +1,105 @@
+{
+  "id": "vinyl-room",
+  "name": "Vinyl Room",
+  "listing_category": "nightclub",
+  "facts": {
+    "location": "Mandalay Bay Hotel",
+    "nights": "Nightly",
+    "music": "Top 40, Hip Hop, Dance",
+    "address": "3950 S Las Vegas Blvd, Las Vegas, NV 89119",
+    "hours": "from 10pm until 3am"
+  },
+  "description": "Vinyl Room at Mandalay Bay Hotel. Listed music: Top 40, Hip Hop, Dance.",
+  "sections": [
+    {
+      "heading": "About Vinyl Room | The Complete Guide",
+      "source_url": "https://nocovernightclubs.com/nightclubs/vinyl-room/"
+    },
+    {
+      "heading": "Where Is Vinyl Room Located?",
+      "source_url": "https://nocovernightclubs.com/nightclubs/vinyl-room/"
+    },
+    {
+      "heading": "How To Get To Vinyl Room",
+      "source_url": "https://nocovernightclubs.com/nightclubs/vinyl-room/"
+    },
+    {
+      "heading": "How Much Does It Cost To Get In?",
+      "source_url": "https://nocovernightclubs.com/nightclubs/vinyl-room/"
+    },
+    {
+      "heading": "When Is Vinyl Room Open?",
+      "source_url": "https://nocovernightclubs.com/nightclubs/vinyl-room/"
+    },
+    {
+      "heading": "What Music Is Played At Vinyl Room?",
+      "source_url": "https://nocovernightclubs.com/nightclubs/vinyl-room/"
+    },
+    {
+      "heading": "What To Wear To Vinyl Room?",
+      "source_url": "https://nocovernightclubs.com/nightclubs/vinyl-room/"
+    }
+  ],
+  "field_provenance": {
+    "location": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/vinyl-room/",
+      "retrieved_at": "2026-11-15T18:24:53.184802+00:00"
+    },
+    "nights": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/vinyl-room/",
+      "retrieved_at": "2026-11-15T18:24:53.184802+00:00"
+    },
+    "music": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/vinyl-room/",
+      "retrieved_at": "2026-11-15T18:24:53.184802+00:00"
+    },
+    "address": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/vinyl-room/",
+      "retrieved_at": "2026-11-15T18:24:53.184802+00:00"
+    },
+    "hours": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/vinyl-room/",
+      "retrieved_at": "2026-11-15T18:24:53.184802+00:00"
+    }
+  },
+  "links": [
+    {
+      "kind": "image",
+      "url": "https://nocovernightclubs.com/wp-content/uploads/2026/07/Vinyl-Room-Las-Vegas-L.jpg"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/nightclubs/vinyl-room-guest-list/#guestlist"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/nightclubs/vinyl-room-table-service-reservations/"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/vinyl-room-event-calendar/"
+    },
+    {
+      "kind": "image",
+      "url": "https://nocovernightclubs.com/wp-content/uploads/2026/07/Vinyl-Room-Calendar-L.jpg"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/nightclubs/vinyl-room-guest-list/"
+    }
+  ],
+  "source": {
+    "url": "https://nocovernightclubs.com/nightclubs/vinyl-room/",
+    "observed_at": "2026-11-15T18:24:53.184802+00:00",
+    "listing_url": "https://nocovernightclubs.com/nightclubs/"
+  },
+  "quality": {
+    "profile_parsed": true,
+    "description_kind": "fact_summary"
+  },
+  "directory_facts": {
+    "location": "Mandalay Bay Hotel",
+    "days": "Daily",
+    "music": "Top 40, Hip Hop, Dance"
+  }
+}

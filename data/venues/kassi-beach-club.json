@@ -1,0 +1,98 @@
+{
+  "id": "kassi-beach-club",
+  "name": "Kassi Beach Club",
+  "listing_category": "dayclub",
+  "facts": {
+    "location": "Virgin Hotel Hotel",
+    "days": "Daily",
+    "music": "Top 40 & Open Format",
+    "size": "60,000 sq-ft",
+    "address": "4455 Paradise Rd, Las Vegas, NV 89169",
+    "hours": "from 11am until 5pm"
+  },
+  "description": "Kassi Beach Club at Virgin Hotel Hotel. Listed music: Top 40 & Open Format.",
+  "sections": [
+    {
+      "heading": "About Kassi Beach Club | The Complete Guide",
+      "source_url": "https://nocovernightclubs.com/pool-parties/kassi-beach-club/"
+    },
+    {
+      "heading": "Where Is Kassi Beach Club Located?",
+      "source_url": "https://nocovernightclubs.com/pool-parties/kassi-beach-club/"
+    },
+    {
+      "heading": "How To Get To Kassi Beach Club",
+      "source_url": "https://nocovernightclubs.com/pool-parties/kassi-beach-club/"
+    },
+    {
+      "heading": "How Much Does It Cost To Get In?",
+      "source_url": "https://nocovernightclubs.com/pool-parties/kassi-beach-club/"
+    },
+    {
+      "heading": "When Is Kassi Beach Open?",
+      "source_url": "https://nocovernightclubs.com/pool-parties/kassi-beach-club/"
+    },
+    {
+      "heading": "What Music Is Played At Kassi?",
+      "source_url": "https://nocovernightclubs.com/pool-parties/kassi-beach-club/"
+    },
+    {
+      "heading": "What To Wear To Kassi Beach Club?",
+      "source_url": "https://nocovernightclubs.com/pool-parties/kassi-beach-club/"
+    }
+  ],
+  "field_provenance": {
+    "location": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/kassi-beach-club/",
+      "retrieved_at": "2026-11-15T18:30:55.040794+00:00"
+    },
+    "days": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/kassi-beach-club/",
+      "retrieved_at": "2026-11-15T18:30:55.040794+00:00"
+    },
+    "music": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/kassi-beach-club/",
+      "retrieved_at": "2026-11-15T18:30:55.040794+00:00"
+    },
+    "size": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/kassi-beach-club/",
+      "retrieved_at": "2026-11-15T18:30:55.040794+00:00"
+    },
+    "address": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/kassi-beach-club/",
+      "retrieved_at": "2026-11-15T18:30:55.040794+00:00"
+    },
+    "hours": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/kassi-beach-club/",
+      "retrieved_at": "2026-11-15T18:30:55.040794+00:00"
+    }
+  },
+  "links": [
+    {
+      "kind": "image",
+      "url": "https://nocovernightclubs.com/wp-content/uploads/2024/06/Kassi-Beach-Club-L.jpg"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/pool-parties/kassi-beach-club-guest-list/#guestlist"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/pool-parties/kassi-beach-club-guest-list/"
+    }
+  ],
+  "source": {
+    "url": "https://nocovernightclubs.com/pool-parties/kassi-beach-club/",
+    "observed_at": "2026-11-15T18:30:55.040794+00:00",
+    "listing_url": "https://nocovernightclubs.com/pool-parties/"
+  },
+  "quality": {
+    "profile_parsed": true,
+    "description_kind": "fact_summary"
+  },
+  "directory_facts": {
+    "location": "Virgin Hotel",
+    "days": "Daily",
+    "music": "Top 40 & Open Format"
+  }
+}

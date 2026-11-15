@@ -1,0 +1,118 @@
+{
+  "id": "marquee-dayclub",
+  "name": "Marquee Dayclub",
+  "listing_category": "dayclub",
+  "facts": {
+    "location": "Cosmopolitan Hotel",
+    "days": "Thursday, Friday, Saturday, Sunday, Monday",
+    "music": "EDM, Top 40, Open Format",
+    "size": "22,000 sq-ft",
+    "address": "3708 Las Vegas Blvd S, Las Vegas, NV 89109",
+    "hours": "from 11am until 5pm"
+  },
+  "description": "Marquee Dayclub at Cosmopolitan Hotel. Listed music: EDM, Top 40, Open Format.",
+  "sections": [
+    {
+      "heading": "About Marquee Dayclub | The Complete Guide",
+      "source_url": "https://nocovernightclubs.com/pool-parties/marquee-dayclub/"
+    },
+    {
+      "heading": "Where Is Marquee Dayclub Located?",
+      "source_url": "https://nocovernightclubs.com/pool-parties/marquee-dayclub/"
+    },
+    {
+      "heading": "How To Get To Marquee Dayclub",
+      "source_url": "https://nocovernightclubs.com/pool-parties/marquee-dayclub/"
+    },
+    {
+      "heading": "Marquee Dayclub Virtual Tour",
+      "source_url": "https://nocovernightclubs.com/pool-parties/marquee-dayclub/"
+    },
+    {
+      "heading": "How Much Does It Cost To Get In?",
+      "source_url": "https://nocovernightclubs.com/pool-parties/marquee-dayclub/"
+    },
+    {
+      "heading": "When Is Marquee Dayclub Open?",
+      "source_url": "https://nocovernightclubs.com/pool-parties/marquee-dayclub/"
+    },
+    {
+      "heading": "What Music Is Played At Marquee Dayclub?",
+      "source_url": "https://nocovernightclubs.com/pool-parties/marquee-dayclub/"
+    },
+    {
+      "heading": "What To Wear To Marquee Pool?",
+      "source_url": "https://nocovernightclubs.com/pool-parties/marquee-dayclub/"
+    }
+  ],
+  "field_provenance": {
+    "location": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/marquee-dayclub/",
+      "retrieved_at": "2026-11-15T18:27:09.309250+00:00"
+    },
+    "days": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/marquee-dayclub/",
+      "retrieved_at": "2026-11-15T18:27:09.309250+00:00"
+    },
+    "music": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/marquee-dayclub/",
+      "retrieved_at": "2026-11-15T18:27:09.309250+00:00"
+    },
+    "size": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/marquee-dayclub/",
+      "retrieved_at": "2026-11-15T18:27:09.309250+00:00"
+    },
+    "address": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/marquee-dayclub/",
+      "retrieved_at": "2026-11-15T18:27:09.309250+00:00"
+    },
+    "hours": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/marquee-dayclub/",
+      "retrieved_at": "2026-11-15T18:27:09.309250+00:00"
+    }
+  },
+  "links": [
+    {
+      "kind": "video",
+      "url": "https://www.youtube.com/embed/F4t4TbOBRbg"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/pool-parties/marquee-dayclub-guest-list/#guestlist"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/pool-parties/marquee-dayclub-table-service-reservations/"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/marquee-dayclub-event-calendar/"
+    },
+    {
+      "kind": "image",
+      "url": "https://nocovernightclubs.com/wp-content/uploads/2022/01/Marquee-Dayclub-L.jpg"
+    },
+    {
+      "kind": "source",
+      "url": "https://tours.virtualmarketing360.com/463007"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/pool-parties/marquee-dayclub-guest-list/"
+    }
+  ],
+  "source": {
+    "url": "https://nocovernightclubs.com/pool-parties/marquee-dayclub/",
+    "observed_at": "2026-11-15T18:27:09.309250+00:00",
+    "listing_url": "https://nocovernightclubs.com/pool-parties/"
+  },
+  "quality": {
+    "profile_parsed": true,
+    "description_kind": "fact_summary"
+  },
+  "directory_facts": {
+    "location": "Cosmopolitan Hotel",
+    "days": "Mon, Thu, Fri, Sat, Sun",
+    "music": "EDM, Top 40, Open Format"
+  }
+}

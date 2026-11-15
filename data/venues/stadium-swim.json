@@ -1,0 +1,105 @@
+{
+  "id": "stadium-swim",
+  "name": "Stadium Swim",
+  "listing_category": "dayclub",
+  "facts": {
+    "location": "Circa Hotel",
+    "days": "Daily",
+    "music": "Top 40 & Open Format",
+    "size": "60,000 sq-ft",
+    "hours": "8AM-11PM"
+  },
+  "description": "Stadium Swim at Circa Hotel. Listed music: Top 40 & Open Format.",
+  "sections": [
+    {
+      "heading": "About Stadium Swim | The Complete Guide",
+      "source_url": "https://nocovernightclubs.com/pool-parties/stadium-swim/"
+    },
+    {
+      "heading": "Where Is Stadium Swim Las Vegas Located?",
+      "source_url": "https://nocovernightclubs.com/pool-parties/stadium-swim/"
+    },
+    {
+      "heading": "How To Get To Stadium Swim",
+      "source_url": "https://nocovernightclubs.com/pool-parties/stadium-swim/"
+    },
+    {
+      "heading": "How Much Does It Cost To Get In?",
+      "source_url": "https://nocovernightclubs.com/pool-parties/stadium-swim/"
+    },
+    {
+      "heading": "When Is Stadium Swim Open?",
+      "source_url": "https://nocovernightclubs.com/pool-parties/stadium-swim/"
+    },
+    {
+      "heading": "What Music Is Played At Stadium Swim?",
+      "source_url": "https://nocovernightclubs.com/pool-parties/stadium-swim/"
+    },
+    {
+      "heading": "What To Wear To Stadium Swim?",
+      "source_url": "https://nocovernightclubs.com/pool-parties/stadium-swim/"
+    }
+  ],
+  "field_provenance": {
+    "location": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/stadium-swim/",
+      "retrieved_at": "2026-11-15T18:28:00.601130+00:00"
+    },
+    "days": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/stadium-swim/",
+      "retrieved_at": "2026-11-15T18:28:00.601130+00:00"
+    },
+    "music": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/stadium-swim/",
+      "retrieved_at": "2026-11-15T18:28:00.601130+00:00"
+    },
+    "size": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/stadium-swim/",
+      "retrieved_at": "2026-11-15T18:28:00.601130+00:00"
+    },
+    "hours": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/stadium-swim/",
+      "retrieved_at": "2026-11-15T18:28:00.601130+00:00"
+    }
+  },
+  "links": [
+    {
+      "kind": "video",
+      "url": "https://www.youtube.com/embed/VKx4kPAayVU"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/pool-parties/stadium-swim-guest-list/#guestlist"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/pool-parties/stadium-swim-table-service-reservations/"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/stadium-swim-event-calendar/"
+    },
+    {
+      "kind": "image",
+      "url": "https://nocovernightclubs.com/wp-content/uploads/2022/01/Stadium-Swim-L.jpg"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/pool-parties/stadium-swim-guest-list/"
+    }
+  ],
+  "source": {
+    "url": "https://nocovernightclubs.com/pool-parties/stadium-swim/",
+    "observed_at": "2026-11-15T18:28:00.601130+00:00",
+    "listing_url": "https://nocovernightclubs.com/pool-parties/"
+  },
+  "quality": {
+    "profile_parsed": true,
+    "description_kind": "fact_summary"
+  },
+  "directory_facts": {
+    "location": "Circa Hotel",
+    "days": "Daily",
+    "music": "Top 40 & Open Format"
+  }
+}

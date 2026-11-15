@@ -12,7 +12,7 @@ def build(root=ROOT):
   slug=d['id'];rel='venues/'+slug+'.html'
   index.append({'id':slug,'name':d['name'],'type':d['listing_category'],'detail_url':rel,'json_url':'data/venues/'+slug+'.json'})
   facts=''.join('<dt>'+e(k.replace('_',' ').title())+'</dt><dd>'+e(v)+'</dd>' for k,v in d['facts'].items())
-  links=''.join('<li><a rel="noopener noreferrer" href="'+e(x['url'])+'">'+e(x['kind'].replace('_',' ').title())+'</a></li>' for x in d['links'])
+  links=''.join('<li><a rel="noopener noreferrer" href="'+e(x['url'])+'">'+e(x['kind'].replace('_',' ').title() if x['kind']!='source' else x['url'].rstrip('/').split('/')[-1].replace('-',' ').title())+'</a></li>' for x in d['links'])
   body='<a href="index.html">← Vegas venues</a><h1>'+e(d['name'])+'</h1><p>'+e(d['description'] or '')+'</p><dl>'+facts+'</dl><h2>Explore</h2><ul>'+links+'</ul><p>Source: <a href="'+e(d['source']['url'])+'">No Cover Nightclubs</a>. Observed '+e(d['source']['observed_at'])+'. Hours and policies can change; verify with the venue.</p><a href="../data/venues/'+e(slug)+'.json">JSON record</a>'
   (target/(slug+'.html')).write_text(page(d['name'],body))
   cards.append('<a class="card" href="'+e(slug)+'.html"><div><h2>'+e(d['name'])+'</h2><p>'+e(d['facts'].get('location',''))+'</p></div></a>')

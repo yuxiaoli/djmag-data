@@ -1,0 +1,114 @@
+{
+  "id": "zouk-nightclub",
+  "name": "Zouk Nightclub",
+  "listing_category": "nightclub",
+  "facts": {
+    "location": "Resorts World Hotel",
+    "nights": "Friday, Saturday",
+    "music": "EDM, Top 40, Open Format",
+    "size": "26,060 sq-ft",
+    "address": "3000 S Las Vegas Blvd, Las Vegas, NV 89109",
+    "hours": "from 10:30pm until 4am"
+  },
+  "description": "Zouk Nightclub at Resorts World Hotel. Listed music: EDM, Top 40, Open Format.",
+  "sections": [
+    {
+      "heading": "About Zouk Nightclub | The Complete Guide",
+      "source_url": "https://nocovernightclubs.com/nightclubs/zouk-nightclub/"
+    },
+    {
+      "heading": "Where Is Zouk Las Vegas Located?",
+      "source_url": "https://nocovernightclubs.com/nightclubs/zouk-nightclub/"
+    },
+    {
+      "heading": "How To Get To Zouk",
+      "source_url": "https://nocovernightclubs.com/nightclubs/zouk-nightclub/"
+    },
+    {
+      "heading": "How Much Does It Cost To Get In?",
+      "source_url": "https://nocovernightclubs.com/nightclubs/zouk-nightclub/"
+    },
+    {
+      "heading": "When Is Zouk Open?",
+      "source_url": "https://nocovernightclubs.com/nightclubs/zouk-nightclub/"
+    },
+    {
+      "heading": "What Music Is Played At Zouk?",
+      "source_url": "https://nocovernightclubs.com/nightclubs/zouk-nightclub/"
+    },
+    {
+      "heading": "What To Wear To Zouk?",
+      "source_url": "https://nocovernightclubs.com/nightclubs/zouk-nightclub/"
+    }
+  ],
+  "field_provenance": {
+    "location": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/zouk-nightclub/",
+      "retrieved_at": "2026-11-15T18:24:10.476676+00:00"
+    },
+    "nights": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/zouk-nightclub/",
+      "retrieved_at": "2026-11-15T18:24:10.476676+00:00"
+    },
+    "music": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/zouk-nightclub/",
+      "retrieved_at": "2026-11-15T18:24:10.476676+00:00"
+    },
+    "size": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/zouk-nightclub/",
+      "retrieved_at": "2026-11-15T18:24:10.476676+00:00"
+    },
+    "address": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/zouk-nightclub/",
+      "retrieved_at": "2026-11-15T18:24:10.476676+00:00"
+    },
+    "hours": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/zouk-nightclub/",
+      "retrieved_at": "2026-11-15T18:24:10.476676+00:00"
+    }
+  },
+  "links": [
+    {
+      "kind": "video",
+      "url": "https://www.youtube.com/embed/PpyRFmuxPBE"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/nightclubs/zouk-nightclub-guest-list/#guestlist"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/nightclubs/zouk-nightclub-table-service-reservations/"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/zouk-nightclub-event-calendar/"
+    },
+    {
+      "kind": "image",
+      "url": "https://nocovernightclubs.com/wp-content/uploads/2022/01/Zouk-Nightclub-L.jpg"
+    },
+    {
+      "kind": "source",
+      "url": "http://nocovernightclubs.com/nightclubs/zouk-nightclub-table-service-reservations/"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/nightclubs/zouk-nightclub-guest-list/"
+    }
+  ],
+  "source": {
+    "url": "https://nocovernightclubs.com/nightclubs/zouk-nightclub/",
+    "observed_at": "2026-11-15T18:24:10.476676+00:00",
+    "listing_url": "https://nocovernightclubs.com/nightclubs/"
+  },
+  "quality": {
+    "profile_parsed": true,
+    "description_kind": "fact_summary"
+  },
+  "directory_facts": {
+    "location": "Resorts World Hotel",
+    "days": "Fri, Sat",
+    "music": "EDM, Top 40, Open Format"
+  }
+}

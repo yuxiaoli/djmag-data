@@ -1,0 +1,110 @@
+{
+  "id": "liquid",
+  "name": "Liquid Pool Lounge",
+  "listing_category": "dayclub",
+  "facts": {
+    "location": "Aria Hotel",
+    "days": "Wed, Thurs, Fri, Sat, Sun",
+    "music": "Open Format & Top 40",
+    "size": "16,000 sq-ft",
+    "address": "3730 S Las Vegas Blvd, Las Vegas, NV 89109",
+    "hours": "from 11am until 5pm"
+  },
+  "description": "Liquid Pool Lounge at Aria Hotel. Listed music: Open Format & Top 40.",
+  "sections": [
+    {
+      "heading": "About Liquid Pool Lounge | The Complete Guide",
+      "source_url": "https://nocovernightclubs.com/pool-parties/liquid/"
+    },
+    {
+      "heading": "Where Is Liquid Las Vegas Located?",
+      "source_url": "https://nocovernightclubs.com/pool-parties/liquid/"
+    },
+    {
+      "heading": "How To Get To Liquid",
+      "source_url": "https://nocovernightclubs.com/pool-parties/liquid/"
+    },
+    {
+      "heading": "How Much Does It Cost To Get In?",
+      "source_url": "https://nocovernightclubs.com/pool-parties/liquid/"
+    },
+    {
+      "heading": "When Is Liquid Open?",
+      "source_url": "https://nocovernightclubs.com/pool-parties/liquid/"
+    },
+    {
+      "heading": "What Music Is Played At Liquid Pool?",
+      "source_url": "https://nocovernightclubs.com/pool-parties/liquid/"
+    },
+    {
+      "heading": "What To Wear To Liquid?",
+      "source_url": "https://nocovernightclubs.com/pool-parties/liquid/"
+    }
+  ],
+  "field_provenance": {
+    "location": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/liquid/",
+      "retrieved_at": "2026-11-15T18:31:24.190327+00:00"
+    },
+    "days": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/liquid/",
+      "retrieved_at": "2026-11-15T18:31:24.190327+00:00"
+    },
+    "music": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/liquid/",
+      "retrieved_at": "2026-11-15T18:31:24.190327+00:00"
+    },
+    "size": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/liquid/",
+      "retrieved_at": "2026-11-15T18:31:24.190327+00:00"
+    },
+    "address": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/liquid/",
+      "retrieved_at": "2026-11-15T18:31:24.190327+00:00"
+    },
+    "hours": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/liquid/",
+      "retrieved_at": "2026-11-15T18:31:24.190327+00:00"
+    }
+  },
+  "links": [
+    {
+      "kind": "image",
+      "url": "https://nocovernightclubs.com/wp-content/uploads/2022/01/Liquid-Pool-L.jpg"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/pool-parties/liquid-pool-guest-list/#guestlist"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/pool-parties/liquid-pool-table-service-reservations/"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/liquid-pool-event-calendar/"
+    },
+    {
+      "kind": "video",
+      "url": "https://www.youtube.com/embed/Tas9iHj8G3w"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/pool-parties/liquid-pool-guest-list/"
+    }
+  ],
+  "source": {
+    "url": "https://nocovernightclubs.com/pool-parties/liquid/",
+    "observed_at": "2026-11-15T18:31:24.190327+00:00",
+    "listing_url": "https://nocovernightclubs.com/pool-parties/"
+  },
+  "quality": {
+    "profile_parsed": true,
+    "description_kind": "fact_summary"
+  },
+  "directory_facts": {
+    "location": "Aria Hotel",
+    "days": "Wed, Thu, Fri, Sat, Sun",
+    "music": "Top 40 & Open Format"
+  }
+}
