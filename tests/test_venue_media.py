@@ -17,4 +17,4 @@ class MediaTests(unittest.TestCase):
    p=Path(tmp);(p/'assets').mkdir();(p/'assets/venues.css').write_text('');(p/'data/venues').mkdir(parents=True)
    record={'id':'test','name':'Test','listing_category':'nightclub','description':'Venue','facts':{},'links':[{'kind':'image','url':'https://example.com/a.jpg'},{'kind':'video','url':'https://www.youtube.com/embed/UAGuJJF2KDo'}],'source':{'url':'https://example.com','observed_at':'2026-11-15'}}
    f=p/'data/venues/test.json';f.write_text(json.dumps(record));before=f.read_bytes();build(p);self.assertEqual(f.read_bytes(),before)
-   output=(p/'site/venues/test.html').read_text();self.assertIn('<img ',output);self.assertIn('<iframe ',output);self.assertIn('Open original photo',output);self.assertIn('Watch video on YouTube',output)
+   output=(p/'site/venues/test.html').read_text();self.assertIn('<img ',output);self.assertIn('<iframe ',output);self.assertIn('Open original photo',output);self.assertIn('Watch original video at source',output)

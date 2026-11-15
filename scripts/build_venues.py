@@ -38,7 +38,7 @@ def build(root=ROOT):
   media=''
   for n,url in enumerate(videos,1):
    embed=youtube_embed(url)
-   media+=('<div class="video"><iframe loading="lazy" src="'+e(embed)+'" title="'+e(name)+' video '+str(n)+'" allow="fullscreen; picture-in-picture" allowfullscreen referrerpolicy="strict-origin-when-cross-origin"></iframe></div>' if embed else '')+'<p class="caption"><a href="'+e(url)+'" rel="noopener noreferrer">Watch video'+(' '+str(n) if len(videos)>1 else '')+' on YouTube</a> · If the player is unavailable, open the original video.</p>'
+   media+=('<div class="video"><iframe loading="lazy" src="'+e(embed)+'" title="'+e(name)+' video '+str(n)+'" allow="fullscreen; picture-in-picture" allowfullscreen referrerpolicy="strict-origin-when-cross-origin"></iframe></div>' if embed else '')+'<p class="caption"><a href="'+e(url)+'" rel="noopener noreferrer">Watch original video'+(' '+str(n) if len(videos)>1 else '')+' at source</a> · If the player is unavailable, open the original video.</p>'
   gallery=''.join('<a href="'+e(url)+'" aria-label="Open '+e(name)+' photo">'+photo(url,name)+'</a>' for url in images[1:])
   if gallery:media+='<h2>More views</h2><div class="gallery">'+gallery+'</div>'
   actions=[];seen=set()
