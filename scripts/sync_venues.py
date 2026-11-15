@@ -13,19 +13,24 @@ def fetch(url):
   return raw.decode('utf-8')
 def discover(markup):
  return list(dict.fromkeys(html.unescape(h) for h,t in re.findall(r'<a[^>]+href=["\x27]([^"\x27]+)["\x27][^>]*>(.*?)</a>',markup,re.S) if re.sub('<[^>]+>','',t).strip()=='Club Details'))
+def crawl_delay(rp):
+ delay=rp.crawl_delay(AGENT) or rp.crawl_delay('*') or 0
+ rate=rp.request_rate(AGENT) or rp.request_rate('*')
+ return max(10,float(delay),rate.seconds/rate.requests if rate and rate.requests else 0)
 def run():
  rp=urllib.robotparser.RobotFileParser();rp.parse(fetch(BASE+'/robots.txt').splitlines())
+ delay=crawl_delay(rp)
  rows=[]
  for path,typ in [('/nightclubs/','nightclub'),('/pool-parties/','dayclub')]:
   url=BASE+path
   if not rp.can_fetch(AGENT,url):raise RuntimeError('Robots denies directory')
-  time.sleep(10);markup=fetch(url);urls=discover(markup)
+  time.sleep(delay);markup=fetch(url);urls=discover(markup)
   if not urls or len(urls)>100:raise ValueError('Unexpected directory coverage')
   rows.extend((u,typ,url,listing_facts(markup,u)) for u in urls)
  records=[]
  for url,typ,listing,directory in rows:
   if not rp.can_fetch(AGENT,url):raise RuntimeError('Robots denies venue')
-  time.sleep(10);markup=fetch(url);record=extract(markup,url,typ,datetime.datetime.now(datetime.timezone.utc).isoformat())
+  time.sleep(delay);markup=fetch(url);record=extract(markup,url,typ,datetime.datetime.now(datetime.timezone.utc).isoformat())
   record['source']['listing_url']=listing;record['directory_facts']=directory;records.append(record)
  # Fail closed: no public record mutation unless every discovered page parsed.
  import jsonschema

@@ -5,14 +5,19 @@ on:
     - cron: '17 20 14 11 *' # Independently configurable: annual, November 15 Hong Kong
 permissions:
   contents: write
+  pages: write
+  id-token: write
 concurrency:
-  group: venue-metadata-sync
+  group: catalog-publish
   cancel-in-progress: false
 jobs:
   collect:
     if: vars.VENUE_COLLECTION_ENABLED == 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 90
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -31,3 +36,12 @@ jobs:
           if git diff --cached --quiet; then exit 0; fi
           git commit -m 'data: refresh Vegas venues'
           git push origin HEAD:develop
+
+      - run: python scripts/build_site.py
+      - run: python scripts/build_venues.py
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deployment
+        uses: actions/deploy-pages@v4
