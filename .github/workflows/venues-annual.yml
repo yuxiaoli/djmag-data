@@ -1,0 +1,33 @@
+name: Annual Vegas venue refresh
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 20 14 11 *' # Independently configurable: annual, November 15 Hong Kong
+permissions:
+  contents: write
+concurrency:
+  group: venue-metadata-sync
+  cancel-in-progress: false
+jobs:
+  collect:
+    if: vars.VENUE_COLLECTION_ENABLED == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: develop
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python -m pip install -r requirements.txt
+      - run: python -m unittest discover -s tests -v
+      - run: python scripts/sync_venues.py
+      - name: Commit venue data only
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/venues/
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m 'data: refresh Vegas venues'
+          git push origin HEAD:develop
