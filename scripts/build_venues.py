@@ -35,6 +35,8 @@ def build(root=ROOT):
   index.append({'id':slug,'name':name,'type':d['listing_category'],'detail_url':'venues/'+slug+'.html','json_url':'data/venues/'+slug+'.json'})
   facts=''.join('<dt>'+e(k.replace('_',' ').title())+'</dt><dd>'+e(v)+'</dd>' for k,v in d['facts'].items())
   directory=''.join('<dt>'+e(k.title())+'</dt><dd>'+e(v)+'</dd>' for k,v in d.get('directory_facts',{}).items())
+  quality=d.get('quality',{});conflicts=quality.get('source_conflicts',[])
+  review=('<section class="note"><h2>Source review notes</h2>'+('<p>Review source observed '+e(quality['source_conflicts_observed_at'])+'</p>' if quality.get('source_conflicts_observed_at') else '')+'<ul>'+''.join('<li>'+e(note)+'</li>' for note in conflicts)+'</ul></section>' if conflicts else '')
   media=''
   for n,url in enumerate(videos,1):
    embed=youtube_embed(url)
@@ -52,7 +54,7 @@ def build(root=ROOT):
   if hero:intro+='<p class="caption"><a href="'+e(hero)+'">Open original photo</a> · Photo via No Cover Nightclubs.</p>'
   main='<div class="content-layout"><section>'+('<h2>Step inside</h2>'+media if media else '<h2>Explore the venue</h2><p class="lead">Visit the source for more photos and current venue information.</p>')+'<div class="actions">'+''.join(actions)+'</div></section><aside class="panel"><h2>At a glance</h2><dl>'+facts+'</dl>'+('<details><summary>Compare directory listing</summary><dl>'+directory+'</dl><p class="note">The directory and detail page may differ. Confirm current hours with the venue.</p></details>' if directory else '')+'</aside></div>'
   footer='<footer>Source: <a href="'+e(d['source']['url'])+'">No Cover Nightclubs</a> · Observed '+e(d['source']['observed_at'])+'<p>Hours and policies can change. Media belongs to its respective owners.</p><a href="../data/venues/'+e(slug)+'.json">JSON record</a></footer>'
-  (target/(slug+'.html')).write_text(page(name,intro+main+footer))
+  (target/(slug+'.html')).write_text(page(name,intro+main+review+footer))
   cards.append('<a class="card" href="'+e(slug)+'.html">'+photo(hero,name)+'<div class="card-content"><span class="badge">'+e(d['listing_category'])+'</span><h3>'+e(name)+'</h3><p>'+e(d['facts'].get('location',''))+'</p></div></a>')
  body='<nav><a href="../index.html">DJ catalog</a></nav><span class="eyebrow">The Las Vegas collection</span><h1>Find your next<br>scene.</h1><p class="lead">From poolside afternoons to late-night dance floors. Explore '+str(len(rows))+' Vegas venues, with a closer look inside.</p><div class="searchbox"><label for="search">Find a venue or hotel</label><input id="search" placeholder="Try Omnia, Encore or dayclub" type="search"></div><p id="empty" hidden>No venues match. Try another name or hotel.</p><section class="grid">'+''.join(cards)+'</section><footer>Venue information and media via <a href="https://nocovernightclubs.com/nightclubs/">No Cover Nightclubs</a>. Verify current hours and entry policies with the venue.</footer><script>document.querySelector("#search").addEventListener("input",e=>{let shown=0;document.querySelectorAll(".card").forEach(c=>{c.hidden=!c.textContent.toLowerCase().includes(e.target.value.toLowerCase());if(!c.hidden)shown++});document.querySelector("#empty").hidden=shown!==0})</script>'
  (target/'index.html').write_text(page('Vegas venues',body));dest=out/'data/venues';shutil.copytree(root/'data/venues',dest,dirs_exist_ok=True);(dest/'index.json').write_text(json.dumps({'venues':index},indent=2)+'\n');return len(rows)

@@ -112,7 +112,12 @@
   },
   "quality": {
     "profile_parsed": true,
-    "description_kind": "fact_summary"
+    "description_kind": "fact_summary",
+    "source_conflicts": [
+      "Directory includes Thursday; profile lists Tuesday, Friday, Saturday, Sunday. Neither is silently promoted to current verified hours.",
+      "Profile dress-code section names XS; excluded as possible source copy error."
+    ],
+    "source_conflicts_observed_at": "2026-11-15T18:25:43.167832+00:00"
   },
   "directory_facts": {
     "location": "Caesars Palace Hotel",

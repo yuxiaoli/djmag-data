@@ -46,6 +46,16 @@ def crawl_delay(rp):
  delay=rp.crawl_delay(AGENT) or rp.crawl_delay('*') or 0
  rate=rp.request_rate(AGENT) or rp.request_rate('*')
  return max(10,float(delay),rate.seconds/rate.requests if rate and rate.requests else 0)
+
+def preserve_review_notes(previous,record):
+ old_source=previous.get('source',{});old_quality=previous.get('quality',{})
+ if not isinstance(old_source,dict) or not isinstance(old_quality,dict):return record
+ same_identity=all(previous.get(field)==record[field] for field in ('id','listing_category'))
+ same_source=all(old_source.get(field)==record['source'].get(field) for field in ('url','listing_url'))
+ if same_identity and same_source and 'source_conflicts' in old_quality:
+  record['quality']['source_conflicts']=old_quality['source_conflicts']
+  record['quality']['source_conflicts_observed_at']=old_quality.get('source_conflicts_observed_at',old_source.get('observed_at'))
+ return record
 def run():
  baseline=known_roster()
  rp=urllib.robotparser.RobotFileParser();rp.parse(fetch(BASE+'/robots.txt').splitlines())
@@ -65,7 +75,10 @@ def run():
   if not rp.can_fetch(AGENT,url):raise RuntimeError('Robots denies venue')
   time.sleep(delay);markup=fetch(url,redirect_delay=delay,robots=rp);record=extract(markup,url,typ,datetime.datetime.now(datetime.timezone.utc).isoformat())
   if not any(record['facts'].get(field) for field in ('location','nights','days','music','size')):raise ValueError('Unexpected venue profile structure: '+url)
-  record['source']['listing_url']=listing;record['directory_facts']=directory;records.append(record)
+  record['source']['listing_url']=listing;record['directory_facts']=directory
+  previous_path=ROOT/'data/venues'/(record['id']+'.json')
+  if previous_path.exists():record=preserve_review_notes(json.loads(previous_path.read_text()),record)
+  records.append(record)
  # Fail closed: no public record mutation unless every discovered page parsed.
  if len({record['id'] for record in records})!=len(records):raise ValueError('Duplicate venue IDs; preserve previous snapshot')
  import jsonschema
