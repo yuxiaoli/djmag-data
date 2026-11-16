@@ -6,7 +6,7 @@ Public source-attributed DJ metadata and static artist pages. One JSON per `data
 
 Collect the latest DJ Mag ranking edition only. Historical year links are excluded, not followed. Include ranks beyond 100 only if the current edition actually provides them; do not manufacture additional artists to meet a numerical target. The observed 2026 page supplies 100 artists. Prior-year links alone are not a reason to expand collection.
 
-Refresh annually, not weekly. Prepared Actions schedule: November 15 at 04:17 Asia/Hong_Kong. Collection remains gated by `SOURCE_COLLECTION_ENABLED` (not enabled) until the existing access denial is resolved. Publishing the workflow alone is not activation. Manual execution remains available for initial collection and repairs. The annual workflow collects current profiles with a 1,000-profile safety budget and 350-minute maximum; any incomplete coverage must be reported, not hidden.
+Refresh annually, not weekly. Prepared Actions schedule: November 15 at 04:17 Asia/Hong_Kong. Collection remains gated by `SOURCE_COLLECTION_ENABLED` (not enabled) until the existing access denial is resolved. Publishing the workflow alone is not activation. Manual commissioning requires the source-access gate to be enabled only after the access denial is resolved. Scheduled execution additionally requires `DJ_ANNUAL_SYNC_ENABLED=true`; leave this separate annual gate unset until a complete manual run and deployed catalogs are verified. Neither a manual run nor this code change enables annual refresh automatically. The annual workflow collects current profiles with a 1,000-profile safety budget and 350-minute maximum; any incomplete coverage must be reported, not hidden.
 
 ## Data
 

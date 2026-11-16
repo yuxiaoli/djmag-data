@@ -13,7 +13,11 @@ concurrency:
   queue: max
 jobs:
   sync:
-    if: vars.SOURCE_COLLECTION_ENABLED == 'true'
+    # Source access must be resolved separately; manual commissioning never enables cron.
+    if: >-
+      vars.SOURCE_COLLECTION_ENABLED == 'true' &&
+      (github.event_name == 'workflow_dispatch' ||
+       (github.event_name == 'schedule' && vars.DJ_ANNUAL_SYNC_ENABLED == 'true'))
     runs-on: ubuntu-latest
     timeout-minutes: 350
     environment:
