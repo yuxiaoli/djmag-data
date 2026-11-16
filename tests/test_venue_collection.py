@@ -7,7 +7,7 @@ import tempfile
 import unittest
 from unittest.mock import patch
 from urllib.error import URLError
-from jsonschema import ValidationError
+from jsonschema import Draft202012Validator, FormatChecker, ValidationError
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / 'scripts'))
@@ -135,6 +135,68 @@ class VenueCollectionTests(unittest.TestCase):
         self.assertEqual('Alpha updated', json.loads((self.root / 'data/venues/alpha.json').read_text())['name'])
         self.assertEqual(previous['manual.json'], self.snapshot()['manual.json'])
         self.assertEqual(previous['omnia-nightclub.json'], self.snapshot()['omnia-nightclub.json'])
+
+    def test_refresh_preserves_review_notes_with_original_date_and_fresh_fact_provenance(self):
+        original_date = '2026-11-15T18:25:43.167832+00:00'
+        known = collector.extract(self.detail('Alpha original'), collector.BASE + '/venues/alpha/', 'nightclub', original_date)
+        known['source']['listing_url'] = collector.BASE + '/nightclubs/'
+        notes = ['Directory and profile disagree about Thursday.', 'Profile dress-code text names another venue.']
+        known['quality']['source_conflicts'] = notes
+        path = self.root / 'data/venues/alpha.json'
+        path.write_text(json.dumps(known))
+        fresh = self.detail('Alpha refreshed').replace('Example hotel', 'Updated hotel')
+        self.run_collector(['User-agent: *\nAllow: /', self.directory('alpha'), self.directory('beta'), fresh, self.detail('Beta')])
+        current = json.loads(path.read_text())
+        self.assertEqual(notes, current['quality'].get('source_conflicts'))
+        self.assertEqual(original_date, current['quality'].get('source_conflicts_observed_at'))
+        self.assertEqual('Updated hotel', current['facts']['location'])
+        self.assertNotEqual(original_date, current['source']['observed_at'])
+        self.assertEqual(current['source']['observed_at'], current['field_provenance']['location']['retrieved_at'])
+
+    def test_second_refresh_does_not_redate_retained_review_notes(self):
+        original_date = '2026-11-15T18:25:43.167832+00:00'
+        known = collector.extract(self.detail('Alpha original'), collector.BASE + '/venues/alpha/', 'nightclub', original_date)
+        known['source']['listing_url'] = collector.BASE + '/nightclubs/'
+        known['quality']['source_conflicts'] = ['Original reviewed conflict.']
+        path = self.root / 'data/venues/alpha.json'
+        path.write_text(json.dumps(known))
+        for name in ('Alpha first refresh', 'Alpha second refresh'):
+            self.run_collector(['User-agent: *\nAllow: /', self.directory('alpha'), self.directory('beta'), self.detail(name), self.detail('Beta')])
+            current = json.loads(path.read_text())
+            self.assertEqual(original_date, current['quality']['source_conflicts_observed_at'])
+            self.assertEqual(['Original reviewed conflict.'], current['quality']['source_conflicts'])
+
+    def test_review_note_schema_validates_strings_and_date_without_rejecting_extensions(self):
+        schema = json.loads((self.root / 'data/venue.schema.json').read_text())
+        validator = Draft202012Validator(schema, format_checker=FormatChecker())
+        known = collector.extract(self.detail('Alpha'), collector.BASE + '/venues/alpha/', 'nightclub', '2026-11-15T00:00:00Z')
+        known['quality'].update(source_conflicts=['Reviewed conflict.'], source_conflicts_observed_at='not-a-date', existing_extension={'preserve': True})
+        with self.assertRaises(ValidationError):
+            validator.validate(known)
+        known['quality']['source_conflicts_observed_at'] = '2026-11-15T18:25:43.167832+00:00'
+        validator.validate(known)
+        for invalid in ('not an array', [1], ['']):
+            with self.subTest(invalid=invalid):
+                known['quality']['source_conflicts'] = invalid
+                with self.assertRaises(ValidationError):
+                    validator.validate(known)
+
+    def test_review_notes_do_not_transfer_across_identity_or_source_boundaries(self):
+        known = collector.extract(self.detail('Alpha'), collector.BASE + '/venues/alpha/', 'nightclub', '2026-11-15T00:00:00Z')
+        known['source']['listing_url'] = collector.BASE + '/nightclubs/'
+        known['quality'].update(source_conflicts=['Review belongs to the original source.'], source_conflicts_observed_at='2026-11-15T00:00:00Z')
+        for field, value in (('id', 'different-id'), ('listing_category', 'dayclub'), ('url', 'https://unrelated.example/venues/alpha/'), ('listing_url', collector.BASE + '/pool-parties/')):
+            with self.subTest(field=field):
+                previous = json.loads(json.dumps(known))
+                if field in ('id', 'listing_category'):
+                    previous[field] = value
+                else:
+                    previous['source'][field] = value
+                fresh = collector.extract(self.detail('Alpha refreshed'), collector.BASE + '/venues/alpha/', 'nightclub', '2026-11-16T00:00:00Z')
+                fresh['source']['listing_url'] = collector.BASE + '/nightclubs/'
+                current = collector.preserve_review_notes(previous, fresh)
+                self.assertNotIn('source_conflicts', current['quality'])
+                self.assertNotIn('source_conflicts_observed_at', current['quality'])
 
 
 if __name__ == '__main__':

@@ -109,7 +109,22 @@
       }
     },
     "quality": {
-      "type": "object"
+      "type": "object",
+      "properties": {
+        "source_conflicts": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "description": "Retained review notes about conflicting or unreliable source content; not a new source assertion."
+        },
+        "source_conflicts_observed_at": {
+          "type": "string",
+          "format": "date-time",
+          "description": "Source observation timestamp associated with retained review notes, preserved unchanged on refresh; not the time a human reviewed them."
+        }
+      }
     },
     "field_provenance": {
       "type": "object",
