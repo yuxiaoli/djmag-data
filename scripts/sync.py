@@ -63,6 +63,63 @@ def fetch(url):
         if len(data)>5_000_000: raise ValueError('Response too large')
         return data.decode('utf-8')
 
+def previous_rank_is_sourced(record, ranking):
+    index = record['rankings'].index(ranking)
+    fields = {'/rankings', f'/rankings/{index}', f'/rankings/{index}/previous_rank'}
+    return ranking['previous_rank'] is not None and any(
+        source['url'] == ranking['source_url'] and fields.intersection(source['fields'])
+        for source in record['sources'])
+
+
+def relocated_ranking_field(old, row, field):
+    parts = field.split('/')[2:]
+    if not parts or not parts[0].isdigit():
+        return None
+    try:
+        previous = old['rankings'][int(parts[0])]
+        current_index = next(index for index, ranking in enumerate(row['rankings'])
+            if all(previous[key] == ranking[key] for key in ('year', 'rank', 'source_url')))
+        old_value, new_value = previous, row['rankings'][current_index]
+        for part in parts[1:]:
+            key = part.replace('~1', '/').replace('~0', '~')
+            old_value, new_value = old_value[key], new_value[key]
+        if old_value == new_value:
+            return '/rankings/' + str(current_index) + ''.join('/' + part for part in parts[1:])
+    except (IndexError, KeyError, StopIteration, TypeError):
+        pass
+    return None
+
+
+def refresh_sources(old, row, retained_ranking_urls, preserved_image):
+    """Retain unchanged field attribution and replace refreshed ranking claims."""
+    retained = []
+    for source in old['sources']:
+        fields = []
+        for field in source['fields']:
+            if field == '/name' or field.startswith('/name/') or field == '/updated_at':
+                continue
+            if field == '/rankings':
+                if source['url'] not in retained_ranking_urls:
+                    continue
+                fields.append(field)
+                continue
+            elif field.startswith('/rankings/'):
+                relocated = relocated_ranking_field(old, row, field)
+                if relocated:
+                    fields.append(relocated)
+                continue
+            root_field = field.split('/')[1]
+            if root_field not in row or old.get(root_field) != row[root_field]:
+                continue
+            fields.append(field)
+        if fields:
+            retained.append(dict(source, fields=fields))
+    fresh = row['sources']
+    if preserved_image:
+        fresh = [dict(source, fields=[field for field in source['fields'] if field != '/image' and not field.startswith('/image/')]) for source in fresh]
+    return retained + fresh
+
+
 def main():
     a=argparse.ArgumentParser();a.add_argument('--fixture',type=Path);a.add_argument('--output',type=Path,default=Path('data/djs'));args=a.parse_args()
     if args.fixture: html=args.fixture.read_text()
@@ -82,12 +139,22 @@ def main():
         path=args.output/(row['id']+'.json')
         if path.exists():
             old=json.loads(path.read_text());validator.validate(old)
+            preserved_image = old['image'] is not None
             for field in ('entity_type','description','nationalities','styles','birth_date','gender','image'):
                 if old[field] is not None and old[field] != []: row[field]=old[field]
             for field in ('origin','best_known_for','profile_metadata'):
                 if field in old: row[field]=old[field]
-            row['rankings']=sorted([r for r in old['rankings'] if r['year']!=row['rankings'][0]['year']]+row['rankings'],key=lambda r:r['year'])
-            row['sources']=[s for s in old['sources'] if s['publisher']!='DJ Mag']+row['sources']
+            historical_rankings=[r for r in old['rankings'] if r['year']!=row['rankings'][0]['year']]
+            retained_ranking_urls={r['source_url'] for r in historical_rankings}
+            refreshed_rank=row['rankings'][0]
+            for previous in old['rankings']:
+                unchanged=all(previous[key]==refreshed_rank[key] for key in ('year','rank','source_url'))
+                sourced=previous_rank_is_sourced(old,previous)
+                if unchanged and previous['previous_rank'] is not None and sourced:
+                    refreshed_rank['previous_rank']=previous['previous_rank']
+                    retained_ranking_urls.add(previous['source_url'])
+            row['rankings']=sorted(historical_rankings+row['rankings'],key=lambda r:r['year'])
+            row['sources']=refresh_sources(old,row,retained_ranking_urls,preserved_image)
         validator.validate(row);staged[path]=json.dumps(row,indent=2,ensure_ascii=False)+'\n'
     args.output.mkdir(parents=True,exist_ok=True)
     for path,body in staged.items():path.write_text(body)

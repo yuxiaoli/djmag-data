@@ -24,6 +24,8 @@ python scripts/build_site.py
 
 Requests honor robots and a minimum 10-second delay, fail on unexpected hosts/structure, and never bypass access controls. Profile writes checkpoint atomically; collection failure does not publish a partial workflow result.
 
+The profile budget limits work per attempt, not the acceptance target. Enrichment succeeds only after every stored current-edition profile is fetched and validated during that run. Timeouts or budget exhaustion preserve successful checkpoints and fail the run; older-edition-only artists are retained without being collected. Missing factual fields remain unknown even after a successful fetch. Ranking refresh preserves the original attribution of retained facts and any explicitly sourced previous rank whose edition, rank and source identity are unchanged.
+
 ## Current checkpoint
 
 100 current-year ranking records and image source links; 24 profiles enriched with source labels and exact movement. The remaining 76 are not represented as complete. The original reviewed HTTP collector resumed successfully after the earlier policy denial, then checkpointed 24 profiles before the execution service returned a further djmag.com network-policy denial. Black Coffee was subsequently collected successfully. No alternate route or automatic retry is used. Annual collection remains disabled pending complete validated operation.
