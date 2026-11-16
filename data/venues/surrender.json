@@ -48,27 +48,27 @@
   "field_provenance": {
     "location": {
       "source_url": "https://nocovernightclubs.com/nightclubs/surrender/",
-      "retrieved_at": "2026-11-15T18:26:10.729985+00:00"
+      "retrieved_at": "2026-11-16T07:15:00.691666+00:00"
     },
     "nights": {
       "source_url": "https://nocovernightclubs.com/nightclubs/surrender/",
-      "retrieved_at": "2026-11-15T18:26:10.729985+00:00"
+      "retrieved_at": "2026-11-16T07:15:00.691666+00:00"
     },
     "music": {
       "source_url": "https://nocovernightclubs.com/nightclubs/surrender/",
-      "retrieved_at": "2026-11-15T18:26:10.729985+00:00"
+      "retrieved_at": "2026-11-16T07:15:00.691666+00:00"
     },
     "size": {
       "source_url": "https://nocovernightclubs.com/nightclubs/surrender/",
-      "retrieved_at": "2026-11-15T18:26:10.729985+00:00"
+      "retrieved_at": "2026-11-16T07:15:00.691666+00:00"
     },
     "address": {
       "source_url": "https://nocovernightclubs.com/nightclubs/surrender/",
-      "retrieved_at": "2026-11-15T18:26:10.729985+00:00"
+      "retrieved_at": "2026-11-16T07:15:00.691666+00:00"
     },
     "hours": {
       "source_url": "https://nocovernightclubs.com/nightclubs/surrender/",
-      "retrieved_at": "2026-11-15T18:26:10.729985+00:00"
+      "retrieved_at": "2026-11-16T07:15:00.691666+00:00"
     }
   },
   "links": [
@@ -99,7 +99,7 @@
   ],
   "source": {
     "url": "https://nocovernightclubs.com/nightclubs/surrender/",
-    "observed_at": "2026-11-15T18:26:10.729985+00:00",
+    "observed_at": "2026-11-16T07:15:00.691666+00:00",
     "listing_url": "https://nocovernightclubs.com/nightclubs/"
   },
   "quality": {

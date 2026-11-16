@@ -48,27 +48,27 @@
   "field_provenance": {
     "location": {
       "source_url": "https://nocovernightclubs.com/pool-parties/marquee-dayclub/",
-      "retrieved_at": "2026-11-15T18:27:09.309250+00:00"
+      "retrieved_at": "2026-11-16T07:15:33.790048+00:00"
     },
     "days": {
       "source_url": "https://nocovernightclubs.com/pool-parties/marquee-dayclub/",
-      "retrieved_at": "2026-11-15T18:27:09.309250+00:00"
+      "retrieved_at": "2026-11-16T07:15:33.790048+00:00"
     },
     "music": {
       "source_url": "https://nocovernightclubs.com/pool-parties/marquee-dayclub/",
-      "retrieved_at": "2026-11-15T18:27:09.309250+00:00"
+      "retrieved_at": "2026-11-16T07:15:33.790048+00:00"
     },
     "size": {
       "source_url": "https://nocovernightclubs.com/pool-parties/marquee-dayclub/",
-      "retrieved_at": "2026-11-15T18:27:09.309250+00:00"
+      "retrieved_at": "2026-11-16T07:15:33.790048+00:00"
     },
     "address": {
       "source_url": "https://nocovernightclubs.com/pool-parties/marquee-dayclub/",
-      "retrieved_at": "2026-11-15T18:27:09.309250+00:00"
+      "retrieved_at": "2026-11-16T07:15:33.790048+00:00"
     },
     "hours": {
       "source_url": "https://nocovernightclubs.com/pool-parties/marquee-dayclub/",
-      "retrieved_at": "2026-11-15T18:27:09.309250+00:00"
+      "retrieved_at": "2026-11-16T07:15:33.790048+00:00"
     }
   },
   "links": [
@@ -103,7 +103,7 @@
   ],
   "source": {
     "url": "https://nocovernightclubs.com/pool-parties/marquee-dayclub/",
-    "observed_at": "2026-11-15T18:27:09.309250+00:00",
+    "observed_at": "2026-11-16T07:15:33.790048+00:00",
     "listing_url": "https://nocovernightclubs.com/pool-parties/"
   },
   "quality": {

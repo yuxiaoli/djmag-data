@@ -39,23 +39,23 @@
   "field_provenance": {
     "location": {
       "source_url": "https://nocovernightclubs.com/nightclubs/liv-nightclub/",
-      "retrieved_at": "2026-11-15T18:26:24.793304+00:00"
+      "retrieved_at": "2026-11-16T07:15:12.104190+00:00"
     },
     "nights": {
       "source_url": "https://nocovernightclubs.com/nightclubs/liv-nightclub/",
-      "retrieved_at": "2026-11-15T18:26:24.793304+00:00"
+      "retrieved_at": "2026-11-16T07:15:12.104190+00:00"
     },
     "music": {
       "source_url": "https://nocovernightclubs.com/nightclubs/liv-nightclub/",
-      "retrieved_at": "2026-11-15T18:26:24.793304+00:00"
+      "retrieved_at": "2026-11-16T07:15:12.104190+00:00"
     },
     "size": {
       "source_url": "https://nocovernightclubs.com/nightclubs/liv-nightclub/",
-      "retrieved_at": "2026-11-15T18:26:24.793304+00:00"
+      "retrieved_at": "2026-11-16T07:15:12.104190+00:00"
     },
     "hours": {
       "source_url": "https://nocovernightclubs.com/nightclubs/liv-nightclub/",
-      "retrieved_at": "2026-11-15T18:26:24.793304+00:00"
+      "retrieved_at": "2026-11-16T07:15:12.104190+00:00"
     }
   },
   "links": [
@@ -82,7 +82,7 @@
   ],
   "source": {
     "url": "https://nocovernightclubs.com/nightclubs/liv-nightclub/",
-    "observed_at": "2026-11-15T18:26:24.793304+00:00",
+    "observed_at": "2026-11-16T07:15:12.104190+00:00",
     "listing_url": "https://nocovernightclubs.com/nightclubs/"
   },
   "quality": {
