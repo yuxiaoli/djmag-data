@@ -6,8 +6,9 @@ permissions:
   pages: write
   id-token: write
 concurrency:
-  group: pages
+  group: catalog-publish
   cancel-in-progress: false
+  queue: max
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -16,6 +17,8 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: develop
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'

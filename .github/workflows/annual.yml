@@ -8,8 +8,9 @@ permissions:
   pages: write
   id-token: write
 concurrency:
-  group: dj-metadata-sync
+  group: catalog-publish
   cancel-in-progress: false
+  queue: max
 jobs:
   sync:
     if: vars.SOURCE_COLLECTION_ENABLED == 'true'
@@ -38,6 +39,7 @@ jobs:
           git commit -m 'data: refresh DJ ranking metadata'
           git push origin HEAD:develop
       - run: python scripts/build_site.py
+      - run: python scripts/build_venues.py
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
