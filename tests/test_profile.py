@@ -8,3 +8,27 @@ class ProfileTests(unittest.TestCase):
   p=parse_profile(html);self.assertEqual(3,p['movement_places']);self.assertEqual('Exampleland',p['intro_fields'][0]['value']);self.assertNotIn('sameAs',str(p));self.assertIsNone(p['article']['modified_at'])
  def test_unknown_fields(self):
   p=parse_profile('<div class="field--name-field-intro"><p><strong>New field: </strong>New fact</p></div>');self.assertEqual('New field',p['intro_fields'][0]['label']);self.assertIsNone(p['movement'])
+
+class BiographyTests(unittest.TestCase):
+ def test_full_nested_body_and_excluded_chrome(self):
+  html='<nav>Menu</nav><div class="field field--name-body"><div><p>First <em>full</em> paragraph &amp; facts.</p><p>Second paragraph.</p><aside>Ad</aside><script>bad()</script><p>Final paragraph.</p></div></div><footer>Subscribe</footer>'
+  self.assertEqual(parse_profile(html)['description'],'First full paragraph & facts.\n\nSecond paragraph.\n\nFinal paragraph.')
+ def test_jsonld_full_body_not_short_description(self):
+  import json
+  html='<script type="application/ld+json">'+json.dumps({'@type':'Article','articleBody':'Full first paragraph.\nSecond paragraph.','description':'Teaser'})+'</script>'
+  self.assertEqual(parse_profile(html)['description'],'Full first paragraph.\n\nSecond paragraph.')
+ def test_absent_body_is_unknown(self):
+  self.assertIsNone(parse_profile('<meta name="description" content="Teaser"><p>Unscoped unrelated text</p>')['description'])
+ def test_empty_body_does_not_invent(self):
+  self.assertIsNone(parse_profile('<div class="field--name-body"><iframe src="video"></iframe></div>')['description'])
+ def test_inline_spacing_and_duplicate_responsive_body(self):
+  b='<div itemprop="articleBody"><p>A <strong>long</strong> body.</p></div>'
+  self.assertEqual(parse_profile(b+b)['description'],'A long body.')
+ def test_body_inside_outer_chrome_is_excluded(self):
+  for tag in ('aside','nav','footer','header'):
+   with self.subTest(tag=tag):
+    html='<article><div class="field--name-body">Correct</div></article><'+tag+'><div class="field--name-body">Unrelated</div></'+tag+'>'
+    self.assertEqual(parse_profile(html)['description'],'Correct')
+ def test_ambiguous_multiple_article_bodies_are_not_combined(self):
+  html='<article><div class="field--name-body">One</div></article><article><div class="field--name-body">Two</div></article>'
+  self.assertIsNone(parse_profile(html)['description'])

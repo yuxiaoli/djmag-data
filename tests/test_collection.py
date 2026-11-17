@@ -63,6 +63,7 @@ class RankingRefreshTests(unittest.TestCase):
     def test_unchanged_rank_retains_explicit_verified_previous_rank_and_attribution(self):
         old = json.loads((ROOT / 'data/djs/david-guetta.json').read_text())
         old['rankings'][0]['previous_rank'] = 7
+        old['sources'][0]['fields'].append('/rankings')
         current = self.refresh(old)
         self.assertEqual(7, current['rankings'][0]['previous_rank'])
         self.assertTrue(any(s['retrieved_at'] == old['sources'][0]['retrieved_at'] and '/rankings' in s['fields'] for s in current['sources']))
@@ -173,6 +174,34 @@ class ProfileCollectionTests(unittest.TestCase):
         self.assertEqual([], row['nationalities'])
         self.assertIsNone(row['birth_date'])
         self.assertIsNone(row['description'])
+
+    def test_description_persisted_with_provenance(self):
+        current = self.record('current')
+        self.collect([self.profile_html('current') + '<div class="field--name-body"><p>Full profile.</p><p>Last paragraph.</p></div>'])
+        row = json.loads(current.read_text())
+        self.assertEqual('Full profile.\n\nLast paragraph.', row['description'])
+        self.assertIn('/description', row['sources'][-1]['fields'])
+        self.assertNotIn('description', row['profile_metadata'])
+
+    def test_missing_body_preserves_prior_description_and_provenance_but_fails_acceptance(self):
+        current = self.record('current')
+        row = json.loads(current.read_text())
+        row['description'] = 'Earlier verified description.'
+        row['sources'].append(dict(url=row['rankings'][0]['source_url'], publisher='DJ Mag', retrieved_at='2026-01-01T00:00:00Z', fields=['/description']))
+        current.write_text(json.dumps(row))
+        with self.assertRaisesRegex(RuntimeError, 'Description extraction incomplete'):
+            self.collect([self.profile_html('current')])
+        updated = json.loads(current.read_text())
+        self.assertEqual(row['description'], updated['description'])
+        self.assertIn(row['sources'][-1], updated['sources'])
+        self.assertNotIn('/description', updated['sources'][-1]['fields'])
+
+    def test_missing_body_does_not_claim_new_description_evidence(self):
+        current = self.record('current')
+        self.collect([self.profile_html('current')])
+        updated = json.loads(current.read_text())
+        self.assertIsNone(updated['description'])
+        self.assertNotIn('/description', updated['sources'][-1]['fields'])
 
     def test_invalid_profile_fails_without_replacing_existing_record(self):
         current = self.record('current')
