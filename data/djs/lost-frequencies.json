@@ -5,11 +5,13 @@
   "entity_type": "unknown",
   "description": null,
   "nationalities": [],
-  "styles": [],
+  "styles": [
+    "“Melodic/indie house, progressive.”"
+  ],
   "birth_date": null,
   "gender": null,
   "image": {
-    "url": "https://djmag.com/sites/default/files/styles/djm_23_323x182/public/top-100-d/abx-g/6/t10026_LostFrequencies.jpg.webp?itok=PjWbvneB",
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_LostFrequencies.jpg.webp?itok=VSogGzFW",
     "source_url": "https://djmag.com/top100djs/2026/17/lost-frequencies",
     "credit": null,
     "license": null,
@@ -28,12 +30,58 @@
       "url": "https://djmag.com/top100djs/2026/17/lost-frequencies",
       "publisher": "DJ Mag",
       "retrieved_at": "2026-11-15T04:08:56Z",
+      "fields": []
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/17/lost-frequencies",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
       "fields": [
         "/name",
-        "/rankings",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/17/lost-frequencies",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T18:01:16.284209+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
         "/image"
       ]
     }
   ],
-  "updated_at": "2026-11-15T04:08:56Z"
+  "updated_at": "2026-11-17T18:01:16.284209+00:00",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "Belgium"
+      },
+      {
+        "label": "DJ style",
+        "value": "“Melodic/indie house, progressive.”"
+      },
+      {
+        "label": "Best known for",
+        "value": "“‘Are You With Me’, ‘Where Are You Now’, ‘The Feeling’, ‘Black Friday’ and touring the world.”"
+      }
+    ],
+    "movement_places": 2,
+    "movement": "Up",
+    "article": {
+      "headline": "Lost Frequencies | #17 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/17/lost-frequencies"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_LostFrequencies.jpg.webp?itok=VSogGzFW"
+  },
+  "origin": "Belgium",
+  "best_known_for": "“‘Are You With Me’, ‘Where Are You Now’, ‘The Feeling’, ‘Black Friday’ and touring the world.”"
 }

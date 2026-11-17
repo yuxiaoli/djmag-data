@@ -5,11 +5,13 @@
   "entity_type": "unknown",
   "description": null,
   "nationalities": [],
-  "styles": [],
+  "styles": [
+    "Techno."
+  ],
   "birth_date": null,
   "gender": null,
   "image": {
-    "url": "https://djmag.com/sites/default/files/styles/djm_23_323x182/public/top-100-d/abx-g/6/t10026_DeborahDeLuca.jpg.webp?itok=EAeJH5Fh",
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_DeborahDeLuca.jpg.webp?itok=yQ6efHs9",
     "source_url": "https://djmag.com/top100djs/2026/81/deborah-de-luca",
     "credit": null,
     "license": null,
@@ -28,12 +30,58 @@
       "url": "https://djmag.com/top100djs/2026/81/deborah-de-luca",
       "publisher": "DJ Mag",
       "retrieved_at": "2026-11-15T04:08:56Z",
+      "fields": []
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/81/deborah-de-luca",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
       "fields": [
         "/name",
-        "/rankings",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/81/deborah-de-luca",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T17:56:01.357555+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
         "/image"
       ]
     }
   ],
-  "updated_at": "2026-11-15T04:08:56Z"
+  "updated_at": "2026-11-17T17:56:01.357555+00:00",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "Italy"
+      },
+      {
+        "label": "DJ style",
+        "value": "Techno."
+      },
+      {
+        "label": "Best known for",
+        "value": "Her Solamente label and her remix of Robert Miles’ ‘Children’."
+      }
+    ],
+    "movement_places": 21,
+    "movement": "Down",
+    "article": {
+      "headline": "Deborah De Luca | #81 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/81/deborah-de-luca"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_DeborahDeLuca.jpg.webp?itok=yQ6efHs9"
+  },
+  "origin": "Italy",
+  "best_known_for": "Her Solamente label and her remix of Robert Miles’ ‘Children’."
 }

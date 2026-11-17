@@ -5,11 +5,13 @@
   "entity_type": "unknown",
   "description": null,
   "nationalities": [],
-  "styles": [],
+  "styles": [
+    "“From mainstage/peak-time techno to underground techno.”"
+  ],
   "birth_date": null,
   "gender": null,
   "image": {
-    "url": "https://djmag.com/sites/default/files/styles/djm_23_323x182/public/top-100-d/abx-g/6/t10026_LillyPalmer.jpg.webp?itok=Pu7L3-mK",
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_LillyPalmer.jpg.webp?itok=yiJ20kkx",
     "source_url": "https://djmag.com/top100djs/2026/49/lilly-palmer",
     "credit": null,
     "license": null,
@@ -28,12 +30,58 @@
       "url": "https://djmag.com/top100djs/2026/49/lilly-palmer",
       "publisher": "DJ Mag",
       "retrieved_at": "2026-11-15T04:08:56Z",
+      "fields": []
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/49/lilly-palmer",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
       "fields": [
         "/name",
-        "/rankings",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/49/lilly-palmer",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T18:00:55.454286+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
         "/image"
       ]
     }
   ],
-  "updated_at": "2026-11-15T04:08:56Z"
+  "updated_at": "2026-11-17T18:00:55.454286+00:00",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "Germany"
+      },
+      {
+        "label": "DJ style",
+        "value": "“From mainstage/peak-time techno to underground techno.”"
+      },
+      {
+        "label": "Best known for",
+        "value": "“Highly energetic performances, crazy outfits and playing 80% of my own productions.”"
+      }
+    ],
+    "movement_places": 8,
+    "movement": "Up",
+    "article": {
+      "headline": "Lilly Palmer | #49 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/49/lilly-palmer"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_LillyPalmer.jpg.webp?itok=yiJ20kkx"
+  },
+  "origin": "Germany",
+  "best_known_for": "“Highly energetic performances, crazy outfits and playing 80% of my own productions.”"
 }

@@ -5,11 +5,13 @@
   "entity_type": "unknown",
   "description": null,
   "nationalities": [],
-  "styles": [],
+  "styles": [
+    "House, bass and everything in between."
+  ],
   "birth_date": null,
   "gender": null,
   "image": {
-    "url": "https://djmag.com/sites/default/files/styles/djm_23_323x182/public/top-100-d/abx-g/6/t10026_Fredagain.jpg.webp?itok=Aarbndpf",
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_Fredagain.jpg.webp?itok=sGpmBPGA",
     "source_url": "https://djmag.com/top100djs/2026/16/fred-again",
     "credit": null,
     "license": null,
@@ -28,12 +30,58 @@
       "url": "https://djmag.com/top100djs/2026/16/fred-again",
       "publisher": "DJ Mag",
       "retrieved_at": "2026-11-15T04:08:56Z",
+      "fields": []
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/16/fred-again",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
       "fields": [
         "/name",
-        "/rankings",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/16/fred-again",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T17:57:36.158632+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
         "/image"
       ]
     }
   ],
-  "updated_at": "2026-11-15T04:08:56Z"
+  "updated_at": "2026-11-17T17:57:36.158632+00:00",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "UK"
+      },
+      {
+        "label": "DJ style",
+        "value": "House, bass and everything in between."
+      },
+      {
+        "label": "Best known for",
+        "value": "Mad energy in the DJ booth and emotional bangers."
+      }
+    ],
+    "movement_places": 17,
+    "movement": "Up",
+    "article": {
+      "headline": "Fred again... | #16 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/16/fred-again"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_Fredagain.jpg.webp?itok=sGpmBPGA"
+  },
+  "origin": "UK",
+  "best_known_for": "Mad energy in the DJ booth and emotional bangers."
 }

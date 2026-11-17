@@ -5,11 +5,13 @@
   "entity_type": "unknown",
   "description": null,
   "nationalities": [],
-  "styles": [],
+  "styles": [
+    "“Progressive, big melodies and euphoric anthems.”"
+  ],
   "birth_date": null,
   "gender": null,
   "image": {
-    "url": "https://djmag.com/sites/default/files/styles/djm_23_323x182/public/top-100-d/abx-g/6/t10026_DubVision.jpg.webp?itok=wo9E4llu",
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_DubVision.jpg.webp?itok=2T_8I4iP",
     "source_url": "https://djmag.com/top100djs/2026/99/dubvision",
     "credit": null,
     "license": null,
@@ -28,12 +30,58 @@
       "url": "https://djmag.com/top100djs/2026/99/dubvision",
       "publisher": "DJ Mag",
       "retrieved_at": "2026-11-15T04:08:56Z",
+      "fields": []
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/99/dubvision",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
       "fields": [
         "/name",
-        "/rankings",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/99/dubvision",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T17:56:53.938337+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
         "/image"
       ]
     }
   ],
-  "updated_at": "2026-11-15T04:08:56Z"
+  "updated_at": "2026-11-17T17:56:53.938337+00:00",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "The Netherlands"
+      },
+      {
+        "label": "DJ style",
+        "value": "“Progressive, big melodies and euphoric anthems.”"
+      },
+      {
+        "label": "Best known for",
+        "value": "“Progressive house anthem ‘Turn It Around’ and recent hits ‘Anywhere With You’ and ‘Starlight (Keep Me Afloat)’.”"
+      }
+    ],
+    "movement_places": 12,
+    "movement": "Down",
+    "article": {
+      "headline": "DubVision | #99 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/99/dubvision"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_DubVision.jpg.webp?itok=2T_8I4iP"
+  },
+  "origin": "The Netherlands",
+  "best_known_for": "“Progressive house anthem ‘Turn It Around’ and recent hits ‘Anywhere With You’ and ‘Starlight (Keep Me Afloat)’.”"
 }

@@ -5,11 +5,13 @@
   "entity_type": "unknown",
   "description": null,
   "nationalities": [],
-  "styles": [],
+  "styles": [
+    "Energetic, chaotic EDM."
+  ],
   "birth_date": null,
   "gender": null,
   "image": {
-    "url": "https://djmag.com/sites/default/files/styles/djm_23_323x182/public/top-100-d/abx-g/6/t10026_TimmyTrumpet.jpg.webp?itok=QlAAAy0Y",
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_TimmyTrumpet.jpg.webp?itok=fm0ShEwP",
     "source_url": "https://djmag.com/top100djs/2026/8/timmy-trumpet",
     "credit": null,
     "license": null,
@@ -28,12 +30,58 @@
       "url": "https://djmag.com/top100djs/2026/8/timmy-trumpet",
       "publisher": "DJ Mag",
       "retrieved_at": "2026-11-15T04:08:56Z",
+      "fields": []
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/8/timmy-trumpet",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
       "fields": [
         "/name",
-        "/rankings",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/8/timmy-trumpet",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T18:07:56.730217+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
         "/image"
       ]
     }
   ],
-  "updated_at": "2026-11-15T04:08:56Z"
+  "updated_at": "2026-11-17T18:07:56.730217+00:00",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "Australia"
+      },
+      {
+        "label": "DJ style",
+        "value": "Energetic, chaotic EDM."
+      },
+      {
+        "label": "Best known for",
+        "value": "Epic DJ sets with live trumpet."
+      }
+    ],
+    "movement_places": 2,
+    "movement": "Down",
+    "article": {
+      "headline": "Timmy Trumpet | #8 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/8/timmy-trumpet"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_TimmyTrumpet.jpg.webp?itok=fm0ShEwP"
+  },
+  "origin": "Australia",
+  "best_known_for": "Epic DJ sets with live trumpet."
 }

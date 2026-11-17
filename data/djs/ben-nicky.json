@@ -31,8 +31,6 @@
       "publisher": "DJ Mag",
       "retrieved_at": "2026-11-15T04:08:56Z",
       "fields": [
-        "/name",
-        "/rankings",
         "/image"
       ]
     },
@@ -46,12 +44,35 @@
         "/best_known_for",
         "/styles",
         "/description",
-        "/image",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/66/ben-nicky",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
+      "fields": [
+        "/name",
         "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/66/ben-nicky",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T18:11:16.971786+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
+        "/image"
       ]
     }
   ],
-  "updated_at": "2026-11-15T17:43:41.056673+00:00",
+  "updated_at": "2026-11-17T18:11:16.971786+00:00",
+  "origin": "UK",
+  "best_known_for": "“Playing nearly every genre in one set.”",
   "profile_metadata": {
     "intro_fields": [
       {
@@ -77,7 +98,5 @@
       "url": "https://djmag.com/top100djs/2026/66/ben-nicky"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_BenNicky.jpg.webp?itok=rLxtxUeW"
-  },
-  "origin": "UK",
-  "best_known_for": "“Playing nearly every genre in one set.”"
+  }
 }

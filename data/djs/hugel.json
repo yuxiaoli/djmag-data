@@ -5,11 +5,13 @@
   "entity_type": "unknown",
   "description": null,
   "nationalities": [],
-  "styles": [],
+  "styles": [
+    "Latin house."
+  ],
   "birth_date": null,
   "gender": null,
   "image": {
-    "url": "https://djmag.com/sites/default/files/styles/djm_23_323x182/public/top-100-d/abx-g/6/t10026_HUGEL.jpg.webp?itok=AzKyC3cr",
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_HUGEL.jpg.webp?itok=3vweWc0f",
     "source_url": "https://djmag.com/top100djs/2026/48/hugel",
     "credit": null,
     "license": null,
@@ -28,12 +30,58 @@
       "url": "https://djmag.com/top100djs/2026/48/hugel",
       "publisher": "DJ Mag",
       "retrieved_at": "2026-11-15T04:08:56Z",
+      "fields": []
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/48/hugel",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
       "fields": [
         "/name",
-        "/rankings",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/48/hugel",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T17:58:28.377505+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
         "/image"
       ]
     }
   ],
-  "updated_at": "2026-11-15T04:08:56Z"
+  "updated_at": "2026-11-17T17:58:28.377505+00:00",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "France"
+      },
+      {
+        "label": "DJ style",
+        "value": "Latin house."
+      },
+      {
+        "label": "Best known for",
+        "value": "His album ‘Twenty One’ and his Hï Ibiza residency."
+      }
+    ],
+    "movement_places": 6,
+    "movement": "Up",
+    "article": {
+      "headline": "HUGEL | #48 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/48/hugel"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_HUGEL.jpg.webp?itok=3vweWc0f"
+  },
+  "origin": "France",
+  "best_known_for": "His album ‘Twenty One’ and his Hï Ibiza residency."
 }

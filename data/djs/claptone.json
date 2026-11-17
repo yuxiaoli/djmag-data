@@ -31,8 +31,6 @@
       "publisher": "DJ Mag",
       "retrieved_at": "2026-11-15T04:08:56Z",
       "fields": [
-        "/name",
-        "/rankings",
         "/image"
       ]
     },
@@ -46,12 +44,35 @@
         "/best_known_for",
         "/styles",
         "/description",
-        "/image",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/43/claptone",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
+      "fields": [
+        "/name",
         "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/43/claptone",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T18:12:41.252448+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
+        "/image"
       ]
     }
   ],
-  "updated_at": "2026-11-15T18:23:38.691752+00:00",
+  "updated_at": "2026-11-17T18:12:41.252448+00:00",
+  "origin": "Germany",
+  "best_known_for": "‘Cream’, ‘No Eyes (feat. Jaw)’, ‘In The Night’.",
   "profile_metadata": {
     "intro_fields": [
       {
@@ -77,7 +98,5 @@
       "url": "https://djmag.com/top100djs/2026/43/claptone"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_Claptone.jpg.webp?itok=kvsM2HcM"
-  },
-  "origin": "Germany",
-  "best_known_for": "‘Cream’, ‘No Eyes (feat. Jaw)’, ‘In The Night’."
+  }
 }

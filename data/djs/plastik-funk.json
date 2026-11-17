@@ -5,11 +5,13 @@
   "entity_type": "unknown",
   "description": null,
   "nationalities": [],
-  "styles": [],
+  "styles": [
+    "“Tech-house, house music, melodic techno.”"
+  ],
   "birth_date": null,
   "gender": null,
   "image": {
-    "url": "https://djmag.com/sites/default/files/styles/djm_23_323x182/public/top-100-d/abx-g/6/t10026_PlastikFunk.jpg.webp?itok=4jEpI7m0",
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_PlastikFunk.jpg.webp?itok=rhszHIUm",
     "source_url": "https://djmag.com/top100djs/2026/90/plastik-funk",
     "credit": null,
     "license": null,
@@ -28,12 +30,58 @@
       "url": "https://djmag.com/top100djs/2026/90/plastik-funk",
       "publisher": "DJ Mag",
       "retrieved_at": "2026-11-15T04:08:56Z",
+      "fields": []
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/90/plastik-funk",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
       "fields": [
         "/name",
-        "/rankings",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/90/plastik-funk",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T18:05:29.280146+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
         "/image"
       ]
     }
   ],
-  "updated_at": "2026-11-15T04:08:56Z"
+  "updated_at": "2026-11-17T18:05:29.280146+00:00",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "Spain/Germany"
+      },
+      {
+        "label": "DJ style",
+        "value": "“Tech-house, house music, melodic techno.”"
+      },
+      {
+        "label": "Best known for",
+        "value": "“‘WHO’ with Tujamo, ‘Dare Me’ with NERVO, ‘Reveille’ with Timmy Trumpet.”"
+      }
+    ],
+    "movement_places": 4,
+    "movement": "Down",
+    "article": {
+      "headline": "Plastik Funk | #90 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/90/plastik-funk"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_PlastikFunk.jpg.webp?itok=rhszHIUm"
+  },
+  "origin": "Spain/Germany",
+  "best_known_for": "“‘WHO’ with Tujamo, ‘Dare Me’ with NERVO, ‘Reveille’ with Timmy Trumpet.”"
 }

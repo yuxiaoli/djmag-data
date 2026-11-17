@@ -5,11 +5,13 @@
   "entity_type": "unknown",
   "description": null,
   "nationalities": [],
-  "styles": [],
+  "styles": [
+    "“Mainstage madness with some spicy Dutch flavour!”"
+  ],
   "birth_date": null,
   "gender": null,
   "image": {
-    "url": "https://djmag.com/sites/default/files/styles/djm_23_323x182/public/top-100-d/abx-g/6/t10026_NilsvanZandt.jpg.webp?itok=u840lF5_",
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_NilsvanZandt.jpg.webp?itok=0akWSuVx",
     "source_url": "https://djmag.com/top100djs/2026/93/nils-van-zandt",
     "credit": null,
     "license": null,
@@ -28,12 +30,58 @@
       "url": "https://djmag.com/top100djs/2026/93/nils-van-zandt",
       "publisher": "DJ Mag",
       "retrieved_at": "2026-11-15T04:08:56Z",
+      "fields": []
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/93/nils-van-zandt",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
       "fields": [
         "/name",
-        "/rankings",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/93/nils-van-zandt",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T18:04:15.420669+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
         "/image"
       ]
     }
   ],
-  "updated_at": "2026-11-15T04:08:56Z"
+  "updated_at": "2026-11-17T18:04:15.420669+00:00",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "The Netherlands"
+      },
+      {
+        "label": "DJ style",
+        "value": "“Mainstage madness with some spicy Dutch flavour!”"
+      },
+      {
+        "label": "Best known for",
+        "value": "“‘Tu tu tu du’ .... (‘33 Max Verstappen’) and the legendary visual show VISUALA.”"
+      }
+    ],
+    "movement_places": 5,
+    "movement": "Up",
+    "article": {
+      "headline": "Nils van Zandt | #93 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/93/nils-van-zandt"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_NilsvanZandt.jpg.webp?itok=0akWSuVx"
+  },
+  "origin": "The Netherlands",
+  "best_known_for": "“‘Tu tu tu du’ .... (‘33 Max Verstappen’) and the legendary visual show VISUALA.”"
 }
