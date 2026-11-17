@@ -25,6 +25,8 @@ def main():
  robots=RobotFileParser();robots.parse(fetch(BASE+'/robots.txt').splitlines())
  delay=max(10,robots.crawl_delay(AGENT) or 0)
  completed = 0
+ fresh_descriptions = 0
+ missing_prior_descriptions = []
  for path,d,r in records[:args.max_profiles]:
   url=r['source_url']
   if not robots.can_fetch(AGENT,url):raise RuntimeError('robots denied '+url)
@@ -41,8 +43,14 @@ def main():
   fields={x['label'].casefold():x['value'] for x in metadata['intro_fields']}
   d['profile_metadata']=metadata;d['origin']=fields.get('from');d['best_known_for']=fields.get('best known for');d['styles']=[fields['dj style']] if fields.get('dj style') else []
   # Retain explicit source facts and movement without inventing biography text.
-  d['description']=description # Only the explicitly scoped source body; never a generated summary.
-  source_fields=['/profile_metadata','/origin','/best_known_for','/styles','/description']
+  source_fields=['/profile_metadata','/origin','/best_known_for','/styles']
+  if description is not None:
+   d['description']=description
+   fresh_descriptions += 1
+   source_fields.append('/description')
+  elif d.get('description'):
+   missing_prior_descriptions.append(d['id']) # Preserve old text and its original provenance; fail acceptance.
+  # Without a recognized body, do not claim a newly observed null or redate retained text.
   if metadata['image_url']:
    if d['image'] is None or d['image']['url']!=metadata['image_url']:
     for source in d['sources']:source['fields']=[field for field in source['fields'] if field!='/image' and not field.startswith('/image/')]
@@ -56,7 +64,9 @@ def main():
   d['updated_at']=now;validator.validate(d)
   temp=path.with_suffix('.tmp');temp.write_text(json.dumps(d,indent=2,ensure_ascii=False)+'\n');temp.replace(path)
   completed += 1
-  print(f"enriched {d['id']}; description_chars={len(d['description'] or '')}",flush=True)
+  print(f"enriched {d['id']}; description_chars={len(description or '')}; description_status={'fetched' if description is not None else 'unavailable_or_unrecognized'}",flush=True)
+ print(f'Description coverage: freshly extracted {fresh_descriptions}/{total}; missing bodies are unavailable or unrecognized',flush=True)
+ if missing_prior_descriptions:raise RuntimeError('Description extraction incomplete; prior descriptions preserved for: '+', '.join(missing_prior_descriptions))
  if completed != total:raise RuntimeError(f'Profile collection incomplete: validated {completed}/{total} selected profiles; checkpoints preserved')
  print(f'Validated {completed}/{total} current-edition profiles for {latest}; unavailable factual fields remain unknown',flush=True)
 if __name__=='__main__':main()

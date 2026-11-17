@@ -11,12 +11,12 @@ class Biography(HTMLParser):
  """Read only the explicit editorial body, never the surrounding site chrome."""
  void={'br','img','hr','input','meta','link','source','wbr','embed'}
  blocks={'p','div','section','h2','h3','h4','li','blockquote'}
- excluded={'script','style','nav','aside','figure','iframe','button','form'}
+ excluded={'script','style','nav','aside','figure','iframe','button','form','header','footer'}
  def __init__(self):
   super().__init__();self.stack=[];self.depth=None;self.skip=None;self.parts=[];self.bodies=[]
  def handle_starttag(self,tag,attrs):
   a=dict(attrs);classes=set(a.get('class','').split())
-  if self.depth is None and (classes & {'field--name-body','field--name-field-body'} or a.get('itemprop')=='articleBody'):
+  if self.depth is None and tag not in self.excluded and not any(t in self.excluded for t in self.stack) and (classes & {'field--name-body','field--name-field-body'} or a.get('itemprop')=='articleBody'):
    self.depth=len(self.stack);self.parts=[]
   if self.depth is not None:
    if tag in self.excluded and self.skip is None:self.skip=len(self.stack)
@@ -40,7 +40,8 @@ class Biography(HTMLParser):
 
 def biography(html,article):
  parser=Biography();parser.feed(html);parser.close()
- if parser.bodies:return '\n\n'.join(parser.bodies)
+ if len(parser.bodies)==1:return parser.bodies[0]
+ if len(parser.bodies)>1:return None # Ambiguous multiple bodies: never concatenate unrelated profiles.
  body=article.get('articleBody')
  if isinstance(body,str) and body.strip():
   # articleBody is the full text field; never substitute the short meta description.

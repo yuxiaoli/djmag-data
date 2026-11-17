@@ -24,3 +24,11 @@ class BiographyTests(unittest.TestCase):
  def test_inline_spacing_and_duplicate_responsive_body(self):
   b='<div itemprop="articleBody"><p>A <strong>long</strong> body.</p></div>'
   self.assertEqual(parse_profile(b+b)['description'],'A long body.')
+ def test_body_inside_outer_chrome_is_excluded(self):
+  for tag in ('aside','nav','footer','header'):
+   with self.subTest(tag=tag):
+    html='<article><div class="field--name-body">Correct</div></article><'+tag+'><div class="field--name-body">Unrelated</div></'+tag+'>'
+    self.assertEqual(parse_profile(html)['description'],'Correct')
+ def test_ambiguous_multiple_article_bodies_are_not_combined(self):
+  html='<article><div class="field--name-body">One</div></article><article><div class="field--name-body">Two</div></article>'
+  self.assertIsNone(parse_profile(html)['description'])
