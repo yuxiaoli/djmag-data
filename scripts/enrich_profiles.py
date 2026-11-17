@@ -35,13 +35,13 @@ def main():
    if not isinstance(exc.reason,(TimeoutError,socket.timeout)):raise
    print(f"timeout {d['id']}; preserved checkpoint; no immediate retry",flush=True)
    continue
-  metadata=parse_profile(raw);now=datetime.now(timezone.utc).isoformat()
+  metadata=parse_profile(raw);description=metadata.pop('description',None);now=datetime.now(timezone.utc).isoformat()
   if not metadata['intro_fields'] or metadata['article']['url'] != url:raise ValueError('Unexpected profile structure; stop without guessing')
   previous_facts={field:d.get(field) for field in ('profile_metadata','origin','best_known_for','styles','description')}
   fields={x['label'].casefold():x['value'] for x in metadata['intro_fields']}
   d['profile_metadata']=metadata;d['origin']=fields.get('from');d['best_known_for']=fields.get('best known for');d['styles']=[fields['dj style']] if fields.get('dj style') else []
   # Retain explicit source facts and movement without inventing biography text.
-  d['description']=None # Biography text is not a generated ranking summary.
+  d['description']=description # Only the explicitly scoped source body; never a generated summary.
   source_fields=['/profile_metadata','/origin','/best_known_for','/styles','/description']
   if metadata['image_url']:
    if d['image'] is None or d['image']['url']!=metadata['image_url']:
@@ -56,7 +56,7 @@ def main():
   d['updated_at']=now;validator.validate(d)
   temp=path.with_suffix('.tmp');temp.write_text(json.dumps(d,indent=2,ensure_ascii=False)+'\n');temp.replace(path)
   completed += 1
-  print(f"enriched {d['id']}",flush=True)
+  print(f"enriched {d['id']}; description_chars={len(d['description'] or '')}",flush=True)
  if completed != total:raise RuntimeError(f'Profile collection incomplete: validated {completed}/{total} selected profiles; checkpoints preserved')
  print(f'Validated {completed}/{total} current-edition profiles for {latest}; unavailable factual fields remain unknown',flush=True)
 if __name__=='__main__':main()
