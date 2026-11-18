@@ -6,3 +6,7 @@
 - [x] Preserve earlier description/provenance on missing extraction and fail acceptance rather than silently erase it; exclude outer chrome and reject ambiguous body candidates.
 - [ ] Verify actual source HTML through permitted collection; report description coverage separately from profile-fetch coverage.
 - [ ] Rerun existing manual GitHub workflow and verify committed data and production. Do not bypass access controls.
+
+## Detail layout
+- [x] Move concise facts ahead of the full description, shown once inside Profile details. Preserve JSON and hidden provenance.
+- [x] Isolate no-body collection fixtures from newly populated production descriptions.

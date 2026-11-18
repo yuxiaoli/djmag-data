@@ -117,6 +117,7 @@ class ProfileCollectionTests(unittest.TestCase):
 
     def record(self, identity, year=2026):
         row = json.loads((ROOT / 'data/djs/david-guetta.json').read_text())
+        row['description'] = None  # Fixture must not inherit the live profile body.
         row['id'] = identity
         row.pop('profile_metadata', None)
         row.pop('origin', None)
