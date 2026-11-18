@@ -10,3 +10,5 @@
 ## Detail layout
 - [x] Move concise facts ahead of the full description, shown once inside Profile details. Preserve JSON and hidden provenance.
 - [x] Isolate no-body collection fixtures from newly populated production descriptions.
+
+- [x] Label top rank Current Ranking, remove duplicate lower ranking; keep Ranking change separate. Show populated birth date/gender only in secondary details, omitting empty values without changing data.
