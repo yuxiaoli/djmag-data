@@ -12,3 +12,5 @@
 - [x] Isolate no-body collection fixtures from newly populated production descriptions.
 
 - [x] Label top rank Current Ranking, remove duplicate lower ranking; keep Ranking change separate. Show populated birth date/gender only in secondary details, omitting empty values without changing data.
+
+- [x] Match Current Ranking value to normal fact values; unify detail field labels and Profile details heading to the muted 16px regular style with consistent spacing.
