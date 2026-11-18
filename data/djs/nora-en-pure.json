@@ -3,7 +3,7 @@
   "id": "nora-en-pure",
   "name": "Nora En Pure",
   "entity_type": "unknown",
-  "description": null,
+  "description": "In ethos and style, Nora En Pure’s atmospheric music calls for a better world. When the 500th episode of her Purified Radio show arrived in March, a picturesque live-stream from South Africa’s Selati Game Reserve marked the milestone, backed by a powerful anti-poaching message aligned with her commitment to wildlife conservation efforts.\n\nIn return, the label boss and ‘Tibet’ producer seems to draw power from the Earth itself, always uncovering unique venues steeped in natural beauty to bring her signature melodious sounds to life — from Prague’s Křižík Fountain to Seattle’s Lake Union Park and her annual Purified takeover at Miami’s Jungle Island.",
   "nationalities": [],
   "styles": [
     "“Melodic/cinematic house and techno.”"
@@ -29,13 +29,19 @@
     {
       "url": "https://djmag.com/top100djs/2026/73/nora-en-pure",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-15T04:08:56Z",
-      "fields": []
+      "retrieved_at": "2026-11-17T18:04:25.808107+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
     },
     {
       "url": "https://djmag.com/top100djs/2026/73/nora-en-pure",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
       "fields": [
         "/name",
         "/rankings"
@@ -44,7 +50,7 @@
     {
       "url": "https://djmag.com/top100djs/2026/73/nora-en-pure",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T18:04:25.808107+00:00",
+      "retrieved_at": "2026-11-18T05:08:01.348327+00:00",
       "fields": [
         "/profile_metadata",
         "/origin",
@@ -55,7 +61,9 @@
       ]
     }
   ],
-  "updated_at": "2026-11-17T18:04:25.808107+00:00",
+  "updated_at": "2026-11-18T05:08:01.348327+00:00",
+  "origin": "South Africa/Switzerland",
+  "best_known_for": "“‘Come With Me’.”",
   "profile_metadata": {
     "intro_fields": [
       {
@@ -81,7 +89,5 @@
       "url": "https://djmag.com/top100djs/2026/73/nora-en-pure"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_NoraEnPure.jpg.webp?itok=EbIiHf06"
-  },
-  "origin": "South Africa/Switzerland",
-  "best_known_for": "“‘Come With Me’.”"
+  }
 }

@@ -3,7 +3,7 @@
   "id": "nicky-romero",
   "name": "Nicky Romero",
   "entity_type": "unknown",
-  "description": null,
+  "description": "Nicky Romero described his standout Tomorrowland Mainstage set this year as a “greatest hits” of his career. The year also brought ‘Follow You’, a record that captures the sound he loves making and playing, while pointing towards his next chapter: bridging progressive house’s past with where he thinks the genre could go next.",
   "nationalities": [],
   "styles": [
     "“Progressive house.”"
@@ -29,13 +29,19 @@
     {
       "url": "https://djmag.com/top100djs/2026/27/nicky-romero",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-15T04:08:56Z",
-      "fields": []
+      "retrieved_at": "2026-11-17T18:03:54.392800+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
     },
     {
       "url": "https://djmag.com/top100djs/2026/27/nicky-romero",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
       "fields": [
         "/name",
         "/rankings"
@@ -44,7 +50,7 @@
     {
       "url": "https://djmag.com/top100djs/2026/27/nicky-romero",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T18:03:54.392800+00:00",
+      "retrieved_at": "2026-11-18T05:07:29.472648+00:00",
       "fields": [
         "/profile_metadata",
         "/origin",
@@ -55,7 +61,9 @@
       ]
     }
   ],
-  "updated_at": "2026-11-17T18:03:54.392800+00:00",
+  "updated_at": "2026-11-18T05:07:29.472648+00:00",
+  "origin": "The Netherlands",
+  "best_known_for": "“Mega hits like ‘I Could Be The One’ with Avicii, and ‘Toulouse’.”",
   "profile_metadata": {
     "intro_fields": [
       {
@@ -81,7 +89,5 @@
       "url": "https://djmag.com/top100djs/2026/27/nicky-romero"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_NickyRomero.jpg.webp?itok=lIoW8PtZ"
-  },
-  "origin": "The Netherlands",
-  "best_known_for": "“Mega hits like ‘I Could Be The One’ with Avicii, and ‘Toulouse’.”"
+  }
 }

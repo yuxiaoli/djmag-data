@@ -3,7 +3,7 @@
   "id": "dubvision",
   "name": "DubVision",
   "entity_type": "unknown",
-  "description": null,
+  "description": "Previously a duo, legendary Dutch progressive act DubVision has been on a solo mission since 2024, with Victor Leicher steering the ship following the departure of his brother Stephan to focus on fatherhood.\n\nHe kicked off 2026 with a bang thanks to his remix of the classic ‘Love Me Again’ by John Newman alongside Third Party. The tune was massive, capturing everything the duo has always done so well: progressive synth patterns, soaring drums, and of course, an emotional vocal fitting of the world’s largest stages. From there, Dubvision only went from strength-to-strength, upping the feels at clubs and festivals from Seoul to Boston and back again. As part of the new HALŌ supergroup with Third Party and Matisse & Sadko, they brought their singular sound to festivals like Tomorrowland, Creamfields and Ultra Japan.",
   "nationalities": [],
   "styles": [
     "“Progressive, big melodies and euphoric anthems.”"
@@ -29,13 +29,19 @@
     {
       "url": "https://djmag.com/top100djs/2026/99/dubvision",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-15T04:08:56Z",
-      "fields": []
+      "retrieved_at": "2026-11-17T17:56:53.938337+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
     },
     {
       "url": "https://djmag.com/top100djs/2026/99/dubvision",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
       "fields": [
         "/name",
         "/rankings"
@@ -44,7 +50,7 @@
     {
       "url": "https://djmag.com/top100djs/2026/99/dubvision",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:56:53.938337+00:00",
+      "retrieved_at": "2026-11-18T05:00:24.646048+00:00",
       "fields": [
         "/profile_metadata",
         "/origin",
@@ -55,7 +61,9 @@
       ]
     }
   ],
-  "updated_at": "2026-11-17T17:56:53.938337+00:00",
+  "updated_at": "2026-11-18T05:00:24.646048+00:00",
+  "origin": "The Netherlands",
+  "best_known_for": "“Progressive house anthem ‘Turn It Around’ and recent hits ‘Anywhere With You’ and ‘Starlight (Keep Me Afloat)’.”",
   "profile_metadata": {
     "intro_fields": [
       {
@@ -81,7 +89,5 @@
       "url": "https://djmag.com/top100djs/2026/99/dubvision"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_DubVision.jpg.webp?itok=2T_8I4iP"
-  },
-  "origin": "The Netherlands",
-  "best_known_for": "“Progressive house anthem ‘Turn It Around’ and recent hits ‘Anywhere With You’ and ‘Starlight (Keep Me Afloat)’.”"
+  }
 }

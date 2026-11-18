@@ -3,7 +3,7 @@
   "id": "fred-again",
   "name": "Fred again...",
   "entity_type": "unknown",
-  "description": null,
+  "description": "Fred again.. has had another relentless 12 months. It started with him extending his epic ‘USB002’ tour with 10 shows in New York and London at the start of 2026, including a legendary b2b with Daft Punk’s Thomas Bangalter. He brought the chapter to a close by dropping a 108-hour-long YouTube mix of every set from the tour and more recently dropped a new single, ‘DID IT AGAIN’, with Travy and Elzzz that started as a live jam on a Twitch livestream. After that, he hosted a free production workshop at the first Trans+ Future Sounds event at Abbey Road Studios, and before the year is out he heads to India to play three live dates.",
   "nationalities": [],
   "styles": [
     "House, bass and everything in between."
@@ -29,13 +29,19 @@
     {
       "url": "https://djmag.com/top100djs/2026/16/fred-again",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-15T04:08:56Z",
-      "fields": []
+      "retrieved_at": "2026-11-17T17:57:36.158632+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
     },
     {
       "url": "https://djmag.com/top100djs/2026/16/fred-again",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
       "fields": [
         "/name",
         "/rankings"
@@ -44,7 +50,7 @@
     {
       "url": "https://djmag.com/top100djs/2026/16/fred-again",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:57:36.158632+00:00",
+      "retrieved_at": "2026-11-18T05:01:07.203660+00:00",
       "fields": [
         "/profile_metadata",
         "/origin",
@@ -55,7 +61,9 @@
       ]
     }
   ],
-  "updated_at": "2026-11-17T17:57:36.158632+00:00",
+  "updated_at": "2026-11-18T05:01:07.203660+00:00",
+  "origin": "UK",
+  "best_known_for": "Mad energy in the DJ booth and emotional bangers.",
   "profile_metadata": {
     "intro_fields": [
       {
@@ -81,7 +89,5 @@
       "url": "https://djmag.com/top100djs/2026/16/fred-again"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_Fredagain.jpg.webp?itok=sGpmBPGA"
-  },
-  "origin": "UK",
-  "best_known_for": "Mad energy in the DJ booth and emotional bangers."
+  }
 }

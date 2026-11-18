@@ -3,7 +3,7 @@
   "id": "korolova",
   "name": "Korolova",
   "entity_type": "unknown",
-  "description": null,
+  "description": "Korolova had a big 2025. The Ukrainian artist launched a label and party series, Captive Soul, and shot up the DJ rankings, cracking this poll’s top 50 for the first time. That might be enough for some to rest on their laurels, but she’s continued to expand her horizons (and rise in the Top 100 DJs). Over the past year, she put out melodic and funky techno on the legendary Drumcode label and played DJ sets in just about every corner of the globe, bringing her take on machine soul to the world at large.",
   "nationalities": [],
   "styles": [
     "“Melodic techno, progressive house.”"
@@ -29,13 +29,19 @@
     {
       "url": "https://djmag.com/top100djs/2026/36/korolova",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-15T04:08:56Z",
-      "fields": []
+      "retrieved_at": "2026-11-17T18:00:34.125437+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
     },
     {
       "url": "https://djmag.com/top100djs/2026/36/korolova",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
       "fields": [
         "/name",
         "/rankings"
@@ -44,7 +50,7 @@
     {
       "url": "https://djmag.com/top100djs/2026/36/korolova",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T18:00:34.125437+00:00",
+      "retrieved_at": "2026-11-18T05:04:07.337002+00:00",
       "fields": [
         "/profile_metadata",
         "/origin",
@@ -55,7 +61,9 @@
       ]
     }
   ],
-  "updated_at": "2026-11-17T18:00:34.125437+00:00",
+  "updated_at": "2026-11-18T05:04:07.337002+00:00",
+  "origin": "Ukraine",
+  "best_known_for": "“‘Be Strong’, ‘Shining’, ‘Heal My Mind’.”",
   "profile_metadata": {
     "intro_fields": [
       {
@@ -81,7 +89,5 @@
       "url": "https://djmag.com/top100djs/2026/36/korolova"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_Korolova.jpg.webp?itok=-dK5BUAF"
-  },
-  "origin": "Ukraine",
-  "best_known_for": "“‘Be Strong’, ‘Shining’, ‘Heal My Mind’.”"
+  }
 }

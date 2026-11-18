@@ -3,7 +3,7 @@
   "id": "maddix",
   "name": "Maddix",
   "entity_type": "unknown",
-  "description": null,
+  "description": "Not content with dropping a neo-hardcore anthem in his Bassjackers collab, ‘Rave Therapy’, Maddix made his presence known at some of the biggest festivals in the dance music calendar this year. Stepping out for his mainstage debut at Ultra Music Festival Miami in March, he also took his own EXTATIC Records [XTTC] show to LA, and got behind the decks at Ultra Japan in Tokyo last month. Throw EDC Las Vegas into the mix — where he performed with fellow Dutchman Hardwell to debut their new peak-time hard-techno link-up ‘Al CARALHO’ — and it’s clear why Maddix is a mandatory headliner at major EDM gatherings.",
   "nationalities": [],
   "styles": [
     "EDM."
@@ -29,13 +29,19 @@
     {
       "url": "https://djmag.com/top100djs/2026/52/maddix",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-15T04:08:56Z",
-      "fields": []
+      "retrieved_at": "2026-11-17T18:01:37.497226+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
     },
     {
       "url": "https://djmag.com/top100djs/2026/52/maddix",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
       "fields": [
         "/name",
         "/rankings"
@@ -44,7 +50,7 @@
     {
       "url": "https://djmag.com/top100djs/2026/52/maddix",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T18:01:37.497226+00:00",
+      "retrieved_at": "2026-11-18T05:05:11.223195+00:00",
       "fields": [
         "/profile_metadata",
         "/origin",
@@ -55,7 +61,9 @@
       ]
     }
   ],
-  "updated_at": "2026-11-17T18:01:37.497226+00:00",
+  "updated_at": "2026-11-18T05:05:11.223195+00:00",
+  "origin": "The Netherlands",
+  "best_known_for": "Huge tunes and his EXTATIC label.",
   "profile_metadata": {
     "intro_fields": [
       {
@@ -81,7 +89,5 @@
       "url": "https://djmag.com/top100djs/2026/52/maddix"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/2026-11/Maddix%202026%20-%20Credit%20Sven%20Scholten.jpg.webp?itok=Tj_HD3yM"
-  },
-  "origin": "The Netherlands",
-  "best_known_for": "Huge tunes and his EXTATIC label."
+  }
 }

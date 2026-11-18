@@ -3,7 +3,7 @@
   "id": "padre-guilherme",
   "name": "Padre Guilherme",
   "entity_type": "unknown",
-  "description": null,
+  "description": "Padre Guilherme is a serving Portuguese Catholic priest who serves up righteous messages and big-room melodic techno. His highlight this year was playing in Buenos Aires, home of the late Pope Francis, who once blessed the headphones that Guilherme still plays with. Before the year is out, he is dropping a new album, ‘The Body’, which balances emotion and spirituality with his own brand of melodic techno, and is currently working on a new EP inspired by Fado, the traditional sound of Portugal.\n\n“Everything starts with a message,” he says, “I think about what I want people to feel and what I want to communicate.” As a brand-new entry in this year’s Top 100, his message is clearly getting across.",
   "nationalities": [],
   "styles": [
     "“Melodic techno.”"
@@ -29,13 +29,19 @@
     {
       "url": "https://djmag.com/top100djs/2026/79/padre-guilherme",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-15T04:08:56Z",
-      "fields": []
+      "retrieved_at": "2026-11-17T18:04:46.904394+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
     },
     {
       "url": "https://djmag.com/top100djs/2026/79/padre-guilherme",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
       "fields": [
         "/name",
         "/rankings"
@@ -44,7 +50,7 @@
     {
       "url": "https://djmag.com/top100djs/2026/79/padre-guilherme",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T18:04:46.904394+00:00",
+      "retrieved_at": "2026-11-18T05:08:22.724822+00:00",
       "fields": [
         "/profile_metadata",
         "/origin",
@@ -55,7 +61,9 @@
       ]
     }
   ],
-  "updated_at": "2026-11-17T18:04:46.904394+00:00",
+  "updated_at": "2026-11-18T05:08:22.724822+00:00",
+  "origin": "Portugal",
+  "best_known_for": "“Bringing together electronic music, spirituality and visual storytelling.”",
   "profile_metadata": {
     "intro_fields": [
       {
@@ -81,7 +89,5 @@
       "url": "https://djmag.com/top100djs/2026/79/padre-guilherme"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_PadreGuilherme.jpg.webp?itok=E2pF6gnU"
-  },
-  "origin": "Portugal",
-  "best_known_for": "“Bringing together electronic music, spirituality and visual storytelling.”"
+  }
 }

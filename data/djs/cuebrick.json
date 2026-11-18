@@ -3,7 +3,7 @@
   "id": "cuebrick",
   "name": "Cuebrick",
   "entity_type": "unknown",
-  "description": null,
+  "description": "Having now placed in the Top 100 DJs poll five years running, Mannheim-based artist Cuebrick has spent a big part of the last year developing his b2b concept, Cuebrick & Madism, releasing ‘Fire’ with Yves V and ‘Kids’ with Charles B together, as well as performing across Europe and Asia.\n\n“We share a love for the melodies and emotion of progressive house, and exploring how to translate that into powerful live moments has been a huge focus for us,” he tells DJ Mag. “The goal is to keep moving forward creatively, while keeping the melodic side of our sound at the centre of what we do.”",
   "nationalities": [],
   "styles": [
     "“Mainstage techno/progressive house.”"
@@ -43,17 +43,7 @@
         "/origin",
         "/best_known_for",
         "/styles",
-        "/description",
         "/image"
-      ]
-    },
-    {
-      "url": "https://djmag.com/top100djs/2026/96/cuebrick",
-      "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
-      "fields": [
-        "/name",
-        "/rankings"
       ]
     },
     {
@@ -65,12 +55,33 @@
         "/origin",
         "/best_known_for",
         "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/96/cuebrick",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
+      "fields": [
+        "/name",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/96/cuebrick",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:58:59.747173+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
         "/description",
         "/image"
       ]
     }
   ],
-  "updated_at": "2026-11-17T18:13:02.312765+00:00",
+  "updated_at": "2026-11-18T04:58:59.747173+00:00",
   "origin": "Germany",
   "best_known_for": "“Combining emotional melodies with powerful drops and bringing the euphoric spirit of progressive house to the main stage.”",
   "profile_metadata": {

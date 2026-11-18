@@ -3,7 +3,7 @@
   "id": "lost-frequencies",
   "name": "Lost Frequencies",
   "entity_type": "unknown",
-  "description": null,
+  "description": "Felix De Laet, aka Lost Frequencies, has come a long way since his chart-topping track ‘Are You With Me’ back in 2014. Since then, he’s collaborated with an impressive range of top-tier artists including Calum Scott, James Blunt, Tom Odell and James Arthur. Hitting the festival circuit in 2026 he played Tomorrowland, Untold, Veld, Les Ardentes, Lokerse Feesten and Germany’s GLÜCKSGEFÜHLE. Another highlight was playing a sold-out Brixton Academy show in London: “I feel blessed to have such a lovely fanbase supporting what I do,” he says. He released three singles this year: ‘So Much Beauty (Around Us)’ with Nathan Nicholson, ‘Live It All’, and ‘Paraiso’ with Brazilian singer Mari Froes, and has a new album in the works for 2027.",
   "nationalities": [],
   "styles": [
     "“Melodic/indie house, progressive.”"
@@ -29,13 +29,19 @@
     {
       "url": "https://djmag.com/top100djs/2026/17/lost-frequencies",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-15T04:08:56Z",
-      "fields": []
+      "retrieved_at": "2026-11-17T18:01:16.284209+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
     },
     {
       "url": "https://djmag.com/top100djs/2026/17/lost-frequencies",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
       "fields": [
         "/name",
         "/rankings"
@@ -44,7 +50,7 @@
     {
       "url": "https://djmag.com/top100djs/2026/17/lost-frequencies",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T18:01:16.284209+00:00",
+      "retrieved_at": "2026-11-18T05:04:49.871897+00:00",
       "fields": [
         "/profile_metadata",
         "/origin",
@@ -55,7 +61,9 @@
       ]
     }
   ],
-  "updated_at": "2026-11-17T18:01:16.284209+00:00",
+  "updated_at": "2026-11-18T05:04:49.871897+00:00",
+  "origin": "Belgium",
+  "best_known_for": "“‘Are You With Me’, ‘Where Are You Now’, ‘The Feeling’, ‘Black Friday’ and touring the world.”",
   "profile_metadata": {
     "intro_fields": [
       {
@@ -81,7 +89,5 @@
       "url": "https://djmag.com/top100djs/2026/17/lost-frequencies"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_LostFrequencies.jpg.webp?itok=VSogGzFW"
-  },
-  "origin": "Belgium",
-  "best_known_for": "“‘Are You With Me’, ‘Where Are You Now’, ‘The Feeling’, ‘Black Friday’ and touring the world.”"
+  }
 }

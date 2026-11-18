@@ -3,7 +3,7 @@
   "id": "james-hype",
   "name": "James Hype",
   "entity_type": "unknown",
-  "description": null,
+  "description": "While James Hype is no stranger to the spotlight, 2026 was still a big year for Liverpool’s finest. He landed more hit tracks thanks to ‘Be Mine’ and ‘1, 2, 3’ (with Volkoder), on which he continued to refine his take on contemporary tech-house. His versatile approach behind the decks continues to pull some of the world’s biggest crowds, from Tomorrowland to Ibiza, while his late-2025 SYNC show linked visuals to his crazy beat-juggling style. Whether the 16-CDJ setup recently teased on his Instagram is real or not remains to be seen!",
   "nationalities": [],
   "styles": [
     "Mad CDJ tricks."
@@ -29,13 +29,19 @@
     {
       "url": "https://djmag.com/top100djs/2026/51/james-hype",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-15T04:08:56Z",
-      "fields": []
+      "retrieved_at": "2026-11-17T17:58:59.398897+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
     },
     {
       "url": "https://djmag.com/top100djs/2026/51/james-hype",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
       "fields": [
         "/name",
         "/rankings"
@@ -44,7 +50,7 @@
     {
       "url": "https://djmag.com/top100djs/2026/51/james-hype",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:58:59.398897+00:00",
+      "retrieved_at": "2026-11-18T05:02:32.253895+00:00",
       "fields": [
         "/profile_metadata",
         "/origin",
@@ -55,7 +61,9 @@
       ]
     }
   ],
-  "updated_at": "2026-11-17T17:58:59.398897+00:00",
+  "updated_at": "2026-11-18T05:02:32.253895+00:00",
+  "origin": "UK",
+  "best_known_for": "Our House with MEDUZA, hits like ‘Ferrari’.",
   "profile_metadata": {
     "intro_fields": [
       {
@@ -81,7 +89,5 @@
       "url": "https://djmag.com/top100djs/2026/51/james-hype"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_JamesHype.jpg.webp?itok=oao8Et3O"
-  },
-  "origin": "UK",
-  "best_known_for": "Our House with MEDUZA, hits like ‘Ferrari’."
+  }
 }

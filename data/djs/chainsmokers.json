@@ -3,7 +3,7 @@
   "id": "chainsmokers",
   "name": "The Chainsmokers",
   "entity_type": "unknown",
-  "description": null,
+  "description": "From Tomorrowland to Lollapalooza and EDC Las Vegas, The Chainsmokers continued to command some of dance music’s biggest festival stages this past year. Their packed-out crowds underscored their enduring festival pull, while a sold-out 13,000-person headline show in San Jose and a viral college tour showed their reach extends well beyond the festival circuit.\n\nThey brought that same crossover appeal to the NCAA Final Four halftime show before returning to their Las Vegas residency at Wynn Nightlife’s XS and Encore Beach Club, now extended through 2029. Two EPs, ‘Breathe’ and ‘Love Is Kind’ with Oaks, kept the music moving as ever.",
   "nationalities": [],
   "styles": [
     "“Anthemic EDM.”"
@@ -43,17 +43,7 @@
         "/origin",
         "/best_known_for",
         "/styles",
-        "/description",
         "/image"
-      ]
-    },
-    {
-      "url": "https://djmag.com/top100djs/2026/89/chainsmokers",
-      "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
-      "fields": [
-        "/name",
-        "/rankings"
       ]
     },
     {
@@ -65,12 +55,33 @@
         "/origin",
         "/best_known_for",
         "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/89/chainsmokers",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
+      "fields": [
+        "/name",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/89/chainsmokers",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:58:06.685685+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
         "/description",
         "/image"
       ]
     }
   ],
-  "updated_at": "2026-11-17T18:12:09.581290+00:00",
+  "updated_at": "2026-11-18T04:58:06.685685+00:00",
   "origin": "USA",
   "best_known_for": "“Over 10 years of elevating and defining popular dance music with multiple RIAA Diamond-certified hits.”",
   "profile_metadata": {

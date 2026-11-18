@@ -3,7 +3,7 @@
   "id": "cloonee",
   "name": "Cloonee",
   "entity_type": "unknown",
-  "description": null,
+  "description": "Cloonee's been everywhere this year, so it's no surprise to see him making his debut in the Top 100 DJs poll. The distinction arrives amid a year that saw the British tastemaker lead with chart-topping releases like ‘Free Your Mind’ (with Prospa) and ‘Good Girl’, and punctuated by his sold-out Red Rocks debut. The British producer born David Bissett cites these as his biggest highlights of 2026.\n\nHis new album ‘Are You Still You?’ is another. “My career momentum coupled with personal feelings of how fans wanted to consume longer-form projects created the perfect melting pot to release my debut album,” he says.",
   "nationalities": [],
   "styles": [
     "“Tech-house.”"
@@ -43,17 +43,7 @@
         "/origin",
         "/best_known_for",
         "/styles",
-        "/description",
         "/image"
-      ]
-    },
-    {
-      "url": "https://djmag.com/top100djs/2026/84/cloonee",
-      "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
-      "fields": [
-        "/name",
-        "/rankings"
       ]
     },
     {
@@ -65,12 +55,33 @@
         "/origin",
         "/best_known_for",
         "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/84/cloonee",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
+      "fields": [
+        "/name",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/84/cloonee",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:58:49.156162+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
         "/description",
         "/image"
       ]
     }
   ],
-  "updated_at": "2026-11-17T18:12:51.658003+00:00",
+  "updated_at": "2026-11-18T04:58:49.156162+00:00",
   "origin": "UK",
   "best_known_for": "“Hellbent Records.”",
   "profile_metadata": {

@@ -3,7 +3,7 @@
   "id": "jamie-jones",
   "name": "Jamie Jones",
   "entity_type": "unknown",
-  "description": null,
+  "description": "Hot Creations label boss and Paradise founder, Jamie Jones has been a driving force in house music for over two decades. Jones says he’s had “one of the best summers in memory” this year, “making music, playing music, being a father”. His highlights of 2026 include another successful season for Paradise at [UNVRS] in Ibiza, playing the sunrise set at EXE Festival in Bulgaria, under the arches with TRMNL in Birmingham, and an extended set at Knockdown Center in New York. Jones has revealed that 2027 will bring brand-new Hot Natured material with Lee Foss, more solo music, and an orchestral album with Kate Simko.",
   "nationalities": [],
   "styles": [
     "“Ravey house.”"
@@ -29,13 +29,19 @@
     {
       "url": "https://djmag.com/top100djs/2026/33/jamie-jones",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-15T04:08:56Z",
-      "fields": []
+      "retrieved_at": "2026-11-17T17:59:09.979686+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
     },
     {
       "url": "https://djmag.com/top100djs/2026/33/jamie-jones",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
       "fields": [
         "/name",
         "/rankings"
@@ -44,7 +50,7 @@
     {
       "url": "https://djmag.com/top100djs/2026/33/jamie-jones",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:59:09.979686+00:00",
+      "retrieved_at": "2026-11-18T05:02:42.802369+00:00",
       "fields": [
         "/profile_metadata",
         "/origin",
@@ -55,7 +61,9 @@
       ]
     }
   ],
-  "updated_at": "2026-11-17T17:59:09.979686+00:00",
+  "updated_at": "2026-11-18T05:02:42.802369+00:00",
+  "origin": "UK",
+  "best_known_for": "‘Summertime’, Hot Creations, Paradise and Hot Natured.",
   "profile_metadata": {
     "intro_fields": [
       {
@@ -81,7 +89,5 @@
       "url": "https://djmag.com/top100djs/2026/33/jamie-jones"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_JamieJones.jpg.webp?itok=6bU2Hkue"
-  },
-  "origin": "UK",
-  "best_known_for": "‘Summertime’, Hot Creations, Paradise and Hot Natured."
+  }
 }

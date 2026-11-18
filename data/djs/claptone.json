@@ -3,7 +3,7 @@
   "id": "claptone",
   "name": "Claptone",
   "entity_type": "unknown",
-  "description": null,
+  "description": "The ever-enigmatic Claptone continues his masked escapades around the world. Since breaking through with a string of releases on Exploited in the early 2010s, he’s released four albums and remixed the likes of New Order, Gorillaz, Pet Shop Boys, and Mark Ronson. This year saw the release of his fourth studio album ‘The Wanderer’ on his own imprint Golden Path Recordings, with guest appearances from Crystal Fighters, Sea Girls, Nathan Nicholson and more. He also continued his spectacular Masquerade events, returning to Chinois in Ibiza for a second consecutive season and taking the concept to London’s mammoth Exhibition venue for a one-night takeover.",
   "nationalities": [],
   "styles": [
     "House."
@@ -43,17 +43,7 @@
         "/origin",
         "/best_known_for",
         "/styles",
-        "/description",
         "/image"
-      ]
-    },
-    {
-      "url": "https://djmag.com/top100djs/2026/43/claptone",
-      "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
-      "fields": [
-        "/name",
-        "/rankings"
       ]
     },
     {
@@ -65,12 +55,33 @@
         "/origin",
         "/best_known_for",
         "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/43/claptone",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
+      "fields": [
+        "/name",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/43/claptone",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:58:38.651252+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
         "/description",
         "/image"
       ]
     }
   ],
-  "updated_at": "2026-11-17T18:12:41.252448+00:00",
+  "updated_at": "2026-11-18T04:58:38.651252+00:00",
   "origin": "Germany",
   "best_known_for": "‘Cream’, ‘No Eyes (feat. Jaw)’, ‘In The Night’.",
   "profile_metadata": {

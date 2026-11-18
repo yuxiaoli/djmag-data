@@ -3,7 +3,7 @@
   "id": "marshmello",
   "name": "Marshmello",
   "entity_type": "unknown",
-  "description": null,
+  "description": "When he first entered the Top 100 DJs over 11 years ago, Marshmello’s true identity was a secret, and while he’s since been rumbled (he’s the artist formerly known as Dotcom) his iconic mask still allows the focus to be on his music and world-building. This year he’s been working with Illenium again on their classy ‘Close My Eyes’ release, featuring SACHA on vocals. With a current focus on a return to his dance music roots, Marshmello is also relaunching his label Joytime Collective with a promise to sign emerging artists that he’s passionate about, along with independently putting out his own new material.",
   "nationalities": [],
   "styles": [
     "EDM/dance-pop."
@@ -29,13 +29,19 @@
     {
       "url": "https://djmag.com/top100djs/2026/53/marshmello",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-15T04:08:56Z",
-      "fields": []
+      "retrieved_at": "2026-11-17T18:02:19.782572+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
     },
     {
       "url": "https://djmag.com/top100djs/2026/53/marshmello",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
       "fields": [
         "/name",
         "/rankings"
@@ -44,7 +50,7 @@
     {
       "url": "https://djmag.com/top100djs/2026/53/marshmello",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T18:02:19.782572+00:00",
+      "retrieved_at": "2026-11-18T05:05:53.476987+00:00",
       "fields": [
         "/profile_metadata",
         "/origin",
@@ -55,7 +61,9 @@
       ]
     }
   ],
-  "updated_at": "2026-11-17T18:02:19.782572+00:00",
+  "updated_at": "2026-11-18T05:05:53.476987+00:00",
+  "origin": "USA",
+  "best_known_for": "Big tunes, video game concerts and his iconic helmet.",
   "profile_metadata": {
     "intro_fields": [
       {
@@ -81,7 +89,5 @@
       "url": "https://djmag.com/top100djs/2026/53/marshmello"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_Marshmello.jpg.webp?itok=VcRmO5sc"
-  },
-  "origin": "USA",
-  "best_known_for": "Big tunes, video game concerts and his iconic helmet."
+  }
 }

@@ -3,7 +3,7 @@
   "id": "carl-cox",
   "name": "Carl Cox",
   "entity_type": "unknown",
-  "description": null,
+  "description": "Carl Cox had another hugely successful Ibiza season in 2026, helming every Sunday night at [UNVRS] for 16 weeks straight. As well as various other big gigs around Europe in between, he also found time to appear as a special guest at some big The Prodigy shows — even playing three-deck vinyl sets at some of them — and playing back to back with everyone from David Guetta to Louie Vega. He put out his rewirings of Vikhtor & Pianoalani’s ‘Legacy’ and Renegade Soundwave’s ‘The Phantom’, while it was also announced in June that he was receiving an OBE medal for services to music. All hail King Carl!",
   "nationalities": [],
   "styles": [
     "Chiefly techno, breakbeat, rave."
@@ -43,17 +43,7 @@
         "/origin",
         "/best_known_for",
         "/styles",
-        "/description",
         "/image"
-      ]
-    },
-    {
-      "url": "https://djmag.com/top100djs/2026/23/carl-cox",
-      "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
-      "fields": [
-        "/name",
-        "/rankings"
       ]
     },
     {
@@ -65,12 +55,33 @@
         "/origin",
         "/best_known_for",
         "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/23/carl-cox",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
+      "fields": [
+        "/name",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/23/carl-cox",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:57:56.268929+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
         "/description",
         "/image"
       ]
     }
   ],
-  "updated_at": "2026-11-17T18:11:58.970677+00:00",
+  "updated_at": "2026-11-18T04:57:56.268929+00:00",
   "origin": "UK",
   "best_known_for": "Ultimate positivity as a global ambassador.",
   "profile_metadata": {

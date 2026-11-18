@@ -3,7 +3,7 @@
   "id": "sub-zero-project",
   "name": "Sub Zero Project",
   "entity_type": "unknown",
-  "description": null,
+  "description": "It shouldn’t come as much of a surprise that Sub Zero Project are having a moment. The duo have been making hard, fast and fun music for nearly a decade, and the world seems to be catching up. 2026 was their biggest year yet thanks partly to their absolutely gargantuan release ‘Promises’ alongside Steve Aioki. If you like your music hard and fast, you may have caught the Dutch duo at Ultra Peru, Tomorrowland or elsewhere this year.",
   "nationalities": [],
   "styles": [
     "Hardstyle."
@@ -29,13 +29,19 @@
     {
       "url": "https://djmag.com/top100djs/2026/67/sub-zero-project",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-15T04:08:56Z",
-      "fields": []
+      "retrieved_at": "2026-11-17T18:07:25.475388+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
     },
     {
       "url": "https://djmag.com/top100djs/2026/67/sub-zero-project",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
       "fields": [
         "/name",
         "/rankings"
@@ -44,7 +50,7 @@
     {
       "url": "https://djmag.com/top100djs/2026/67/sub-zero-project",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T18:07:25.475388+00:00",
+      "retrieved_at": "2026-11-18T05:11:02.217023+00:00",
       "fields": [
         "/profile_metadata",
         "/origin",
@@ -55,7 +61,9 @@
       ]
     }
   ],
-  "updated_at": "2026-11-17T18:07:25.475388+00:00",
+  "updated_at": "2026-11-18T05:11:02.217023+00:00",
+  "origin": "The Netherlands",
+  "best_known_for": "Signature kicks and uplifting melodies.",
   "profile_metadata": {
     "intro_fields": [
       {
@@ -81,7 +89,5 @@
       "url": "https://djmag.com/top100djs/2026/67/sub-zero-project"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_SubZeroProject.jpg.webp?itok=jYvzMaef"
-  },
-  "origin": "The Netherlands",
-  "best_known_for": "Signature kicks and uplifting melodies."
+  }
 }

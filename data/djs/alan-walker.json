@@ -3,7 +3,7 @@
   "id": "alan-walker",
   "name": "Alan Walker",
   "entity_type": "unknown",
-  "description": null,
+  "description": "Alan Walker’s Walkerworld Tour has attracted more than 500,000 fans across North America, Europe, South-East Asia, India and China, alongside major festival appearances at Coachella, Tomorrowland and Ultra. His latest album, ‘World of Walker, Season One: Rise of the Drones’, opened a new chapter in his ongoing musical narrative, followed by ‘FATE’ with Ava Max. Beyond the music, Walker brought the project into gaming with a custom Fortnite experience that was visited by more than 200,000 players. With his touring operation, new music and digital projects all expanding in tandem, Walker continues to build a formidable fan-driven ecosystem.",
   "nationalities": [],
   "styles": [
     "“Uplifting/energetic.”"
@@ -43,17 +43,7 @@
         "/origin",
         "/best_known_for",
         "/styles",
-        "/description",
         "/image"
-      ]
-    },
-    {
-      "url": "https://djmag.com/top100djs/2026/32/alan-walker",
-      "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
-      "fields": [
-        "/name",
-        "/rankings"
       ]
     },
     {
@@ -65,12 +55,33 @@
         "/origin",
         "/best_known_for",
         "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/32/alan-walker",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
+      "fields": [
+        "/name",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/32/alan-walker",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:55:27.143733+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
         "/description",
         "/image"
       ]
     }
   ],
-  "updated_at": "2026-11-17T18:09:31.421722+00:00",
+  "updated_at": "2026-11-18T04:55:27.143733+00:00",
   "origin": "Norway",
   "best_known_for": "“‘Faded’, wearing a mask and hoodie.”",
   "profile_metadata": {

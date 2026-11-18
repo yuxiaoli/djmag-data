@@ -3,7 +3,7 @@
   "id": "alok",
   "name": "Alok",
   "entity_type": "unknown",
-  "description": null,
+  "description": "When Alok brought 50 dancers from Italian collective Urban Theory onto the stage during his now-iconic Coachella set last year, the Brazilian superstar inadvertently set a revolution in motion. In a dance music landscape increasingly occupied by the digital, Alok invited us to consider where dance music matters most: our bodies.\n\nThe impact of his Keep Art Human concept crescendoed in 2026 with a dizzying list of milestones, beginning with Alok playing to nearly 2.5 million people on Rio de Janeiro’s Copacabana Beach at a Guinness World Records-certified New Year’s Eve celebration. He followed it with his debut at Las Vegas’ Sphere and two historic sets at Rock In Rio. His Keep Art Human show opened the mainstage with 1,500 drones and 45 dancers, while his Rave The World concept closed the New Dance Order stage at 3am alongside his brother, Bhaskar, and parents, DJs Swarup and Ekanta, drawing its largest crowd in Rock In Rio history.",
   "nationalities": [],
   "styles": [
     "Brazilian bass/EDM."
@@ -43,17 +43,7 @@
         "/origin",
         "/best_known_for",
         "/styles",
-        "/description",
         "/image"
-      ]
-    },
-    {
-      "url": "https://djmag.com/top100djs/2026/4/alok",
-      "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
-      "fields": [
-        "/name",
-        "/rankings"
       ]
     },
     {
@@ -65,12 +55,33 @@
         "/origin",
         "/best_known_for",
         "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/4/alok",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
+      "fields": [
+        "/name",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/4/alok",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:55:48.190806+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
         "/description",
         "/image"
       ]
     }
   ],
-  "updated_at": "2026-11-17T18:09:52.548618+00:00",
+  "updated_at": "2026-11-18T04:55:48.190806+00:00",
   "origin": "Brazil",
   "best_known_for": "Playing to millions-strong crowds in Brazil and his philanthropy.",
   "profile_metadata": {

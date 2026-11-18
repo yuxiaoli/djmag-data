@@ -3,7 +3,7 @@
   "id": "amelie-lens",
   "name": "Amelie Lens",
   "entity_type": "unknown",
-  "description": null,
+  "description": "It’s been an eventful year for Amelie Lens, full of personal and professional blessings. In June, she announced that she is pregnant with her second daughter, and subsequently performed across both Tomorrowland weekends while sharing how she’s adapted her touring schedule and booth setup around the pregnancy. At the same time, she released her much anticipated debut album, ‘AURA’, through EXHALE in September. The 11-track record combines hard techno and acid with more emotional material, including ‘run’, a collaboration with Belgian pop star Angèle, with Lens saying she “hopes the track will be the first that her baby will hear when she is born later this year”.",
   "nationalities": [],
   "styles": [
     "Techno, acid, hard dance."
@@ -43,17 +43,7 @@
         "/origin",
         "/best_known_for",
         "/styles",
-        "/description",
         "/image"
-      ]
-    },
-    {
-      "url": "https://djmag.com/top100djs/2026/47/amelie-lens",
-      "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
-      "fields": [
-        "/name",
-        "/rankings"
       ]
     },
     {
@@ -65,12 +55,33 @@
         "/origin",
         "/best_known_for",
         "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/47/amelie-lens",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
+      "fields": [
+        "/name",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/47/amelie-lens",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:55:58.906783+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
         "/description",
         "/image"
       ]
     }
   ],
-  "updated_at": "2026-11-17T18:10:02.956575+00:00",
+  "updated_at": "2026-11-18T04:55:58.906783+00:00",
   "origin": "Belgium",
   "best_known_for": "Her EXHALE label and parties.",
   "profile_metadata": {

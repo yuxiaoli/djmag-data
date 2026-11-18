@@ -3,7 +3,7 @@
   "id": "bassjackers",
   "name": "Bassjackers",
   "entity_type": "unknown",
-  "description": null,
+  "description": "Bassjackers have spent 2026 demonstrating that their festival-focused sound can evolve with the demands of the dancefloor. Marlon Flohr and Ralph van Hilst have released a remarkable run of harder material, including ‘Bang On The Drums’ with Hardwell, ‘New Bass New Kick’ with Hannah Laing, ‘Jump Around’ with Charlie Sparks and ‘I’m On Acid’ with Space 92.\n\nAugust brought another collaboration with Maddix, ‘Rave Therapy’, while ‘BAGUETTE’ with DYEN pushed the duo further into neo-rave territory. With their current output generally landing at around 150-plus BPM, the pair are marking a clear move towards hard dance, without abandoning the scale and energy that made them festival staples in the first place.",
   "nationalities": [],
   "styles": [
     "EDM, hard dance."
@@ -43,17 +43,7 @@
         "/origin",
         "/best_known_for",
         "/styles",
-        "/description",
         "/image"
-      ]
-    },
-    {
-      "url": "https://djmag.com/top100djs/2026/58/bassjackers",
-      "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
-      "fields": [
-        "/name",
-        "/rankings"
       ]
     },
     {
@@ -65,12 +55,33 @@
         "/origin",
         "/best_known_for",
         "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/58/bassjackers",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
+      "fields": [
+        "/name",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/58/bassjackers",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:57:02.656418+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
         "/description",
         "/image"
       ]
     }
   ],
-  "updated_at": "2026-11-17T18:11:06.264805+00:00",
+  "updated_at": "2026-11-18T04:57:02.656418+00:00",
   "origin": "The Netherlands",
   "best_known_for": "Festival-sized productions, explosive sets, embracing faster sounds.",
   "profile_metadata": {

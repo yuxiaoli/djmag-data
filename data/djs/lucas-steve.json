@@ -3,7 +3,7 @@
   "id": "lucas-steve",
   "name": "Lucas & Steve",
   "entity_type": "unknown",
-  "description": null,
+  "description": "Lucas & Steve hit a new milestone this year with their Tomorrowland Mainstage debut, bringing their high-energy house to one of dance music’s biggest stages. The Dutch duo followed it with ‘Control’, their collaboration with Afrojack, which landed on Chris Lake’s Black Book Records and pushed their sound in a fresh direction. After more than a decade together, Lucas de Wert and Steven Jansen continue to move between major festivals and clubs without losing the momentum that has kept them on the international circuit. With another busy year of touring behind them, their trajectory shows little sign of dipping.",
   "nationalities": [],
   "styles": [
     "House."
@@ -29,13 +29,19 @@
     {
       "url": "https://djmag.com/top100djs/2026/77/lucas-steve",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-15T04:08:56Z",
-      "fields": []
+      "retrieved_at": "2026-11-17T18:01:26.895050+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
     },
     {
       "url": "https://djmag.com/top100djs/2026/77/lucas-steve",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
       "fields": [
         "/name",
         "/rankings"
@@ -44,7 +50,7 @@
     {
       "url": "https://djmag.com/top100djs/2026/77/lucas-steve",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T18:01:26.895050+00:00",
+      "retrieved_at": "2026-11-18T05:05:00.540769+00:00",
       "fields": [
         "/profile_metadata",
         "/origin",
@@ -55,7 +61,9 @@
       ]
     }
   ],
-  "updated_at": "2026-11-17T18:01:26.895050+00:00",
+  "updated_at": "2026-11-18T05:05:00.540769+00:00",
+  "origin": "The Netherlands",
+  "best_known_for": "“The inventions of electricity and democracy, beer pong and after-party skills.”",
   "profile_metadata": {
     "intro_fields": [
       {
@@ -81,7 +89,5 @@
       "url": "https://djmag.com/top100djs/2026/77/lucas-steve"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_LucasandSteve.jpg.webp?itok=0MV36nbI"
-  },
-  "origin": "The Netherlands",
-  "best_known_for": "“The inventions of electricity and democracy, beer pong and after-party skills.”"
+  }
 }

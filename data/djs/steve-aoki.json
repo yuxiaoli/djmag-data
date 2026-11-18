@@ -3,7 +3,7 @@
   "id": "steve-aoki",
   "name": "Steve Aoki",
   "entity_type": "unknown",
-  "description": null,
+  "description": "Having embarked on his Dim Mak 30 World Tour this year, and released ‘Gravity (feat. SACHA)’ with Ely Oaks, and ‘Promises’ with Sub Zero Project, Steve Aoki continues to turn out high-energy, hands-in-the-air EDM and peak-time tunes. At the time of writing, he tells DJ Mag he’s working on music with acid techno superstar Reinier Zonneveld. With his next album ‘HiROQUEST 4’ in the works, Steve Aoki shows no signs of slowing down, and he’s no stranger to the Top 100 DJs poll either. Having first appeared in the poll in 2015, he’s since followed a soaring trajectory, remaining a powerhouse presence worldwide.",
   "nationalities": [],
   "styles": [
     "“Dim Mak Style.”"
@@ -29,13 +29,19 @@
     {
       "url": "https://djmag.com/top100djs/2026/18/steve-aoki",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-15T04:08:56Z",
-      "fields": []
+      "retrieved_at": "2026-11-17T18:07:14.895703+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
     },
     {
       "url": "https://djmag.com/top100djs/2026/18/steve-aoki",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
       "fields": [
         "/name",
         "/rankings"
@@ -44,7 +50,7 @@
     {
       "url": "https://djmag.com/top100djs/2026/18/steve-aoki",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T18:07:14.895703+00:00",
+      "retrieved_at": "2026-11-18T05:10:51.505333+00:00",
       "fields": [
         "/profile_metadata",
         "/origin",
@@ -55,7 +61,9 @@
       ]
     }
   ],
-  "updated_at": "2026-11-17T18:07:14.895703+00:00",
+  "updated_at": "2026-11-18T05:10:51.505333+00:00",
+  "origin": "USA",
+  "best_known_for": "“PSA 10 Gold Star set.”",
   "profile_metadata": {
     "intro_fields": [
       {
@@ -81,7 +89,5 @@
       "url": "https://djmag.com/top100djs/2026/18/steve-aoki"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_SteveAoki.jpg.webp?itok=Dae2gemf"
-  },
-  "origin": "USA",
-  "best_known_for": "“PSA 10 Gold Star set.”"
+  }
 }

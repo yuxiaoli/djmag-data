@@ -3,7 +3,7 @@
   "id": "peggy-gou",
   "name": "Peggy Gou",
   "entity_type": "unknown",
-  "description": null,
+  "description": "Peggy Gou has had a stellar 12 months, beginning with a sold-out headline show at London’s Drumsheds, followed by an Australia tour with pit stops in Melbourne and Sydney. She also continued her open-air sets trend — Palais Royal in Paris, on the Thames in London — leaning into her penchant for sun-soaked, high-fashion festival curations. Other highlights include shows at Ultra Japan, Solomon+1 at Pacha Ibiza, Kappa FuturFestival and her Midnight Lobster Club series, which Gou launched at [UNVRS]. She had some down time in the studio too, putting a Hi-NRG twist on Madonna’s ‘I Feel So Free’, and dropping Ayra Starr collab ‘Wo, man’.",
   "nationalities": [],
   "styles": [
     "House."
@@ -29,13 +29,19 @@
     {
       "url": "https://djmag.com/top100djs/2026/13/peggy-gou",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-15T04:08:56Z",
-      "fields": []
+      "retrieved_at": "2026-11-17T18:05:18.576960+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
     },
     {
       "url": "https://djmag.com/top100djs/2026/13/peggy-gou",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
       "fields": [
         "/name",
         "/rankings"
@@ -44,7 +50,7 @@
     {
       "url": "https://djmag.com/top100djs/2026/13/peggy-gou",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T18:05:18.576960+00:00",
+      "retrieved_at": "2026-11-18T05:08:54.629571+00:00",
       "fields": [
         "/profile_metadata",
         "/origin",
@@ -55,7 +61,9 @@
       ]
     }
   ],
-  "updated_at": "2026-11-17T18:05:18.576960+00:00",
+  "updated_at": "2026-11-18T05:08:54.629571+00:00",
+  "origin": "South Korea",
+  "best_known_for": "Tracks like ‘(It Goes Like) Nanana’ and ‘Starry Night’.",
   "profile_metadata": {
     "intro_fields": [
       {
@@ -81,7 +89,5 @@
       "url": "https://djmag.com/top100djs/2026/13/peggy-gou"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_PeggyGou.jpg.webp?itok=oZwDZD6U"
-  },
-  "origin": "South Korea",
-  "best_known_for": "Tracks like ‘(It Goes Like) Nanana’ and ‘Starry Night’."
+  }
 }

@@ -3,7 +3,7 @@
   "id": "mau-p",
   "name": "Mau P",
   "entity_type": "unknown",
-  "description": null,
+  "description": "Amsterdam-based tech-house DJ and producer Mau P has spent another busy year building on the momentum of his Baddest Behaviour brand. For the second consecutive year, he held a residency at Pacha Ibiza — inviting the likes of Seth Troxler, Joseph Capriati, Carlita and HAAi — while taking Baddest Behaviour events to dancefloors around the world. The Dutchman, who blew up with his 2022 track ‘Drugs From Amsterdam’ following his relaunch as Mau P, after formerly being known as Maurice West, has continued developing his production output too, most recently with the release of ‘Just A Little Bit More’. Rising 22 places, he’s one of three artists to jointly claim the poll’s Highest Climber title this year.",
   "nationalities": [],
   "styles": [
     "Tech-house."
@@ -29,13 +29,19 @@
     {
       "url": "https://djmag.com/top100djs/2026/55/mau-p",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-15T04:08:56Z",
-      "fields": []
+      "retrieved_at": "2026-11-17T18:03:01.827655+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
     },
     {
       "url": "https://djmag.com/top100djs/2026/55/mau-p",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
       "fields": [
         "/name",
         "/rankings"
@@ -44,7 +50,7 @@
     {
       "url": "https://djmag.com/top100djs/2026/55/mau-p",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T18:03:01.827655+00:00",
+      "retrieved_at": "2026-11-18T05:06:36.104902+00:00",
       "fields": [
         "/profile_metadata",
         "/origin",
@@ -55,7 +61,9 @@
       ]
     }
   ],
-  "updated_at": "2026-11-17T18:03:01.827655+00:00",
+  "updated_at": "2026-11-18T05:06:36.104902+00:00",
+  "origin": "The Netherlands",
+  "best_known_for": "His records and Baddest Behaviour events.",
   "profile_metadata": {
     "intro_fields": [
       {
@@ -81,7 +89,5 @@
       "url": "https://djmag.com/top100djs/2026/55/mau-p"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_MauP.jpg.webp?itok=qx2Bc24i"
-  },
-  "origin": "The Netherlands",
-  "best_known_for": "His records and Baddest Behaviour events."
+  }
 }

@@ -3,7 +3,7 @@
   "id": "above-beyond",
   "name": "Above & Beyond",
   "entity_type": "unknown",
-  "description": null,
+  "description": "Anjuna family paters Above & Beyond remain a driving force in trance. This year, their purist sound — somewhere between euphoric and melancholy — has captivated legions of faithful followers worldwide, whether during Brixton Academy double headers in London, warehouse parties across the UK, Factory Town Miami takeovers, or the annual Group Therapy gathering at the landmark Gorge Amphitheatre in Washington state.\n\nMeanwhile, the labels Anjunabeats, Anjunadeep and Anjunachill maintained an equally packed schedule, with tracks from Ben Böhmer, Nils Hoffmann & Malou, obli, Maty Owl, and Tomas Novoa landing in the last month alone, and a new ambient compilation series launching in December.",
   "nationalities": [],
   "styles": [
     "Emotional electronic dance music."
@@ -43,17 +43,7 @@
         "/origin",
         "/best_known_for",
         "/styles",
-        "/description",
         "/image"
-      ]
-    },
-    {
-      "url": "https://djmag.com/top100djs/2026/87/above-beyond",
-      "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
-      "fields": [
-        "/name",
-        "/rankings"
       ]
     },
     {
@@ -65,12 +55,33 @@
         "/origin",
         "/best_known_for",
         "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/87/above-beyond",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
+      "fields": [
+        "/name",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/87/above-beyond",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:55:05.863665+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
         "/description",
         "/image"
       ]
     }
   ],
-  "updated_at": "2026-11-17T18:09:10.588964+00:00",
+  "updated_at": "2026-11-18T04:55:05.863665+00:00",
   "origin": "UK/Finland",
   "best_known_for": "Trance.",
   "profile_metadata": {

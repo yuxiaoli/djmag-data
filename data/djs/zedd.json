@@ -3,7 +3,7 @@
   "id": "zedd",
   "name": "Zedd",
   "entity_type": "unknown",
-  "description": null,
+  "description": "The brightest highlights of Zedd’s 15th consecutive year in the Top 100 DJs poll unfolded during a single week in New York: his headline performance at the US Open Finals Afterparty and Zedd in the Park’s East Coast debut. Collectively, they reflect different dimensions of his stature today, from his firm place in America’s cultural mainstream to his coast-to-coast success in community-building and brand autonomy. Meanwhile, the post-Coachella resurgence of Justin Bieber’s ‘Beauty And A Beat’ (co-written and co-produced by Zedd) and a handful of singles, including a Shania Twain flip for Candy Crush, have kept the momentum going all year.",
   "nationalities": [],
   "styles": [
     "All genres, high energy and emotive."
@@ -29,13 +29,19 @@
     {
       "url": "https://djmag.com/top100djs/2026/54/zedd",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-15T04:08:56Z",
-      "fields": []
+      "retrieved_at": "2026-11-17T18:08:59.996015+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
     },
     {
       "url": "https://djmag.com/top100djs/2026/54/zedd",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
       "fields": [
         "/name",
         "/rankings"
@@ -44,7 +50,7 @@
     {
       "url": "https://djmag.com/top100djs/2026/54/zedd",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T18:08:59.996015+00:00",
+      "retrieved_at": "2026-11-18T05:12:37.574223+00:00",
       "fields": [
         "/profile_metadata",
         "/origin",
@@ -55,7 +61,9 @@
       ]
     }
   ],
-  "updated_at": "2026-11-17T18:08:59.996015+00:00",
+  "updated_at": "2026-11-18T05:12:37.574223+00:00",
+  "origin": "Russia/Germany",
+  "best_known_for": "Loads of EDM and dance-pop mega-hits.",
   "profile_metadata": {
     "intro_fields": [
       {
@@ -81,7 +89,5 @@
       "url": "https://djmag.com/top100djs/2026/54/zedd"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_Zedd.jpg.webp?itok=dm-V3WYv"
-  },
-  "origin": "Russia/Germany",
-  "best_known_for": "Loads of EDM and dance-pop mega-hits."
+  }
 }

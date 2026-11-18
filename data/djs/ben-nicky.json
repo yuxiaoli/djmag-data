@@ -3,7 +3,7 @@
   "id": "ben-nicky",
   "name": "Ben Nicky",
   "entity_type": "unknown",
-  "description": null,
+  "description": "Ben Nicky is one of the busiest DJs around, regularly dropping his trademark mix of all manner of high-impact, high-tempo genres at events like Tomorrowland, Ultra and Creamfields. This last year has been all about “travelling worldwide, playing every kind of stage and growing my Misfit brand,” Nicky tells us. “I’ve never fitted into one scene and that’s become my strength.”\n\nPicking a DJing highlight for the year, Nicky says, “Field of Dreams, bringing Northern Ireland its biggest ever laser show.” And his plans for 2027? “Taking Field of Dreams worldwide, unexpected collabs, then hopefully cutting the grass and walking my dog Ayla.”",
   "nationalities": [],
   "styles": [
     "“Trance/hard dance/techno/whatever I feel like playing.”"
@@ -43,17 +43,7 @@
         "/origin",
         "/best_known_for",
         "/styles",
-        "/description",
         "/image"
-      ]
-    },
-    {
-      "url": "https://djmag.com/top100djs/2026/66/ben-nicky",
-      "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
-      "fields": [
-        "/name",
-        "/rankings"
       ]
     },
     {
@@ -65,12 +55,33 @@
         "/origin",
         "/best_known_for",
         "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/66/ben-nicky",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
+      "fields": [
+        "/name",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/66/ben-nicky",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:57:13.359899+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
         "/description",
         "/image"
       ]
     }
   ],
-  "updated_at": "2026-11-17T18:11:16.971786+00:00",
+  "updated_at": "2026-11-18T04:57:13.359899+00:00",
   "origin": "UK",
   "best_known_for": "“Playing nearly every genre in one set.”",
   "profile_metadata": {

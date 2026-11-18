@@ -3,7 +3,7 @@
   "id": "martinez-brothers",
   "name": "The Martinez Brothers",
   "entity_type": "unknown",
-  "description": null,
+  "description": "Brothers Chris and Stevie Martinez spent 2026 expanding their global operation, while maintaining the club-focused sound that made them synonymous with New York house. This year saw their first formal North American tour, alongside the launch of Órbita, a new full-scale production concept featuring an 18-foot UFO. They also took their Cuttin’ Headz label to Ultra Miami, curating their own RESISTANCE stage, and made appearances at Movement Detroit, EDC Mexico, Pa’l Norte, Electric Island, and Ultra Japan. The bro's have also continued releasing music and developing Cuttin’ Headz as a home for their own sound and for those artists around them.",
   "nationalities": [],
   "styles": [
     "“High-energy, percussive house and techno.”"
@@ -29,13 +29,19 @@
     {
       "url": "https://djmag.com/top100djs/2026/28/martinez-brothers",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-15T04:08:56Z",
-      "fields": []
+      "retrieved_at": "2026-11-17T18:02:40.618600+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
     },
     {
       "url": "https://djmag.com/top100djs/2026/28/martinez-brothers",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
       "fields": [
         "/name",
         "/rankings"
@@ -44,7 +50,7 @@
     {
       "url": "https://djmag.com/top100djs/2026/28/martinez-brothers",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T18:02:40.618600+00:00",
+      "retrieved_at": "2026-11-18T05:06:14.762138+00:00",
       "fields": [
         "/profile_metadata",
         "/origin",
@@ -55,7 +61,9 @@
       ]
     }
   ],
-  "updated_at": "2026-11-17T18:02:40.618600+00:00",
+  "updated_at": "2026-11-18T05:06:14.762138+00:00",
+  "origin": "USA",
+  "best_known_for": "“Marathon sets, our Cuttin’ Headz label, and bringing the raw energy of our Bronx roots to dancefloors around the world.”",
   "profile_metadata": {
     "intro_fields": [
       {
@@ -81,7 +89,5 @@
       "url": "https://djmag.com/top100djs/2026/28/martinez-brothers"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_TheMartinezBrothers.jpg.webp?itok=Qg8-dTA8"
-  },
-  "origin": "USA",
-  "best_known_for": "“Marathon sets, our Cuttin’ Headz label, and bringing the raw energy of our Bronx roots to dancefloors around the world.”"
+  }
 }

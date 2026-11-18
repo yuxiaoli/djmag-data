@@ -3,7 +3,7 @@
   "id": "atb",
   "name": "ATB",
   "entity_type": "unknown",
-  "description": null,
+  "description": "André Tanneberger, aka ATB, is the producer behind the timeless anthem ‘9PM (Till I Come)’. Released in 1998, it became the first trance record to reach No.1 in the UK Singles Chart and helped define an era in dance music. Nearly three decades later, he’s still going strong. This year, as well as playing major festivals such as Parookaville and Airbeat One, he released ‘A Freak To Dance With’. He’s also taking his Final Chapter Tour across Europe, the UK, USA, Mexico and China, celebrating nearly 30 years of his career and building towards the release of his 12th and final album, ‘The Final Chapter’.",
   "nationalities": [],
   "styles": [
     "Emotional, energetic dance music."
@@ -43,17 +43,7 @@
         "/origin",
         "/best_known_for",
         "/styles",
-        "/description",
         "/image"
-      ]
-    },
-    {
-      "url": "https://djmag.com/top100djs/2026/63/atb",
-      "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
-      "fields": [
-        "/name",
-        "/rankings"
       ]
     },
     {
@@ -65,12 +55,33 @@
         "/origin",
         "/best_known_for",
         "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/63/atb",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
+      "fields": [
+        "/name",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/63/atb",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:56:41.434217+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
         "/description",
         "/image"
       ]
     }
   ],
-  "updated_at": "2026-11-17T18:10:45.255826+00:00",
+  "updated_at": "2026-11-18T04:56:41.434217+00:00",
   "origin": "Germany",
   "best_known_for": "‘9PM (Till I Come)’, ‘Ecstasy’.",
   "profile_metadata": {

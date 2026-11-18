@@ -3,7 +3,7 @@
   "id": "sonny-fodera",
   "name": "Sonny Fodera",
   "entity_type": "unknown",
-  "description": null,
+  "description": "2026 marks the debut of Sonny Fodera in the Top 100 DJs list and, by most measures, it’s long overdue. The London-based Australian DJ and producer has had a banner year, headlining Creamfields, holding down a Pacha residency, and touring across the globe. But if that wasn’t enough to keep Fodera busy, he’s also had some major hits from the studio.\n\nIt was a busy release schedule, but it doesn’t get much better than his tune ‘Asking’, made with the legendary MK and a vocal assist from Clementine Douglas. With another world tour on the horizon and more festivals to headline, Fodera isn’t slowing down anytime soon.",
   "nationalities": [],
   "styles": [
     "Groove-driven, emotive, and vocal-led house music."
@@ -29,13 +29,19 @@
     {
       "url": "https://djmag.com/top100djs/2026/80/sonny-fodera",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-15T04:08:56Z",
-      "fields": []
+      "retrieved_at": "2026-11-17T18:07:04.303672+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
     },
     {
       "url": "https://djmag.com/top100djs/2026/80/sonny-fodera",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
       "fields": [
         "/name",
         "/rankings"
@@ -44,7 +50,7 @@
     {
       "url": "https://djmag.com/top100djs/2026/80/sonny-fodera",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T18:07:04.303672+00:00",
+      "retrieved_at": "2026-11-18T05:10:40.986335+00:00",
       "fields": [
         "/profile_metadata",
         "/origin",
@@ -55,7 +61,9 @@
       ]
     }
   ],
-  "updated_at": "2026-11-17T18:07:04.303672+00:00",
+  "updated_at": "2026-11-18T05:10:40.986335+00:00",
+  "origin": "Australia",
+  "best_known_for": "‘Somedays’ with D.O.D & Jazzy.",
   "profile_metadata": {
     "intro_fields": [
       {
@@ -81,7 +89,5 @@
       "url": "https://djmag.com/top100djs/2026/80/sonny-fodera"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_SonnyFodera.jpg.webp?itok=cjTYArSy"
-  },
-  "origin": "Australia",
-  "best_known_for": "‘Somedays’ with D.O.D & Jazzy."
+  }
 }

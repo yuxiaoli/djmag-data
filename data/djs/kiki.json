@@ -3,7 +3,7 @@
   "id": "kiki",
   "name": "KI/KI",
   "entity_type": "unknown",
-  "description": null,
+  "description": "KI/KI’s rise has accelerated throughout 2026, with the Dutch trance-techno star taking on increasingly major festival and arena stages that are well-suited to her high-speed sound.\n\nHer release rollout this year included ‘5AM’, ‘Going Existential In The Rave’, ‘Here With Me’ and ‘Arp12’, the latter a mega collaboration with the UK electronic pioneers Underworld. She has also remixed Romy’s ‘Love Who You Love’. Her live schedule has been equally ambitious: after a sold-out tour across Europe, Australia and North and South America earlier in the year, she is set to make her Ziggo Dome debut during ADE in October with two five-hour headline shows.",
   "nationalities": [],
   "styles": [
     "Trance, acid techno."
@@ -29,13 +29,19 @@
     {
       "url": "https://djmag.com/top100djs/2026/100/kiki",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-15T04:08:56Z",
-      "fields": []
+      "retrieved_at": "2026-11-17T18:00:13.296532+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
     },
     {
       "url": "https://djmag.com/top100djs/2026/100/kiki",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
       "fields": [
         "/name",
         "/rankings"
@@ -44,7 +50,7 @@
     {
       "url": "https://djmag.com/top100djs/2026/100/kiki",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T18:00:13.296532+00:00",
+      "retrieved_at": "2026-11-18T05:03:46.133264+00:00",
       "fields": [
         "/profile_metadata",
         "/origin",
@@ -55,7 +61,9 @@
       ]
     }
   ],
-  "updated_at": "2026-11-17T18:00:13.296532+00:00",
+  "updated_at": "2026-11-18T05:03:46.133264+00:00",
+  "origin": "The Netherlands",
+  "best_known_for": "High-BPM sets and her euphoric sound.",
   "profile_metadata": {
     "intro_fields": [
       {
@@ -81,7 +89,5 @@
       "url": "https://djmag.com/top100djs/2026/100/kiki"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_KIKI.jpg.webp?itok=wslsw8xl"
-  },
-  "origin": "The Netherlands",
-  "best_known_for": "High-BPM sets and her euphoric sound."
+  }
 }

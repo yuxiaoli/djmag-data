@@ -3,7 +3,7 @@
   "id": "black-coffee",
   "name": "Black Coffee",
   "entity_type": "unknown",
-  "description": null,
+  "description": "The reason Black Coffee remains such a strong force in African electronic music is his deep, lasting connection to his roots. 2026 saw the DJ and producer, best known for taking Afro-house to the global stage, bring that stage back home. The second edition of his three-day Black Coffee Weekender in Cape Town brought international peers like Peggy Gou to his home turf. A third edition in 2027 promises to expand the connections between South Africa and the wider dance music world that Black Coffee has forged, further cementing Africa and himself as superpowers in the global electronic music ecosystem.",
   "nationalities": [],
   "styles": [
     "Afro-house, deep house."
@@ -43,17 +43,7 @@
         "/origin",
         "/best_known_for",
         "/styles",
-        "/description",
         "/image"
-      ]
-    },
-    {
-      "url": "https://djmag.com/top100djs/2026/14/black-coffee",
-      "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
-      "fields": [
-        "/name",
-        "/rankings"
       ]
     },
     {
@@ -65,12 +55,33 @@
         "/origin",
         "/best_known_for",
         "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/14/black-coffee",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
+      "fields": [
+        "/name",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/14/black-coffee",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:57:24.030714+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
         "/description",
         "/image"
       ]
     }
   ],
-  "updated_at": "2026-11-17T18:11:27.354499+00:00",
+  "updated_at": "2026-11-18T04:57:24.030714+00:00",
   "origin": "South Africa",
   "best_known_for": "Popularising Afro-house globally.",
   "profile_metadata": {

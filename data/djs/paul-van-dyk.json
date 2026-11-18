@@ -3,7 +3,7 @@
   "id": "paul-van-dyk",
   "name": "Paul van Dyk",
   "entity_type": "unknown",
-  "description": null,
+  "description": "A foundational figure in electronic music, Paul van Dyk has spent 2026 balancing a busy touring schedule with several new projects. He marked the 1,000th episode of his long-running VONYC Sessions radio show with a major Berlin gig. This year has also seen the launch of Château Bonheur Musique, a new label exploring a softer, golden-hour side of electronica. Meanwhile, his SHINE events have travelled to Bristol and Nottingham in the UK, with Ibiza and Colombia still ahead. He is also preparing ‘The State of Things’, his next album, and has developed new live concept The Essence of Acid with Insomniac, set to launch at Dreamstate SoCal this November.",
   "nationalities": [],
   "styles": [
     "“Advanced electronic music.”"
@@ -29,13 +29,19 @@
     {
       "url": "https://djmag.com/top100djs/2026/35/paul-van-dyk",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-15T04:08:56Z",
-      "fields": []
+      "retrieved_at": "2026-11-17T18:04:57.515007+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
     },
     {
       "url": "https://djmag.com/top100djs/2026/35/paul-van-dyk",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
       "fields": [
         "/name",
         "/rankings"
@@ -44,7 +50,7 @@
     {
       "url": "https://djmag.com/top100djs/2026/35/paul-van-dyk",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T18:04:57.515007+00:00",
+      "retrieved_at": "2026-11-18T05:08:33.403482+00:00",
       "fields": [
         "/profile_metadata",
         "/origin",
@@ -55,7 +61,9 @@
       ]
     }
   ],
-  "updated_at": "2026-11-17T18:04:57.515007+00:00",
+  "updated_at": "2026-11-18T05:08:33.403482+00:00",
+  "origin": "Germany",
+  "best_known_for": "“Making people dance.”",
   "profile_metadata": {
     "intro_fields": [
       {
@@ -81,7 +89,5 @@
       "url": "https://djmag.com/top100djs/2026/35/paul-van-dyk"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_PaulvanDyk.jpg.webp?itok=Uyg8ZDbJ"
-  },
-  "origin": "Germany",
-  "best_known_for": "“Making people dance.”"
+  }
 }

@@ -3,7 +3,7 @@
   "id": "alesso",
   "name": "Alesso",
   "entity_type": "unknown",
-  "description": null,
+  "description": "Sweden’s Alessandro Renato Rodolfo Lindblad has been a part of the global DJ community since his 2011 breakthrough, and has had another 12 months of huge sell out shows, playing his characteristic electro/prog-house/EDM hybrid sound.\n\nAside from returning to rock the Mainstage and close the Freedom stage at Tomorrowland, he played Ultra Miami, EDC Mexico, Ultra Japan, and returned to his hometown Stockholm for the first time in a decade for a massive sold-out open-air show launching his new immersive live concept, The One. Alesso also found time to drop a major collaboration with Pendulum, the super-smooth festival tear-jerker ‘FADE’.",
   "nationalities": [],
   "styles": [
     "Euphoric and melodic."
@@ -43,17 +43,7 @@
         "/origin",
         "/best_known_for",
         "/styles",
-        "/description",
         "/image"
-      ]
-    },
-    {
-      "url": "https://djmag.com/top100djs/2026/56/alesso",
-      "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
-      "fields": [
-        "/name",
-        "/rankings"
       ]
     },
     {
@@ -65,12 +55,33 @@
         "/origin",
         "/best_known_for",
         "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/56/alesso",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
+      "fields": [
+        "/name",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/56/alesso",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:55:37.636705+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
         "/description",
         "/image"
       ]
     }
   ],
-  "updated_at": "2026-11-17T18:09:41.844491+00:00",
+  "updated_at": "2026-11-18T04:55:37.636705+00:00",
   "origin": "Sweden",
   "best_known_for": "Working with artists like Calvin Harris, Swedish House Mafia, Usher, and David Guetta.",
   "profile_metadata": {

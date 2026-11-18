@@ -3,7 +3,7 @@
   "id": "don-diablo",
   "name": "Don Diablo",
   "entity_type": "unknown",
-  "description": null,
+  "description": "Though he may be one of the most notable champions of future house, Don Diablo’s repertoire extends far beyond that, as the launch of his CONTROL ALT DΞLΞTΞ drum & bass alias proved. This year also saw the release of his big ‘5 Minutes’ single, and a 19-track compilation of existing and reworked songs, ‘VΞRSIONS’, featuring collabs with Jamiroquai, Major Lazer, Nelly Furtado and more. He then divided the rest of 2026 between unleashing a series of high-intensity, day-glo festival stormers with the likes of Pink Sweat$, Bipolar Sunshine, Becky G, and A$AP Ferg, and playing a succession of huge shows worldwide.",
   "nationalities": [],
   "styles": [
     "“House music from the future.”"
@@ -29,13 +29,19 @@
     {
       "url": "https://djmag.com/top100djs/2026/12/don-diablo",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-15T04:08:56Z",
-      "fields": []
+      "retrieved_at": "2026-11-17T17:56:43.533123+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
     },
     {
       "url": "https://djmag.com/top100djs/2026/12/don-diablo",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
       "fields": [
         "/name",
         "/rankings"
@@ -44,7 +50,7 @@
     {
       "url": "https://djmag.com/top100djs/2026/12/don-diablo",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:56:43.533123+00:00",
+      "retrieved_at": "2026-11-18T05:00:13.962032+00:00",
       "fields": [
         "/profile_metadata",
         "/origin",
@@ -55,7 +61,9 @@
       ]
     }
   ],
-  "updated_at": "2026-11-17T17:56:43.533123+00:00",
+  "updated_at": "2026-11-18T05:00:13.962032+00:00",
+  "origin": "The Netherlands",
+  "best_known_for": "“Blurring the lines between old school and new school, while building worlds that connect music, art, fashion and technology. Pushing house music into the future.”",
   "profile_metadata": {
     "intro_fields": [
       {
@@ -81,7 +89,5 @@
       "url": "https://djmag.com/top100djs/2026/12/don-diablo"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_DonDiablo.jpg.webp?itok=pw4-zcEy"
-  },
-  "origin": "The Netherlands",
-  "best_known_for": "“Blurring the lines between old school and new school, while building worlds that connect music, art, fashion and technology. Pushing house music into the future.”"
+  }
 }

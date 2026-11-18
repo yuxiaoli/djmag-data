@@ -3,7 +3,7 @@
   "id": "b-jones",
   "name": "B Jones",
   "entity_type": "unknown",
-  "description": null,
+  "description": "Spanish DJ and producer B Jones has built a career around breaking down the borders between festival genres. She became the first Spanish woman to perform on Tomorrowland’s Mainstage in 2022 and has since appeared at festivals including EDC Mexico, Lollapalooza Berlin, Parookaville and Tomorrowland Brasil, alongside residencies at Ushuaïa and Hï Ibiza.\n\nIn 2026, she returned to Tomorrowland’s Mainstage following a nine-month battle with cancer, having continued to release music throughout her recovery. The performance became a major moment for her fans, while her collaborations with artists including Steve Aoki, Alok and NERVO have continued to expand her reach.",
   "nationalities": [],
   "styles": [
     "“Trance, mainstage.”"
@@ -43,17 +43,7 @@
         "/origin",
         "/best_known_for",
         "/styles",
-        "/description",
         "/image"
-      ]
-    },
-    {
-      "url": "https://djmag.com/top100djs/2026/74/b-jones",
-      "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
-      "fields": [
-        "/name",
-        "/rankings"
       ]
     },
     {
@@ -65,12 +55,33 @@
         "/origin",
         "/best_known_for",
         "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/74/b-jones",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
+      "fields": [
+        "/name",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/74/b-jones",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:56:52.128723+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
         "/description",
         "/image"
       ]
     }
   ],
-  "updated_at": "2026-11-17T18:10:55.626288+00:00",
+  "updated_at": "2026-11-18T04:56:52.128723+00:00",
   "origin": "Spain",
   "best_known_for": "“Blending tech-house, Eurodance, big-room and trance into high-energy mainstage sets, often through her own edits and versions.”",
   "profile_metadata": {

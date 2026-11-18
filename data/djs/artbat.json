@@ -3,7 +3,7 @@
   "id": "artbat",
   "name": "ARTBAT",
   "entity_type": "unknown",
-  "description": null,
+  "description": "Ukrainian duo ARTBAT return to the Top 100 DJs following their debut in the poll last year, and it’s been an action-packed 12 months. They released a string of singles in 2026, including ‘Love Is Gonna Save Us’ with Benny Benassi, ‘Take Off’ with Armin van Buuren, and released a huge rework in collaboration with David Guetta of Gotya and Kimbra’s 2011 classic ‘Somebody That I Used To Know’.\n\nTheir UPPERGROUND label is still going strong, and they’ve hosted events in Dubai, Malaysia and Warsaw with the brand this year. They also played Ultra Miami’s mainstage, Tomorrowland, Lollapalooza Berlin, Cercle Festival and shared the bill with Adam Beyer and CamelPhat at [UNVRS] in Ibiza.",
   "nationalities": [],
   "styles": [
     "Melodic techno, progressive house."
@@ -43,17 +43,7 @@
         "/origin",
         "/best_known_for",
         "/styles",
-        "/description",
         "/image"
-      ]
-    },
-    {
-      "url": "https://djmag.com/top100djs/2026/70/artbat",
-      "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
-      "fields": [
-        "/name",
-        "/rankings"
       ]
     },
     {
@@ -65,12 +55,33 @@
         "/origin",
         "/best_known_for",
         "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/70/artbat",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
+      "fields": [
+        "/name",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/70/artbat",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:56:30.732818+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
         "/description",
         "/image"
       ]
     }
   ],
-  "updated_at": "2026-11-17T18:10:34.604353+00:00",
+  "updated_at": "2026-11-18T04:56:30.732818+00:00",
   "origin": "Ukraine",
   "best_known_for": "Remixing Monolink’s ‘Return To Oz’.",
   "profile_metadata": {

@@ -3,7 +3,7 @@
   "id": "dimitri-vegas-mike",
   "name": "Dimitri Vegas & Like Mike",
   "entity_type": "unknown",
-  "description": null,
+  "description": "Dimitri Vegas played the Tomorrowland Mainstage solo this summer, with Like Mike having just announced a break from touring to focus on his health. Paying tribute to his brother on stage, he delivered a typically high-energy set that reminded fans why this Belgian pair are long-standing favourites at the festival.\n\nEarlier in the weekend, the Belgian star had played a surprise b2b with Marlon Hoffstadt, with whom he and Mike had collaborated on the hit single, 'Makina Time', earlier in the year, alongside DJ Konik. It was one of several anthems released by Dimitri Vegas and Like Mike this year, along with 'Turn The Tide’ and ‘Woops’.\n\nFor his part, Dimitri Vegas has also been exploring more opportunities in acting and film, making a cameo appearance in the recent 007 First Light video game. As 2026 starts to wind down, he's focusing on the future, and reuniting with his lifelong companion. \"We’re really looking forward to having my brother Mike back on stage in 2027,\" he says. \"That’s something I’m especially excited about.”",
   "nationalities": [],
   "styles": [
     "High-energy dance music"
@@ -29,13 +29,19 @@
     {
       "url": "https://djmag.com/top100djs/2026/5/dimitri-vegas-mike",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-15T04:08:56Z",
-      "fields": []
+      "retrieved_at": "2026-11-17T17:56:11.759705+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
     },
     {
       "url": "https://djmag.com/top100djs/2026/5/dimitri-vegas-mike",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
       "fields": [
         "/name",
         "/rankings"
@@ -44,7 +50,7 @@
     {
       "url": "https://djmag.com/top100djs/2026/5/dimitri-vegas-mike",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:56:11.759705+00:00",
+      "retrieved_at": "2026-11-18T04:59:42.022591+00:00",
       "fields": [
         "/profile_metadata",
         "/origin",
@@ -55,7 +61,9 @@
       ]
     }
   ],
-  "updated_at": "2026-11-17T17:56:11.759705+00:00",
+  "updated_at": "2026-11-18T04:59:42.022591+00:00",
+  "origin": "Belgium",
+  "best_known_for": "Being the kings of Tomorrowland.",
   "profile_metadata": {
     "intro_fields": [
       {
@@ -81,7 +89,5 @@
       "url": "https://djmag.com/top100djs/2026/5/dimitri-vegas-mike"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_DimitriVegasandLikeMike.jpg.webp?itok=GnQoVpMG"
-  },
-  "origin": "Belgium",
-  "best_known_for": "Being the kings of Tomorrowland."
+  }
 }

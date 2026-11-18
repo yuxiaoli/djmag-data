@@ -3,7 +3,7 @@
   "id": "quintino",
   "name": "Quintino",
   "entity_type": "unknown",
-  "description": null,
+  "description": "When we last heard from Quinten van den Berg, he was exploring fresh musical frontiers, keeping things “100% Quintino”, but applying a “new twist”. Since then, we’ve had the gargantuan and appropriately titled ‘Go Hard’ on Spinnin’ Records, his Deorro collaboration for Dim Mak (‘Phoenix’), and ‘Do You Want It Right Now’ with Breathe Carolina and GIACOBBI.\n\nAll have sent crowds into orbit at events like Tomorrowland, Dance Valley, and Circus Maximus, and across China, Japan, and Sri Lanka. With dates in North America, Poland and Thailand lined up before the end of 2026, we’re expecting more of the same.",
   "nationalities": [],
   "styles": [
     "High-energy electronic music with uplifting mainstage vibes."
@@ -29,13 +29,19 @@
     {
       "url": "https://djmag.com/top100djs/2026/76/quintino",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-15T04:08:56Z",
-      "fields": []
+      "retrieved_at": "2026-11-17T18:05:50.380570+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
     },
     {
       "url": "https://djmag.com/top100djs/2026/76/quintino",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
       "fields": [
         "/name",
         "/rankings"
@@ -44,7 +50,7 @@
     {
       "url": "https://djmag.com/top100djs/2026/76/quintino",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T18:05:50.380570+00:00",
+      "retrieved_at": "2026-11-18T05:09:26.459075+00:00",
       "fields": [
         "/profile_metadata",
         "/origin",
@@ -55,7 +61,9 @@
       ]
     }
   ],
-  "updated_at": "2026-11-17T18:05:50.380570+00:00",
+  "updated_at": "2026-11-18T05:09:26.459075+00:00",
+  "origin": "The Netherlands",
+  "best_known_for": "Monster breakdowns, massive drops.",
   "profile_metadata": {
     "intro_fields": [
       {
@@ -81,7 +89,5 @@
       "url": "https://djmag.com/top100djs/2026/76/quintino"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_Quintino.jpg.webp?itok=tBR_ulWf"
-  },
-  "origin": "The Netherlands",
-  "best_known_for": "Monster breakdowns, massive drops."
+  }
 }

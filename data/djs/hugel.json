@@ -3,7 +3,7 @@
   "id": "hugel",
   "name": "HUGEL",
   "entity_type": "unknown",
-  "description": null,
+  "description": "No longer a new entry, HUGEL settles into the Top 100 DJs with a winning hand, driven largely by the success of his debut album, ‘Twenty One’. Featuring cross-genre collaborators like Snoop Dogg and Donel, the Parisian producer’s LP transcended dance circles, debuting at No.1 on Spotify’s Global Top Albums Debut chart, while its lead single, ‘Movin’ To The Sun’, claimed Beatport’s overall top spot and later made HUGEL the most-Shazamed artist in the world. This luminous year also brought a DJ Mag Ibiza cover, his Coachella debut, residencies at Encore Las Vegas and Hï Ibiza, and his first US Gold record (for ‘I Adore You’).",
   "nationalities": [],
   "styles": [
     "Latin house."
@@ -29,13 +29,19 @@
     {
       "url": "https://djmag.com/top100djs/2026/48/hugel",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-15T04:08:56Z",
-      "fields": []
+      "retrieved_at": "2026-11-17T17:58:28.377505+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
     },
     {
       "url": "https://djmag.com/top100djs/2026/48/hugel",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
       "fields": [
         "/name",
         "/rankings"
@@ -44,7 +50,7 @@
     {
       "url": "https://djmag.com/top100djs/2026/48/hugel",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:58:28.377505+00:00",
+      "retrieved_at": "2026-11-18T05:02:00.483246+00:00",
       "fields": [
         "/profile_metadata",
         "/origin",
@@ -55,7 +61,9 @@
       ]
     }
   ],
-  "updated_at": "2026-11-17T17:58:28.377505+00:00",
+  "updated_at": "2026-11-18T05:02:00.483246+00:00",
+  "origin": "France",
+  "best_known_for": "His album ‘Twenty One’ and his Hï Ibiza residency.",
   "profile_metadata": {
     "intro_fields": [
       {
@@ -81,7 +89,5 @@
       "url": "https://djmag.com/top100djs/2026/48/hugel"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_HUGEL.jpg.webp?itok=3vweWc0f"
-  },
-  "origin": "France",
-  "best_known_for": "His album ‘Twenty One’ and his Hï Ibiza residency."
+  }
 }

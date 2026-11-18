@@ -3,7 +3,7 @@
   "id": "eric-prydz",
   "name": "Eric Prydz",
   "entity_type": "unknown",
-  "description": null,
+  "description": "The main focus for Eric Prydz this year has been all about music and less about touring. “I feel I owe the fans that,” he says. Famous for crafting a multitude of material under numerous monikers and playing it out live in a most spectacular fashion, Prydz wants to refine and release the sneaky previews he’s been teasing to his followers over recent years. He continues to present his Epic Radio shows, which allow him flexibility to experiment and test the water beforehand. “I’m a creative person. I love making new things and to be able to share it with other people that find it as interesting as I do.”",
   "nationalities": [],
   "styles": [
     "Progressive/melodic/techno."
@@ -29,13 +29,19 @@
     {
       "url": "https://djmag.com/top100djs/2026/62/eric-prydz",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-15T04:08:56Z",
-      "fields": []
+      "retrieved_at": "2026-11-17T17:57:04.545660+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
     },
     {
       "url": "https://djmag.com/top100djs/2026/62/eric-prydz",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
       "fields": [
         "/name",
         "/rankings"
@@ -44,7 +50,7 @@
     {
       "url": "https://djmag.com/top100djs/2026/62/eric-prydz",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:57:04.545660+00:00",
+      "retrieved_at": "2026-11-18T05:00:35.432733+00:00",
       "fields": [
         "/profile_metadata",
         "/origin",
@@ -55,7 +61,9 @@
       ]
     }
   ],
-  "updated_at": "2026-11-17T17:57:04.545660+00:00",
+  "updated_at": "2026-11-18T05:00:35.432733+00:00",
+  "origin": "Sweden",
+  "best_known_for": "Mega hits and epic A/V shows.",
   "profile_metadata": {
     "intro_fields": [
       {
@@ -81,7 +89,5 @@
       "url": "https://djmag.com/top100djs/2026/62/eric-prydz"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_EricPrydz.jpg.webp?itok=XticDc1s"
-  },
-  "origin": "Sweden",
-  "best_known_for": "Mega hits and epic A/V shows."
+  }
 }

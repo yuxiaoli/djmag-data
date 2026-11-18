@@ -3,7 +3,7 @@
   "id": "tiesto",
   "name": "Tiësto",
   "entity_type": "unknown",
-  "description": null,
+  "description": "This year Tiësto is sensing a frisson in the air and is feeling more connected to trance than ever before, but it’s not the trance that he started out playing — this is the new trance of 2026 that’s really got him excited again. “It’s fresh,” he says, while revealing that he’s working on a new album release and pondering a change of name for his label. Amongst his legendary sets of the summer played a big set at Creamfields, and he returns to Vegas in November for a slew of dates, as well as holding a banger of an NYE party there to see in 2027.",
   "nationalities": [],
   "styles": [
     "Trance."
@@ -29,13 +29,19 @@
     {
       "url": "https://djmag.com/top100djs/2026/22/tiesto",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-15T04:08:56Z",
-      "fields": []
+      "retrieved_at": "2026-11-17T18:07:46.303949+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
     },
     {
       "url": "https://djmag.com/top100djs/2026/22/tiesto",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
       "fields": [
         "/name",
         "/rankings"
@@ -44,7 +50,7 @@
     {
       "url": "https://djmag.com/top100djs/2026/22/tiesto",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T18:07:46.303949+00:00",
+      "retrieved_at": "2026-11-18T05:11:23.616693+00:00",
       "fields": [
         "/profile_metadata",
         "/origin",
@@ -55,7 +61,9 @@
       ]
     }
   ],
-  "updated_at": "2026-11-17T18:07:46.303949+00:00",
+  "updated_at": "2026-11-18T05:11:23.616693+00:00",
+  "origin": "The Netherlands",
+  "best_known_for": "Playing at the Olympics, winning the Top 100 DJs, making anthems.",
   "profile_metadata": {
     "intro_fields": [
       {
@@ -81,7 +89,5 @@
       "url": "https://djmag.com/top100djs/2026/22/tiesto"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_Tiesto.jpg.webp?itok=wW7PkQAR"
-  },
-  "origin": "The Netherlands",
-  "best_known_for": "Playing at the Olympics, winning the Top 100 DJs, making anthems."
+  }
 }

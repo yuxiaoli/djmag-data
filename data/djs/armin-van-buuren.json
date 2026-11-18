@@ -3,7 +3,7 @@
   "id": "armin-van-buuren",
   "name": "Armin Van Buuren",
   "entity_type": "unknown",
-  "description": null,
+  "description": "Consistently evolving with new music, remixes and ideas, Armin van Buuren has continued to push forward this year while remaining true to the trance sound that remains closest to his heart. “It sparks a little fire in me, it’s deeply personal,” he says.\n\nHolding on to The World’s No. 1 Trance DJ title in 2026, the Dutch legend has also been celebrating 25 years of A State Of Trance, all while continuing to share messages of positivity and connection from some of dance music's biggest stages. It's a sentiment he took to TV too, appearing in drag as a surprise guest on Dutch TV show Make Up Your Mind to remind viewer's of dance music's roots in unity and inclusivity: \"Be who you want to be.\"",
   "nationalities": [],
   "styles": [
     "“Energetic, euphoric.”"
@@ -43,17 +43,7 @@
         "/origin",
         "/best_known_for",
         "/styles",
-        "/description",
         "/image"
-      ]
-    },
-    {
-      "url": "https://djmag.com/top100djs/2026/7/armin-van-buuren",
-      "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
-      "fields": [
-        "/name",
-        "/rankings"
       ]
     },
     {
@@ -65,12 +55,33 @@
         "/origin",
         "/best_known_for",
         "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/7/armin-van-buuren",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
+      "fields": [
+        "/name",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/7/armin-van-buuren",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:56:20.221053+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
         "/description",
         "/image"
       ]
     }
   ],
-  "updated_at": "2026-11-17T18:10:23.996943+00:00",
+  "updated_at": "2026-11-18T04:56:20.221053+00:00",
   "origin": "The Netherlands",
   "best_known_for": "“Five-times No.1 DJ in the world, A State of Trance.”",
   "profile_metadata": {

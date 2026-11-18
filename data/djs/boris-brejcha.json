@@ -3,7 +3,7 @@
   "id": "boris-brejcha",
   "name": "Boris Brejcha",
   "entity_type": "unknown",
-  "description": null,
+  "description": "It’s not surprising Boris Brejcha ranks his remix of Moby’s 2002 single, ‘In This World’, as his tune of 2026. It’s not every day (or year) you reinterpret a big track by an artist you cite as a key influence, deftly weaving together melodic elements from the original with the taught, driving roll that defines your trademark sound.\n\nThe September release was just one of the German’s achievements in another huge 12 months, which have also seen him ready a brand new album and headline historic venues like the Hollywood Bowl, and the Royal Palace in Brussels (alongside Eric Prydz).",
   "nationalities": [],
   "styles": [
     "“High-tech minimal.”"
@@ -43,17 +43,7 @@
         "/origin",
         "/best_known_for",
         "/styles",
-        "/description",
         "/image"
-      ]
-    },
-    {
-      "url": "https://djmag.com/top100djs/2026/57/boris-brejcha",
-      "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
-      "fields": [
-        "/name",
-        "/rankings"
       ]
     },
     {
@@ -65,12 +55,33 @@
         "/origin",
         "/best_known_for",
         "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/57/boris-brejcha",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
+      "fields": [
+        "/name",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/57/boris-brejcha",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:57:34.583213+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
         "/description",
         "/image"
       ]
     }
   ],
-  "updated_at": "2026-11-17T18:11:37.929731+00:00",
+  "updated_at": "2026-11-18T04:57:34.583213+00:00",
   "origin": "Germany",
   "best_known_for": null,
   "profile_metadata": {

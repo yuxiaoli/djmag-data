@@ -3,7 +3,7 @@
   "id": "marnik",
   "name": "Marnik",
   "entity_type": "unknown",
-  "description": null,
+  "description": "Milanese duo MARNIK return, having made their first poll appearance in 2024. In the two years since, the pair launched their label Arena Records in partnership with Universal Germany, and have performed worldwide.\n\nStarting out in 2013, the pair evolved as producers with releases on Spinnin’ Records, Revealed Recordings and Dim Mak building up their profile before landing bookings at Tomorrowland in Belgium and Brazil, and more recently, Holika Festival in Spain and Atlas Super Club in Indonesia. Their “Epic Rave” take on dance music, as described in their Instagram bio, is summed up by the official anthem of Arena Records, the track ‘ARENA’: a loud, proud, and fiery blend of hard techno and acid.",
   "nationalities": [],
   "styles": [
     "Techno, trance, rave."
@@ -29,13 +29,19 @@
     {
       "url": "https://djmag.com/top100djs/2026/88/marnik",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-15T04:08:56Z",
-      "fields": []
+      "retrieved_at": "2026-11-17T18:02:09.381820+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
     },
     {
       "url": "https://djmag.com/top100djs/2026/88/marnik",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
       "fields": [
         "/name",
         "/rankings"
@@ -44,7 +50,7 @@
     {
       "url": "https://djmag.com/top100djs/2026/88/marnik",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T18:02:09.381820+00:00",
+      "retrieved_at": "2026-11-18T05:05:42.937551+00:00",
       "fields": [
         "/profile_metadata",
         "/origin",
@@ -55,7 +61,9 @@
       ]
     }
   ],
-  "updated_at": "2026-11-17T18:02:09.381820+00:00",
+  "updated_at": "2026-11-18T05:05:42.937551+00:00",
+  "origin": "Italy",
+  "best_known_for": "MARNIK x Naeleck ‘Boyz In Paris (w/ VINAI)’.",
   "profile_metadata": {
     "intro_fields": [
       {
@@ -81,7 +89,5 @@
       "url": "https://djmag.com/top100djs/2026/88/marnik"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_MARNIK.jpg.webp?itok=cl9sH-so"
-  },
-  "origin": "Italy",
-  "best_known_for": "MARNIK x Naeleck ‘Boyz In Paris (w/ VINAI)’."
+  }
 }

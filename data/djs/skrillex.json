@@ -3,7 +3,7 @@
   "id": "skrillex",
   "name": "Skrillex",
   "entity_type": "unknown",
-  "description": null,
+  "description": "Skrillex’s first year as an independent artist since 2009 moved at breakneck speed. A glance backwards at his calendar telegraphs a clear trajectory for what ranks as one of his most momentous years yet: the ‘Kora’ EP; an appearance at the 68th annual Grammy Awards; a surprise b2b during BZRP’s Ultra Miami set; the launch of his two-day festival and cultural platform, CONTRA Berlin; countless IDs; his fifth studio album, ‘SOMA’; and a sold-out day party at Seattle’s Gas Works Park, where he played alongside Porter Robinson. Catch your breath now, while the dynamo tees up whatever is coming next.",
   "nationalities": [],
   "styles": [
     "Bass in various forms."
@@ -29,13 +29,19 @@
     {
       "url": "https://djmag.com/top100djs/2026/25/skrillex",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-15T04:08:56Z",
-      "fields": []
+      "retrieved_at": "2026-11-17T18:06:43.523477+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
     },
     {
       "url": "https://djmag.com/top100djs/2026/25/skrillex",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
       "fields": [
         "/name",
         "/rankings"
@@ -44,7 +50,7 @@
     {
       "url": "https://djmag.com/top100djs/2026/25/skrillex",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T18:06:43.523477+00:00",
+      "retrieved_at": "2026-11-18T05:10:19.621230+00:00",
       "fields": [
         "/profile_metadata",
         "/origin",
@@ -55,7 +61,9 @@
       ]
     }
   ],
-  "updated_at": "2026-11-17T18:06:43.523477+00:00",
+  "updated_at": "2026-11-18T05:10:19.621230+00:00",
+  "origin": "USA",
+  "best_known_for": "Blowing up dubstep in the US and countless hit tracks.",
   "profile_metadata": {
     "intro_fields": [
       {
@@ -81,7 +89,5 @@
       "url": "https://djmag.com/top100djs/2026/25/skrillex"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_Skrillex.jpg.webp?itok=YcblMAQ4"
-  },
-  "origin": "USA",
-  "best_known_for": "Blowing up dubstep in the US and countless hit tracks."
+  }
 }

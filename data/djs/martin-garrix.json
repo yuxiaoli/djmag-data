@@ -3,7 +3,7 @@
   "id": "martin-garrix",
   "name": "Martin Garrix",
   "entity_type": "unknown",
-  "description": null,
+  "description": "Joy. Connection. Unity. When Martin Garrix was interviewed for Canadian radio back in June, he was quick to outline the emotions underpinning his forthcoming album. Contrasting 2022’s ‘Sentio’, which he described as “very aggressive”, the comparatively “accessible” and “fun” LP is expected in early 2027 and says a lot about what the Dutchman has been up to this year.\n\nBut the new album isn’t the only thing the DJ, producer and five-times Top 100 DJs poll winner has busied himself with over the past 12 months. As summer wound down, his latest effort with U2 dropped (‘Fireflies’). Then there was his own vocal debut on the single ‘Catharina’, a 16-date solo tour of the US, and a summer spent holding down another Ushuaïa residency",
   "nationalities": [],
   "styles": [
     "EDM and emotional dance-pop bangers."
@@ -29,13 +29,19 @@
     {
       "url": "https://djmag.com/top100djs/2026/2/martin-garrix",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-15T04:08:56Z",
-      "fields": []
+      "retrieved_at": "2026-11-17T18:02:30.214533+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
     },
     {
       "url": "https://djmag.com/top100djs/2026/2/martin-garrix",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
       "fields": [
         "/name",
         "/rankings"
@@ -44,7 +50,7 @@
     {
       "url": "https://djmag.com/top100djs/2026/2/martin-garrix",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T18:02:30.214533+00:00",
+      "retrieved_at": "2026-11-18T05:06:04.038895+00:00",
       "fields": [
         "/profile_metadata",
         "/origin",
@@ -55,7 +61,9 @@
       ]
     }
   ],
-  "updated_at": "2026-11-17T18:02:30.214533+00:00",
+  "updated_at": "2026-11-18T05:06:04.038895+00:00",
+  "origin": "The Netherlands",
+  "best_known_for": "‘Animals’, ‘In The Name Of Love’, ‘Scared To Be Lonely’ and many more.",
   "profile_metadata": {
     "intro_fields": [
       {
@@ -81,7 +89,5 @@
       "url": "https://djmag.com/top100djs/2026/2/martin-garrix"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_MartinGarrix.jpg.webp?itok=uOuRrO3O"
-  },
-  "origin": "The Netherlands",
-  "best_known_for": "‘Animals’, ‘In The Name Of Love’, ‘Scared To Be Lonely’ and many more."
+  }
 }

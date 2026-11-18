@@ -3,7 +3,7 @@
   "id": "illenium",
   "name": "Illenium",
   "entity_type": "unknown",
-  "description": null,
+  "description": "Through soaring vocals and propulsive drops, Illenium's take on bass music remains in a league of its own. Expanding upon a legacy that includes six studio albums, a slew of ambitious stadium tours and his own Ember Shores music festival, the Denver-based artist added another impressive feat to his long list of achievements in 2026. When asked to share the year’s most memorable moment he exclaims, “Selling out all 11 of my Sphere Las Vegas Odyssey shows!” The spectacular production tells a dynamic story about finding the balance between dark and light energies, and adds fresh depth to a long-running narrative about his recovery from addiction and ongoing resilience.",
   "nationalities": [],
   "styles": [
     "Melodic bass."
@@ -29,13 +29,19 @@
     {
       "url": "https://djmag.com/top100djs/2026/30/illenium",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-15T04:08:56Z",
-      "fields": []
+      "retrieved_at": "2026-11-17T17:58:38.781462+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
     },
     {
       "url": "https://djmag.com/top100djs/2026/30/illenium",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
       "fields": [
         "/name",
         "/rankings"
@@ -44,7 +50,7 @@
     {
       "url": "https://djmag.com/top100djs/2026/30/illenium",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:58:38.781462+00:00",
+      "retrieved_at": "2026-11-18T05:02:11.177386+00:00",
       "fields": [
         "/profile_metadata",
         "/origin",
@@ -55,7 +61,9 @@
       ]
     }
   ],
-  "updated_at": "2026-11-17T17:58:38.781462+00:00",
+  "updated_at": "2026-11-18T05:02:11.177386+00:00",
+  "origin": "USA",
+  "best_known_for": "Emotionally driven electronic music and large-scale event production.",
   "profile_metadata": {
     "intro_fields": [
       {
@@ -81,7 +89,5 @@
       "url": "https://djmag.com/top100djs/2026/30/illenium"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_Illenium.jpg.webp?itok=uJhqPcZr"
-  },
-  "origin": "USA",
-  "best_known_for": "Emotionally driven electronic music and large-scale event production."
+  }
 }

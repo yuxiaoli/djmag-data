@@ -3,7 +3,7 @@
   "id": "josh-baker",
   "name": "Josh Baker",
   "entity_type": "unknown",
-  "description": null,
+  "description": "The UK house star has stormed into this year’s poll at No. 40, a remarkable achievement for a DJ and producer who still operates a little closer to the underground than many artists on this list. It’s a big moment that's been built on years of hard work, not only as an artist, but as founder of the Hide & Seek Festival and the brains behind the You&Me and Bakers Dozen labels and parties.\n\nWhere Baker once visited Amnesia as a punter, this summer he hosted his first-ever Ibiza residency at the legendary club, where he was joined by guests including Cloonee, KETTAMA, Saoirse, Shanti Celeste, Christian AB, Olive F, Peach and many more. He's also been busy on the release front, with tracks like ‘Down To The Bone’ with Eliza Rose and 'Feel This Way' with Silva Bumpa and Paige Cavell lighting up dancefloors the world over.",
   "nationalities": [],
   "styles": [
     "House and tech-house."
@@ -29,13 +29,19 @@
     {
       "url": "https://djmag.com/top100djs/2026/40/josh-baker",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-15T04:08:56Z",
-      "fields": []
+      "retrieved_at": "2026-11-17T17:59:52.289139+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
     },
     {
       "url": "https://djmag.com/top100djs/2026/40/josh-baker",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
       "fields": [
         "/name",
         "/rankings"
@@ -44,7 +50,7 @@
     {
       "url": "https://djmag.com/top100djs/2026/40/josh-baker",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:59:52.289139+00:00",
+      "retrieved_at": "2026-11-18T05:03:25.320235+00:00",
       "fields": [
         "/profile_metadata",
         "/origin",
@@ -55,7 +61,9 @@
       ]
     }
   ],
-  "updated_at": "2026-11-17T17:59:52.289139+00:00",
+  "updated_at": "2026-11-18T05:03:25.320235+00:00",
+  "origin": "UK",
+  "best_known_for": "His You&Me label and party, and Hide & Seek festival.",
   "profile_metadata": {
     "intro_fields": [
       {
@@ -81,7 +89,5 @@
       "url": "https://djmag.com/top100djs/2026/40/josh-baker"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_JoshBaker.jpg.webp?itok=HN3rPoXm"
-  },
-  "origin": "UK",
-  "best_known_for": "His You&Me label and party, and Hide & Seek festival."
+  }
 }

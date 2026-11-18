@@ -3,7 +3,7 @@
   "id": "r3hab",
   "name": "R3hab",
   "entity_type": "unknown",
-  "description": null,
+  "description": "The top headline from the past 12 months in the R3HAB universe has to be his first full-length album in eight years. Partly recorded in Marrakesh, ‘Dream inside a dream...’ sees the Dutch-Moroccan DJ and producer incorporate field recordings of traditional snake-charmer flutes into the album’s melodic techno terrain and soaring emotional highs in a nod to his heritage. He also notably sings vocals on the album for the first time. In fact, this oneiric quality feels like an artistic side of R3HAB we haven’t experienced this fully before — a far cry from the bass and bombast of his recent Tomorrowland B2B with Afrojack, that is.",
   "nationalities": [],
   "styles": [
     "EDM/big room."
@@ -29,13 +29,19 @@
     {
       "url": "https://djmag.com/top100djs/2026/45/r3hab",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-15T04:08:56Z",
-      "fields": []
+      "retrieved_at": "2026-11-17T18:06:01.070964+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
     },
     {
       "url": "https://djmag.com/top100djs/2026/45/r3hab",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
       "fields": [
         "/name",
         "/rankings"
@@ -44,7 +50,7 @@
     {
       "url": "https://djmag.com/top100djs/2026/45/r3hab",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T18:06:01.070964+00:00",
+      "retrieved_at": "2026-11-18T05:09:36.954034+00:00",
       "fields": [
         "/profile_metadata",
         "/origin",
@@ -55,7 +61,9 @@
       ]
     }
   ],
-  "updated_at": "2026-11-17T18:06:01.070964+00:00",
+  "updated_at": "2026-11-18T05:09:36.954034+00:00",
+  "origin": "The Netherlands",
+  "best_known_for": "Big, high-energy drops.",
   "profile_metadata": {
     "intro_fields": [
       {
@@ -81,7 +89,5 @@
       "url": "https://djmag.com/top100djs/2026/45/r3hab"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_R3HAB.jpg.webp?itok=ZhjLzXGa"
-  },
-  "origin": "The Netherlands",
-  "best_known_for": "Big, high-energy drops."
+  }
 }

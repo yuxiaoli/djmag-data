@@ -3,7 +3,7 @@
   "id": "gordo",
   "name": "GORDO",
   "entity_type": "unknown",
-  "description": null,
+  "description": "GORDO took his party series TARAKA to a new level this year, turning the party concept into a six-week residency at Pacha in Ibiza. His opening night featured an all-female supporting line-up, while the rest of the residency brought in marquee names such as Nicole Moudaber, Vintage Culture, Patrick Topping and HoneyLuv. GORDO’s touring schedule included stops at high-profile festivals including Coachella and Tomorrowland, as well as dates across the Americas. On the production side, he expanded his house-driven palette with ‘Loco Loco’, a collaboration with Reinier Zonneveld, and ‘ENERGY’ with WhoMadeWho.",
   "nationalities": [],
   "styles": [
     "House/tech-house."
@@ -29,13 +29,19 @@
     {
       "url": "https://djmag.com/top100djs/2026/50/gordo",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-15T04:08:56Z",
-      "fields": []
+      "retrieved_at": "2026-11-17T17:57:57.185037+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
     },
     {
       "url": "https://djmag.com/top100djs/2026/50/gordo",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
       "fields": [
         "/name",
         "/rankings"
@@ -44,7 +50,7 @@
     {
       "url": "https://djmag.com/top100djs/2026/50/gordo",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:57:57.185037+00:00",
+      "retrieved_at": "2026-11-18T05:01:28.558831+00:00",
       "fields": [
         "/profile_metadata",
         "/origin",
@@ -55,7 +61,9 @@
       ]
     }
   ],
-  "updated_at": "2026-11-17T17:57:57.185037+00:00",
+  "updated_at": "2026-11-18T05:01:28.558831+00:00",
+  "origin": "USA/Nicaragua/Guatemala",
+  "best_known_for": "Producing for Drake and ‘Hombres y Mujeres’ with Feid.",
   "profile_metadata": {
     "intro_fields": [
       {
@@ -81,7 +89,5 @@
       "url": "https://djmag.com/top100djs/2026/50/gordo"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_GORDO.jpg.webp?itok=9FM3Uxra"
-  },
-  "origin": "USA/Nicaragua/Guatemala",
-  "best_known_for": "Producing for Drake and ‘Hombres y Mujeres’ with Feid."
+  }
 }

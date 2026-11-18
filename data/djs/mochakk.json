@@ -3,7 +3,7 @@
   "id": "mochakk",
   "name": "Mochakk",
   "entity_type": "unknown",
-  "description": null,
+  "description": "Brazilian DJ/producer Mochakk (Pedro Maia) has had some big records this year: his high-profile remix of Nina Simone’s ‘See-Line Woman’ picked up plenty of club plays, while the streamlined rolling groove of his ‘Da Fonk' featuring Joni did some serious streaming numbers too, as did many of the remixes included in the bumper release package. Maia’s DJing itinerary remained stacked this year, including his first Coachella appearance on the Sahara Stage, a debut multi-city tour of India, and his first ever Italian date for his Mochakk Calling tour series at Milan’s massive open-air Ex Macello.",
   "nationalities": [],
   "styles": [
     "Latin-influenced house, tech-house, Brazilian hip-hop."
@@ -29,13 +29,19 @@
     {
       "url": "https://djmag.com/top100djs/2026/46/mochakk",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-15T04:08:56Z",
-      "fields": []
+      "retrieved_at": "2026-11-17T18:03:33.280333+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
     },
     {
       "url": "https://djmag.com/top100djs/2026/46/mochakk",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
       "fields": [
         "/name",
         "/rankings"
@@ -44,7 +50,7 @@
     {
       "url": "https://djmag.com/top100djs/2026/46/mochakk",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T18:03:33.280333+00:00",
+      "retrieved_at": "2026-11-18T05:07:08.046014+00:00",
       "fields": [
         "/profile_metadata",
         "/origin",
@@ -55,7 +61,9 @@
       ]
     }
   ],
-  "updated_at": "2026-11-17T18:03:33.280333+00:00",
+  "updated_at": "2026-11-18T05:07:08.046014+00:00",
+  "origin": "Brazil",
+  "best_known_for": "His Mochakk Calling event series and his skater aesthetic.",
   "profile_metadata": {
     "intro_fields": [
       {
@@ -81,7 +89,5 @@
       "url": "https://djmag.com/top100djs/2026/46/mochakk"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_Mochakk.jpg.webp?itok=gTwEomBb"
-  },
-  "origin": "Brazil",
-  "best_known_for": "His Mochakk Calling event series and his skater aesthetic."
+  }
 }

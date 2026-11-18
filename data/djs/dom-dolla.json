@@ -3,7 +3,7 @@
   "id": "dom-dolla",
   "name": "Dom Dolla",
   "entity_type": "unknown",
-  "description": null,
+  "description": "Dom Dolla’s Top 100 DJs ranking arrives amidst a busy 2026, wherein the Aussie graced line-ups at the UK’s Creamfields and Sziget in Hungary, all while holding down the decks at Hï Ibiza. During his Friday residency, Dom’s take on house music and fresh hits like his emotional remix of KETTAMA’s ‘Comes and Goes’ shaped the soundtrack. But, despite a prevailing presence on the Spanish isle, the ARIA Award-winning artist also made history at home, headlining Melbourne’s Marvel Stadium. This crowning achievement marked the largest solo electronic dance music show ever staged in Australia.",
   "nationalities": [],
   "styles": [
     "“House.”"
@@ -29,13 +29,19 @@
     {
       "url": "https://djmag.com/top100djs/2026/38/dom-dolla",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-15T04:08:56Z",
-      "fields": []
+      "retrieved_at": "2026-11-17T17:56:33.049322+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
     },
     {
       "url": "https://djmag.com/top100djs/2026/38/dom-dolla",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
       "fields": [
         "/name",
         "/rankings"
@@ -44,7 +50,7 @@
     {
       "url": "https://djmag.com/top100djs/2026/38/dom-dolla",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:56:33.049322+00:00",
+      "retrieved_at": "2026-11-18T05:00:03.469866+00:00",
       "fields": [
         "/profile_metadata",
         "/origin",
@@ -55,7 +61,9 @@
       ]
     }
   ],
-  "updated_at": "2026-11-17T17:56:33.049322+00:00",
+  "updated_at": "2026-11-18T05:00:03.469866+00:00",
+  "origin": "Melbourne, Australia",
+  "best_known_for": "“‘Don’t Worry Baby’ with Tiga, ‘Dreamin (feat. Daya)’, ‘Girl$’, ‘Saving Up’, ‘Miracle Maker (feat. Clementine Douglas)’, ‘Rhyme Dust’ with MK, ‘Take It’, ‘Define’ with Go Freek.”",
   "profile_metadata": {
     "intro_fields": [
       {
@@ -81,7 +89,5 @@
       "url": "https://djmag.com/top100djs/2026/38/dom-dolla"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_DomDolla.jpg.webp?itok=5PeO_bi6"
-  },
-  "origin": "Melbourne, Australia",
-  "best_known_for": "“‘Don’t Worry Baby’ with Tiga, ‘Dreamin (feat. Daya)’, ‘Girl$’, ‘Saving Up’, ‘Miracle Maker (feat. Clementine Douglas)’, ‘Rhyme Dust’ with MK, ‘Take It’, ‘Define’ with Go Freek.”"
+  }
 }

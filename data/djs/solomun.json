@@ -3,7 +3,7 @@
   "id": "solomun",
   "name": "Solomun",
   "entity_type": "unknown",
-  "description": null,
+  "description": "Solomun’s 2026 has been yet another banner year. Diynamic, the label he founded with Adriano Trolio in 2006, is celebrating its 20th anniversary, a milestone of particular significance for one of electronic music’s most influential label heads. He also played two sold-out shows at London’s Alexandra Palace in February, with the performance subsequently turned into a nearly three-hour-long concert film. Musically, his debut collaboration with Skrillex, ‘Rumpta’, arrived through Diynamic in July, following months of the track appearing in both artists’ sets. Solomun also returned for another summer of his long-running +1 residency at Pacha Ibiza.",
   "nationalities": [],
   "styles": [
     "House, techno, disco."
@@ -29,13 +29,19 @@
     {
       "url": "https://djmag.com/top100djs/2026/41/solomun",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-15T04:08:56Z",
-      "fields": []
+      "retrieved_at": "2026-11-17T18:06:53.912028+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
     },
     {
       "url": "https://djmag.com/top100djs/2026/41/solomun",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
       "fields": [
         "/name",
         "/rankings"
@@ -44,7 +50,7 @@
     {
       "url": "https://djmag.com/top100djs/2026/41/solomun",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T18:06:53.912028+00:00",
+      "retrieved_at": "2026-11-18T05:10:30.313085+00:00",
       "fields": [
         "/profile_metadata",
         "/origin",
@@ -55,7 +61,9 @@
       ]
     }
   ],
-  "updated_at": "2026-11-17T18:06:53.912028+00:00",
+  "updated_at": "2026-11-18T05:10:30.313085+00:00",
+  "origin": "Bosnia and Herzegovina/Germany",
+  "best_known_for": "Iconic Ibiza residencies and genre-spanning sets.",
   "profile_metadata": {
     "intro_fields": [
       {
@@ -81,7 +89,5 @@
       "url": "https://djmag.com/top100djs/2026/41/solomun"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_Solomun.jpg.webp?itok=IWqKNxlL"
-  },
-  "origin": "Bosnia and Herzegovina/Germany",
-  "best_known_for": "Iconic Ibiza residencies and genre-spanning sets."
+  }
 }

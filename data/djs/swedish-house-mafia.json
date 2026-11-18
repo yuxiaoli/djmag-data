@@ -3,7 +3,7 @@
   "id": "swedish-house-mafia",
   "name": "Swedish House Mafia",
   "entity_type": "unknown",
-  "description": null,
+  "description": "Swedish House Mafia’s sole release of 2026 (delivered via their newly renamed label, DANSA) claims “happiness is so, so, so sad”, but it’s been all smiles this year for the trio. Take Axwell, Ingrosso, and Steve Angello’s August show at Ullevi Stadium as an example; their largest concert yet in their home country drew 65,972 fans to the Gothenburg venue, setting a new attendance record for a Nordic act. Or, their reunion with Eric Prydz on Ultra Miami’s main stage earlier this spring, marking the four Swedes’ first performance together in 20 years.",
   "nationalities": [],
   "styles": [
     "EDM."
@@ -29,13 +29,19 @@
     {
       "url": "https://djmag.com/top100djs/2026/34/swedish-house-mafia",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-15T04:08:56Z",
-      "fields": []
+      "retrieved_at": "2026-11-17T18:07:35.877357+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
     },
     {
       "url": "https://djmag.com/top100djs/2026/34/swedish-house-mafia",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
       "fields": [
         "/name",
         "/rankings"
@@ -44,7 +50,7 @@
     {
       "url": "https://djmag.com/top100djs/2026/34/swedish-house-mafia",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T18:07:35.877357+00:00",
+      "retrieved_at": "2026-11-18T05:11:12.955239+00:00",
       "fields": [
         "/profile_metadata",
         "/origin",
@@ -55,7 +61,9 @@
       ]
     }
   ],
-  "updated_at": "2026-11-17T18:07:35.877357+00:00",
+  "updated_at": "2026-11-18T05:11:12.955239+00:00",
+  "origin": "Sweden",
+  "best_known_for": "Era-defining hits like ‘Don’t You Worry Child’ and ‘Save The World’.",
   "profile_metadata": {
     "intro_fields": [
       {
@@ -81,7 +89,5 @@
       "url": "https://djmag.com/top100djs/2026/34/swedish-house-mafia"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_SwedishHouseMafia.jpg.webp?itok=eplyD3ZU"
-  },
-  "origin": "Sweden",
-  "best_known_for": "Era-defining hits like ‘Don’t You Worry Child’ and ‘Save The World’."
+  }
 }

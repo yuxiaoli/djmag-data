@@ -3,7 +3,7 @@
   "id": "anyma",
   "name": "Anyma",
   "entity_type": "unknown",
-  "description": null,
+  "description": "Just when you thought Anyma couldn’t possibly take his sci-fi and classical art-inspired A/V spectaculars any further, DJ Mag’s Q2 2026 cover star launched his new multi-dimensional ÆDEN tour concept and record label. Christening the imprint with the ‘ÆDEN DIGITAL RENAISSANCE VOL.1’ comp, the Italian-born melodic techno behemoth (real name: Matteo Milleri) went straight for the live jugular this year with a headline ÆDEN show at Coachella, a [UNVRS] Ibiza summer residency and the 12-date ÆDEN World Tour.\n\nProduction-wise, he carved out some time in the studio with Blackpink’s LISA to cook up the devilishly good ‘Bad Angel’, along with releasing Joji collab, ‘Beautiful’. Oh, and did we mention he played the Pyramids of Egypt last October, performing his Quantum Genesys show for what was reportedly the biggest electronic music event to ever take place at the ancient wonder.",
   "nationalities": [],
   "styles": [
     "Melodic techno."
@@ -43,17 +43,7 @@
         "/origin",
         "/best_known_for",
         "/styles",
-        "/description",
         "/image"
-      ]
-    },
-    {
-      "url": "https://djmag.com/top100djs/2026/3/anyma",
-      "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
-      "fields": [
-        "/name",
-        "/rankings"
       ]
     },
     {
@@ -65,12 +55,33 @@
         "/origin",
         "/best_known_for",
         "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/3/anyma",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
+      "fields": [
+        "/name",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/3/anyma",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:56:09.461497+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
         "/description",
         "/image"
       ]
     }
   ],
-  "updated_at": "2026-11-17T18:10:13.406443+00:00",
+  "updated_at": "2026-11-18T04:56:09.461497+00:00",
   "origin": "Italy",
   "best_known_for": "Eye-boggling A/V performances.",
   "profile_metadata": {

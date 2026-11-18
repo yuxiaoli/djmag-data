@@ -3,7 +3,7 @@
   "id": "giuseppe-ottaviani",
   "name": "Giuseppe Ottaviani",
   "entity_type": "unknown",
-  "description": null,
+  "description": "Giuseppe Ottaviani has delivered standout performances at A State of Trance and a closing set on the main stage at Holika Festival in Spain since last year’s poll. Under his OTTAGON alias he’s also worked with Anyma, who has used their collaboration ‘Unstoppable’ as the opening tune for his ÆDEN shows — which Ottaviani describes as “pretty surreal”.\n\nHaving taken a short break from touring to focus on working in the studio, he has dates slated to play with Armin van Buuren as part of his F2F concept at A State of Trance in London, as well as performances at Ultra, Mexico and EDC Thailand.",
   "nationalities": [],
   "styles": [
     "“Melodic and energetic.”"
@@ -29,13 +29,19 @@
     {
       "url": "https://djmag.com/top100djs/2026/78/giuseppe-ottaviani",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-15T04:08:56Z",
-      "fields": []
+      "retrieved_at": "2026-11-17T17:57:46.782137+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
     },
     {
       "url": "https://djmag.com/top100djs/2026/78/giuseppe-ottaviani",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
       "fields": [
         "/name",
         "/rankings"
@@ -44,7 +50,7 @@
     {
       "url": "https://djmag.com/top100djs/2026/78/giuseppe-ottaviani",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:57:46.782137+00:00",
+      "retrieved_at": "2026-11-18T05:01:17.896327+00:00",
       "fields": [
         "/profile_metadata",
         "/origin",
@@ -55,7 +61,9 @@
       ]
     }
   ],
-  "updated_at": "2026-11-17T17:57:46.782137+00:00",
+  "updated_at": "2026-11-18T05:01:17.896327+00:00",
+  "origin": "Italy",
+  "best_known_for": "Innovative live performances.",
   "profile_metadata": {
     "intro_fields": [
       {
@@ -81,7 +89,5 @@
       "url": "https://djmag.com/top100djs/2026/78/giuseppe-ottaviani"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_GiuseppeOttaviani.jpg.webp?itok=Orx0anEt"
-  },
-  "origin": "Italy",
-  "best_known_for": "Innovative live performances."
+  }
 }

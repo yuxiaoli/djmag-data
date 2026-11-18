@@ -3,7 +3,7 @@
   "id": "reinier-zonneveld",
   "name": "Reinier Zonneveld",
   "entity_type": "unknown",
-  "description": null,
+  "description": "Reinier Zonneveld continues to blur the boundaries between DJ, live performer and technologist. His R2 concept, first showcased through a 10-hour live performance in 2025, uses an AI trained on his own music alongside holograms and robotics to create an additional stage extravaganza. In 2026, Zonneveld premiered a new 3D R2 live show built around a hexagonal stage and holographic visuals, while keeping his production output moving across genres. ‘Loco Loco’, made with GORDO, brought a more house-leaning, vocal-led sound, while ‘Party’, with Nicky Romero and CERES, arrived on Filth On Acid in August. The result is an artist increasingly comfortable moving between hard techno, rave and house, while embracing technology across both creative process and performance.",
   "nationalities": [],
   "styles": [
     "Techno, hard techno, acid."
@@ -29,13 +29,19 @@
     {
       "url": "https://djmag.com/top100djs/2026/21/reinier-zonneveld",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-15T04:08:56Z",
-      "fields": []
+      "retrieved_at": "2026-11-17T18:06:11.708934+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
     },
     {
       "url": "https://djmag.com/top100djs/2026/21/reinier-zonneveld",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
       "fields": [
         "/name",
         "/rankings"
@@ -44,7 +50,7 @@
     {
       "url": "https://djmag.com/top100djs/2026/21/reinier-zonneveld",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T18:06:11.708934+00:00",
+      "retrieved_at": "2026-11-18T05:09:47.612388+00:00",
       "fields": [
         "/profile_metadata",
         "/origin",
@@ -55,7 +61,9 @@
       ]
     }
   ],
-  "updated_at": "2026-11-17T18:06:11.708934+00:00",
+  "updated_at": "2026-11-18T05:09:47.612388+00:00",
+  "origin": "The Netherlands",
+  "best_known_for": "Filth On Acid, playing b2b with an AI clone of himself.",
   "profile_metadata": {
     "intro_fields": [
       {
@@ -81,7 +89,5 @@
       "url": "https://djmag.com/top100djs/2026/21/reinier-zonneveld"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_ReinierZonneveld.jpg.webp?itok=ZCFUJat8"
-  },
-  "origin": "The Netherlands",
-  "best_known_for": "Filth On Acid, playing b2b with an AI clone of himself."
+  }
 }

@@ -3,7 +3,7 @@
   "id": "ww",
   "name": "W&W",
   "entity_type": "unknown",
-  "description": null,
+  "description": "Willem van Hanegem and Ward van der Harst have been about this year: from European festival institutions like Air Beat One and Parookaville, to the massive US stages of Dreamstate San Francisco, and New Year’s Eve at Bangkok’s Neon Countdown. Nevertheless, studio work hasn’t suffered, with singles like ‘Turn Up The Bass’ with Hardwell and their interpretation of ‘Moonlight Shadow’ dropping, a slew of unreleased tracks and test IDs keeping sets fresh, and time spent diving into the trance sounds that first inspired them. The result, they tell us, is “around 30 new tracks” waiting in the wings for 2027.",
   "nationalities": [],
   "styles": [
     "“High-energy festival music... a mix of big room, trance, progressive and Eurodance.”"
@@ -29,13 +29,19 @@
     {
       "url": "https://djmag.com/top100djs/2026/20/ww",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-15T04:08:56Z",
-      "fields": []
+      "retrieved_at": "2026-11-17T18:08:39.116702+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
     },
     {
       "url": "https://djmag.com/top100djs/2026/20/ww",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
       "fields": [
         "/name",
         "/rankings"
@@ -44,7 +50,7 @@
     {
       "url": "https://djmag.com/top100djs/2026/20/ww",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T18:08:39.116702+00:00",
+      "retrieved_at": "2026-11-18T05:12:16.404339+00:00",
       "fields": [
         "/profile_metadata",
         "/origin",
@@ -55,7 +61,9 @@
       ]
     }
   ],
-  "updated_at": "2026-11-17T18:08:39.116702+00:00",
+  "updated_at": "2026-11-18T05:12:16.404339+00:00",
+  "origin": "The Netherlands",
+  "best_known_for": "“Big festival tracks and energetic performances.”",
   "profile_metadata": {
     "intro_fields": [
       {
@@ -81,7 +89,5 @@
       "url": "https://djmag.com/top100djs/2026/20/ww"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_WandW.jpg.webp?itok=-FqiWBd7"
-  },
-  "origin": "The Netherlands",
-  "best_known_for": "“Big festival tracks and energetic performances.”"
+  }
 }

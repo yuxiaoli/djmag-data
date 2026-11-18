@@ -3,7 +3,7 @@
   "id": "keinemusik",
   "name": "Keinemusik",
   "entity_type": "unknown",
-  "description": null,
+  "description": "Since debuting at number 35 in the DJ Mag Top 100 DJs poll in 2024, Keinemusik have only grown in international following. Over the past 12 months, the collective — Adam Port, Rampa, &Me, Reznik and visual artist Monja Gentschow — have enjoyed some massive moments. Whether that’s dropping dancefloor bombs with SG Lewis, being drafted by Thomas Bangalter for immersive Art Basel events, taking to the stage with Drake in Berlin, selling out dancefloors in India and Dubai, or stopping by Ibiza institutions Pacha and DC-10 for exclusive dates that had people queuing round the corner.",
   "nationalities": [],
   "styles": [
     "House and techno."
@@ -29,13 +29,19 @@
     {
       "url": "https://djmag.com/top100djs/2026/31/keinemusik",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-15T04:08:56Z",
-      "fields": []
+      "retrieved_at": "2026-11-17T18:00:02.944424+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
     },
     {
       "url": "https://djmag.com/top100djs/2026/31/keinemusik",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
       "fields": [
         "/name",
         "/rankings"
@@ -44,7 +50,7 @@
     {
       "url": "https://djmag.com/top100djs/2026/31/keinemusik",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T18:00:02.944424+00:00",
+      "retrieved_at": "2026-11-18T05:03:35.875707+00:00",
       "fields": [
         "/profile_metadata",
         "/origin",
@@ -55,7 +61,9 @@
       ]
     }
   ],
-  "updated_at": "2026-11-17T18:00:02.944424+00:00",
+  "updated_at": "2026-11-18T05:03:35.875707+00:00",
+  "origin": "Germany",
+  "best_known_for": "Heads down tunes, extended sets, huge global crowds.",
   "profile_metadata": {
     "intro_fields": [
       {
@@ -81,7 +89,5 @@
       "url": "https://djmag.com/top100djs/2026/31/keinemusik"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_Keinemusik.jpg.webp?itok=hjPi3h3p"
-  },
-  "origin": "Germany",
-  "best_known_for": "Heads down tunes, extended sets, huge global crowds."
+  }
 }

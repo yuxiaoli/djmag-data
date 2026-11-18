@@ -3,7 +3,7 @@
   "id": "sara-landry",
   "name": "Sara Landry",
   "entity_type": "unknown",
-  "description": null,
+  "description": "2026 saw Sara Landry debut at Ultra Miami, where her label HEKATE hosted a stage. There, she played b2b with Belgian techno star Amelie Lens, a high-powered pairing they repeated later in the year in London.\n\nThere was also Coachella, where she showcased her all-women b2b concept BLOOD OATH. DJ sets in New York, Ultra Japan and EDC Korea followed. Like her touring schedule, HEKATE continues to thrive. “It’s always something I wanted to do and helping to open the door for these phenomenal producers has been one of my greatest joys this year.” There's also been unveiling of her second album, ‘Divine Intervention’, which she describes as a ”returning to the self as a creative, an artist and a producer”.",
   "nationalities": [],
   "styles": [
     "Hard dance."
@@ -29,13 +29,19 @@
     {
       "url": "https://djmag.com/top100djs/2026/64/sara-landry",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-15T04:08:56Z",
-      "fields": []
+      "retrieved_at": "2026-11-17T18:06:22.334800+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
     },
     {
       "url": "https://djmag.com/top100djs/2026/64/sara-landry",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
       "fields": [
         "/name",
         "/rankings"
@@ -44,7 +50,7 @@
     {
       "url": "https://djmag.com/top100djs/2026/64/sara-landry",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T18:06:22.334800+00:00",
+      "retrieved_at": "2026-11-18T05:09:58.379367+00:00",
       "fields": [
         "/profile_metadata",
         "/origin",
@@ -55,7 +61,9 @@
       ]
     }
   ],
-  "updated_at": "2026-11-17T18:06:22.334800+00:00",
+  "updated_at": "2026-11-18T05:09:58.379367+00:00",
+  "origin": "USA",
+  "best_known_for": "“Being the ‘The High Priestess of Hard Dance’.”",
   "profile_metadata": {
     "intro_fields": [
       {
@@ -81,7 +89,5 @@
       "url": "https://djmag.com/top100djs/2026/64/sara-landry"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_SaraLandry.jpg.webp?itok=B7npOtD4"
-  },
-  "origin": "USA",
-  "best_known_for": "“Being the ‘The High Priestess of Hard Dance’.”"
+  }
 }

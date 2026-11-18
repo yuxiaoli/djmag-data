@@ -3,7 +3,7 @@
   "id": "kshmr",
   "name": "KSHMR",
   "entity_type": "unknown",
-  "description": null,
+  "description": "KSHMR continued to prove his versatility this year, moving between festival stages, headline shows and ambitious live productions. His North American tour culminated in an orchestral performance at the Hollywood Palladium, bringing his cinematic productions into a new setting, while his India tour included a DJ set filmed aboard a tuk tuk. Festival appearances ranged from Ultra Argentina and Electric Love to GLÜCKSGEFÜHLE and World DJ Festival. Away from the stage, the album ‘Mirage’ explored his organic house side, while ‘Sounds of KSHMR Vol 5’ for Splice continued his longstanding influence on producers, further cementing his place among the platform’s most popular artists.",
   "nationalities": [],
   "styles": [
     "“Main stage, techno, psy, drum & bass, and hardstyle.”"
@@ -29,13 +29,19 @@
     {
       "url": "https://djmag.com/top100djs/2026/19/kshmr",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-15T04:08:56Z",
-      "fields": []
+      "retrieved_at": "2026-11-17T18:00:44.789820+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
     },
     {
       "url": "https://djmag.com/top100djs/2026/19/kshmr",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
       "fields": [
         "/name",
         "/rankings"
@@ -44,7 +50,7 @@
     {
       "url": "https://djmag.com/top100djs/2026/19/kshmr",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T18:00:44.789820+00:00",
+      "retrieved_at": "2026-11-18T05:04:18.039631+00:00",
       "fields": [
         "/profile_metadata",
         "/origin",
@@ -55,7 +61,9 @@
       ]
     }
   ],
-  "updated_at": "2026-11-17T18:00:44.789820+00:00",
+  "updated_at": "2026-11-18T05:04:18.039631+00:00",
+  "origin": "USA",
+  "best_known_for": "“Combining world (especially Indian) and cinematic sounds with dance music.”",
   "profile_metadata": {
     "intro_fields": [
       {
@@ -81,7 +89,5 @@
       "url": "https://djmag.com/top100djs/2026/19/kshmr"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_KSHMR.jpg.webp?itok=xt3mc0fw"
-  },
-  "origin": "USA",
-  "best_known_for": "“Combining world (especially Indian) and cinematic sounds with dance music.”"
+  }
 }

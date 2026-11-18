@@ -3,7 +3,7 @@
   "id": "indira-paganotto",
   "name": "Indira Paganotto",
   "entity_type": "unknown",
-  "description": null,
+  "description": "Kicking off 2026 on a high with her debut album ‘Arte Como Amante’, Indira Paganotto has only continued to ascend from there, as reflected in her rise up the Top 100 DJs ranking. Her signature psy-techno music has become so prominent that Beatport even launched a new category for the sound. Indira herself has been all over the world, holding down residencies at Hï Ibiza and Space Miami, and playing festivals like Awakenings, EDC Las Vegas, and Tomorrowland. At the latter, she debuted a new “psy-metal” track on the Mainstage with a live guitarist and hosted a stage with her ARTCORE brand — something she also did, amongst other events, at Starlight Festival in front of the Great Pyramids of Giza.",
   "nationalities": [],
   "styles": [
     "“Psy-techno.”"
@@ -29,13 +29,19 @@
     {
       "url": "https://djmag.com/top100djs/2026/26/indira-paganotto",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-15T04:08:56Z",
-      "fields": []
+      "retrieved_at": "2026-11-17T17:58:49.191568+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
     },
     {
       "url": "https://djmag.com/top100djs/2026/26/indira-paganotto",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:55:39.428190+00:00",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
       "fields": [
         "/name",
         "/rankings"
@@ -44,7 +50,7 @@
     {
       "url": "https://djmag.com/top100djs/2026/26/indira-paganotto",
       "publisher": "DJ Mag",
-      "retrieved_at": "2026-11-17T17:58:49.191568+00:00",
+      "retrieved_at": "2026-11-18T05:02:21.716925+00:00",
       "fields": [
         "/profile_metadata",
         "/origin",
@@ -55,7 +61,9 @@
       ]
     }
   ],
-  "updated_at": "2026-11-17T17:58:49.191568+00:00",
+  "updated_at": "2026-11-18T05:02:21.716925+00:00",
+  "origin": "Gran Canaria/Italy",
+  "best_known_for": "“Psy Mama.”",
   "profile_metadata": {
     "intro_fields": [
       {
@@ -81,7 +89,5 @@
       "url": "https://djmag.com/top100djs/2026/26/indira-paganotto"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_IndiraPaganotto.jpg.webp?itok=ORjnG4u5"
-  },
-  "origin": "Gran Canaria/Italy",
-  "best_known_for": "“Psy Mama.”"
+  }
 }
