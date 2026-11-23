@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0.0",
+  "id": "ferry-corsten",
+  "name": "费利高士顿",
+  "aliases": [
+    {
+      "name": "System F",
+      "type": "alternate_name",
+      "language": "en"
+    },
+    {
+      "name": "Moonman",
+      "type": "alternate_name",
+      "language": "en"
+    },
+    {
+      "name": "FERR",
+      "type": "alternate_name",
+      "language": "en"
+    },
+    {
+      "name": "費利高士頓",
+      "type": "transliteration",
+      "language": "zh-TW"
+    }
+  ],
+  "description": "Ferry Corsten 是荷兰鹿特丹的 DJ、制作人与作曲家，以 System F 名义推出的《Out of the Blue》奠定了其 Trance 音乐地位，也以 Moonman 和 FERR 等项目探索不同声响。",
+  "sources": [
+    {
+      "url": "https://shopping.avex.com.tw/avex/Default.aspx?Hash=BF96EF1057CD3992614269ED4F559090&ItemId=119&M_Id=101&PubK=206477&SubId=464&m=5497ECC2BEE6BF3FF91C7029D3787F11B0E7D2F31B762D63",
+      "publisher": "爱贝克思台湾官方唱片商店",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/3",
+        "/name"
+      ]
+    },
+    {
+      "url": "https://www.liaisonartists.com/artists/ferry-corsten/",
+      "publisher": "Liaison Artists — Ferry Corsten",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0",
+        "/aliases/1",
+        "/aliases/2",
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

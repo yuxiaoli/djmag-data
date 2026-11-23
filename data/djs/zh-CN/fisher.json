@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "id": "fisher",
+  "name": null,
+  "aliases": [
+    {
+      "name": "Paul Fisher",
+      "type": "alternate_name",
+      "language": "en"
+    }
+  ],
+  "description": "FISHER 从职业冲浪转向舞曲制作，随后凭《Losing It》进入更广泛的听众视野。他的作品与现场以面向舞池的浩室节奏见长。",
+  "sources": [
+    {
+      "url": "https://ctm.nl/en/item/fisher/",
+      "publisher": "CTM — FISHER",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    },
+    {
+      "url": "https://www.allmusic.com/artist/fisher-mn0003788479",
+      "publisher": "AllMusic — FISHER",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0",
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

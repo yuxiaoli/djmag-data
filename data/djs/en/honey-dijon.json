@@ -1,0 +1,102 @@
+{
+  "schema_version": "1.0.0",
+  "id": "honey-dijon",
+  "name": "Honey Dijon",
+  "entity_type": "person",
+  "description": "From her early Chicago days, discovering house on Frankie Knuckles’ dancefloor, to working small gigs in New York’s East Village and Lower East Side, no one has lived and breathed the culture quite like Honey Dijon.\n\nHaving released her debut album ‘The Best of Both Worlds’ in 2017, followed by ‘Black Girl Magic’ in 2022, she released ‘NightLife’, her most polished and pop-centric LP to date, in April this year.\n\nThere were many other moments in the studio, too: the legendary DJ and producer brought her signature groove to Madonna’s ‘Bring Your Love’, and September saw the remix release of FLO’s entire album, aptly named ‘Club Therapy with Honey Dijon’. All that on top of a typically busy run of exceptional sets on the club and festival circuit, it's been another standout year for this house icon.",
+  "nationalities": [],
+  "styles": [
+    "House, disco, techno."
+  ],
+  "birth_date": null,
+  "gender": "female",
+  "image": {
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_HoneyDijon.jpg.webp?itok=sNRuSUT-",
+    "source_url": "https://djmag.com/top100djs/2026/98/honey-dijon",
+    "credit": null,
+    "license": null,
+    "license_url": null
+  },
+  "rankings": [
+    {
+      "year": 2026,
+      "rank": 98,
+      "previous_rank": null,
+      "source_url": "https://djmag.com/top100djs/2026/98/honey-dijon"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://djmag.com/top100djs/2026/98/honey-dijon",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T17:58:17.951473+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/98/honey-dijon",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
+      "fields": [
+        "/name",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/98/honey-dijon",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T05:01:49.757138+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://www.insomniac.com/music/artists/honey-dijon/",
+      "publisher": "Insomniac — Honey Dijon（含本人访谈）",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/entity_type",
+        "/gender"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00",
+  "origin": "USA",
+  "best_known_for": "Injecting groove into everything she does.",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "USA"
+      },
+      {
+        "label": "DJ style",
+        "value": "House, disco, techno."
+      },
+      {
+        "label": "Best known for",
+        "value": "Injecting groove into everything she does."
+      }
+    ],
+    "movement_places": 1,
+    "movement": "Down",
+    "article": {
+      "headline": "Honey Dijon | #98 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/98/honey-dijon"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_HoneyDijon.jpg.webp?itok=sNRuSUT-"
+  }
+}

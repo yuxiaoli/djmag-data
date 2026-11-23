@@ -1,0 +1,105 @@
+{
+  "schema_version": "1.0.0",
+  "id": "sonny-fodera",
+  "name": "Sonny Fodera",
+  "entity_type": "person",
+  "description": "2026 marks the debut of Sonny Fodera in the Top 100 DJs list and, by most measures, it’s long overdue. The London-based Australian DJ and producer has had a banner year, headlining Creamfields, holding down a Pacha residency, and touring across the globe. But if that wasn’t enough to keep Fodera busy, he’s also had some major hits from the studio.\n\nIt was a busy release schedule, but it doesn’t get much better than his tune ‘Asking’, made with the legendary MK and a vocal assist from Clementine Douglas. With another world tour on the horizon and more festivals to headline, Fodera isn’t slowing down anytime soon.",
+  "nationalities": [
+    "Australian"
+  ],
+  "styles": [
+    "Groove-driven, emotive, and vocal-led house music."
+  ],
+  "birth_date": "1985-11-10",
+  "gender": null,
+  "image": {
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_SonnyFodera.jpg.webp?itok=cjTYArSy",
+    "source_url": "https://djmag.com/top100djs/2026/80/sonny-fodera",
+    "credit": null,
+    "license": null,
+    "license_url": null
+  },
+  "rankings": [
+    {
+      "year": 2026,
+      "rank": 80,
+      "previous_rank": null,
+      "source_url": "https://djmag.com/top100djs/2026/80/sonny-fodera"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://djmag.com/top100djs/2026/80/sonny-fodera",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T18:07:04.303672+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/80/sonny-fodera",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
+      "fields": [
+        "/name",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/80/sonny-fodera",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T05:10:40.986335+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://www.allmusic.com/artist/sonny-fodera-mn0002433081",
+      "publisher": "AllMusic — Sonny Fodera（Fred Thomas 撰写）",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/birth_date",
+        "/entity_type",
+        "/nationalities/0"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00",
+  "origin": "Australia",
+  "best_known_for": "‘Somedays’ with D.O.D & Jazzy.",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "Australia"
+      },
+      {
+        "label": "DJ style",
+        "value": "Groove-driven, emotive, and vocal-led house music."
+      },
+      {
+        "label": "Best known for",
+        "value": "‘Somedays’ with D.O.D & Jazzy."
+      }
+    ],
+    "movement_places": null,
+    "movement": "New entry",
+    "article": {
+      "headline": "Sonny Fodera | #80 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/80/sonny-fodera"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_SonnyFodera.jpg.webp?itok=cjTYArSy"
+  }
+}

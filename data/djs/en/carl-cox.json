@@ -1,0 +1,125 @@
+{
+  "schema_version": "1.0.0",
+  "id": "carl-cox",
+  "name": "Carl Cox",
+  "entity_type": "person",
+  "description": "Carl Cox had another hugely successful Ibiza season in 2026, helming every Sunday night at [UNVRS] for 16 weeks straight. As well as various other big gigs around Europe in between, he also found time to appear as a special guest at some big The Prodigy shows — even playing three-deck vinyl sets at some of them — and playing back to back with everyone from David Guetta to Louie Vega. He put out his rewirings of Vikhtor & Pianoalani’s ‘Legacy’ and Renegade Soundwave’s ‘The Phantom’, while it was also announced in June that he was receiving an OBE medal for services to music. All hail King Carl!",
+  "nationalities": [
+    "British"
+  ],
+  "styles": [
+    "Chiefly techno, breakbeat, rave."
+  ],
+  "birth_date": "1962-07-29",
+  "gender": null,
+  "image": {
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_CarlCox.jpg.webp?itok=Q6bqQbiJ",
+    "source_url": "https://djmag.com/top100djs/2026/23/carl-cox",
+    "credit": null,
+    "license": null,
+    "license_url": null
+  },
+  "rankings": [
+    {
+      "year": 2026,
+      "rank": 23,
+      "previous_rank": null,
+      "source_url": "https://djmag.com/top100djs/2026/23/carl-cox"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://djmag.com/top100djs/2026/23/carl-cox",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-15T04:08:56Z",
+      "fields": [
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/23/carl-cox",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-15T17:45:24.945554+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/23/carl-cox",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T18:11:58.970677+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/23/carl-cox",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
+      "fields": [
+        "/name",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/23/carl-cox",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:57:56.268929+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://www.officialcharts.com/artist/1002/carl-cox/",
+      "publisher": "Official Charts — Carl Cox",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/birth_date",
+        "/entity_type",
+        "/nationalities/0"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00",
+  "origin": "UK",
+  "best_known_for": "Ultimate positivity as a global ambassador.",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "UK"
+      },
+      {
+        "label": "DJ style",
+        "value": "Chiefly techno, breakbeat, rave."
+      },
+      {
+        "label": "Best known for",
+        "value": "Ultimate positivity as a global ambassador."
+      }
+    ],
+    "movement_places": 2,
+    "movement": "Up",
+    "article": {
+      "headline": "Carl Cox | #23 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/23/carl-cox"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_CarlCox.jpg.webp?itok=Q6bqQbiJ"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "schema_version": "1.0.0",
+  "id": "swedish-house-mafia",
+  "name": "Swedish House Mafia",
+  "entity_type": "group",
+  "description": "Swedish House Mafia’s sole release of 2026 (delivered via their newly renamed label, DANSA) claims “happiness is so, so, so sad”, but it’s been all smiles this year for the trio. Take Axwell, Ingrosso, and Steve Angello’s August show at Ullevi Stadium as an example; their largest concert yet in their home country drew 65,972 fans to the Gothenburg venue, setting a new attendance record for a Nordic act. Or, their reunion with Eric Prydz on Ultra Miami’s main stage earlier this spring, marking the four Swedes’ first performance together in 20 years.",
+  "nationalities": [],
+  "styles": [
+    "EDM."
+  ],
+  "birth_date": null,
+  "gender": null,
+  "image": {
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_SwedishHouseMafia.jpg.webp?itok=eplyD3ZU",
+    "source_url": "https://djmag.com/top100djs/2026/34/swedish-house-mafia",
+    "credit": null,
+    "license": null,
+    "license_url": null
+  },
+  "rankings": [
+    {
+      "year": 2026,
+      "rank": 34,
+      "previous_rank": null,
+      "source_url": "https://djmag.com/top100djs/2026/34/swedish-house-mafia"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://djmag.com/top100djs/2026/34/swedish-house-mafia",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T18:07:35.877357+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/34/swedish-house-mafia",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
+      "fields": [
+        "/name",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/34/swedish-house-mafia",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T05:11:12.955239+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://www.universal-music.co.jp/swedish-house-mafia/biography/",
+      "publisher": "Universal Music Japan · Swedish House Mafia Biography",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/entity_type"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00",
+  "origin": "Sweden",
+  "best_known_for": "Era-defining hits like ‘Don’t You Worry Child’ and ‘Save The World’.",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "Sweden"
+      },
+      {
+        "label": "DJ style",
+        "value": "EDM."
+      },
+      {
+        "label": "Best known for",
+        "value": "Era-defining hits like ‘Don’t You Worry Child’ and ‘Save The World’."
+      }
+    ],
+    "movement_places": null,
+    "movement": "Non-mover",
+    "article": {
+      "headline": "Swedish House Mafia | #34 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/34/swedish-house-mafia"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_SwedishHouseMafia.jpg.webp?itok=eplyD3ZU"
+  }
+}

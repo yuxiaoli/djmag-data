@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0.0",
+  "id": "marshmello",
+  "name": "棉花糖",
+  "aliases": [
+    {
+      "name": "棉花糖",
+      "type": "common_name",
+      "language": "zh-CN"
+    },
+    {
+      "name": "Mello",
+      "type": "nickname",
+      "language": "en"
+    }
+  ],
+  "description": "Marshmello 是美国 DJ 与制作人，作品横跨流行电音与嘻哈。除了以 Joytime Collective 发行专辑，他也与歌手合作，将舞曲制作带入流行歌曲。",
+  "sources": [
+    {
+      "url": "https://www.youtube.com/watch?v=_hvw-7Y5g7M",
+      "publisher": "台湾索尼音乐 Sony Music Taiwan",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0",
+        "/name"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2021/13/Marshmello",
+      "publisher": "DJ Mag — Marshmello (2021)",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/1",
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

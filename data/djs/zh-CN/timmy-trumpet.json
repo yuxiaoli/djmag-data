@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "id": "timmy-trumpet",
+  "name": null,
+  "aliases": [
+    {
+      "name": "Timothy Jude Smith",
+      "type": "alternate_name",
+      "language": "en"
+    }
+  ],
+  "description": "Timmy Trumpet 把现场小号演奏融入 DJ 表演，以高能量电子舞曲连接器乐与舞池。他与 Savage 合作的《Freaks》是最具辨识度的作品之一。",
+  "sources": [
+    {
+      "url": "https://www.insomniac.com/music/artists/timmy-trumpet/",
+      "publisher": "Insomniac — Timmy Trumpet",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    },
+    {
+      "url": "https://themusic.com.au/artist/N5QhKCkuLyw/timmy-trumpet",
+      "publisher": "The Music — Timmy Trumpet 艺人介绍",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

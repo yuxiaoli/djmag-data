@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0.0",
+  "id": "calvin-harris",
+  "name": "卡尔文·哈里斯",
+  "aliases": [
+    {
+      "name": "Adam Richard Wiles",
+      "type": "alternate_name",
+      "language": "en"
+    },
+    {
+      "name": "凱文·哈里斯",
+      "type": "transliteration",
+      "language": "zh-Hant"
+    }
+  ],
+  "description": "Calvin Harris 是英国 DJ、制作人与词曲作者，以将流行人声和电子舞曲结合见长。《This Is What You Came For》《One Kiss》等合作作品体现了他的流行舞曲制作路线。",
+  "sources": [
+    {
+      "url": "https://ent.sina.com.cn/s/u/2023-09-12/doc-imzmmaun9764018.shtml",
+      "publisher": "新浪娱乐",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/name"
+      ]
+    },
+    {
+      "url": "https://www.sonymusic.co.uk/artist/calvin-harris/",
+      "publisher": "Sony Music UK — Calvin Harris",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    },
+    {
+      "url": "https://www.allmusic.com/artist/calvin-harris-mn0000945951",
+      "publisher": "AllMusic — Calvin Harris",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0"
+      ]
+    },
+    {
+      "url": "https://www.kiss.com.tw/music/artist.php?id=1614",
+      "publisher": "KISS Radio — Calvin Harris 艺人介绍",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/1"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

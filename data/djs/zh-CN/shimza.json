@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "id": "shimza",
+  "name": null,
+  "aliases": [],
+  "description": "Shimza 是来自南非滕比萨的 DJ 与制作人，以 Afro house 声音活跃于国际舞台。他创办的 One Man Show 同时具有音乐活动与公益筹款性质，支持家乡儿童的学习用品等需求。",
+  "sources": [
+    {
+      "url": "https://www.insomniac.com/music/artists/shimza/",
+      "publisher": "Insomniac — Shimza",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

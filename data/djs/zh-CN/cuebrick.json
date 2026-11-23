@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "id": "cuebrick",
+  "name": null,
+  "aliases": [
+    {
+      "name": "Rouven Hager",
+      "type": "alternate_name",
+      "language": "de"
+    }
+  ],
+  "description": "Cuebrick 是德国 DJ 与电子舞曲制作人，曾与 Breathe Carolina、Tritonal 合作，并在 Enhanced Recordings 与 Armada 等厂牌发行作品。",
+  "sources": [
+    {
+      "url": "https://www.youlovedance.de/artist/cuebrick/",
+      "publisher": "You Love Dance — Cuebrick",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2024/89/cuebrick",
+      "publisher": "DJ Mag — Cuebrick 2024",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

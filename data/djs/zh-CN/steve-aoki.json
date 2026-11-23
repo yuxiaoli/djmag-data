@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "id": "steve-aoki",
+  "name": "青木·史堤夫",
+  "aliases": [
+    {
+      "name": "青木史帝夫",
+      "type": "transliteration",
+      "language": "zh-Hant"
+    }
+  ],
+  "description": "Steve Aoki 是美国电子音乐制作人，也是 Dim Mak Records 的创办者。其作品和现场演出融合舞曲、流行与嘻哈元素，代表专辑包括《Wonderland》。",
+  "sources": [
+    {
+      "url": "https://omni.kktix.cc/events/awherwa2?locale=ja",
+      "publisher": "theLOOP / OMNI — Steve Aoki 官方演出介绍",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description",
+        "/name"
+      ]
+    },
+    {
+      "url": "https://www.vogue.com.tw/feature/content-19677",
+      "publisher": "Vogue Taiwan — Steve Aoki 专访/音乐报道",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

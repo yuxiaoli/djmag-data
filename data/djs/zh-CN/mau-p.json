@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "id": "mau-p",
+  "name": null,
+  "aliases": [
+    {
+      "name": "Maurice West",
+      "type": "alternate_name",
+      "language": "en"
+    }
+  ],
+  "description": "Mau P 是来自阿姆斯特丹的 DJ 与制作人，曾使用 Maurice West 这一艺名。他以《Drugs From Amsterdam》建立科技浩室方向，随后与 Kevin de Vries 合作推出《Metro》。",
+  "sources": [
+    {
+      "url": "https://www.insomniac.com/music/artists/mau-p/",
+      "publisher": "Insomniac — Mau P",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0",
+        "/description"
+      ]
+    },
+    {
+      "url": "https://www.wmg.com/news/warner-chappell-music-benelux-signs-mau-p",
+      "publisher": "Warner Music Group",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "id": "vini-vici",
+  "name": null,
+  "aliases": [],
+  "description": "Vini Vici 由 Matan Kadosh 与 Aviram Saharai 组成，将 Psytrance 的迷幻音色和节奏带向大型音乐节。组合来自以色列阿富拉，《The Tribe》《Great Spirit》是其代表作品。",
+  "sources": [
+    {
+      "url": "https://www.armadamusicpublishing.com/roster/vini-vici",
+      "publisher": "Armada Music Publishing — Vini Vici",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0.0",
+  "id": "kshmr",
+  "name": null,
+  "aliases": [
+    {
+      "name": "Niles Hollowell-Dhar",
+      "type": "alternate_name",
+      "language": "en"
+    },
+    {
+      "name": "K神",
+      "type": "nickname",
+      "language": "zh-CN"
+    }
+  ],
+  "description": "KSHMR 是制作人 Niles Hollowell-Dhar 的个人艺名，从流行音乐制作转向电子舞曲后，以《Secrets》等作品建立辨识度。其工作也包括 Dharma Worldwide 厂牌和面向制作人的采样资源。",
+  "sources": [
+    {
+      "url": "https://www.insomniac.com/music/artists/KSHMR/",
+      "publisher": "Insomniac — KSHMR",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0",
+        "/description"
+      ]
+    },
+    {
+      "url": "https://www.showstart.com/event/310320",
+      "publisher": "秀动 — KSHMR 演出介绍",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/1"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

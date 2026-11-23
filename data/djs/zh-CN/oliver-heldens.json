@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0.0",
+  "id": "oliver-heldens",
+  "name": null,
+  "aliases": [
+    {
+      "name": "HI-LO",
+      "type": "alternate_name",
+      "language": "en"
+    }
+  ],
+  "description": "Oliver Heldens 以《Gecko》受到关注，并通过 Heldeep 厂牌和电台节目扩展浩室音乐活动。他也以 HI-LO 名义探索科技舞曲，呈现与主艺名不同的创作侧面。",
+  "sources": [
+    {
+      "url": "https://www.insomniac.com/music/artists/oliver-heldens/",
+      "publisher": "Insomniac · Oliver Heldens",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0",
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

@@ -1,0 +1,132 @@
+{
+  "schema_version": "1.0.0",
+  "id": "atb",
+  "name": "ATB",
+  "entity_type": "person",
+  "description": "André Tanneberger, aka ATB, is the producer behind the timeless anthem ‘9PM (Till I Come)’. Released in 1998, it became the first trance record to reach No.1 in the UK Singles Chart and helped define an era in dance music. Nearly three decades later, he’s still going strong. This year, as well as playing major festivals such as Parookaville and Airbeat One, he released ‘A Freak To Dance With’. He’s also taking his Final Chapter Tour across Europe, the UK, USA, Mexico and China, celebrating nearly 30 years of his career and building towards the release of his 12th and final album, ‘The Final Chapter’.",
+  "nationalities": [
+    "German"
+  ],
+  "styles": [
+    "Emotional, energetic dance music."
+  ],
+  "birth_date": "1973-02-26",
+  "gender": null,
+  "image": {
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_ATB.jpg.webp?itok=wmotUCaz",
+    "source_url": "https://djmag.com/top100djs/2026/63/atb",
+    "credit": null,
+    "license": null,
+    "license_url": null
+  },
+  "rankings": [
+    {
+      "year": 2026,
+      "rank": 63,
+      "previous_rank": null,
+      "source_url": "https://djmag.com/top100djs/2026/63/atb"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://djmag.com/top100djs/2026/63/atb",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-15T04:08:56Z",
+      "fields": [
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/63/atb",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-15T17:42:39.258726+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/63/atb",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T18:10:45.255826+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/63/atb",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
+      "fields": [
+        "/name",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/63/atb",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:56:41.434217+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://www.allmusic.com/artist/atb-mn0000923063/biography",
+      "publisher": "AllMusic — ATB",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/birth_date",
+        "/entity_type"
+      ]
+    },
+    {
+      "url": "https://mn2s.com/news/dj/new-signing-atb/",
+      "publisher": "MN2S — New Signing: ATB",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/nationalities/0"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00",
+  "origin": "Germany",
+  "best_known_for": "‘9PM (Till I Come)’, ‘Ecstasy’.",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "Germany"
+      },
+      {
+        "label": "DJ style",
+        "value": "Emotional, energetic dance music."
+      },
+      {
+        "label": "Best known for",
+        "value": "‘9PM (Till I Come)’, ‘Ecstasy’."
+      }
+    ],
+    "movement_places": 4,
+    "movement": "Down",
+    "article": {
+      "headline": "ATB | #63 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/63/atb"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_ATB.jpg.webp?itok=wmotUCaz"
+  }
+}

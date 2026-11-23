@@ -1,0 +1,127 @@
+{
+  "schema_version": "1.0.0",
+  "id": "don-diablo",
+  "name": "Don Diablo",
+  "entity_type": "person",
+  "description": "Though he may be one of the most notable champions of future house, Don Diablo’s repertoire extends far beyond that, as the launch of his CONTROL ALT DΞLΞTΞ drum & bass alias proved. This year also saw the release of his big ‘5 Minutes’ single, and a 19-track compilation of existing and reworked songs, ‘VΞRSIONS’, featuring collabs with Jamiroquai, Major Lazer, Nelly Furtado and more. He then divided the rest of 2026 between unleashing a series of high-intensity, day-glo festival stormers with the likes of Pink Sweat$, Bipolar Sunshine, Becky G, and A$AP Ferg, and playing a succession of huge shows worldwide.",
+  "nationalities": [
+    "Dutch"
+  ],
+  "styles": [
+    "“House music from the future.”"
+  ],
+  "birth_date": "1980-02-27",
+  "gender": "male",
+  "image": {
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_DonDiablo.jpg.webp?itok=pw4-zcEy",
+    "source_url": "https://djmag.com/top100djs/2026/12/don-diablo",
+    "credit": null,
+    "license": null,
+    "license_url": null
+  },
+  "rankings": [
+    {
+      "year": 2026,
+      "rank": 12,
+      "previous_rank": null,
+      "source_url": "https://djmag.com/top100djs/2026/12/don-diablo"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://djmag.com/top100djs/2026/12/don-diablo",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T17:56:43.533123+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/12/don-diablo",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
+      "fields": [
+        "/name",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/12/don-diablo",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T05:00:13.962032+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://www.dondiablo.com/about",
+      "publisher": "Don Diablo 官方网站 — About",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/entity_type"
+      ]
+    },
+    {
+      "url": "https://www.insomniac.com/music/artists/don-diablo/",
+      "publisher": "Insomniac — Don Diablo",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/nationalities/0"
+      ]
+    },
+    {
+      "url": "https://www.universalmusic.fr/artistes/20000371571",
+      "publisher": "Universal Music France — Don Diablo",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/birth_date"
+      ]
+    },
+    {
+      "url": "https://m.kuwo.cn/artist/content?Brando=&name=Don+Diablo",
+      "publisher": "酷我音乐 — Don Diablo",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/gender"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00",
+  "origin": "The Netherlands",
+  "best_known_for": "“Blurring the lines between old school and new school, while building worlds that connect music, art, fashion and technology. Pushing house music into the future.”",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "The Netherlands"
+      },
+      {
+        "label": "DJ style",
+        "value": "“House music from the future.”"
+      },
+      {
+        "label": "Best known for",
+        "value": "“Blurring the lines between old school and new school, while building worlds that connect music, art, fashion and technology. Pushing house music into the future.”"
+      }
+    ],
+    "movement_places": 1,
+    "movement": "Up",
+    "article": {
+      "headline": "Don Diablo  | #12 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/12/don-diablo"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_DonDiablo.jpg.webp?itok=pw4-zcEy"
+  }
+}

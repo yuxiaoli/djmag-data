@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "id": "hardwell",
+  "name": null,
+  "aliases": [],
+  "description": "Hardwell 以大房间舞曲成名，《Spaceman》和《Apollo》是其代表作品。创办 Revealed Recordings 后，他持续支持新人，并在《REBELS NEVER DIE》中拓展更强劲的科技舞曲方向。",
+  "sources": [
+    {
+      "url": "https://www.djhardwell.com/biography",
+      "publisher": "Hardwell 官方网站 · Biography",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

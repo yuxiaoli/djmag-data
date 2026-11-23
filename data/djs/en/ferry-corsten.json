@@ -1,0 +1,105 @@
+{
+  "schema_version": "1.0.0",
+  "id": "ferry-corsten",
+  "name": "Ferry Corsten",
+  "entity_type": "person",
+  "description": "Ferry Corsten has spent 2026 looking both backwards and forwards, revisiting one of his most ambitious projects, while continuing to create new music.\n\nOver the past year, he has collaborated with artists including Joris Voorn and Marsh, with releases landing across Flashover, Armada, Anjunabeats and Spectrum. He has also revisited his ‘Blueprint’ album with ‘Blueprint: Reprinted’, bringing new reworks from artists including Giuseppe Ottaviani, Genix, Matt Fax and Hel:sløwed, alongside a new vinyl edition. His touring schedule has taken in Creamfields, Dance Valley and Dreamstate, as well as headline shows in New York, Los Angeles, London, Tokyo and Sydney, with further dates at Tomorrowland Thailand and A State of Trance London still to come.",
+  "nationalities": [
+    "Dutch"
+  ],
+  "styles": [
+    "“Melodic, euphoric.”"
+  ],
+  "birth_date": "1973-12-04",
+  "gender": null,
+  "image": {
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_FerryCorsten.jpg.webp?itok=i34Wsyy8",
+    "source_url": "https://djmag.com/top100djs/2026/83/ferry-corsten",
+    "credit": null,
+    "license": null,
+    "license_url": null
+  },
+  "rankings": [
+    {
+      "year": 2026,
+      "rank": 83,
+      "previous_rank": null,
+      "source_url": "https://djmag.com/top100djs/2026/83/ferry-corsten"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://djmag.com/top100djs/2026/83/ferry-corsten",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T17:57:15.127642+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/83/ferry-corsten",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
+      "fields": [
+        "/name",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/83/ferry-corsten",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T05:00:46.156946+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://www.liaisonartists.com/artists/ferry-corsten/",
+      "publisher": "Liaison Artists — Ferry Corsten",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/birth_date",
+        "/entity_type",
+        "/nationalities/0"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00",
+  "origin": "The Netherlands",
+  "best_known_for": "“Drawing from trance’s roots while continually pushing the sound forward.”",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "The Netherlands"
+      },
+      {
+        "label": "DJ style",
+        "value": "“Melodic, euphoric.”"
+      },
+      {
+        "label": "Best known for",
+        "value": "“Drawing from trance’s roots while continually pushing the sound forward.”"
+      }
+    ],
+    "movement_places": 2,
+    "movement": "Up",
+    "article": {
+      "headline": "Ferry Corsten | #83 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/83/ferry-corsten"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_FerryCorsten.jpg.webp?itok=i34Wsyy8"
+  }
+}

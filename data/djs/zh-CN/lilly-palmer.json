@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0.0",
+  "id": "lilly-palmer",
+  "name": "莉莉帕玛",
+  "aliases": [
+    {
+      "name": "莉莉帕瑪",
+      "type": "transliteration",
+      "language": "zh-TW"
+    }
+  ],
+  "description": "Lilly Palmer 在德国成长，于苏黎世的地下音乐环境中展开职业道路。她逐渐发展出强劲的 Techno 风格，并通过 Spannung Records 和各地现场演出持续呈现自己的作品。",
+  "sources": [
+    {
+      "url": "https://altanightclub.kktix.cc/events/htdfr?locale=en",
+      "publisher": "ALTA / theLOOP · Lilly Palmer 官方活动页面",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0",
+        "/description",
+        "/name"
+      ]
+    },
+    {
+      "url": "https://activetalentagency.com/roster/lillypalmer/",
+      "publisher": "Active Talent Agency · Lilly Palmer 官方经纪介绍",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

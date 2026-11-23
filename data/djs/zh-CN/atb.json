@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0.0",
+  "id": "atb",
+  "name": null,
+  "aliases": [
+    {
+      "name": "André Tanneberger",
+      "type": "alternate_name",
+      "language": "de"
+    }
+  ],
+  "description": "ATB 是 André Tanneberger 的艺名，其作品常结合 Trance 的抒情旋律与浩室节奏。《9 PM (Till I Come)》中醒目的吉他旋律，成为其早期声音的重要标记。",
+  "sources": [
+    {
+      "url": "https://www.allmusic.com/artist/atb-mn0000923063/biography",
+      "publisher": "AllMusic — ATB",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0",
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

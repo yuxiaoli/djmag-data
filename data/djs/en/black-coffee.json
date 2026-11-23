@@ -1,0 +1,125 @@
+{
+  "schema_version": "1.0.0",
+  "id": "black-coffee",
+  "name": "Black Coffee",
+  "entity_type": "person",
+  "description": "The reason Black Coffee remains such a strong force in African electronic music is his deep, lasting connection to his roots. 2026 saw the DJ and producer, best known for taking Afro-house to the global stage, bring that stage back home. The second edition of his three-day Black Coffee Weekender in Cape Town brought international peers like Peggy Gou to his home turf. A third edition in 2027 promises to expand the connections between South Africa and the wider dance music world that Black Coffee has forged, further cementing Africa and himself as superpowers in the global electronic music ecosystem.",
+  "nationalities": [
+    "South African"
+  ],
+  "styles": [
+    "Afro-house, deep house."
+  ],
+  "birth_date": "1976-03-11",
+  "gender": null,
+  "image": {
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_BlackCoffee.jpg.webp?itok=i1h49E6W",
+    "source_url": "https://djmag.com/top100djs/2026/14/black-coffee",
+    "credit": null,
+    "license": null,
+    "license_url": null
+  },
+  "rankings": [
+    {
+      "year": 2026,
+      "rank": 14,
+      "previous_rank": null,
+      "source_url": "https://djmag.com/top100djs/2026/14/black-coffee"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://djmag.com/top100djs/2026/14/black-coffee",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-15T04:08:56Z",
+      "fields": [
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/14/black-coffee",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-15T18:23:09.999749+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/14/black-coffee",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T18:11:27.354499+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/14/black-coffee",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
+      "fields": [
+        "/name",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/14/black-coffee",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:57:24.030714+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://www.insomniac.com/music/artists/black-coffee/",
+      "publisher": "Insomniac — Black Coffee",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/birth_date",
+        "/entity_type",
+        "/nationalities/0"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00",
+  "origin": "South Africa",
+  "best_known_for": "Popularising Afro-house globally.",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "South Africa"
+      },
+      {
+        "label": "DJ style",
+        "value": "Afro-house, deep house."
+      },
+      {
+        "label": "Best known for",
+        "value": "Popularising Afro-house globally."
+      }
+    ],
+    "movement_places": 3,
+    "movement": "Up",
+    "article": {
+      "headline": "Black Coffee | #14 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/14/black-coffee"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_BlackCoffee.jpg.webp?itok=i1h49E6W"
+  }
+}

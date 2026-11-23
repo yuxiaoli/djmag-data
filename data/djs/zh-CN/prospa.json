@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0.0",
+  "id": "prospa",
+  "name": null,
+  "aliases": [],
+  "description": "Prospa 是 Harvey Blumler 与 Gosha Smith 在英国利兹发展起来的电子音乐双人组合。作品《Prayer》把酸性音色与锐舞旋律结合，随后继续探索碎拍和人声采样。",
+  "sources": [
+    {
+      "url": "https://www.amsterdam-dance-event.nl/en/artists-speakers/prospa/20260/",
+      "publisher": "Amsterdam Dance Event — Prospa",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    },
+    {
+      "url": "https://dmy.co/features/taking-off-prospa",
+      "publisher": "DMY — Taking Off: Prospa（采访）",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

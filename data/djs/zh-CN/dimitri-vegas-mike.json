@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0.0",
+  "id": "dimitri-vegas-mike",
+  "name": null,
+  "aliases": [
+    {
+      "name": "DVLM",
+      "type": "alternate_name",
+      "language": "en"
+    }
+  ],
+  "description": "Dimitri Vegas & Like Mike 是来自比利时的双人 DJ 组合，以 Tomorrowland 等音乐节演出和富有现场感的舞曲见长。代表作品包括《The Hum》，也与 Martin Garrix 合作推出《Tremor》。",
+  "sources": [
+    {
+      "url": "https://www.dimitrivegasandlikemike.com/",
+      "publisher": "Dimitri Vegas & Like Mike 官方网站",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    },
+    {
+      "url": "https://martingarrix.com/music/dimitri-vegas-martin-garrix-like-mike/",
+      "publisher": "Martin Garrix 官方网站 — Tremor",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    },
+    {
+      "url": "https://www.flstudiochina.com/news/fl-diysdb.html",
+      "publisher": "FL Studio 中文官网 — 潮音大咖",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

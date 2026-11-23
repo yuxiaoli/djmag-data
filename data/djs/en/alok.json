@@ -1,0 +1,133 @@
+{
+  "schema_version": "1.0.0",
+  "id": "alok",
+  "name": "Alok",
+  "entity_type": "person",
+  "description": "When Alok brought 50 dancers from Italian collective Urban Theory onto the stage during his now-iconic Coachella set last year, the Brazilian superstar inadvertently set a revolution in motion. In a dance music landscape increasingly occupied by the digital, Alok invited us to consider where dance music matters most: our bodies.\n\nThe impact of his Keep Art Human concept crescendoed in 2026 with a dizzying list of milestones, beginning with Alok playing to nearly 2.5 million people on Rio de Janeiro’s Copacabana Beach at a Guinness World Records-certified New Year’s Eve celebration. He followed it with his debut at Las Vegas’ Sphere and two historic sets at Rock In Rio. His Keep Art Human show opened the mainstage with 1,500 drones and 45 dancers, while his Rave The World concept closed the New Dance Order stage at 3am alongside his brother, Bhaskar, and parents, DJs Swarup and Ekanta, drawing its largest crowd in Rock In Rio history.",
+  "nationalities": [
+    "Brazilian"
+  ],
+  "styles": [
+    "Brazilian bass/EDM."
+  ],
+  "birth_date": "1991-08-26",
+  "gender": "male",
+  "image": {
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_Alok.jpg.webp?itok=ygJ1OPmO",
+    "source_url": "https://djmag.com/top100djs/2026/4/alok",
+    "credit": null,
+    "license": null,
+    "license_url": null
+  },
+  "rankings": [
+    {
+      "year": 2026,
+      "rank": 4,
+      "previous_rank": null,
+      "source_url": "https://djmag.com/top100djs/2026/4/alok"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://djmag.com/top100djs/2026/4/alok",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-15T04:08:56Z",
+      "fields": [
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/4/alok",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-15T17:39:49.179435+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/4/alok",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T18:09:52.548618+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/4/alok",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
+      "fields": [
+        "/name",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/4/alok",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:55:48.190806+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://institutoalok.org/language/en/about-alok/",
+      "publisher": "Alok Institute — About Alok",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/birth_date",
+        "/entity_type",
+        "/nationalities/0"
+      ]
+    },
+    {
+      "url": "https://aloklive.com.br/us/",
+      "publisher": "Alok 官方网站",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/gender"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00",
+  "origin": "Brazil",
+  "best_known_for": "Playing to millions-strong crowds in Brazil and his philanthropy.",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "Brazil"
+      },
+      {
+        "label": "DJ style",
+        "value": "Brazilian bass/EDM."
+      },
+      {
+        "label": "Best known for",
+        "value": "Playing to millions-strong crowds in Brazil and his philanthropy."
+      }
+    ],
+    "movement_places": 1,
+    "movement": "Down",
+    "article": {
+      "headline": "Alok | #4 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/4/alok"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_Alok.jpg.webp?itok=ygJ1OPmO"
+  }
+}

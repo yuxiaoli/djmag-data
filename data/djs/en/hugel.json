@@ -1,0 +1,119 @@
+{
+  "schema_version": "1.0.0",
+  "id": "hugel",
+  "name": "HUGEL",
+  "entity_type": "person",
+  "description": "No longer a new entry, HUGEL settles into the Top 100 DJs with a winning hand, driven largely by the success of his debut album, ‘Twenty One’. Featuring cross-genre collaborators like Snoop Dogg and Donel, the Parisian producer’s LP transcended dance circles, debuting at No.1 on Spotify’s Global Top Albums Debut chart, while its lead single, ‘Movin’ To The Sun’, claimed Beatport’s overall top spot and later made HUGEL the most-Shazamed artist in the world. This luminous year also brought a DJ Mag Ibiza cover, his Coachella debut, residencies at Encore Las Vegas and Hï Ibiza, and his first US Gold record (for ‘I Adore You’).",
+  "nationalities": [
+    "French"
+  ],
+  "styles": [
+    "Latin house."
+  ],
+  "birth_date": "1987-12-04",
+  "gender": null,
+  "image": {
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_HUGEL.jpg.webp?itok=3vweWc0f",
+    "source_url": "https://djmag.com/top100djs/2026/48/hugel",
+    "credit": null,
+    "license": null,
+    "license_url": null
+  },
+  "rankings": [
+    {
+      "year": 2026,
+      "rank": 48,
+      "previous_rank": null,
+      "source_url": "https://djmag.com/top100djs/2026/48/hugel"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://djmag.com/top100djs/2026/48/hugel",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T17:58:28.377505+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/48/hugel",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
+      "fields": [
+        "/name",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/48/hugel",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T05:02:00.483246+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://www.insomniac.com/music/artists/hugel/",
+      "publisher": "Insomniac · HUGEL 官方艺人介绍",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/entity_type"
+      ]
+    },
+    {
+      "url": "https://cr2records.com/playlist/hugel-morenita/",
+      "publisher": "Cr2 Records · Morenita",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/nationalities/0"
+      ]
+    },
+    {
+      "url": "https://universalmusic.fr/artistes/31595104102",
+      "publisher": "Universal Music France · HUGEL",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/birth_date"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00",
+  "origin": "France",
+  "best_known_for": "His album ‘Twenty One’ and his Hï Ibiza residency.",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "France"
+      },
+      {
+        "label": "DJ style",
+        "value": "Latin house."
+      },
+      {
+        "label": "Best known for",
+        "value": "His album ‘Twenty One’ and his Hï Ibiza residency."
+      }
+    ],
+    "movement_places": 6,
+    "movement": "Up",
+    "article": {
+      "headline": "HUGEL | #48 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/48/hugel"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_HUGEL.jpg.webp?itok=3vweWc0f"
+  }
+}

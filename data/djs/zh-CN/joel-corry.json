@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0.0",
+  "id": "joel-corry",
+  "name": "乔尔·科瑞",
+  "aliases": [
+    {
+      "name": "喬爾．科瑞",
+      "type": "transliteration",
+      "language": "zh-TW"
+    }
+  ],
+  "description": "Joel Corry 通过《Sorry》获得英国流行榜关注，随后与 MNEK 合作的《Head & Heart》连续六周登顶英国单曲榜。他的作品连接流行歌曲与俱乐部舞曲。",
+  "sources": [
+    {
+      "url": "https://www.eslite.com/product/10032019212682855234007",
+      "publisher": "诚品 · 华纳唱片《Another Friday Night》商品资料",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0",
+        "/description",
+        "/name"
+      ]
+    },
+    {
+      "url": "https://www.officialcharts.com/artist/55799/joel-corry/",
+      "publisher": "Official Charts · Joel Corry",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

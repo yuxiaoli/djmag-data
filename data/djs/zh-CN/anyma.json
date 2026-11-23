@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0.0",
+  "id": "anyma",
+  "name": null,
+  "aliases": [
+    {
+      "name": "Matteo Milleri",
+      "type": "alternate_name",
+      "language": "it"
+    }
+  ],
+  "description": "Anyma 是 Matteo Milleri 的个人音像项目，围绕旋律科技舞曲与数字视觉艺术展开。Genesys 系列把专辑与沉浸式现场相连，形成其鲜明的演出风格。",
+  "sources": [
+    {
+      "url": "https://www.unvrs.com/artists/anyma",
+      "publisher": "[UNVRS] — Anyma 艺人介绍",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0",
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "id": "ben-nicky",
+  "name": null,
+  "aliases": [],
+  "description": "Ben Nicky 是英国 DJ 与制作人，演出横跨 Trance、Hardstyle 等舞曲方向，以快速切换风格见长。他的《We Come 1》改编和 BBC Essential Mix 演出展示了这一取向。",
+  "sources": [
+    {
+      "url": "https://www.insomniac.com/music/artists/ben-nicky/",
+      "publisher": "Insomniac — Ben Nicky",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

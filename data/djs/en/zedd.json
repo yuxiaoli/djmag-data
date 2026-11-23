@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0.0",
+  "id": "zedd",
+  "name": "Zedd",
+  "entity_type": "person",
+  "description": "The brightest highlights of Zedd’s 15th consecutive year in the Top 100 DJs poll unfolded during a single week in New York: his headline performance at the US Open Finals Afterparty and Zedd in the Park’s East Coast debut. Collectively, they reflect different dimensions of his stature today, from his firm place in America’s cultural mainstream to his coast-to-coast success in community-building and brand autonomy. Meanwhile, the post-Coachella resurgence of Justin Bieber’s ‘Beauty And A Beat’ (co-written and co-produced by Zedd) and a handful of singles, including a Shania Twain flip for Candy Crush, have kept the momentum going all year.",
+  "nationalities": [
+    "German"
+  ],
+  "styles": [
+    "All genres, high energy and emotive."
+  ],
+  "birth_date": "1989-09-02",
+  "gender": null,
+  "image": {
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_Zedd.jpg.webp?itok=dm-V3WYv",
+    "source_url": "https://djmag.com/top100djs/2026/54/zedd",
+    "credit": null,
+    "license": null,
+    "license_url": null
+  },
+  "rankings": [
+    {
+      "year": 2026,
+      "rank": 54,
+      "previous_rank": null,
+      "source_url": "https://djmag.com/top100djs/2026/54/zedd"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://djmag.com/top100djs/2026/54/zedd",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T18:08:59.996015+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/54/zedd",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
+      "fields": [
+        "/name",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/54/zedd",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T05:12:37.574223+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://www.capitalfm.com/artists/zedd/",
+      "publisher": "Capital — Zedd",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/birth_date",
+        "/entity_type"
+      ]
+    },
+    {
+      "url": "https://www.ydn.com.tw/tw/News/ugC_News_Detail.aspx?chapterID=1711450&type=happy",
+      "publisher": "青年日报 — Ultra Taiwan11月重磅回归",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/nationalities/0"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00",
+  "origin": "Russia/Germany",
+  "best_known_for": "Loads of EDM and dance-pop mega-hits.",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "Russia/Germany"
+      },
+      {
+        "label": "DJ style",
+        "value": "All genres, high energy and emotive."
+      },
+      {
+        "label": "Best known for",
+        "value": "Loads of EDM and dance-pop mega-hits."
+      }
+    ],
+    "movement_places": 10,
+    "movement": "Down",
+    "article": {
+      "headline": "Zedd | #54 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/54/zedd"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_Zedd.jpg.webp?itok=dm-V3WYv"
+  }
+}

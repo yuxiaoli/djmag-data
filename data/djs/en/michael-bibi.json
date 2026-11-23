@@ -1,0 +1,111 @@
+{
+  "schema_version": "1.0.0",
+  "id": "michael-bibi",
+  "name": "Michael Bibi",
+  "entity_type": "person",
+  "description": "Every Thursday from June to October, UK tech-house titan Michael Bibi’s Solid Grooves parties at DC-10 brought a series of stacked DJ line-ups to the island’s clubbers, including the massive moment that Solomun made his surprise SG debut on the terrace. Throughout 2026, Bibi and PAWSA’s Solid Grooves label continued the founders’ on-going mission to supply dancefloors worldwide with lean, mean tech-house and deep tech. Meanwhile, Bibi — who featured on the DJ Mag cover in 2025 — dropped gnarly, big-attitude tracks like ‘Lets Get High’, ‘Bad Wolf’ (feat. UNIIQU3), and his KETTAMA/Wu-Tang Clan collab, ‘MYSTERY OF RAW’.",
+  "nationalities": [
+    "British"
+  ],
+  "styles": [
+    "House, tech-house."
+  ],
+  "birth_date": null,
+  "gender": null,
+  "image": {
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_MichaelBibi.jpg.webp?itok=orLKgMX7",
+    "source_url": "https://djmag.com/top100djs/2026/37/michael-bibi",
+    "credit": null,
+    "license": null,
+    "license_url": null
+  },
+  "rankings": [
+    {
+      "year": 2026,
+      "rank": 37,
+      "previous_rank": null,
+      "source_url": "https://djmag.com/top100djs/2026/37/michael-bibi"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://djmag.com/top100djs/2026/37/michael-bibi",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T18:03:12.461060+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/37/michael-bibi",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
+      "fields": [
+        "/name",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/37/michael-bibi",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T05:06:46.816859+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://www.unvrs.com/artists/michael-bibi",
+      "publisher": "UNVRS · Michael Bibi 官方艺人介绍",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/entity_type"
+      ]
+    },
+    {
+      "url": "https://people.com/dj-michael-bibi-performs-at-coachella-after-cancer-diagnosis-8634398",
+      "publisher": "PEOPLE · Michael Bibi 报道",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/nationalities/0"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00",
+  "origin": "UK",
+  "best_known_for": "Solid Grooves parties, label, and sound.",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "UK"
+      },
+      {
+        "label": "DJ style",
+        "value": "House, tech-house."
+      },
+      {
+        "label": "Best known for",
+        "value": "Solid Grooves parties, label, and sound."
+      }
+    ],
+    "movement_places": 11,
+    "movement": "Up",
+    "article": {
+      "headline": "Michael Bibi | #37 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/37/michael-bibi"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_MichaelBibi.jpg.webp?itok=orLKgMX7"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0.0",
+  "id": "martin-garrix",
+  "name": "Martin Garrix",
+  "entity_type": "person",
+  "description": "Joy. Connection. Unity. When Martin Garrix was interviewed for Canadian radio back in June, he was quick to outline the emotions underpinning his forthcoming album. Contrasting 2022’s ‘Sentio’, which he described as “very aggressive”, the comparatively “accessible” and “fun” LP is expected in early 2027 and says a lot about what the Dutchman has been up to this year.\n\nBut the new album isn’t the only thing the DJ, producer and five-times Top 100 DJs poll winner has busied himself with over the past 12 months. As summer wound down, his latest effort with U2 dropped (‘Fireflies’). Then there was his own vocal debut on the single ‘Catharina’, a 16-date solo tour of the US, and a summer spent holding down another Ushuaïa residency",
+  "nationalities": [
+    "Dutch"
+  ],
+  "styles": [
+    "EDM and emotional dance-pop bangers."
+  ],
+  "birth_date": "1996-05-14",
+  "gender": null,
+  "image": {
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_MartinGarrix.jpg.webp?itok=uOuRrO3O",
+    "source_url": "https://djmag.com/top100djs/2026/2/martin-garrix",
+    "credit": null,
+    "license": null,
+    "license_url": null
+  },
+  "rankings": [
+    {
+      "year": 2026,
+      "rank": 2,
+      "previous_rank": null,
+      "source_url": "https://djmag.com/top100djs/2026/2/martin-garrix"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://djmag.com/top100djs/2026/2/martin-garrix",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T18:02:30.214533+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/2/martin-garrix",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
+      "fields": [
+        "/name",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/2/martin-garrix",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T05:06:04.038895+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://martingarrix.com/music/animals/",
+      "publisher": "Martin Garrix 官方网站 — Animals",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/entity_type",
+        "/nationalities/0"
+      ]
+    },
+    {
+      "url": "https://snapshot.apple.com/us/person/6621261999",
+      "publisher": "Apple Snapshot — Martin Garrix",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/birth_date"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00",
+  "origin": "The Netherlands",
+  "best_known_for": "‘Animals’, ‘In The Name Of Love’, ‘Scared To Be Lonely’ and many more.",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "The Netherlands"
+      },
+      {
+        "label": "DJ style",
+        "value": "EDM and emotional dance-pop bangers."
+      },
+      {
+        "label": "Best known for",
+        "value": "‘Animals’, ‘In The Name Of Love’, ‘Scared To Be Lonely’ and many more."
+      }
+    ],
+    "movement_places": null,
+    "movement": "Non-mover",
+    "article": {
+      "headline": "Martin Garrix | #2 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/2/martin-garrix"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_MartinGarrix.jpg.webp?itok=uOuRrO3O"
+  }
+}

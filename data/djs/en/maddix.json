@@ -1,0 +1,120 @@
+{
+  "schema_version": "1.0.0",
+  "id": "maddix",
+  "name": "Maddix",
+  "entity_type": "person",
+  "description": "Not content with dropping a neo-hardcore anthem in his Bassjackers collab, ‘Rave Therapy’, Maddix made his presence known at some of the biggest festivals in the dance music calendar this year. Stepping out for his mainstage debut at Ultra Music Festival Miami in March, he also took his own EXTATIC Records [XTTC] show to LA, and got behind the decks at Ultra Japan in Tokyo last month. Throw EDC Las Vegas into the mix — where he performed with fellow Dutchman Hardwell to debut their new peak-time hard-techno link-up ‘Al CARALHO’ — and it’s clear why Maddix is a mandatory headliner at major EDM gatherings.",
+  "nationalities": [
+    "Dutch"
+  ],
+  "styles": [
+    "EDM."
+  ],
+  "birth_date": "1990-12-03",
+  "gender": null,
+  "image": {
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/2026-11/Maddix%202026%20-%20Credit%20Sven%20Scholten.jpg.webp?itok=Tj_HD3yM",
+    "source_url": "https://djmag.com/top100djs/2026/52/maddix",
+    "credit": null,
+    "license": null,
+    "license_url": null
+  },
+  "rankings": [
+    {
+      "year": 2026,
+      "rank": 52,
+      "previous_rank": null,
+      "source_url": "https://djmag.com/top100djs/2026/52/maddix"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://djmag.com/top100djs/2026/52/maddix",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T18:01:37.497226+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/52/maddix",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
+      "fields": [
+        "/name",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/52/maddix",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T05:05:11.223195+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://www.insomniac.com/music/artists/maddix/",
+      "publisher": "Insomniac — Maddix",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/entity_type",
+        "/nationalities/0"
+      ]
+    },
+    {
+      "url": "https://www.allmusic.com/artist/maddix-mn0003460454",
+      "publisher": "AllMusic — Maddix",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/birth_date"
+      ]
+    },
+    {
+      "url": "https://www.flstudiochina.com/mingrentang/maddix-pablo-rindt.html",
+      "publisher": "FL Studio 中文网站 — Maddix 采访",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/birth_date"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00",
+  "origin": "The Netherlands",
+  "best_known_for": "Huge tunes and his EXTATIC label.",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "The Netherlands"
+      },
+      {
+        "label": "DJ style",
+        "value": "EDM."
+      },
+      {
+        "label": "Best known for",
+        "value": "Huge tunes and his EXTATIC label."
+      }
+    ],
+    "movement_places": 1,
+    "movement": "Up",
+    "article": {
+      "headline": "Maddix | #52 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/52/maddix"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/2026-11/Maddix%202026%20-%20Credit%20Sven%20Scholten.jpg.webp?itok=Tj_HD3yM"
+  }
+}

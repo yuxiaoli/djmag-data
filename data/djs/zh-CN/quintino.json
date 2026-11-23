@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "id": "quintino",
+  "name": null,
+  "aliases": [
+    {
+      "name": "Quinten van den Berg",
+      "type": "alternate_name",
+      "language": "nl"
+    }
+  ],
+  "description": "Quintino 是来自荷兰登海尔德的 DJ 与制作人，擅长旋律鲜明、爆发力强的大房间浩室。与 Sandro Silva 合作的《Epic》是其重要代表作。",
+  "sources": [
+    {
+      "url": "https://www.armadamusicpublishing.com/roster/quintino",
+      "publisher": "Armada Music Publishing — Quintino",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    },
+    {
+      "url": "https://www.allmusic.com/artist/quintino-mn0001770892",
+      "publisher": "AllMusic — Quintino",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

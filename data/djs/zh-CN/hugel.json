@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0.0",
+  "id": "hugel",
+  "name": null,
+  "aliases": [
+    {
+      "name": "Florent Hugel",
+      "type": "alternate_name",
+      "language": "fr"
+    }
+  ],
+  "description": "HUGEL 在法国马赛成长，以带有拉丁元素的浩室音乐受到关注。《Morenita》通过鲜明的低音律动和 Cumbiafrica 的人声，把他的舞池声音带给了更广泛的听众。",
+  "sources": [
+    {
+      "url": "https://www.insomniac.com/music/artists/hugel/",
+      "publisher": "Insomniac · HUGEL 官方艺人介绍",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    },
+    {
+      "url": "https://cr2records.com/playlist/hugel-morenita/",
+      "publisher": "Cr2 Records · Morenita",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    },
+    {
+      "url": "https://universalmusic.fr/artistes/31595104102",
+      "publisher": "Universal Music France · HUGEL",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

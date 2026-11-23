@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "id": "black-coffee",
+  "name": "黑咖啡",
+  "aliases": [
+    {
+      "name": "Nkosinathi Maphumulo",
+      "type": "alternate_name",
+      "language": "en"
+    }
+  ],
+  "description": "Black Coffee 是南非 DJ 与制作人 Nkosinathi Maphumulo，以深浩室和南非舞曲背景形成个人声音。他的国际合作包括与 David Guetta、Delilah Montagu 共同推出的《Drive》。",
+  "sources": [
+    {
+      "url": "https://lib.iias.tsinghua.edu.cn/sites/default/files/2023-04/sahala-23-02-01.pdf",
+      "publisher": "清华大学国际与地区研究院图书馆 — 2023年02月第1期",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/name"
+      ]
+    },
+    {
+      "url": "https://www.insomniac.com/music/artists/black-coffee/",
+      "publisher": "Insomniac — Black Coffee",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0",
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

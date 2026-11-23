@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "id": "ww",
+  "name": null,
+  "aliases": [],
+  "description": "W&W 是荷兰双人 DJ 与制作组合，于 2007 年成立。他们将大房间浩室、Trance、Techno 和硬派舞曲融入主舞台演出，并通过 Rave Culture 发行相关音乐。",
+  "sources": [
+    {
+      "url": "https://www.wandwmusic.com/about",
+      "publisher": "W&W 官方网站 — About",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

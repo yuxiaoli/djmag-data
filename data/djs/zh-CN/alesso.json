@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "id": "alesso",
+  "name": null,
+  "aliases": [],
+  "description": "Alesso 是瑞典 DJ 与制作人，以旋律鲜明的 Progressive house 见长。《Calling (Lose My Mind)》及《If I Lose Myself》的混音，是其早期受到广泛关注的作品。",
+  "sources": [
+    {
+      "url": "https://www.universal-music.co.jp/alesso/biography/",
+      "publisher": "Universal Music Japan — Alesso",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

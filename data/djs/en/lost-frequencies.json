@@ -1,0 +1,105 @@
+{
+  "schema_version": "1.0.0",
+  "id": "lost-frequencies",
+  "name": "Lost Frequencies",
+  "entity_type": "person",
+  "description": "Felix De Laet, aka Lost Frequencies, has come a long way since his chart-topping track ‘Are You With Me’ back in 2014. Since then, he’s collaborated with an impressive range of top-tier artists including Calum Scott, James Blunt, Tom Odell and James Arthur. Hitting the festival circuit in 2026 he played Tomorrowland, Untold, Veld, Les Ardentes, Lokerse Feesten and Germany’s GLÜCKSGEFÜHLE. Another highlight was playing a sold-out Brixton Academy show in London: “I feel blessed to have such a lovely fanbase supporting what I do,” he says. He released three singles this year: ‘So Much Beauty (Around Us)’ with Nathan Nicholson, ‘Live It All’, and ‘Paraiso’ with Brazilian singer Mari Froes, and has a new album in the works for 2027.",
+  "nationalities": [
+    "Belgian"
+  ],
+  "styles": [
+    "“Melodic/indie house, progressive.”"
+  ],
+  "birth_date": "1993-11-30",
+  "gender": null,
+  "image": {
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_LostFrequencies.jpg.webp?itok=VSogGzFW",
+    "source_url": "https://djmag.com/top100djs/2026/17/lost-frequencies",
+    "credit": null,
+    "license": null,
+    "license_url": null
+  },
+  "rankings": [
+    {
+      "year": 2026,
+      "rank": 17,
+      "previous_rank": null,
+      "source_url": "https://djmag.com/top100djs/2026/17/lost-frequencies"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://djmag.com/top100djs/2026/17/lost-frequencies",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T18:01:16.284209+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/17/lost-frequencies",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
+      "fields": [
+        "/name",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/17/lost-frequencies",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T05:04:49.871897+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://www.sennheiser.com/en-se/artists/lost-frequencies",
+      "publisher": "Sennheiser — Lost Frequencies 艺人合作介绍",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/birth_date",
+        "/entity_type",
+        "/nationalities/0"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00",
+  "origin": "Belgium",
+  "best_known_for": "“‘Are You With Me’, ‘Where Are You Now’, ‘The Feeling’, ‘Black Friday’ and touring the world.”",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "Belgium"
+      },
+      {
+        "label": "DJ style",
+        "value": "“Melodic/indie house, progressive.”"
+      },
+      {
+        "label": "Best known for",
+        "value": "“‘Are You With Me’, ‘Where Are You Now’, ‘The Feeling’, ‘Black Friday’ and touring the world.”"
+      }
+    ],
+    "movement_places": 2,
+    "movement": "Up",
+    "article": {
+      "headline": "Lost Frequencies | #17 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/17/lost-frequencies"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_LostFrequencies.jpg.webp?itok=VSogGzFW"
+  }
+}

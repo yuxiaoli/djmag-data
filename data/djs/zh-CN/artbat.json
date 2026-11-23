@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "id": "artbat",
+  "name": null,
+  "aliases": [],
+  "description": "ARTBAT 是由 Artur 与 Batish 组成的乌克兰电子音乐双人组，以旋律和舞池推进感组织作品。组合通过《Horizon》等发行及 UPPERGROUND 厂牌延续自己的音乐方向。",
+  "sources": [
+    {
+      "url": "https://www.insomniac.com/music/artists/artbat/",
+      "publisher": "Insomniac — ARTBAT",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0.0",
+  "id": "don-diablo",
+  "name": "唐·迪亚波罗",
+  "aliases": [
+    {
+      "name": "Don Pepijn Schipper",
+      "type": "alternate_name",
+      "language": "nl"
+    },
+    {
+      "name": "Control Alt Delete",
+      "type": "alternate_name",
+      "language": "en"
+    },
+    {
+      "name": "大菠萝",
+      "type": "nickname",
+      "language": "zh-CN"
+    }
+  ],
+  "description": "Don Diablo 是荷兰出生的音乐制作人与艺术家，通过 HEXAGON 发行作品并支持新人。他以 Future House 为重要音乐标签，也将创作扩展到视觉艺术及其他电子音乐项目。",
+  "sources": [
+    {
+      "url": "https://m.kuwo.cn/artist/content?Brando=&name=Don+Diablo",
+      "publisher": "酷我音乐 — Don Diablo",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/name"
+      ]
+    },
+    {
+      "url": "https://www.dondiablo.com/about",
+      "publisher": "Don Diablo 官方网站 — About",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0",
+        "/aliases/1",
+        "/description"
+      ]
+    },
+    {
+      "url": "https://esns.nl/en/festival/artists/don-diablo/",
+      "publisher": "ESNS — Don Diablo",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    },
+    {
+      "url": "https://electronicmusicinformation.com/gw/index/article_details.html?drysaltery_id=2934",
+      "publisher": "电子音乐资讯 — Don Diablo以中国粉丝绰号“大菠萝”之名创立“小号”",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/2"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

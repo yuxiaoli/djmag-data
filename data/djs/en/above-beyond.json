@@ -1,0 +1,121 @@
+{
+  "schema_version": "1.0.0",
+  "id": "above-beyond",
+  "name": "Above & Beyond",
+  "entity_type": "group",
+  "description": "Anjuna family paters Above & Beyond remain a driving force in trance. This year, their purist sound — somewhere between euphoric and melancholy — has captivated legions of faithful followers worldwide, whether during Brixton Academy double headers in London, warehouse parties across the UK, Factory Town Miami takeovers, or the annual Group Therapy gathering at the landmark Gorge Amphitheatre in Washington state.\n\nMeanwhile, the labels Anjunabeats, Anjunadeep and Anjunachill maintained an equally packed schedule, with tracks from Ben Böhmer, Nils Hoffmann & Malou, obli, Maty Owl, and Tomas Novoa landing in the last month alone, and a new ambient compilation series launching in December.",
+  "nationalities": [],
+  "styles": [
+    "Emotional electronic dance music."
+  ],
+  "birth_date": null,
+  "gender": null,
+  "image": {
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_AboveandBeyond.jpg.webp?itok=WQOvmjH3",
+    "source_url": "https://djmag.com/top100djs/2026/87/above-beyond",
+    "credit": null,
+    "license": null,
+    "license_url": null
+  },
+  "rankings": [
+    {
+      "year": 2026,
+      "rank": 87,
+      "previous_rank": null,
+      "source_url": "https://djmag.com/top100djs/2026/87/above-beyond"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://djmag.com/top100djs/2026/87/above-beyond",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-15T04:08:56Z",
+      "fields": [
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/87/above-beyond",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-15T05:52:14.467734+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/87/above-beyond",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T18:09:10.588964+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/87/above-beyond",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
+      "fields": [
+        "/name",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/87/above-beyond",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:55:05.863665+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://anjunabeats.com/artists/57287-above-beyond",
+      "publisher": "Anjunabeats — Above & Beyond",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/entity_type"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00",
+  "origin": "UK/Finland",
+  "best_known_for": "Trance.",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "UK/Finland"
+      },
+      {
+        "label": "DJ style",
+        "value": "Emotional electronic dance music."
+      },
+      {
+        "label": "Best known for",
+        "value": "Trance."
+      }
+    ],
+    "movement_places": 26,
+    "movement": "Down",
+    "article": {
+      "headline": "Above & Beyond | #87 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/87/above-beyond"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_AboveandBeyond.jpg.webp?itok=WQOvmjH3"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": "1.0.0",
+  "id": "nils-van-zandt",
+  "name": "Nils van Zandt",
+  "entity_type": "person",
+  "description": "2026 has been a strong year for Dutch artist Nils van Zandt. From playing at the Dutch Grand Prix and chatting with Max Verstappen to receiving the 100 million Spotify streams award from his “pit crew”, van Zandt says it’s all a “dream come true”.\n\nAs well as working on more turbo-charged EDM anthems in the studio, many of which can be found on labels like BIP Records, LNG Music and Spinnin’ Records, van Zandt is exploring the next chapter of his visual concept, VISUALA. “We’re completely reimagining the show: bigger, more immersive and full of surprises,” he says. “It’s more than a DJ set... but I’ll keep the rest a secret for now.”",
+  "nationalities": [
+    "Dutch"
+  ],
+  "styles": [
+    "“Mainstage madness with some spicy Dutch flavour!”"
+  ],
+  "birth_date": null,
+  "gender": null,
+  "image": {
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_NilsvanZandt.jpg.webp?itok=0akWSuVx",
+    "source_url": "https://djmag.com/top100djs/2026/93/nils-van-zandt",
+    "credit": null,
+    "license": null,
+    "license_url": null
+  },
+  "rankings": [
+    {
+      "year": 2026,
+      "rank": 93,
+      "previous_rank": null,
+      "source_url": "https://djmag.com/top100djs/2026/93/nils-van-zandt"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://djmag.com/top100djs/2026/93/nils-van-zandt",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T18:04:15.420669+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/93/nils-van-zandt",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
+      "fields": [
+        "/name",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/93/nils-van-zandt",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T05:07:50.677125+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://www.amsterdam-dance-event.nl/en/artists-speakers/nils-van-zandt/2225175/",
+      "publisher": "Amsterdam Dance Event — Nils van Zandt",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/entity_type",
+        "/nationalities/0"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00",
+  "origin": "The Netherlands",
+  "best_known_for": "“‘Tu tu tu du’ .... (‘33 Max Verstappen’) and the legendary visual show VISUALA.”",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "The Netherlands"
+      },
+      {
+        "label": "DJ style",
+        "value": "“Mainstage madness with some spicy Dutch flavour!”"
+      },
+      {
+        "label": "Best known for",
+        "value": "“‘Tu tu tu du’ .... (‘33 Max Verstappen’) and the legendary visual show VISUALA.”"
+      }
+    ],
+    "movement_places": 5,
+    "movement": "Up",
+    "article": {
+      "headline": "Nils van Zandt | #93 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/93/nils-van-zandt"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_NilsvanZandt.jpg.webp?itok=0akWSuVx"
+  }
+}

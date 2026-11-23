@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "id": "kiki",
+  "name": null,
+  "aliases": [
+    {
+      "name": "Kiki Wesselo",
+      "type": "alternate_name",
+      "language": "nl"
+    }
+  ],
+  "description": "KI/KI 从阿姆斯特丹地下舞池起步，将 Trance、Acid 与 Techno 结合成快速而富有旋律感的声音。她于 2022 年创办 slash 厂牌，并发展个人制作和现场演出。",
+  "sources": [
+    {
+      "url": "https://www.insomniac.com/music/artists/ki-ki/",
+      "publisher": "Insomniac — KI/KI",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    },
+    {
+      "url": "https://www.top40.nl/top40-artiesten/ki-ki",
+      "publisher": "Stichting Nederlandse Top 40 — KI/KI",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

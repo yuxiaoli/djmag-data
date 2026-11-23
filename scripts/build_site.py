@@ -1,23 +1,261 @@
 """Build a static catalog with stable artist URLs and public JSON."""
-import json,html,shutil
-from presentation import movement
+import html
+import json
+import shutil
 from pathlib import Path
-ROOT=Path(__file__).resolve().parents[1];OUT=ROOT/'site';OUT.mkdir(exist_ok=True)
-def e(v):return html.escape(str(v))
-def page(title,body,prefix='./'):
- return '<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>'+e(title)+'</title><link rel="stylesheet" href="'+prefix+'style.css"><body><main>'+body+'<footer>Built by <a href="https://s.vectorindex.cloud/sean">Sean</a> with ❤️</footer></main></body></html>'
-rows=[json.loads(p.read_text()) for p in (ROOT/'data/djs').glob('*.json')];latest=max((d['rankings'][-1]['year'] for d in rows),default=0);rows=[d for d in rows if d['rankings'][-1]['year']==latest];rows.sort(key=lambda d:d['rankings'][-1]['rank'])
-cards=[]
-for d in rows:
- r=d['rankings'][-1]; image=d['image']; photo=('<img loading="lazy" referrerpolicy="no-referrer" src="'+e(image['url'])+'" alt="'+e(d['name'])+'">') if image else ''
- cards.append('<a class="card" href="djs/'+e(d['id'])+'.html">'+photo+'<div><span class="rank">'+str(r['rank'])+'</span><h2>'+e(d['name'])+'</h2><small>DJ Mag '+str(r['year'])+'</small></div></a>')
- details=''.join('<dt>'+label+'</dt><dd>'+e(value or '')+'</dd>' for label,value in [('From',d.get('origin')),('DJ style',', '.join(d['styles'])),('Best known for',d.get('best_known_for')),('Ranking change',movement(d))])
- secondary=''.join('<dt>'+label+'</dt><dd>'+e(value)+'</dd>' for label,value in [('Birth date',d.get('birth_date')),('Gender',d.get('gender'))] if value)
- body='<a href="../index.html">← All DJs</a><p class="eyebrow">DJ MAG TOP 100 · '+str(r['year'])+'</p><h1>'+e(d['name'])+'</h1>'+photo+'<p class="ranking-label">Current Ranking</p><p class="big">#'+str(r['rank'])+'</p>'+'<dl class="profile-facts">'+details+'</dl><section class="profile-details"><h2>Profile details</h2>'+''.join('<p>'+e(paragraph)+'</p>' for paragraph in (d.get('description') or '').split('\n\n') if paragraph)+'<dl>'+secondary+''.join('<dt>'+e(f['label'])+'</dt><dd>'+e(f['value'])+'</dd>' for f in (d.get('profile_metadata') or {}).get('intro_fields',[]) if f['label'].casefold() not in ('from','dj style','best known for','birth date','gender'))+'</dl></section><p>Updated '+e(d['updated_at'])+'</p><a href="../data/djs/'+e(d['id'])+'.json">JSON record</a><p class="note">Photos are linked from the source; rights remain with their owners. Unknown facts are not inferred.</p>'
- (OUT/'djs').mkdir(exist_ok=True);(OUT/'djs'/(d['id']+'.html')).write_text(page(d['name'],body,'../'))
-year=rows[0]['rankings'][-1]['year'] if rows else 'Unknown'
-body='<p class="eyebrow">INDEPENDENT DATA CATALOG</p><h1>The people<br>behind the decks.</h1><p>DJ Mag latest rankings · '+str(year)+' · '+str(len(rows))+' artists</p><p class="note">Latest annual poll ranks, not daily rankings. Current-edition metadata; unverified biography facts stay unknown. Source-attributed metadata; unverified facts remain blank.</p><label for="search">Find a DJ</label><input id="search" placeholder="Search artists…" type="search"><section class="grid">'+''.join(cards)+'</section><script>document.querySelector("#search").addEventListener("input",e=>{document.querySelectorAll(".card").forEach(c=>c.hidden=!c.innerText.toLowerCase().includes(e.target.value.toLowerCase()))})</script>'
-(OUT/'index.html').write_text(page('DJ catalog',body));shutil.copytree(ROOT/'data',OUT/'data',dirs_exist_ok=True)
-(OUT/'style.css').write_text('''*{box-sizing:border-box}body{margin:0;background:#0c1016;color:#eef1f7;font:16px/1.55 system-ui,sans-serif}main{max-width:1180px;margin:auto;padding:50px 24px}a{color:#acbfff}h1{font-size:clamp(40px,7vw,82px);line-height:1.05;letter-spacing:-.05em;margin:20px 0}h2{font-size:20px;margin:0}.eyebrow{letter-spacing:.18em;color:#a8b7d7;font-size:12px}input{display:block;width:100%;background:#161e2b;border:1px solid #38445a;color:white;padding:16px;border-radius:10px;margin:10px 0 28px;font:inherit}.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:18px}.card{display:block;text-decoration:none;background:#171e2a;border:1px solid #273044;border-radius:12px;overflow:hidden;color:inherit}.card[hidden]{display:none}.card div{padding:16px}.card:hover{border-color:#9caeff}img{max-width:100%;border-radius:8px}.card img{width:100%;aspect-ratio:323/182;object-fit:cover;border-radius:0}.rank{float:right;font-size:28px;color:#a7b8fb}small,.note,footer{color:#9eabc1}.note{max-width:720px}.ranking-label,.profile-facts dt,.profile-details dt,.profile-details h2{color:#9eabc1;font-size:16px;font-weight:400;line-height:1.55;letter-spacing:normal;margin:12px 0 0}.big{font-size:16px;font-weight:400;line-height:1.55;margin:0}dt{color:#9eabc1;margin-top:12px}dd{margin:0}footer{margin-top:60px;font-size:13px}.profile-facts{margin:12px 0 24px}.profile-details{max-width:800px;margin:0 0 36px;overflow-wrap:anywhere}.profile-details p{margin:0 0 18px}''')
-(OUT/'data'/'index.json').write_text(json.dumps({'ranking_year':latest,'artists':[{'id':d['id'],'name':d['name'],'rank':d['rankings'][-1]['rank'],'record_url':'data/djs/'+d['id']+'.json','detail_url':'djs/'+d['id']+'.html'} for d in rows]},indent=2)+'\n')
+
+from jsonschema import Draft202012Validator, FormatChecker, ValidationError
+
+from presentation import movement
+
+ROOT = Path(__file__).resolve().parents[1]
+DATA = ROOT / 'data'
+OUT = ROOT / 'site'
+SITE_LANGUAGES = (
+    ('en', 'English'),
+    ('zh-CN', '简体中文'),
+)
+
+
+def read_json(path):
+    return json.loads(path.read_text(encoding='utf-8'))
+
+
+def read_localized_profiles(english):
+    paths = sorted((DATA / 'djs' / 'zh-CN').glob('*.json'))
+    if not paths:
+        return {}
+
+    schema = read_json(DATA / 'dj.zh-CN.schema.json')
+    Draft202012Validator.check_schema(schema)
+    validator = Draft202012Validator(schema, format_checker=FormatChecker())
+    localized = {}
+    for path in paths:
+        record = read_json(path)
+        try:
+            validator.validate(record)
+        except ValidationError as error:
+            field = '/'.join(str(part) for part in error.absolute_path)
+            raise ValueError(f'{path.name}: invalid localized profile at /{field}: {error.message}') from error
+        if record['id'] != path.stem or english.get(path.name, {}).get('id') != record['id']:
+            raise ValueError(f'{path.name}: localized ID and filename must match the English profile')
+
+        fields = {'/name': record['name'], '/description': record['description'], '/aliases': record['aliases']}
+        for index, alias in enumerate(record['aliases']):
+            prefix = f'/aliases/{index}'
+            fields[prefix] = alias
+            fields.update({f'{prefix}/{key}': value for key, value in alias.items()})
+        sourced = set()
+        for source in record['sources']:
+            for pointer in source['fields']:
+                if not fields.get(pointer):
+                    raise ValueError(f'{path.name}: source field {pointer} has no localized value')
+                sourced.add(pointer)
+
+        required_sources = {pointer for pointer in ('/name', '/description') if fields[pointer]}
+        if '/aliases' not in sourced:
+            for index in range(len(record['aliases'])):
+                pointer = f'/aliases/{index}'
+                if f'{pointer}/name' not in sourced:
+                    required_sources.add(pointer)
+        missing_sources = required_sources - sourced
+        if missing_sources:
+            detail = ', '.join(sorted(missing_sources))
+            raise ValueError(f'{path.name}: missing localized sources for {detail}')
+        localized[record['id']] = record
+    return localized
+
+
+def e(value):
+    return html.escape(str(value))
+
+
+def chinese_attribute(chinese):
+    return f' data-zh="{e(chinese)}"' if chinese else ''
+
+
+def localized_text(tag, english, chinese=None, attributes=''):
+    return f'<{tag}{attributes}{chinese_attribute(chinese)}>{e(english)}</{tag}>'
+
+
+def page(title, chinese_title, body, prefix='./'):
+    language_options = ''.join(
+        f'<option value="{e(code)}" lang="{e(code)}">{e(label)}</option>'
+        for code, label in SITE_LANGUAGES
+    )
+    return (
+        f'<!doctype html><html lang="{e(SITE_LANGUAGES[0][0])}"><head><meta charset="utf-8">'
+        '<meta name="viewport" content="width=device-width,initial-scale=1">'
+        + localized_text('title', title, chinese_title)
+        + f'<link rel="stylesheet" href="{prefix}style.css">'
+        + f'<script src="{prefix}dj-site.js" defer></script></head><body><main>'
+        '<div class="language-switch">'
+        + localized_text('label', 'Language', '语言', ' for="site-language"')
+        + f'<select id="site-language">{language_options}</select></div>'
+        + body
+        + '<footer><span data-zh="制作">Built by</span> '
+        '<a href="https://s.vectorindex.cloud/sean">Sean</a> <span data-zh="❤️">with ❤️</span>'
+        '</footer></main></body></html>'
+    )
+
+
+def artist_name(tag, english, chinese):
+    return localized_text(tag, english, chinese, '' if chinese else ' lang="en"')
+
+
+def artist_photo(artist, chinese_name):
+    if not artist['image']:
+        return ''
+    chinese_alt = f' data-zh-alt="{e(chinese_name)}"' if chinese_name else ''
+    return (
+        '<img loading="lazy" referrerpolicy="no-referrer"'
+        f' src="{e(artist["image"]["url"])}" alt="{e(artist["name"])}"{chinese_alt}>'
+    )
+
+
+def artist_card(artist, translation):
+    rank = artist['rankings'][-1]
+    chinese_name = translation.get('name')
+    search_names = [artist['name'], chinese_name, *(alias['name'] for alias in translation.get('aliases', []))]
+    search_index = json.dumps(list(dict.fromkeys(name for name in search_names if name)), ensure_ascii=False)
+    return (
+        f'<a class="card" href="djs/{e(artist["id"])}.html" data-dj-link data-search="{e(search_index)}">'
+        + artist_photo(artist, chinese_name)
+        + f'<div><span class="rank">{rank["rank"]}</span>'
+        + artist_name('h2', artist['name'], chinese_name)
+        + f'<small>DJ Mag {rank["year"]}</small></div></a>'
+    )
+
+
+def biography(english, chinese):
+    def paragraphs(text):
+        return ''.join(f'<p>{e(part)}</p>' for part in (text or '').split('\n\n') if part)
+
+    if not chinese:
+        return f'<div lang="en">{paragraphs(english)}</div>' if english else ''
+    return (
+        f'<div lang="en" data-bio-language="en">{paragraphs(english)}</div>'
+        f'<div lang="zh-CN" data-bio-language="zh-CN" hidden>{paragraphs(chinese)}</div>'
+    )
+
+
+def aliases_markup(aliases):
+    if not aliases:
+        return ''
+    names = ' · '.join(f'<span lang="{e(alias["language"])}">{e(alias["name"])}</span>' for alias in aliases)
+    return localized_text('dt', 'Aliases', '别名') + f'<dd>{names}</dd>'
+
+
+def chinese_movement(artist):
+    metadata = artist.get('profile_metadata') or {}
+    direction = metadata.get('movement')
+    translation = {
+        None: '来源未显示',
+        'Up': '上升',
+        'Down': '下降',
+        'New entry': '首次上榜',
+        'Non-mover': '排名不变',
+        'Re-entry': '重新上榜',
+    }.get(direction)
+    places = metadata.get('movement_places')
+    return f'{translation} · {places} 位' if translation and places is not None else translation
+
+
+def artist_page(artist, translation):
+    rank = artist['rankings'][-1]
+    chinese_name = translation.get('name')
+    primary_facts = (
+        ('From', '来自', artist.get('origin'), None),
+        ('DJ style', 'DJ 风格', ', '.join(artist['styles']), None),
+        ('Best known for', '代表成就', artist.get('best_known_for'), None),
+        ('Ranking change', '排名变化', movement(artist), chinese_movement(artist)),
+    )
+    details = ''.join(
+        localized_text('dt', label, chinese_label)
+        + localized_text('dd', value or '', chinese_value, ' lang="en"' if value and not chinese_value else '')
+        for label, chinese_label, value, chinese_value in primary_facts
+    )
+    secondary = aliases_markup(translation.get('aliases', []))
+    birth_date = artist.get('birth_date')
+    if birth_date:
+        secondary += (
+            localized_text('dt', 'Birth date', '出生日期') + f'<dd>{e(birth_date)}</dd>'
+            + localized_text('dt', 'Age', '年龄', ' hidden')
+            + f'<dd hidden data-birth-date="{e(birth_date)}"></dd>'
+        )
+    gender = artist.get('gender')
+    if gender:
+        chinese_gender = {'male': '男', 'female': '女'}.get(gender.casefold())
+        secondary += localized_text('dt', 'Gender', '性别') + localized_text('dd', gender, chinese_gender)
+    for field in (artist.get('profile_metadata') or {}).get('intro_fields', []):
+        if field['label'].casefold() not in ('from', 'dj style', 'best known for', 'birth date', 'age', 'gender'):
+            secondary += f'<dt lang="en">{e(field["label"])}</dt><dd lang="en">{e(field["value"])}</dd>'
+
+    body = (
+        localized_text('a', '← All DJs', '← 返回榜单', ' href="../index.html" data-dj-link')
+        + f'<p class="eyebrow">DJ MAG TOP 100 · {rank["year"]}</p>'
+        + artist_name('h1', artist['name'], chinese_name)
+        + artist_photo(artist, chinese_name)
+        + localized_text('p', 'Current Ranking', '本期排名', ' class="ranking-label"')
+        + f'<p class="big">#{rank["rank"]}</p><dl class="profile-facts">{details}</dl>'
+        + '<section class="profile-details">'
+        + localized_text('h2', 'Profile details', 'DJ 档案')
+        + biography(artist.get('description'), translation.get('description'))
+        + f'<dl>{secondary}</dl></section>'
+        + localized_text('p', f'Updated {artist["updated_at"]}', f'更新于 {artist["updated_at"]}')
+        + localized_text('a', 'JSON record', '英文 JSON 档案', f' href="../data/djs/en/{e(artist["id"])}.json"')
+        + localized_text(
+            'p', 'Photos are linked from the source; rights remain with their owners. Unknown facts are not inferred.',
+            '照片链接来自原始来源，版权归权利人所有。档案仅记录有据可查的资料。', ' class="note"'
+        )
+    )
+    if birth_date:
+        body += '<script src="../dj-age.js" defer></script>'
+    return page(artist['name'], chinese_name, body, '../')
+
+
+def ranking_page(rows, localized, year):
+    cards = ''.join(artist_card(artist, localized.get(artist['id'], {})) for artist in rows)
+    edition = str(year) if year else 'Unknown'
+    chinese_edition = f'{year} 年' if year else '年份未知'
+    body = (
+        localized_text('p', 'INDEPENDENT DATA CATALOG', '独立资料库', ' class="eyebrow"')
+        + localized_text('h1', 'The people\nbehind the decks.', 'DJ Mag 百大 DJ 榜单', ' class="ranking-title"')
+        + localized_text('p', f'DJ Mag latest rankings · {edition} · {len(rows)} artists',
+                         f'DJ Mag 最新榜单 · {chinese_edition} · {len(rows)} 位艺人')
+        + localized_text(
+            'p', 'Latest annual poll ranks, not daily rankings. Current-edition metadata; unverified biography facts stay unknown. Source-attributed metadata; unverified facts remain blank.',
+            '排名来自 DJ Mag 最新一期年度投票。档案注明资料来源，未核实的资料留空。', ' class="note"'
+        )
+        + localized_text('label', 'Find a DJ', '搜索 DJ', ' for="search"')
+        + '<input id="search" placeholder="Search artists…" data-zh-placeholder="搜索艺名或别名…" type="search">'
+        + f'<section class="grid">{cards}</section>'
+        + localized_text('p', 'No matching DJs.', '未找到符合条件的 DJ。', ' role="status" data-no-results hidden')
+    )
+    return page('DJ catalog', 'DJ Mag 百大 DJ 榜单', body)
+
+
+english = {path.name: read_json(path) for path in (DATA / 'djs' / 'en').glob('*.json')}
+localized = read_localized_profiles(english)
+OUT.mkdir(exist_ok=True)
+latest = max((record['rankings'][-1]['year'] for record in english.values()), default=0)
+rows = sorted(
+    (record for record in english.values() if record['rankings'][-1]['year'] == latest),
+    key=lambda record: record['rankings'][-1]['rank'],
+)
+(OUT / 'djs').mkdir(exist_ok=True)
+for artist in rows:
+    artist_id = artist['id']
+    (OUT / 'djs' / f'{artist_id}.html').write_text(
+        artist_page(artist, localized.get(artist_id, {})), encoding='utf-8'
+    )
+(OUT / 'index.html').write_text(ranking_page(rows, localized, latest), encoding='utf-8')
+for asset in ('dj-age.js', 'dj-site.js'):
+    shutil.copyfile(ROOT / 'assets' / asset, OUT / asset)
+shutil.copytree(DATA,OUT/'data',dirs_exist_ok=True,ignore=shutil.ignore_patterns('.gitkeep','djmag-research.*.output.*.json'))
+# Publish the historical record URLs as byte-identical build artifacts.
+for source in (DATA/'djs/en').glob('*.json'):
+ shutil.copyfile(source,OUT/'data'/'djs'/source.name)
+(OUT/'style.css').write_text('''*{box-sizing:border-box}body{margin:0;background:#0c1016;color:#eef1f7;font:16px/1.55 system-ui,sans-serif}main{max-width:1180px;margin:auto;padding:50px 24px}a{color:#acbfff}h1{font-size:clamp(40px,7vw,82px);line-height:1.05;letter-spacing:-.05em;margin:20px 0}h2{font-size:20px;margin:0}.eyebrow{letter-spacing:.18em;color:#a8b7d7;font-size:12px}input{display:block;width:100%;background:#161e2b;border:1px solid #38445a;color:white;padding:16px;border-radius:10px;margin:10px 0 28px;font:inherit}.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:18px}.card{display:block;text-decoration:none;background:#171e2a;border:1px solid #273044;border-radius:12px;overflow:hidden;color:inherit}.card[hidden]{display:none}.card div{padding:16px}.card:hover{border-color:#9caeff}img{max-width:100%;border-radius:8px}.card img{width:100%;aspect-ratio:323/182;object-fit:cover;border-radius:0}.rank{float:right;font-size:28px;color:#a7b8fb}small,.note,footer{color:#9eabc1}.note{max-width:720px}.ranking-label,.profile-facts dt,.profile-details dt,.profile-details h2{color:#9eabc1;font-size:16px;font-weight:400;line-height:1.55;letter-spacing:normal;margin:12px 0 0}.big{font-size:16px;font-weight:400;line-height:1.55;margin:0}dt{color:#9eabc1;margin-top:12px}dd{margin:0}footer{margin-top:60px;font-size:13px}.profile-facts{margin:12px 0 24px}.profile-details{max-width:800px;margin:0 0 36px;overflow-wrap:anywhere}.profile-details p{margin:0 0 18px}.ranking-title{white-space:pre-line}.language-switch{display:flex;align-items:center;justify-content:flex-end;gap:8px;margin-bottom:16px}.language-switch label{color:#9eabc1}.language-switch select{font:inherit;color:inherit;color-scheme:dark;background:#171e2a;border:1px solid #38445a;border-radius:8px;padding:5px 10px}''',encoding='utf-8')
+(OUT/'data'/'index.json').write_text(json.dumps({'ranking_year':latest,'artists':[{'id':d['id'],'name':d['name'],'rank':d['rankings'][-1]['rank'],'record_url':'data/djs/en/'+d['id']+'.json','detail_url':'djs/'+d['id']+'.html'} for d in rows]},indent=2)+'\n',encoding='utf-8')
 print(f'Built {len(rows)} detail pages')

@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "id": "joseph-capriati",
+  "name": null,
+  "aliases": [],
+  "description": "Joseph Capriati 以 DJ 演出为创作核心，长期活跃于意大利及国际 Techno 舞台。他擅长铺陈较长时段的舞池叙事，也通过《Fabric 80》等混音作品呈现音乐选择。",
+  "sources": [
+    {
+      "url": "https://ra.co/dj/josephcapriati/biography",
+      "publisher": "Resident Advisor — Joseph Capriati",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

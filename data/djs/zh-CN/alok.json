@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0.0",
+  "id": "alok",
+  "name": null,
+  "aliases": [
+    {
+      "name": "Alok Achkar Peres Petrillo",
+      "type": "alternate_name",
+      "language": "pt-BR"
+    }
+  ],
+  "description": "Alok 是巴西 DJ 与制作人，《Hear Me Now》帮助其获得国际关注。除舞台演出外，他也通过 Alok Institute 开展公益，并以音乐项目支持原住民文化。",
+  "sources": [
+    {
+      "url": "https://institutoalok.org/language/en/about-alok/",
+      "publisher": "Alok Institute — About Alok",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0",
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

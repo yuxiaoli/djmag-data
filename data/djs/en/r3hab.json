@@ -1,0 +1,119 @@
+{
+  "schema_version": "1.0.0",
+  "id": "r3hab",
+  "name": "R3hab",
+  "entity_type": "person",
+  "description": "The top headline from the past 12 months in the R3HAB universe has to be his first full-length album in eight years. Partly recorded in Marrakesh, ‘Dream inside a dream...’ sees the Dutch-Moroccan DJ and producer incorporate field recordings of traditional snake-charmer flutes into the album’s melodic techno terrain and soaring emotional highs in a nod to his heritage. He also notably sings vocals on the album for the first time. In fact, this oneiric quality feels like an artistic side of R3HAB we haven’t experienced this fully before — a far cry from the bass and bombast of his recent Tomorrowland B2B with Afrojack, that is.",
+  "nationalities": [
+    "Dutch"
+  ],
+  "styles": [
+    "EDM/big room."
+  ],
+  "birth_date": "1986-04-02",
+  "gender": null,
+  "image": {
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_R3HAB.jpg.webp?itok=ZhjLzXGa",
+    "source_url": "https://djmag.com/top100djs/2026/45/r3hab",
+    "credit": null,
+    "license": null,
+    "license_url": null
+  },
+  "rankings": [
+    {
+      "year": 2026,
+      "rank": 45,
+      "previous_rank": null,
+      "source_url": "https://djmag.com/top100djs/2026/45/r3hab"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://djmag.com/top100djs/2026/45/r3hab",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T18:06:01.070964+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/45/r3hab",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
+      "fields": [
+        "/name",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/45/r3hab",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T05:09:36.954034+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://www.universal-music.de/r3hab/biografie",
+      "publisher": "Universal Music Germany · R3HAB 官方简介",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/entity_type"
+      ]
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=NGbXDDCy9mM",
+      "publisher": "DJ Mag · R3HAB 公开艺人介绍",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/nationalities/0"
+      ]
+    },
+    {
+      "url": "https://www.allmusic.com/artist/r3hab-mn0002412201",
+      "publisher": "AllMusic · R3HAB 艺人资料",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/birth_date"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00",
+  "origin": "The Netherlands",
+  "best_known_for": "Big, high-energy drops.",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "The Netherlands"
+      },
+      {
+        "label": "DJ style",
+        "value": "EDM/big room."
+      },
+      {
+        "label": "Best known for",
+        "value": "Big, high-energy drops."
+      }
+    ],
+    "movement_places": 17,
+    "movement": "Down",
+    "article": {
+      "headline": "R3hab | #45 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/45/r3hab"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_R3HAB.jpg.webp?itok=ZhjLzXGa"
+  }
+}

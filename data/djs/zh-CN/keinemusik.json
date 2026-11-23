@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "id": "keinemusik",
+  "name": null,
+  "aliases": [],
+  "description": "Keinemusik 于柏林发展为兼具厂牌与音乐集体身份的团队。Rampa、&ME 和 Adam Port 的联合演出是其重要呈现方式，音乐创作与视觉设计共同构成了团队的辨识度。",
+  "sources": [
+    {
+      "url": "https://www.audemarspiguet.com/zh-hans/news/music/keinemusik",
+      "publisher": "爱彼 Audemars Piguet · Keinemusik 官方合作介绍",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

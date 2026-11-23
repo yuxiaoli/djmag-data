@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0.0",
+  "id": "afrojack",
+  "name": "艾佛杰克",
+  "aliases": [
+    {
+      "name": "Nick van de Wall",
+      "type": "alternate_name",
+      "language": "nl"
+    },
+    {
+      "name": "阿福",
+      "type": "nickname",
+      "language": "zh-Hant"
+    },
+    {
+      "name": "艾佛傑克",
+      "type": "transliteration",
+      "language": "zh-Hant"
+    }
+  ],
+  "description": "Afrojack 是使用该艺名的制作人 Nick van de Wall，凭《Take Over Control》获得广泛关注。他通过 WALL Recordings 持续发行电子舞曲，也与多位流行音乐艺人合作。",
+  "sources": [
+    {
+      "url": "https://omni.kktix.cc/events/730ac62b",
+      "publisher": "OMNI / theLOOP 官方售票活动页",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/1",
+        "/aliases/2",
+        "/name"
+      ]
+    },
+    {
+      "url": "https://wallrecordings.com/creator/afrojack/",
+      "publisher": "WALL Recordings — AFROJACK",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    },
+    {
+      "url": "https://www.image-line.com/artists/afrojack",
+      "publisher": "Image-Line / FL Studio — Afrojack 采访",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

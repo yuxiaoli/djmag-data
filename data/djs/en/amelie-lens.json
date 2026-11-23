@@ -1,0 +1,125 @@
+{
+  "schema_version": "1.0.0",
+  "id": "amelie-lens",
+  "name": "Amelie Lens",
+  "entity_type": "person",
+  "description": "It’s been an eventful year for Amelie Lens, full of personal and professional blessings. In June, she announced that she is pregnant with her second daughter, and subsequently performed across both Tomorrowland weekends while sharing how she’s adapted her touring schedule and booth setup around the pregnancy. At the same time, she released her much anticipated debut album, ‘AURA’, through EXHALE in September. The 11-track record combines hard techno and acid with more emotional material, including ‘run’, a collaboration with Belgian pop star Angèle, with Lens saying she “hopes the track will be the first that her baby will hear when she is born later this year”.",
+  "nationalities": [
+    "Belgian"
+  ],
+  "styles": [
+    "Techno, acid, hard dance."
+  ],
+  "birth_date": "1990-05-31",
+  "gender": null,
+  "image": {
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_AmelieLens.jpg.webp?itok=41LiZhdY",
+    "source_url": "https://djmag.com/top100djs/2026/47/amelie-lens",
+    "credit": null,
+    "license": null,
+    "license_url": null
+  },
+  "rankings": [
+    {
+      "year": 2026,
+      "rank": 47,
+      "previous_rank": null,
+      "source_url": "https://djmag.com/top100djs/2026/47/amelie-lens"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://djmag.com/top100djs/2026/47/amelie-lens",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-15T04:08:56Z",
+      "fields": [
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/47/amelie-lens",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-15T17:40:03.635305+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/47/amelie-lens",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T18:10:02.956575+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/47/amelie-lens",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
+      "fields": [
+        "/name",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/47/amelie-lens",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:55:58.906783+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://www.plages-electroniques.com/en/artists/amelie-lens/",
+      "publisher": "Les Plages Electroniques · Amelie Lens 官方艺人介绍",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/birth_date",
+        "/entity_type",
+        "/nationalities/0"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00",
+  "origin": "Belgium",
+  "best_known_for": "Her EXHALE label and parties.",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "Belgium"
+      },
+      {
+        "label": "DJ style",
+        "value": "Techno, acid, hard dance."
+      },
+      {
+        "label": "Best known for",
+        "value": "Her EXHALE label and parties."
+      }
+    ],
+    "movement_places": 9,
+    "movement": "Down",
+    "article": {
+      "headline": "Amelie Lens | #47 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/47/amelie-lens"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_AmelieLens.jpg.webp?itok=41LiZhdY"
+  }
+}

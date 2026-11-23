@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0.0",
+  "id": "deborah-de-luca",
+  "name": null,
+  "aliases": [
+    {
+      "name": "The Queen of Naples",
+      "type": "nickname",
+      "language": "en"
+    }
+  ],
+  "description": "Deborah De Luca 是来自那不勒斯 Scampia 的意大利 DJ 与制作人。她以硬派 Techno、极简律动和旋律层次构筑现场，并通过自创的 Sola_mente Records 发表作品。",
+  "sources": [
+    {
+      "url": "https://www.insomniac.com/music/artists/deborah-de-luca/",
+      "publisher": "Insomniac — Deborah De Luca",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0",
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

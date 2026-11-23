@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "id": "reinier-zonneveld",
+  "name": null,
+  "aliases": [],
+  "description": "Reinier Zonneveld 以即兴电子音乐现场和酸性 Techno 创作见长。其作品包括与 Cari Golden 合作的《Things We Might Have Said》，同时经营 Filth On Acid 厂牌，推动不同电子舞曲风格的合作。",
+  "sources": [
+    {
+      "url": "https://www.armadamusicpublishing.com/roster/reinier-zonneveld",
+      "publisher": "Armada Music Publishing — Reinier Zonneveld",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

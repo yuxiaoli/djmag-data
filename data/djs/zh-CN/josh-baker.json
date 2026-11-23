@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0.0",
+  "id": "josh-baker",
+  "name": null,
+  "aliases": [],
+  "description": "Josh Baker 从曼彻斯特出发，以浩室音乐制作和 DJ 演出发展自己的声音。他曾登上 The Warehouse Project、DC10 与 Fabric 等舞台，作品强调连续而灵活的舞池律动。",
+  "sources": [
+    {
+      "url": "https://www.insomniac.com/music/artists/josh-baker/",
+      "publisher": "Insomniac · Josh Baker",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    },
+    {
+      "url": "https://www.allmusic.com/artist/josh-baker-mn0000394876",
+      "publisher": "AllMusic · Josh Baker 艺人介绍",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0.0",
+  "id": "charlotte-de-witte",
+  "name": "夏洛特・德・维特",
+  "aliases": [
+    {
+      "name": "Raving George",
+      "type": "alternate_name",
+      "language": "en"
+    }
+  ],
+  "description": "Charlotte de Witte 以暗调 Techno 和沉浸式现场为人熟知，并经营 KNTXT 与 Époque 厂牌。她早期以 Raving George 活动，后来改用本名演出。",
+  "sources": [
+    {
+      "url": "https://www.tudorwatch.cn/zh-hans/partnerships/charlotte-de-witte",
+      "publisher": "帝舵表 — 官方代言人介绍",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0",
+        "/description",
+        "/name"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

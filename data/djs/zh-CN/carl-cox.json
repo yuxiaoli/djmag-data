@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0.0",
+  "id": "carl-cox",
+  "name": "卡尔•考克斯",
+  "aliases": [],
+  "description": "Carl Cox 从英国锐舞场景走向国际，以三唱盘混音技术和充满能量的 Techno 演出建立风格。长期的 Ibiza 驻场与唱片发行，也使其成为连接俱乐部和音乐节文化的重要人物。",
+  "sources": [
+    {
+      "url": "https://www.zenith-watches.com/zh_cn/brand/carl-cox",
+      "publisher": "ZENITH 真力时中国官网 — 品牌大使",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/name"
+      ]
+    },
+    {
+      "url": "https://carlcox.com/biography/",
+      "publisher": "Carl Cox 官方网站 — Biography",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

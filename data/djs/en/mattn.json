@@ -1,0 +1,105 @@
+{
+  "schema_version": "1.0.0",
+  "id": "mattn",
+  "name": "MATTN",
+  "entity_type": "person",
+  "description": "MATTN makes her return to the Top 100 DJs after last appearing in the poll in 2022. What brings her back? A series of power moves that have clearly impressed the voting public. Like the Tomorrowland Mainstage, where the Belgian DJ, producer and vocalist commanded the decks both weekends, or the Great Library Stage, where she made a viral cameo during Paris Hilton’s set to premiere her aptly titled single, ‘Back Once More’.\n\nCo-producing AURA Festival’s anthem, along with guest performances at Ushuaïa Ibiza and a stream of singles, added even more heft to MATTN’s 2026 run.",
+  "nationalities": [
+    "Belgian"
+  ],
+  "styles": [
+    "EDM/house"
+  ],
+  "birth_date": null,
+  "gender": "female",
+  "image": {
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_MATTN.jpg.webp?itok=N-NNhVgL",
+    "source_url": "https://djmag.com/top100djs/2026/92/mattn",
+    "credit": null,
+    "license": null,
+    "license_url": null
+  },
+  "rankings": [
+    {
+      "year": 2026,
+      "rank": 92,
+      "previous_rank": null,
+      "source_url": "https://djmag.com/top100djs/2026/92/mattn"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://djmag.com/top100djs/2026/92/mattn",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T18:02:51.248851+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/92/mattn",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
+      "fields": [
+        "/name",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/92/mattn",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T05:06:25.319295+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://www.vdl.lu/en/visiting/leisure-and-recreation/festivals-fairs-and-events/national-day/city-sounds/mattn",
+      "publisher": "卢森堡市政府 — City Sounds / MATTN",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/entity_type",
+        "/gender",
+        "/nationalities/0"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00",
+  "origin": "Belgium",
+  "best_known_for": "‘Logical Song’ and sets on the Tomorrowland Mainstage",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "Belgium"
+      },
+      {
+        "label": "DJ style",
+        "value": "EDM/house"
+      },
+      {
+        "label": "Best known for",
+        "value": "‘Logical Song’ and sets on the Tomorrowland Mainstage"
+      }
+    ],
+    "movement_places": null,
+    "movement": "Re-entry",
+    "article": {
+      "headline": "MATTN | #92 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/92/mattn"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_MATTN.jpg.webp?itok=N-NNhVgL"
+  }
+}

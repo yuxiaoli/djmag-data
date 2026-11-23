@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "id": "claptone",
+  "name": null,
+  "aliases": [],
+  "description": "Claptone 以金色面具和保持匿名的舞台形象为人熟悉，音乐横跨浩室的多种分支。《No Eyes》是其重要作品，The Masquerade 则把这一声音与视觉形象发展为系列活动。",
+  "sources": [
+    {
+      "url": "https://claptone.com/pages/bio",
+      "publisher": "Claptone 官方网站 · Biography",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

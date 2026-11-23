@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "id": "dom-dolla",
+  "name": null,
+  "aliases": [],
+  "description": "Dom Dolla 是澳大利亚浩室制作人与 DJ，作品重视舞池律动和容易辨认的声音主题。《Take It》《San Frandisco》和《Miracle Maker》构成了其主要代表作。",
+  "sources": [
+    {
+      "url": "https://www.insomniac.com/music/artists/dom-dolla/",
+      "publisher": "Insomniac · Dom Dolla 官方艺人介绍",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0.0",
+  "id": "peggy-gou",
+  "name": null,
+  "aliases": [
+    {
+      "name": "페기 구",
+      "type": "alternate_name",
+      "language": "ko"
+    }
+  ],
+  "description": "Peggy Gou 是韩国出生的 DJ 与制作人，创办了 Gudu 厂牌。她把俱乐部音乐带向更广泛的流行听众，《(It Goes Like) Nanana》是其代表作品之一。",
+  "sources": [
+    {
+      "url": "https://www.peggygou.com/info/",
+      "publisher": "Peggy Gou 官方网站 — Biography",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0",
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

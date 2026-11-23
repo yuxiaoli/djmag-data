@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0.0",
+  "id": "r3hab",
+  "name": null,
+  "aliases": [
+    {
+      "name": "Fadil El Ghoul",
+      "type": "alternate_name",
+      "language": "en"
+    }
+  ],
+  "description": "R3hab 是制作人 Fadil El Ghoul 的艺名，以舞曲制作、混音及跨歌手合作拓展作品。《All Around The World (La La La)》和《Lullaby》是代表作，他也创办了 CYB3RPVNK 厂牌。",
+  "sources": [
+    {
+      "url": "https://www.universal-music.de/r3hab/biografie",
+      "publisher": "Universal Music Germany · R3HAB 官方简介",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0",
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

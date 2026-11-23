@@ -1,0 +1,119 @@
+{
+  "schema_version": "1.0.0",
+  "id": "illenium",
+  "name": "Illenium",
+  "entity_type": "person",
+  "description": "Through soaring vocals and propulsive drops, Illenium's take on bass music remains in a league of its own. Expanding upon a legacy that includes six studio albums, a slew of ambitious stadium tours and his own Ember Shores music festival, the Denver-based artist added another impressive feat to his long list of achievements in 2026. When asked to share the year’s most memorable moment he exclaims, “Selling out all 11 of my Sphere Las Vegas Odyssey shows!” The spectacular production tells a dynamic story about finding the balance between dark and light energies, and adds fresh depth to a long-running narrative about his recovery from addiction and ongoing resilience.",
+  "nationalities": [
+    "American"
+  ],
+  "styles": [
+    "Melodic bass."
+  ],
+  "birth_date": "1990-12-26",
+  "gender": null,
+  "image": {
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_Illenium.jpg.webp?itok=uJhqPcZr",
+    "source_url": "https://djmag.com/top100djs/2026/30/illenium",
+    "credit": null,
+    "license": null,
+    "license_url": null
+  },
+  "rankings": [
+    {
+      "year": 2026,
+      "rank": 30,
+      "previous_rank": null,
+      "source_url": "https://djmag.com/top100djs/2026/30/illenium"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://djmag.com/top100djs/2026/30/illenium",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T17:58:38.781462+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/30/illenium",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
+      "fields": [
+        "/name",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/30/illenium",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T05:02:11.177386+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://www.illenium.com/about-illenium/",
+      "publisher": "ILLENIUM 官方网站 · About",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/entity_type"
+      ]
+    },
+    {
+      "url": "https://www.umusic.com.cn/index.php?c=show&id=1891",
+      "publisher": "环球音乐中国 · ILLENIUM《Die Living》",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/nationalities/0"
+      ]
+    },
+    {
+      "url": "https://www.universalmusic.fr/artistes/32154175152",
+      "publisher": "Universal Music France · Illenium",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/birth_date"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00",
+  "origin": "USA",
+  "best_known_for": "Emotionally driven electronic music and large-scale event production.",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "USA"
+      },
+      {
+        "label": "DJ style",
+        "value": "Melodic bass."
+      },
+      {
+        "label": "Best known for",
+        "value": "Emotionally driven electronic music and large-scale event production."
+      }
+    ],
+    "movement_places": null,
+    "movement": "Re-entry",
+    "article": {
+      "headline": "Illenium | #30 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/30/illenium"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_Illenium.jpg.webp?itok=uJhqPcZr"
+  }
+}

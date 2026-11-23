@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0.0",
+  "id": "eric-prydz",
+  "name": null,
+  "aliases": [
+    {
+      "name": "Pryda",
+      "type": "alternate_name",
+      "language": "en"
+    },
+    {
+      "name": "Cirez D",
+      "type": "alternate_name",
+      "language": "en"
+    }
+  ],
+  "description": "Eric Prydz 是瑞典 DJ 与制作人，既以本名发行作品，也使用 Pryda、Cirez D 等创作名。他将前卫浩室和 Techno 的探索延伸到 EPIC 等大型视听演出。",
+  "sources": [
+    {
+      "url": "https://www.insomniac.com/music/artists/eric-prydz/",
+      "publisher": "Insomniac — Eric Prydz",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0",
+        "/aliases/1",
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

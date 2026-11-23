@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0.0",
+  "id": "above-beyond",
+  "name": "超越自我三人组",
+  "aliases": [
+    {
+      "name": "超越自我三人組",
+      "type": "common_name",
+      "language": "zh-TW"
+    }
+  ],
+  "description": "Above & Beyond 是由 Jono、Tony 与 Paavo 组成的电子音乐三人组合，创办了 Anjunabeats、Anjunadeep 等厂牌，并主持《Group Therapy》广播节目。其作品注重旋律与情感表达。",
+  "sources": [
+    {
+      "url": "https://music-tw.line.me/album/1656723",
+      "publisher": "LINE MUSIC 台湾 — Anjunabeats Volume 14",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/name"
+      ]
+    },
+    {
+      "url": "https://anjunabeats.com/artists/57287-above-beyond",
+      "publisher": "Anjunabeats — Above & Beyond",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    },
+    {
+      "url": "https://music-tw.line.me/album/1656723",
+      "publisher": "LINE MUSIC 台湾",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

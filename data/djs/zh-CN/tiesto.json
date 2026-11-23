@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0.0",
+  "id": "tiesto",
+  "name": "提雅斯多",
+  "aliases": [
+    {
+      "name": "Tijs Michiel Verwest",
+      "type": "alternate_name",
+      "language": "nl"
+    },
+    {
+      "name": "DJ Tiësto",
+      "type": "alternate_name",
+      "language": "en"
+    }
+  ],
+  "description": "Tiësto 从荷兰俱乐部和 Trance 场景成长为国际 DJ。《Traffic》等早期作品与大型现场演出建立了其声誉，后来又持续探索电子舞曲与流行人声的结合。",
+  "sources": [
+    {
+      "url": "https://www.avex.com.tw/Artist/artist_news_info.asp?ArtistCode=DJTIEI&NewsID=208",
+      "publisher": "爱贝克思台湾 — Tiesto 艺人新闻",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/name"
+      ]
+    },
+    {
+      "url": "https://www.universalmusic.fr/artistes/30094905084",
+      "publisher": "Universal Music France — Tiësto",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0",
+        "/aliases/1",
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

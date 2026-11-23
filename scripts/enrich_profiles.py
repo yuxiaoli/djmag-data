@@ -14,8 +14,8 @@ def main():
  if not 1<=args.max_profiles<=1000:raise ValueError('profile budget must be 1..1000')
  validator=Draft202012Validator(json.loads((ROOT/'data/dj.schema.json').read_text()),format_checker=FormatChecker())
  records=[]
- for path in (ROOT/'data/djs').glob('*.json'):
-  d=json.loads(path.read_text());validator.validate(d)
+ for path in (ROOT/'data/djs/en').glob('*.json'):
+  d=json.loads(path.read_text(encoding='utf-8'));validator.validate(d)
   if not d['rankings']:raise ValueError(f'No ranking edition for {d["id"]}; collection incomplete')
   records.append((path,d,max(d['rankings'],key=lambda r:r['year'])))
  latest=max((r['year'] for _,_,r in records),default=None)
@@ -62,7 +62,7 @@ def main():
   for source in d['sources']:source['fields']=[field for field in source['fields'] if field.split('/')[1] not in changed_fields]
   d['sources'].append(dict(url=url,publisher='DJ Mag',retrieved_at=now,fields=source_fields))
   d['updated_at']=now;validator.validate(d)
-  temp=path.with_suffix('.tmp');temp.write_text(json.dumps(d,indent=2,ensure_ascii=False)+'\n');temp.replace(path)
+  temp=path.with_suffix('.tmp');temp.write_text(json.dumps(d,indent=2,ensure_ascii=False)+'\n',encoding='utf-8');temp.replace(path)
   completed += 1
   print(f"enriched {d['id']}; description_chars={len(description or '')}; description_status={'fetched' if description is not None else 'unavailable_or_unrecognized'}",flush=True)
  print(f'Description coverage: freshly extracted {fresh_descriptions}/{total}; missing bodies are unavailable or unrecognized',flush=True)

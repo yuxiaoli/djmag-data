@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0.0",
+  "id": "david-guetta",
+  "name": "大卫·库塔",
+  "aliases": [
+    {
+      "name": "Jack Back",
+      "type": "alternate_name",
+      "language": "en"
+    }
+  ],
+  "description": "David Guetta 从巴黎俱乐部走向国际舞台，将浩室节奏与流行歌曲制作结合。《Titanium》等合作作品是其代表作，音乐横跨电子舞曲与流行领域。",
+  "sources": [
+    {
+      "url": "https://about.roblox.com/zh-hans/newsroom/2022/02/warner-music-brings-global-dj-phenom-david-guetta-roblox-first-kind-dj-party",
+      "publisher": "Roblox / Warner Music Group 官方中文新闻",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/name"
+      ]
+    },
+    {
+      "url": "https://www.nrj.fr/artistes/david-guetta/biographie",
+      "publisher": "NRJ — David Guetta biography",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    },
+    {
+      "url": "https://about.roblox.com/newsroom/2022/02/warner-music-brings-global-dj-phenom-david-guetta-roblox-first-kind-dj-party",
+      "publisher": "Roblox / Warner Music Group",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

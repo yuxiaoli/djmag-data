@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0.0",
+  "id": "quintino",
+  "name": "Quintino",
+  "entity_type": "person",
+  "description": "When we last heard from Quinten van den Berg, he was exploring fresh musical frontiers, keeping things “100% Quintino”, but applying a “new twist”. Since then, we’ve had the gargantuan and appropriately titled ‘Go Hard’ on Spinnin’ Records, his Deorro collaboration for Dim Mak (‘Phoenix’), and ‘Do You Want It Right Now’ with Breathe Carolina and GIACOBBI.\n\nAll have sent crowds into orbit at events like Tomorrowland, Dance Valley, and Circus Maximus, and across China, Japan, and Sri Lanka. With dates in North America, Poland and Thailand lined up before the end of 2026, we’re expecting more of the same.",
+  "nationalities": [
+    "Dutch"
+  ],
+  "styles": [
+    "High-energy electronic music with uplifting mainstage vibes."
+  ],
+  "birth_date": "1985-09-21",
+  "gender": null,
+  "image": {
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_Quintino.jpg.webp?itok=tBR_ulWf",
+    "source_url": "https://djmag.com/top100djs/2026/76/quintino",
+    "credit": null,
+    "license": null,
+    "license_url": null
+  },
+  "rankings": [
+    {
+      "year": 2026,
+      "rank": 76,
+      "previous_rank": null,
+      "source_url": "https://djmag.com/top100djs/2026/76/quintino"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://djmag.com/top100djs/2026/76/quintino",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T18:05:50.380570+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/76/quintino",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
+      "fields": [
+        "/name",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/76/quintino",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T05:09:26.459075+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://www.armadamusicpublishing.com/roster/quintino",
+      "publisher": "Armada Music Publishing — Quintino",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/entity_type",
+        "/nationalities/0"
+      ]
+    },
+    {
+      "url": "https://www.allmusic.com/artist/quintino-mn0001770892",
+      "publisher": "AllMusic — Quintino",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/birth_date"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00",
+  "origin": "The Netherlands",
+  "best_known_for": "Monster breakdowns, massive drops.",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "The Netherlands"
+      },
+      {
+        "label": "DJ style",
+        "value": "High-energy electronic music with uplifting mainstage vibes."
+      },
+      {
+        "label": "Best known for",
+        "value": "Monster breakdowns, massive drops."
+      }
+    ],
+    "movement_places": 29,
+    "movement": "Down",
+    "article": {
+      "headline": "Quintino | #76 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/76/quintino"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_Quintino.jpg.webp?itok=tBR_ulWf"
+  }
+}

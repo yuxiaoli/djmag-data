@@ -1,0 +1,105 @@
+{
+  "schema_version": "1.0.0",
+  "id": "joel-corry",
+  "name": "Joel Corry",
+  "entity_type": "person",
+  "description": "Joel Corry has toured the world relentlessly since last year’s Top 100 DJs poll, taking in stops in Australia, America, Asia and Europe, as well as his O Beach residency in Ibiza. “DJ culture and dance music in general is more popular than ever,” he tells DJ Mag. “Festivals, raving and Ibiza are attracting younger crowds, and I think 2027 is going to be an even bigger year for dance music.” This year Corry has also put out a series of singles, including ‘Devotion (Sweetest Emotion)’ with RAHH, ‘Whisper’ and ‘Don’t Go Breaking My Heart’ with Hannah Boleyn. But his biggest highlight of 2026? “Watching Arsenal win the Premier League,” he smiles. “Come on you Gunners!”",
+  "nationalities": [
+    "English"
+  ],
+  "styles": [
+    "“Piano house and tech-house.”"
+  ],
+  "birth_date": "1989-06-10",
+  "gender": null,
+  "image": {
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_JoelCorry.jpg.webp?itok=mn7Selmq",
+    "source_url": "https://djmag.com/top100djs/2026/44/joel-corry",
+    "credit": null,
+    "license": null,
+    "license_url": null
+  },
+  "rankings": [
+    {
+      "year": 2026,
+      "rank": 44,
+      "previous_rank": null,
+      "source_url": "https://djmag.com/top100djs/2026/44/joel-corry"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://djmag.com/top100djs/2026/44/joel-corry",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T17:59:20.531329+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/44/joel-corry",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
+      "fields": [
+        "/name",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/44/joel-corry",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T05:02:53.498708+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://www.officialcharts.com/artist/55799/joel-corry/",
+      "publisher": "Official Charts · Joel Corry",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/birth_date",
+        "/entity_type",
+        "/nationalities/0"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00",
+  "origin": "UK",
+  "best_known_for": "“‘Head & Heart’ feat. MNEK.”",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "UK"
+      },
+      {
+        "label": "DJ style",
+        "value": "“Piano house and tech-house.”"
+      },
+      {
+        "label": "Best known for",
+        "value": "“‘Head & Heart’ feat. MNEK.”"
+      }
+    ],
+    "movement_places": 9,
+    "movement": "Down",
+    "article": {
+      "headline": "Joel Corry | #44 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/44/joel-corry"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_JoelCorry.jpg.webp?itok=mn7Selmq"
+  }
+}

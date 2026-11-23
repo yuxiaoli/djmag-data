@@ -1,0 +1,104 @@
+{
+  "schema_version": "1.0.0",
+  "id": "youukeu-yuk1matu",
+  "name": "¥ØU$UK€ ¥UK1MAT$U",
+  "entity_type": "person",
+  "description": "What a few years it’s been for ¥ØU$UK€ ¥UK1MAT$U. The Japanese DJ born Yousuke Yukimatsu first made waves with his excellent ‘Midnight is Comin’’ mix comp in 2022, but it was his Tokyo Boiler Room show in January 2025 that really set the world on fire. One of the boldest DJs out there, he cuts a path through techno, acid, rave, trance, bass and all manner of experimental beats, as well as a helping of pop and rock curveballs for good measure.\n\nThis year has been one of global expansion, with sets at Ultra Miami and EDC Las Vegas, and his personal highlights like Coachella, going b2b with Charlotte de Witte at Under The K Bridge Park and b2b with Lena Willikens at Draaimolen Festival, and opening for The Prodigy.",
+  "nationalities": [
+    "Japanese"
+  ],
+  "styles": [
+    "“Eclectic music.”"
+  ],
+  "birth_date": null,
+  "gender": null,
+  "image": {
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_YousukeYukimatsu.jpg.webp?itok=XPMQrzk2",
+    "source_url": "https://djmag.com/top100djs/2026/95/youukeu-yuk1matu",
+    "credit": null,
+    "license": null,
+    "license_url": null
+  },
+  "rankings": [
+    {
+      "year": 2026,
+      "rank": 95,
+      "previous_rank": null,
+      "source_url": "https://djmag.com/top100djs/2026/95/youukeu-yuk1matu"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://djmag.com/top100djs/2026/95/youukeu-yuk1matu",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T18:08:49.592886+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/95/youukeu-yuk1matu",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
+      "fields": [
+        "/name",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/95/youukeu-yuk1matu",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T05:12:26.911075+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://www.aegpresents.co.uk/event/yousuke-yukimatsu/",
+      "publisher": "AEG Presents — YOUSUKE YUKIMATSU",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/entity_type",
+        "/nationalities/0"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00",
+  "origin": "Japan",
+  "best_known_for": "“Boiler Room Tokyo.”",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "Japan"
+      },
+      {
+        "label": "DJ style",
+        "value": "“Eclectic music.”"
+      },
+      {
+        "label": "Best known for",
+        "value": "“Boiler Room Tokyo.”"
+      }
+    ],
+    "movement_places": null,
+    "movement": "New entry",
+    "article": {
+      "headline": "¥ØU$UK€ ¥UK1MAT$U | #95 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/95/youukeu-yuk1matu"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_YousukeYukimatsu.jpg.webp?itok=XPMQrzk2"
+  }
+}

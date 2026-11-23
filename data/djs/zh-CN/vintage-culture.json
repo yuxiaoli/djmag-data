@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0.0",
+  "id": "vintage-culture",
+  "name": null,
+  "aliases": [
+    {
+      "name": "Lukas Ruiz",
+      "type": "alternate_name",
+      "language": "pt-BR"
+    }
+  ],
+  "description": "Vintage Culture 是巴西 DJ 与制作人 Lukas Ruiz 的艺名，以浩室音乐活跃于国际舞曲场景。其作品包括《It Is What It Is》，也通过 Só Track Boa 音乐节把录音室创作延伸到大型现场。",
+  "sources": [
+    {
+      "url": "https://www.insomniac.com/music/artists/vintage-culture/",
+      "publisher": "Insomniac — Vintage Culture",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0",
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

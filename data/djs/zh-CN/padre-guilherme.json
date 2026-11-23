@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0.0",
+  "id": "padre-guilherme",
+  "name": null,
+  "aliases": [
+    {
+      "name": "Guilherme Peixoto",
+      "type": "alternate_name",
+      "language": "pt"
+    }
+  ],
+  "description": "Padre Guilherme 是葡萄牙 DJ、制作人及天主教神父。他将旋律 Techno 与宗教音乐素材结合，曾在里斯本世界青年日演出，并创立 Lux Aeterna Records。",
+  "sources": [
+    {
+      "url": "https://www.koolwaters.com/artists/padre-guilherme",
+      "publisher": "Koolwaters — Padre Guilherme",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0",
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

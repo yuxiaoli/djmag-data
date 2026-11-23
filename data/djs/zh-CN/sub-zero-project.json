@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0.0",
+  "id": "sub-zero-project",
+  "name": null,
+  "aliases": [],
+  "description": "Sub Zero Project 由 Nigel Coppen 和 Thomas Velderman 组成，是来自荷兰的 Hardstyle 双人组。组合以强烈的硬派节奏推动演出，《Darkest Hour》《Our Church》等是其代表作品。",
+  "sources": [
+    {
+      "url": "https://www.insomniac.com/music/artists/sub-zero-project/",
+      "publisher": "Insomniac — Sub Zero Project",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    },
+    {
+      "url": "https://www.amsterdam-dance-event.nl/en/artists-speakers/sub-zero-project/19047/",
+      "publisher": "Amsterdam Dance Event",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

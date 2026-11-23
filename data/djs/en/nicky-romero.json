@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0.0",
+  "id": "nicky-romero",
+  "name": "Nicky Romero",
+  "entity_type": "person",
+  "description": "Nicky Romero described his standout Tomorrowland Mainstage set this year as a “greatest hits” of his career. The year also brought ‘Follow You’, a record that captures the sound he loves making and playing, while pointing towards his next chapter: bridging progressive house’s past with where he thinks the genre could go next.",
+  "nationalities": [
+    "Dutch"
+  ],
+  "styles": [
+    "“Progressive house.”"
+  ],
+  "birth_date": "1989-01-06",
+  "gender": null,
+  "image": {
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_NickyRomero.jpg.webp?itok=lIoW8PtZ",
+    "source_url": "https://djmag.com/top100djs/2026/27/nicky-romero",
+    "credit": null,
+    "license": null,
+    "license_url": null
+  },
+  "rankings": [
+    {
+      "year": 2026,
+      "rank": 27,
+      "previous_rank": null,
+      "source_url": "https://djmag.com/top100djs/2026/27/nicky-romero"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://djmag.com/top100djs/2026/27/nicky-romero",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T18:03:54.392800+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/27/nicky-romero",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
+      "fields": [
+        "/name",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/27/nicky-romero",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T05:07:29.472648+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://www.insomniac.com/music/artists/nicky-romero/",
+      "publisher": "Insomniac · Nicky Romero 艺人介绍",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/entity_type"
+      ]
+    },
+    {
+      "url": "https://www.universalmusic.fr/artistes/30359878971",
+      "publisher": "Universal Music France · Nicky Romero",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/birth_date",
+        "/nationalities/0"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00",
+  "origin": "The Netherlands",
+  "best_known_for": "“Mega hits like ‘I Could Be The One’ with Avicii, and ‘Toulouse’.”",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "The Netherlands"
+      },
+      {
+        "label": "DJ style",
+        "value": "“Progressive house.”"
+      },
+      {
+        "label": "Best known for",
+        "value": "“Mega hits like ‘I Could Be The One’ with Avicii, and ‘Toulouse’.”"
+      }
+    ],
+    "movement_places": 2,
+    "movement": "Up",
+    "article": {
+      "headline": "Nicky Romero | #27 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/27/nicky-romero"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_NickyRomero.jpg.webp?itok=lIoW8PtZ"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0.0",
+  "id": "hardwell",
+  "name": "Hardwell",
+  "entity_type": "person",
+  "description": "Hardwell describes his year since the last Top 100 DJs poll as “non-stop” when he speaks to DJ Mag between a slew of solo shows and major festival performances across Europe, North America and South America. Having collaborated with artists including Sub Zero Project, Maddix, Vini Vici, MR.BLACK, Liquid Soul, FLEMMING, Azteck, Dr Phunk, Bassjackers and W&W recently, he says he’s “really enjoyed the range of sounds I’ve been exploring, moving between the harder, more techno-driven side of my sound to the more big-room and melodic end. I’m not going into the studio anymore thinking a Hardwell track has to sound a certain way. I’m just following what excites me creatively.”",
+  "nationalities": [
+    "Dutch"
+  ],
+  "styles": [
+    "“Energetic big-room techno.”"
+  ],
+  "birth_date": "1988-01-07",
+  "gender": null,
+  "image": {
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_Hardwell.jpg.webp?itok=VnhrMBOD",
+    "source_url": "https://djmag.com/top100djs/2026/29/hardwell",
+    "credit": null,
+    "license": null,
+    "license_url": null
+  },
+  "rankings": [
+    {
+      "year": 2026,
+      "rank": 29,
+      "previous_rank": null,
+      "source_url": "https://djmag.com/top100djs/2026/29/hardwell"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://djmag.com/top100djs/2026/29/hardwell",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T17:58:07.559893+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/29/hardwell",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
+      "fields": [
+        "/name",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/29/hardwell",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T05:01:39.218355+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://www.djhardwell.com/biography",
+      "publisher": "Hardwell 官方网站 · Biography",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/entity_type",
+        "/nationalities/0"
+      ]
+    },
+    {
+      "url": "https://www.allmusic.com/artist/hardwell-mn0001002468",
+      "publisher": "AllMusic · Hardwell 艺人资料",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/birth_date"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00",
+  "origin": "The Netherlands",
+  "best_known_for": "“Two-time World’s No.1 DJ, founder of Revealed Recordings and playing some of the biggest festivals around the globe.”",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "The Netherlands"
+      },
+      {
+        "label": "DJ style",
+        "value": "“Energetic big-room techno.”"
+      },
+      {
+        "label": "Best known for",
+        "value": "“Two-time World’s No.1 DJ, founder of Revealed Recordings and playing some of the biggest festivals around the globe.”"
+      }
+    ],
+    "movement_places": 14,
+    "movement": "Down",
+    "article": {
+      "headline": "Hardwell | #29 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/29/hardwell"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_Hardwell.jpg.webp?itok=VnhrMBOD"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "schema_version": "1.0.0",
+  "id": "prospa",
+  "name": "Prospa",
+  "entity_type": "duo",
+  "description": "Leeds duo Prospa had a massive summer around the release of their debut album, ‘Free Your Mind’, released on CircoLoco Records in June. Despite Harvey Blumler, one-half of the pair, taking a short break from touring due to an ongoing ear condition in July, they’ve been a constant fixture in Ibiza, playing b2b with Jamie Jones at his Paradise residency at [UNVRS] and at Josh Baker’s You&Me residency at Amnesia, as well as multiple shows at CircoLoco.\n\nGuiorgi “Gosha” Smith continued some performances solo before Blumler returned to the booth at Pacha’s Music On in August. They also launched their label and party series, Prophecy, kicking things off with the massive ‘Reason Why’ by Sapian.",
+  "nationalities": [],
+  "styles": [
+    "High energy."
+  ],
+  "birth_date": null,
+  "gender": null,
+  "image": {
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_Prospa.jpg.webp?itok=--SDTvJG",
+    "source_url": "https://djmag.com/top100djs/2026/94/prospa",
+    "credit": null,
+    "license": null,
+    "license_url": null
+  },
+  "rankings": [
+    {
+      "year": 2026,
+      "rank": 94,
+      "previous_rank": null,
+      "source_url": "https://djmag.com/top100djs/2026/94/prospa"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://djmag.com/top100djs/2026/94/prospa",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T18:05:39.748250+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/94/prospa",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
+      "fields": [
+        "/name",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/94/prospa",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T05:09:15.858885+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://www.amsterdam-dance-event.nl/en/artists-speakers/prospa/20260/",
+      "publisher": "Amsterdam Dance Event — Prospa",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/entity_type"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00",
+  "origin": "UK",
+  "best_known_for": "Huge productions including ‘Free Your Mind’ with Cloonee and Sybil.",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "UK"
+      },
+      {
+        "label": "DJ style",
+        "value": "High energy."
+      },
+      {
+        "label": "Best known for",
+        "value": "Huge productions including ‘Free Your Mind’ with Cloonee and Sybil."
+      }
+    ],
+    "movement_places": null,
+    "movement": "New entry",
+    "article": {
+      "headline": "Prospa | #94 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/94/prospa"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_Prospa.jpg.webp?itok=--SDTvJG"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "id": "b-jones",
+  "name": null,
+  "aliases": [],
+  "description": "B Jones 是西班牙 DJ 与制作人，演出将 Big room、Tech house 和 Trance 等声音相连。她活跃于伊比萨和音乐节舞台，也通过 ARRYBA Music 发行作品并支持新艺人。",
+  "sources": [
+    {
+      "url": "https://bjonesdj.com/about-me/",
+      "publisher": "B Jones 官方网站",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

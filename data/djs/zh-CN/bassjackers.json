@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "id": "bassjackers",
+  "name": null,
+  "aliases": [],
+  "description": "Bassjackers 由 Marlon Flohr 与 Ralph van Hilst 组成，两人分别侧重台前 DJ 演出和录音室制作。《Mush Mush》获得 Tiësto 支持后，组合逐步进入国际舞曲舞台。",
+  "sources": [
+    {
+      "url": "https://www.insomniac.com/music/artists/bassjackers/",
+      "publisher": "Insomniac — Bassjackers",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

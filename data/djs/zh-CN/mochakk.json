@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "id": "mochakk",
+  "name": null,
+  "aliases": [
+    {
+      "name": "Pedro Maia",
+      "type": "alternate_name",
+      "language": "pt"
+    }
+  ],
+  "description": "Mochakk 是巴西制作人 Pedro Maia 的艺名。他从嘻哈节拍制作转向浩室音乐，把广泛的唱片兴趣与活跃的现场表达结合；《Jealous》则呈现了其对经典浩室声音的回应。",
+  "sources": [
+    {
+      "url": "https://mochakk.com/en/pages/sobre",
+      "publisher": "Mochakk 官方网站 · About",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0",
+        "/description"
+      ]
+    },
+    {
+      "url": "https://circolocorecords.bandcamp.com/track/jealous-extended-mix",
+      "publisher": "CircoLoco Records 官方 Bandcamp",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

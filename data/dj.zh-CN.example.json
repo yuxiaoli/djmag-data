@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0.0",
+  "id": "example-dj",
+  "name": "示例 DJ",
+  "aliases": [
+    {
+      "name": "示例",
+      "type": "nickname",
+      "language": "zh-CN"
+    }
+  ],
+  "description": "一位虚构 DJ 的简介。",
+  "sources": [
+    {
+      "url": "https://example.org/example-dj",
+      "publisher": "Example Publisher",
+      "retrieved_at": "2026-11-15T04:00:00Z",
+      "fields": [
+        "/name",
+        "/aliases/0",
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-15T04:00:00Z"
+}

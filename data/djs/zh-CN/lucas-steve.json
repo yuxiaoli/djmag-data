@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "id": "lucas-steve",
+  "name": null,
+  "aliases": [],
+  "description": "Lucas & Steve 是荷兰电子音乐双人组合，以明亮旋律和充满活力的主舞台作品见长。《Up Till Dawn (On The Move)》与《Summer On You》体现了他们的音乐方向。",
+  "sources": [
+    {
+      "url": "https://www.insomniac.com/music/artists/lucas-steve/",
+      "publisher": "Insomniac — Lucas & Steve",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

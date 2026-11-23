@@ -121,7 +121,7 @@ def refresh_sources(old, row, retained_ranking_urls, preserved_image):
 
 
 def main():
-    a=argparse.ArgumentParser();a.add_argument('--fixture',type=Path);a.add_argument('--output',type=Path,default=Path('data/djs'));args=a.parse_args()
+    a=argparse.ArgumentParser();a.add_argument('--fixture',type=Path);a.add_argument('--output',type=Path,default=Path('data/djs/en'));args=a.parse_args()
     if args.fixture: html=args.fixture.read_text()
     else:
         robots=RobotFileParser(); robots.parse(fetch(BASE+'/robots.txt').splitlines())
@@ -138,7 +138,7 @@ def main():
     for row in rows:
         path=args.output/(row['id']+'.json')
         if path.exists():
-            old=json.loads(path.read_text());validator.validate(old)
+            old=json.loads(path.read_text(encoding='utf-8'));validator.validate(old)
             preserved_image = old['image'] is not None
             for field in ('entity_type','description','nationalities','styles','birth_date','gender','image'):
                 if old[field] is not None and old[field] != []: row[field]=old[field]
@@ -157,6 +157,6 @@ def main():
             row['sources']=refresh_sources(old,row,retained_ranking_urls,preserved_image)
         validator.validate(row);staged[path]=json.dumps(row,indent=2,ensure_ascii=False)+'\n'
     args.output.mkdir(parents=True,exist_ok=True)
-    for path,body in staged.items():path.write_text(body)
+    for path,body in staged.items():path.write_text(body,encoding='utf-8')
     print(f'Validated {len(rows)} profiles; ranking year {rows[0]["rankings"][0]["year"]}; observed {now}')
 if __name__=='__main__':main()

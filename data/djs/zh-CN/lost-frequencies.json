@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0.0",
+  "id": "lost-frequencies",
+  "name": null,
+  "aliases": [
+    {
+      "name": "Felix De Laet",
+      "type": "alternate_name",
+      "language": "en"
+    },
+    {
+      "name": "失频",
+      "type": "nickname",
+      "language": "zh-CN"
+    }
+  ],
+  "description": "Lost Frequencies 是比利时 DJ 与制作人 Felix De Laet，以《Are You With Me》受到国际关注。他的创作常把轻盈的浩室节奏与流行人声连接起来，也延续了早期深浩室的旋律感。",
+  "sources": [
+    {
+      "url": "https://www.sennheiser.com/en-se/artists/lost-frequencies",
+      "publisher": "Sennheiser — Lost Frequencies 艺人合作介绍",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0",
+        "/description"
+      ]
+    },
+    {
+      "url": "https://www.yoopay.cn/event/50219885",
+      "publisher": "热波传媒 / 2018科罗娜日落声起音乐节官方售票介绍",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/1"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

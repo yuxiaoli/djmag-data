@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0.0",
+  "id": "amelie-lens",
+  "name": null,
+  "aliases": [
+    {
+      "name": "Renee",
+      "type": "alternate_name",
+      "language": "en"
+    }
+  ],
+  "description": "Amelie Lens 来自比利时，以强劲的科技舞曲制作和现场演出发展事业。她创立 Lenske 与 EXHALE 厂牌，并以 AURA 演出计划继续探索音乐、视觉和现场体验之间的联系。",
+  "sources": [
+    {
+      "url": "https://www.plages-electroniques.com/en/artists/amelie-lens/",
+      "publisher": "Les Plages Electroniques · Amelie Lens 官方艺人介绍",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0",
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

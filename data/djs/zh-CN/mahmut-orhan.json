@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "id": "mahmut-orhan",
+  "name": null,
+  "aliases": [],
+  "description": "Mahmut Orhan 出生于布尔萨，创作吸收深度浩室、独立舞曲与新迪斯科的元素。他与 Sena Sener 合作的《Feel》由 Ultra Music 推出，成为其走向国际听众的重要作品。",
+  "sources": [
+    {
+      "url": "https://www.amsterdam-dance-event.nl/en/artists-speakers/mahmut-orhan/23274/",
+      "publisher": "Amsterdam Dance Event · Mahmut Orhan",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

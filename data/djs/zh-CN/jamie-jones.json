@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "id": "jamie-jones",
+  "name": null,
+  "aliases": [],
+  "description": "Jamie Jones 来自威尔士，以富于律动的浩室音乐建立风格。他与 Lee Foss 共同创办 Hot Creations，并通过伊比萨岛驻场及各地演出传播融合科技浩室与新迪斯科的声音。",
+  "sources": [
+    {
+      "url": "https://www.kcrw.com/people/jamie-jones",
+      "publisher": "KCRW · Jamie Jones",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

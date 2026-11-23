@@ -1,0 +1,101 @@
+{
+  "schema_version": "1.0.0",
+  "id": "marnik",
+  "name": "Marnik",
+  "entity_type": "duo",
+  "description": "Milanese duo MARNIK return, having made their first poll appearance in 2024. In the two years since, the pair launched their label Arena Records in partnership with Universal Germany, and have performed worldwide.\n\nStarting out in 2013, the pair evolved as producers with releases on Spinnin’ Records, Revealed Recordings and Dim Mak building up their profile before landing bookings at Tomorrowland in Belgium and Brazil, and more recently, Holika Festival in Spain and Atlas Super Club in Indonesia. Their “Epic Rave” take on dance music, as described in their Instagram bio, is summed up by the official anthem of Arena Records, the track ‘ARENA’: a loud, proud, and fiery blend of hard techno and acid.",
+  "nationalities": [],
+  "styles": [
+    "Techno, trance, rave."
+  ],
+  "birth_date": null,
+  "gender": null,
+  "image": {
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_MARNIK.jpg.webp?itok=cl9sH-so",
+    "source_url": "https://djmag.com/top100djs/2026/88/marnik",
+    "credit": null,
+    "license": null,
+    "license_url": null
+  },
+  "rankings": [
+    {
+      "year": 2026,
+      "rank": 88,
+      "previous_rank": null,
+      "source_url": "https://djmag.com/top100djs/2026/88/marnik"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://djmag.com/top100djs/2026/88/marnik",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T18:02:09.381820+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/88/marnik",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
+      "fields": [
+        "/name",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/88/marnik",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T05:05:42.937551+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://www.koolwaters.com/artists/marnik",
+      "publisher": "Koolwaters — Marnik",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/entity_type"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00",
+  "origin": "Italy",
+  "best_known_for": "MARNIK x Naeleck ‘Boyz In Paris (w/ VINAI)’.",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "Italy"
+      },
+      {
+        "label": "DJ style",
+        "value": "Techno, trance, rave."
+      },
+      {
+        "label": "Best known for",
+        "value": "MARNIK x Naeleck ‘Boyz In Paris (w/ VINAI)’."
+      }
+    ],
+    "movement_places": 8,
+    "movement": "Down",
+    "article": {
+      "headline": "Marnik | #88 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/88/marnik"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_MARNIK.jpg.webp?itok=cl9sH-so"
+  }
+}

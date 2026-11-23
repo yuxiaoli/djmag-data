@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "id": "james-hype",
+  "name": null,
+  "aliases": [],
+  "description": "James Hype 是英国 DJ 与制作人，擅长把循环、快速切换和现场改编融入演出。他以《More Than Friends》《Ferrari》等作品将自己的浩室音乐带向更广泛的听众。",
+  "sources": [
+    {
+      "url": "https://jameshype.com/about/",
+      "publisher": "James Hype 官方网站",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

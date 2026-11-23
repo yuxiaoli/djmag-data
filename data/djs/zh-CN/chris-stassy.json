@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "id": "chris-stassy",
+  "name": null,
+  "aliases": [
+    {
+      "name": "Chris Stussy",
+      "type": "alternate_name",
+      "language": "en"
+    }
+  ],
+  "description": "CHRIS STASSY 是荷兰 DJ 与制作人，曾以 Chris Stussy 名义发行作品。他围绕浩室音乐开展创作，并创办 Up the Stuss；《All Night Long》是其广为人知的曲目。",
+  "sources": [
+    {
+      "url": "https://universalmusic.fr/artistes/36380895365",
+      "publisher": "Universal Music France — Chris Stussy",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    },
+    {
+      "url": "https://www.taets.com/news/chris-stassy-lands-at-taets-for-an-exclusive-10-hour-set",
+      "publisher": "Taets 活动场馆",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0",
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

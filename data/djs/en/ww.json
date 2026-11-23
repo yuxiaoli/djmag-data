@@ -1,0 +1,101 @@
+{
+  "schema_version": "1.0.0",
+  "id": "ww",
+  "name": "W&W",
+  "entity_type": "duo",
+  "description": "Willem van Hanegem and Ward van der Harst have been about this year: from European festival institutions like Air Beat One and Parookaville, to the massive US stages of Dreamstate San Francisco, and New Year’s Eve at Bangkok’s Neon Countdown. Nevertheless, studio work hasn’t suffered, with singles like ‘Turn Up The Bass’ with Hardwell and their interpretation of ‘Moonlight Shadow’ dropping, a slew of unreleased tracks and test IDs keeping sets fresh, and time spent diving into the trance sounds that first inspired them. The result, they tell us, is “around 30 new tracks” waiting in the wings for 2027.",
+  "nationalities": [],
+  "styles": [
+    "“High-energy festival music... a mix of big room, trance, progressive and Eurodance.”"
+  ],
+  "birth_date": null,
+  "gender": null,
+  "image": {
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_WandW.jpg.webp?itok=-FqiWBd7",
+    "source_url": "https://djmag.com/top100djs/2026/20/ww",
+    "credit": null,
+    "license": null,
+    "license_url": null
+  },
+  "rankings": [
+    {
+      "year": 2026,
+      "rank": 20,
+      "previous_rank": null,
+      "source_url": "https://djmag.com/top100djs/2026/20/ww"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://djmag.com/top100djs/2026/20/ww",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T18:08:39.116702+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/20/ww",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
+      "fields": [
+        "/name",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/20/ww",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T05:12:16.404339+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://www.wandwmusic.com/about",
+      "publisher": "W&W 官方网站 — About",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/entity_type"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00",
+  "origin": "The Netherlands",
+  "best_known_for": "“Big festival tracks and energetic performances.”",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "The Netherlands"
+      },
+      {
+        "label": "DJ style",
+        "value": "“High-energy festival music... a mix of big room, trance, progressive and Eurodance.”"
+      },
+      {
+        "label": "Best known for",
+        "value": "“Big festival tracks and energetic performances.”"
+      }
+    ],
+    "movement_places": 2,
+    "movement": "Down",
+    "article": {
+      "headline": "W&W | #20 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/20/ww"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_WandW.jpg.webp?itok=-FqiWBd7"
+  }
+}

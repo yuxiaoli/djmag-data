@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "id": "illenium",
+  "name": null,
+  "aliases": [
+    {
+      "name": "凤凰",
+      "type": "nickname",
+      "language": "zh-CN"
+    }
+  ],
+  "description": "Illenium 以富有情绪张力的电子音乐连接旋律、人声与强烈节奏。从《Ashes》到后续作品，他不断扩展合作阵容，《Good Things Fall Apart》等歌曲展现了这一创作取向。",
+  "sources": [
+    {
+      "url": "https://www.illenium.com/about-illenium/",
+      "publisher": "ILLENIUM 官方网站 · About",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    },
+    {
+      "url": "https://www.umusic.com.cn/index.php?c=show&id=1891",
+      "publisher": "环球音乐中国 · ILLENIUM《Die Living》",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

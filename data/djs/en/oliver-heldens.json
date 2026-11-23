@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0.0",
+  "id": "oliver-heldens",
+  "name": "Oliver Heldens",
+  "entity_type": "person",
+  "description": "It was over a decade ago that Oliver Heldens released ‘Gecko’, a breakthrough hit that travelled straight from the clubs into the mainstream, and it’s been all systems go for the Dutch hitmaker ever since. Earlier this year he delivered ‘Run’, followed by ‘Satisfy’ featuring Sam Harper, and ‘AEIOU’ with Kryder & The Young Punx. Under his techno-driven HI-LO alias, he released ‘Rhythm Of Life’, ‘Do Not Disturb’ featuring Saint Joshua, and ‘Megalithic’. In 2026 he headlined London’s historic venue, The Roundhouse, and played at Tomorrowland, Ultra, and Ushuaïa Ibiza. His labels Heldeep and HILOMATIK have kept up the momentum too, with more than 20 releases between them over the past 12 months.",
+  "nationalities": [
+    "Dutch"
+  ],
+  "styles": [
+    "Big-room house."
+  ],
+  "birth_date": "1995-02-01",
+  "gender": null,
+  "image": {
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_OliverHeldens.jpg.webp?itok=nSju4tSS",
+    "source_url": "https://djmag.com/top100djs/2026/39/oliver-heldens",
+    "credit": null,
+    "license": null,
+    "license_url": null
+  },
+  "rankings": [
+    {
+      "year": 2026,
+      "rank": 39,
+      "previous_rank": null,
+      "source_url": "https://djmag.com/top100djs/2026/39/oliver-heldens"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://djmag.com/top100djs/2026/39/oliver-heldens",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T18:04:36.425002+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/39/oliver-heldens",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
+      "fields": [
+        "/name",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/39/oliver-heldens",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T05:08:12.062477+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://www.insomniac.com/music/artists/oliver-heldens/",
+      "publisher": "Insomniac · Oliver Heldens",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/entity_type",
+        "/nationalities/0"
+      ]
+    },
+    {
+      "url": "https://veeps.com/oliverheldens",
+      "publisher": "VEEPS · Oliver Heldens 艺人资料",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/birth_date"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00",
+  "origin": "The Netherlands",
+  "best_known_for": "‘Gecko’ and his HI-LO techno alias.",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "The Netherlands"
+      },
+      {
+        "label": "DJ style",
+        "value": "Big-room house."
+      },
+      {
+        "label": "Best known for",
+        "value": "‘Gecko’ and his HI-LO techno alias."
+      }
+    ],
+    "movement_places": 13,
+    "movement": "Down",
+    "article": {
+      "headline": "Oliver Heldens | #39 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/39/oliver-heldens"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_OliverHeldens.jpg.webp?itok=nSju4tSS"
+  }
+}

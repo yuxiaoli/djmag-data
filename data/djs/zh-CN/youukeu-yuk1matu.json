@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0.0",
+  "id": "youukeu-yuk1matu",
+  "name": "行松阳介",
+  "aliases": [
+    {
+      "name": "Yousuke Yukimatsu",
+      "type": "transliteration",
+      "language": "en"
+    },
+    {
+      "name": "行松陽介",
+      "type": "alternate_name",
+      "language": "ja"
+    }
+  ],
+  "description": "行松阳介是日本大阪出身的 DJ，以跨越多种风格的选曲与衔接著称。他发起 Zone Unknown 活动，也通过《Midnight is Comin’》等混音作品展现选曲视野。",
+  "sources": [
+    {
+      "url": "https://www.wooozy.cn/news/event/showguide-0626-0702-2017/",
+      "publisher": "无解音乐网 WOOOZY — 演出活动推荐",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/name"
+      ]
+    },
+    {
+      "url": "https://www.aegpresents.co.uk/event/yousuke-yukimatsu/",
+      "publisher": "AEG Presents — YOUSUKE YUKIMATSU",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0",
+        "/description"
+      ]
+    },
+    {
+      "url": "https://mazeum.jp/yousuke-yukimatsu/",
+      "publisher": "MAZEUM — Yousuke Yukimatsu",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/1"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

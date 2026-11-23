@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "id": "zedd",
+  "name": "捷德",
+  "aliases": [
+    {
+      "name": "捷德",
+      "type": "common_name",
+      "language": "zh-CN"
+    }
+  ],
+  "description": "Zedd 是受过古典音乐训练的 DJ 与制作人，以《Clarity》等作品受到关注。他的制作经历也包括为流行歌手创作和合作。",
+  "sources": [
+    {
+      "url": "https://www.ydn.com.tw/tw/News/ugC_News_Detail.aspx?chapterID=1711450&type=happy",
+      "publisher": "青年日报 — Ultra Taiwan11月重磅回归",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0",
+        "/name"
+      ]
+    },
+    {
+      "url": "https://www.capitalfm.com/artists/zedd/",
+      "publisher": "Capital — Zedd",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

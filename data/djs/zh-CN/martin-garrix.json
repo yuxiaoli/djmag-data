@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0.0",
+  "id": "martin-garrix",
+  "name": "马丁·盖瑞斯",
+  "aliases": [
+    {
+      "name": "小马丁",
+      "type": "nickname",
+      "language": "zh-CN"
+    },
+    {
+      "name": "馬汀蓋瑞克斯",
+      "type": "transliteration",
+      "language": "zh-Hant"
+    }
+  ],
+  "description": "Martin Garrix 是荷兰 DJ 与制作人，以《Animals》打开国际市场。其作品以适合音乐节主舞台的大房间浩室为重要起点，并延伸至与流行歌手合作的舞曲。",
+  "sources": [
+    {
+      "url": "https://gd.sina.cn/zhuhai/2018-02-27/detail-ifyrvspi2427515.d.html",
+      "publisher": "新浪广东 — 百大DJ冠军小马丁亲临珠海",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0",
+        "/name"
+      ]
+    },
+    {
+      "url": "https://martingarrix.com/music/animals/",
+      "publisher": "Martin Garrix 官方网站 — Animals",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    },
+    {
+      "url": "https://www.insomniac.com/music/artists/martin-garrix/",
+      "publisher": "Insomniac — Martin Garrix",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    },
+    {
+      "url": "https://www.sonymusic.com.tw/artist/martin-garrix/",
+      "publisher": "台湾索尼音乐 — Martin Garrix",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/1"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

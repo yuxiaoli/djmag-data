@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "id": "martinez-brothers",
+  "name": null,
+  "aliases": [],
+  "description": "The Martinez Brothers 由在纽约布朗克斯长大的 Christian 和 Steve Martinez 组成。兄弟二人将纽约浩室传统与拉丁音乐影响融入演出，并共同经营 Cuttin’ Headz 厂牌。",
+  "sources": [
+    {
+      "url": "https://themartinezbrothers.com/pages/about",
+      "publisher": "The Martinez Brothers 官方网站 · About",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

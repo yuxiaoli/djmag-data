@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "id": "john-summit",
+  "name": null,
+  "aliases": [
+    {
+      "name": "John Walter Schuster",
+      "type": "alternate_name",
+      "language": "en"
+    }
+  ],
+  "description": "John Summit 是以浩室舞曲为核心的 DJ 与制作人，从芝加哥地区的创作与演出起步。《Deep End》和与 HAYLA 合作的《Where You Are》是其代表作，另创办了 Experts Only 厂牌与活动品牌。",
+  "sources": [
+    {
+      "url": "https://mn2s.com/booking-agency/dj-roster/john-summit/",
+      "publisher": "MN2S — John Summit",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0",
+        "/description"
+      ]
+    },
+    {
+      "url": "https://www.insomniac.com/music/artists/john-summit/",
+      "publisher": "Insomniac — John Summit",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

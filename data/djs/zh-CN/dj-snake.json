@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0.0",
+  "id": "dj-snake",
+  "name": null,
+  "aliases": [
+    {
+      "name": "蛇叔",
+      "type": "nickname",
+      "language": "zh-CN"
+    },
+    {
+      "name": "蛇爷",
+      "type": "nickname",
+      "language": "zh-CN"
+    }
+  ],
+  "description": "DJ Snake 是法国 DJ 与制作人，创作中结合舞曲和嘻哈等元素。《Turn Down for What》及专辑《Encore》是其走向国际听众的重要作品。",
+  "sources": [
+    {
+      "url": "https://universalmusic.fr/artistes/30843093758",
+      "publisher": "Universal Music France — DJ Snake",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    },
+    {
+      "url": "https://www.umusic.com.cn/index.php?c=show&id=838",
+      "publisher": "环球音乐中国 — Big Bang",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0"
+      ]
+    },
+    {
+      "url": "https://www.ydn.com.tw/tw/News/ugC_News_Detail.aspx?ID=520517",
+      "publisher": "青年日报 — Ultra Taiwan卡司阵容公布",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/1"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

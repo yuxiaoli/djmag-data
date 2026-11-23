@@ -1,0 +1,104 @@
+{
+  "schema_version": "1.0.0",
+  "id": "nico-moreno",
+  "name": "Nico Moreno",
+  "entity_type": "person",
+  "description": "In the last 12 months, French artist Nico Moreno has toured Europe, Asia, Australia, and the USA, continuing to take his industrial-strength techno on the road and satisfying the seemingly bottomless pit of hard dance fans worldwide. Breaking through with the track ‘Purple Widow’ in 2019, released on his label Insolent Rave Records, Nico has since delivered several 150-plus-bpm heavy-hitters on imprints like HEKATE, All Night Long, FXCK and his own imprint. When DJ Mag interviewed Nico for last year’s poll, he had just made his Tomorrowland debut. In 2026, Nico returned once again, going B2B with Dimitri Vegas on the Great Library stage.",
+  "nationalities": [
+    "French"
+  ],
+  "styles": [
+    "Hard techno."
+  ],
+  "birth_date": null,
+  "gender": null,
+  "image": {
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_NicoMoreno.jpg.webp?itok=18c6kgrW",
+    "source_url": "https://djmag.com/top100djs/2026/82/nico-moreno",
+    "credit": null,
+    "license": null,
+    "license_url": null
+  },
+  "rankings": [
+    {
+      "year": 2026,
+      "rank": 82,
+      "previous_rank": null,
+      "source_url": "https://djmag.com/top100djs/2026/82/nico-moreno"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://djmag.com/top100djs/2026/82/nico-moreno",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T18:04:04.848375+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/82/nico-moreno",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
+      "fields": [
+        "/name",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/82/nico-moreno",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T05:07:40.014569+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://www.insomniac.com/music/artists/nico-moreno/",
+      "publisher": "Insomniac — Nico Moreno",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/entity_type",
+        "/nationalities/0"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00",
+  "origin": "France",
+  "best_known_for": "Loads of fast, heavyweight bangers.",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "France"
+      },
+      {
+        "label": "DJ style",
+        "value": "Hard techno."
+      },
+      {
+        "label": "Best known for",
+        "value": "Loads of fast, heavyweight bangers."
+      }
+    ],
+    "movement_places": 15,
+    "movement": "Down",
+    "article": {
+      "headline": "Nico Moreno | #82 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/82/nico-moreno"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_NicoMoreno.jpg.webp?itok=18c6kgrW"
+  }
+}

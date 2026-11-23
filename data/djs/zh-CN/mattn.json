@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0.0",
+  "id": "mattn",
+  "name": null,
+  "aliases": [
+    {
+      "name": "Anouk Matton",
+      "type": "alternate_name",
+      "language": "nl"
+    }
+  ],
+  "description": "MATTN 是比利时 DJ、歌手与制作人 Anouk Matton 的艺名，作品以有力节奏和易记旋律为特色。她曾登上 Tomorrowland、Sunburn 与 Creamfields 等音乐节舞台。",
+  "sources": [
+    {
+      "url": "https://www.vdl.lu/en/visiting/leisure-and-recreation/festivals-fairs-and-events/national-day/city-sounds/mattn",
+      "publisher": "卢森堡市政府 — City Sounds / MATTN",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0",
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

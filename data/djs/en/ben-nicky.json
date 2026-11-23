@@ -1,0 +1,131 @@
+{
+  "schema_version": "1.0.0",
+  "id": "ben-nicky",
+  "name": "Ben Nicky",
+  "entity_type": "person",
+  "description": "Ben Nicky is one of the busiest DJs around, regularly dropping his trademark mix of all manner of high-impact, high-tempo genres at events like Tomorrowland, Ultra and Creamfields. This last year has been all about “travelling worldwide, playing every kind of stage and growing my Misfit brand,” Nicky tells us. “I’ve never fitted into one scene and that’s become my strength.”\n\nPicking a DJing highlight for the year, Nicky says, “Field of Dreams, bringing Northern Ireland its biggest ever laser show.” And his plans for 2027? “Taking Field of Dreams worldwide, unexpected collabs, then hopefully cutting the grass and walking my dog Ayla.”",
+  "nationalities": [
+    "British"
+  ],
+  "styles": [
+    "“Trance/hard dance/techno/whatever I feel like playing.”"
+  ],
+  "birth_date": null,
+  "gender": null,
+  "image": {
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_BenNicky.jpg.webp?itok=rLxtxUeW",
+    "source_url": "https://djmag.com/top100djs/2026/66/ben-nicky",
+    "credit": null,
+    "license": null,
+    "license_url": null
+  },
+  "rankings": [
+    {
+      "year": 2026,
+      "rank": 66,
+      "previous_rank": null,
+      "source_url": "https://djmag.com/top100djs/2026/66/ben-nicky"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://djmag.com/top100djs/2026/66/ben-nicky",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-15T04:08:56Z",
+      "fields": [
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/66/ben-nicky",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-15T17:43:41.056673+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/66/ben-nicky",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T18:11:16.971786+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/66/ben-nicky",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
+      "fields": [
+        "/name",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/66/ben-nicky",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:57:13.359899+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://www.insomniac.com/music/artists/ben-nicky/",
+      "publisher": "Insomniac — Ben Nicky",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/entity_type"
+      ]
+    },
+    {
+      "url": "https://anjunabeats.com/products/611051-quicksand-dont-go-ben-nicky-remix",
+      "publisher": "Anjunabeats — Quicksand (Don’t Go) [Ben Nicky Remix]",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/nationalities/0"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00",
+  "origin": "UK",
+  "best_known_for": "“Playing nearly every genre in one set.”",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "UK"
+      },
+      {
+        "label": "DJ style",
+        "value": "“Trance/hard dance/techno/whatever I feel like playing.”"
+      },
+      {
+        "label": "Best known for",
+        "value": "“Playing nearly every genre in one set.”"
+      }
+    ],
+    "movement_places": null,
+    "movement": "New entry",
+    "article": {
+      "headline": "Ben Nicky | #66 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/66/ben-nicky"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_BenNicky.jpg.webp?itok=rLxtxUeW"
+  }
+}

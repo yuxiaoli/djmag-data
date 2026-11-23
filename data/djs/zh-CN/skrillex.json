@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0.0",
+  "id": "skrillex",
+  "name": "史奇雷克斯",
+  "aliases": [
+    {
+      "name": "Sonny John Moore",
+      "type": "alternate_name",
+      "language": "en"
+    }
+  ],
+  "description": "Skrillex 是 Sonny John Moore 的个人艺名，早期曾在 From First to Last 担任主唱，之后转向电子音乐制作。其作品跨越 Dubstep、鼓打贝斯与 UK Garage，代表作包括《Bangarang》。",
+  "sources": [
+    {
+      "url": "https://www.eslite.com/product/10032019212682442451008",
+      "publisher": "诚品线上 / 华纳国际音乐 — Quest For Fire",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description",
+        "/name"
+      ]
+    },
+    {
+      "url": "https://www.officialcharts.com/artist/7124/skrillex/",
+      "publisher": "Official Charts — Skrillex",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0",
+        "/description"
+      ]
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=YJVmu6yttiw",
+      "publisher": "Skrillex 官方艺人频道",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

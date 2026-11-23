@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0.0",
+  "id": "indira-paganotto",
+  "name": null,
+  "aliases": [
+    {
+      "name": "Psymama",
+      "type": "nickname",
+      "language": "en"
+    }
+  ],
+  "description": "Indira Paganotto 从迷幻出神与科技舞曲中发展出鲜明的演出语言，并以 ARTCORE 厂牌和活动延伸这一声音。成长于加那利群岛的经历，也是其音乐背景的一部分。",
+  "sources": [
+    {
+      "url": "https://indirapaganotto.com/indira/about/",
+      "publisher": "Indira Paganotto 官方网站 · About",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0",
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

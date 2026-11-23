@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "id": "liu",
+  "name": null,
+  "aliases": [],
+  "description": "Liu 是巴西 DJ 与制作人，以 Deep house 作品进入电子音乐场景。《Don’t Look Back》《Step Ahead》及与 Alok 合作的《All I Want》，构成了其早期受到关注的作品。",
+  "sources": [
+    {
+      "url": "https://blog.symphonic.com/2019/01/02/spotlight-liu/",
+      "publisher": "Symphonic Distribution — Spotlight: Liu",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

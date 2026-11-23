@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0.0",
+  "id": "nora-en-pure",
+  "name": null,
+  "aliases": [],
+  "description": "Nora En Pure 以 Deep house 为基础，将钢琴和自然感的音色带入作品。南非出生、在瑞士成长的经历贯穿其音乐；《Come With Me》以及 Purified 系列是其代表成果。",
+  "sources": [
+    {
+      "url": "https://www.noraenpure.com/",
+      "publisher": "Nora En Pure 官方网站",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    },
+    {
+      "url": "https://djmag.com/longreads/nora-en-pure-force-nature",
+      "publisher": "DJ Mag — Nora En Pure: Force of nature",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

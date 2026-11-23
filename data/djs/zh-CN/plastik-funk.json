@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0.0",
+  "id": "plastik-funk",
+  "name": null,
+  "aliases": [
+    {
+      "name": "Rafael Ximenez-Carrillo",
+      "type": "alternate_name",
+      "language": "es"
+    }
+  ],
+  "description": "Plastik Funk 是西班牙 DJ 与制作人 Rafael Ximenez-Carrillo 的个人艺名，以浩室、贝斯浩室和未来浩室演出见长，代表作品包括与 Tujamo 合作的《WHO》及《Dare Me》。",
+  "sources": [
+    {
+      "url": "https://djmag.com/top100djs/2023/72/plastik-funk",
+      "publisher": "DJ Mag — Plastik Funk 2023 艺人访谈",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0",
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

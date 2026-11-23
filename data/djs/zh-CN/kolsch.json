@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "id": "kolsch",
+  "name": null,
+  "aliases": [],
+  "description": "Kölsch 是 Rune Reilly Kölsch 的个人创作项目，以旋律丰富的 Techno 呈现生活记忆。他在《1977》《1983》等专辑中，把成长和旅行经历转化为舞曲叙事。",
+  "sources": [
+    {
+      "url": "https://www.crosstownrebels.com/artist/kolsch/",
+      "publisher": "Crosstown Rebels — Kölsch",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "id": "wade",
+  "name": null,
+  "aliases": [],
+  "description": "Wade 是西班牙 DJ 与制作人，主要创作 Tech house。他成长时接触的弗拉门戈，也通过采样和传统乐器等方式进入其舞曲制作。",
+  "sources": [
+    {
+      "url": "https://iconmbs.com/profesores/wade/",
+      "publisher": "ICON MBS — Wade",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

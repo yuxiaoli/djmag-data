@@ -1,0 +1,111 @@
+{
+  "schema_version": "1.0.0",
+  "id": "giuseppe-ottaviani",
+  "name": "Giuseppe Ottaviani",
+  "entity_type": "person",
+  "description": "Giuseppe Ottaviani has delivered standout performances at A State of Trance and a closing set on the main stage at Holika Festival in Spain since last year’s poll. Under his OTTAGON alias he’s also worked with Anyma, who has used their collaboration ‘Unstoppable’ as the opening tune for his ÆDEN shows — which Ottaviani describes as “pretty surreal”.\n\nHaving taken a short break from touring to focus on working in the studio, he has dates slated to play with Armin van Buuren as part of his F2F concept at A State of Trance in London, as well as performances at Ultra, Mexico and EDC Thailand.",
+  "nationalities": [
+    "Italian"
+  ],
+  "styles": [
+    "“Melodic and energetic.”"
+  ],
+  "birth_date": null,
+  "gender": null,
+  "image": {
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_GiuseppeOttaviani.jpg.webp?itok=Orx0anEt",
+    "source_url": "https://djmag.com/top100djs/2026/78/giuseppe-ottaviani",
+    "credit": null,
+    "license": null,
+    "license_url": null
+  },
+  "rankings": [
+    {
+      "year": 2026,
+      "rank": 78,
+      "previous_rank": null,
+      "source_url": "https://djmag.com/top100djs/2026/78/giuseppe-ottaviani"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://djmag.com/top100djs/2026/78/giuseppe-ottaviani",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T17:57:46.782137+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/78/giuseppe-ottaviani",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
+      "fields": [
+        "/name",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/78/giuseppe-ottaviani",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T05:01:17.896327+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://www.insomniac.com/music/artists/giuseppe-ottaviani/",
+      "publisher": "Insomniac — Giuseppe Ottaviani",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/entity_type"
+      ]
+    },
+    {
+      "url": "https://www.giuseppeottaviani.com/giuseppe-ottaviani-rebrands-go-air/",
+      "publisher": "Giuseppe Ottaviani — 官方网站",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/nationalities/0"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00",
+  "origin": "Italy",
+  "best_known_for": "Innovative live performances.",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "Italy"
+      },
+      {
+        "label": "DJ style",
+        "value": "“Melodic and energetic.”"
+      },
+      {
+        "label": "Best known for",
+        "value": "Innovative live performances."
+      }
+    ],
+    "movement_places": 11,
+    "movement": "Up",
+    "article": {
+      "headline": "Giuseppe Ottaviani | #78 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/78/giuseppe-ottaviani"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_GiuseppeOttaviani.jpg.webp?itok=Orx0anEt"
+  }
+}

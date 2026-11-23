@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "id": "miss-monique",
+  "name": null,
+  "aliases": [],
+  "description": "Miss Monique 是乌克兰 DJ、制作人和 Siona Records 创办人，擅长以旋律与渐进发展的编排组织舞曲。她从基辅的演出经历出发，将这一声音带到国际舞台。",
+  "sources": [
+    {
+      "url": "https://missmoniquemusic.com/about/",
+      "publisher": "Miss Monique 官方网站",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

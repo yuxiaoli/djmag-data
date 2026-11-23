@@ -30,7 +30,7 @@ class RankingRefreshTests(unittest.TestCase):
             return json.loads((output / 'david-guetta.json').read_text())
 
     def test_refresh_preserves_profile_provenance_and_historical_rankings(self):
-        old = json.loads((ROOT / 'data/djs/david-guetta.json').read_text())
+        old = json.loads((ROOT / 'data/djs/en/david-guetta.json').read_text())
         old['rankings'].insert(0, dict(year=2025, rank=2, previous_rank=None,
             source_url='https://djmag.com/top100djs/2025/2/david-guetta'))
         old['sources'].append(dict(url=old['rankings'][0]['source_url'],
@@ -61,7 +61,7 @@ class RankingRefreshTests(unittest.TestCase):
         self.assertNotIn('/image', latest['fields'])
 
     def test_unchanged_rank_retains_explicit_verified_previous_rank_and_attribution(self):
-        old = json.loads((ROOT / 'data/djs/david-guetta.json').read_text())
+        old = json.loads((ROOT / 'data/djs/en/david-guetta.json').read_text())
         old['rankings'][0]['previous_rank'] = 7
         old['sources'][0]['fields'].append('/rankings')
         current = self.refresh(old)
@@ -69,7 +69,7 @@ class RankingRefreshTests(unittest.TestCase):
         self.assertTrue(any(s['retrieved_at'] == old['sources'][0]['retrieved_at'] and '/rankings' in s['fields'] for s in current['sources']))
 
     def test_new_edition_retains_original_facts_metadata_and_source_dates(self):
-        old = json.loads((ROOT / 'data/djs/david-guetta.json').read_text().replace('2026', '2025'))
+        old = json.loads((ROOT / 'data/djs/en/david-guetta.json').read_text().replace('2026', '2025'))
         current = self.refresh(old)
         self.assertEqual(old['profile_metadata'], current['profile_metadata'])
         self.assertEqual(old['origin'], current['origin'])
@@ -79,7 +79,7 @@ class RankingRefreshTests(unittest.TestCase):
         self.assertEqual([2025, 2026], [r['year'] for r in current['rankings']])
 
     def test_changed_rank_does_not_carry_previous_rank_or_infer_one(self):
-        old = json.loads((ROOT / 'data/djs/david-guetta.json').read_text())
+        old = json.loads((ROOT / 'data/djs/en/david-guetta.json').read_text())
         old['rankings'][0]['previous_rank'] = 7
         current = self.refresh(old, rank=2)
         self.assertIsNone(current['rankings'][0]['previous_rank'])
@@ -92,7 +92,7 @@ class RankingRefreshTests(unittest.TestCase):
         self.assertEqual(['/name', '/rankings'], sources[1]['fields'])
 
     def test_exact_previous_rank_attribution_survives_sorted_history_reindexing(self):
-        old = json.loads((ROOT / 'data/djs/david-guetta.json').read_text())
+        old = json.loads((ROOT / 'data/djs/en/david-guetta.json').read_text())
         old['rankings'][0]['previous_rank'] = 7
         old['rankings'].append(dict(year=2025, rank=2, previous_rank=3,
             source_url='https://djmag.com/top100djs/2025/2/david-guetta'))
@@ -112,20 +112,20 @@ class ProfileCollectionTests(unittest.TestCase):
         self.temp = tempfile.TemporaryDirectory()
         self.addCleanup(self.temp.cleanup)
         self.root = Path(self.temp.name)
-        (self.root / 'data/djs').mkdir(parents=True)
+        (self.root / 'data/djs/en').mkdir(parents=True)
         (self.root / 'data/dj.schema.json').write_bytes((ROOT / 'data/dj.schema.json').read_bytes())
 
     def record(self, identity, year=2026):
-        row = json.loads((ROOT / 'data/djs/david-guetta.json').read_text())
-        row['description'] = None  # Fixture must not inherit the live profile body.
-        row['id'] = identity
+        row = json.loads((ROOT / 'data/djs/en/david-guetta.json').read_text())
+        row.update(id=identity, description=None, entity_type='unknown',
+                   nationalities=[], birth_date=None, gender=None, sources=[])
         row.pop('profile_metadata', None)
         row.pop('origin', None)
         row.pop('best_known_for', None)
         row['styles'] = []
         row['rankings'] = [dict(year=year, rank=1, previous_rank=None,
             source_url=f'https://djmag.com/top100djs/{year}/1/{identity}')]
-        path = self.root / 'data/djs' / f'{identity}.json'
+        path = self.root / 'data/djs/en' / f'{identity}.json'
         path.write_text(json.dumps(row))
         return path
 
@@ -146,7 +146,7 @@ class ProfileCollectionTests(unittest.TestCase):
             self.collect([self.profile_html('alpha'), URLError(TimeoutError())])
         self.assertIn('profile_metadata', json.loads(alpha.read_text()))
         self.assertEqual(previous_beta, beta.read_bytes())
-        self.assertFalse(list((self.root / 'data/djs').glob('*.tmp')))
+        self.assertFalse(list((self.root / 'data/djs/en').glob('*.tmp')))
 
     def test_budget_exhaustion_fails_with_checkpoint_and_unprocessed_record_intact(self):
         alpha = self.record('alpha')
@@ -210,7 +210,7 @@ class ProfileCollectionTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, 'Unexpected profile structure'):
             self.collect(['<h1>Access challenge</h1>'])
         self.assertEqual(previous, current.read_bytes())
-        self.assertFalse(list((self.root / 'data/djs').glob('*.tmp')))
+        self.assertFalse(list((self.root / 'data/djs/en').glob('*.tmp')))
 
     def test_policy_denial_propagates_and_preserves_record_without_retry(self):
         current = self.record('current')
@@ -224,7 +224,7 @@ class ProfileCollectionTests(unittest.TestCase):
     def test_existing_metadata_does_not_count_as_fetched_this_run(self):
         current = self.record('current')
         row = json.loads(current.read_text())
-        row['profile_metadata'] = json.loads((ROOT / 'data/djs/david-guetta.json').read_text())['profile_metadata']
+        row['profile_metadata'] = json.loads((ROOT / 'data/djs/en/david-guetta.json').read_text())['profile_metadata']
         current.write_text(json.dumps(row))
         with self.assertRaisesRegex(RuntimeError, 'incomplete.*0/1'):
             self.collect([URLError(TimeoutError())])

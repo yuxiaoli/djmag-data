@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0.0",
+  "id": "kshmr",
+  "name": "KSHMR",
+  "entity_type": "person",
+  "description": "KSHMR continued to prove his versatility this year, moving between festival stages, headline shows and ambitious live productions. His North American tour culminated in an orchestral performance at the Hollywood Palladium, bringing his cinematic productions into a new setting, while his India tour included a DJ set filmed aboard a tuk tuk. Festival appearances ranged from Ultra Argentina and Electric Love to GLÜCKSGEFÜHLE and World DJ Festival. Away from the stage, the album ‘Mirage’ explored his organic house side, while ‘Sounds of KSHMR Vol 5’ for Splice continued his longstanding influence on producers, further cementing his place among the platform’s most popular artists.",
+  "nationalities": [
+    "American"
+  ],
+  "styles": [
+    "“Main stage, techno, psy, drum & bass, and hardstyle.”"
+  ],
+  "birth_date": "1988-10-06",
+  "gender": null,
+  "image": {
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_KSHMR.jpg.webp?itok=xt3mc0fw",
+    "source_url": "https://djmag.com/top100djs/2026/19/kshmr",
+    "credit": null,
+    "license": null,
+    "license_url": null
+  },
+  "rankings": [
+    {
+      "year": 2026,
+      "rank": 19,
+      "previous_rank": null,
+      "source_url": "https://djmag.com/top100djs/2026/19/kshmr"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://djmag.com/top100djs/2026/19/kshmr",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T18:00:44.789820+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/19/kshmr",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
+      "fields": [
+        "/name",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/19/kshmr",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T05:04:18.039631+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://www.insomniac.com/music/artists/KSHMR/",
+      "publisher": "Insomniac — KSHMR",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/entity_type"
+      ]
+    },
+    {
+      "url": "https://platinumlist.net/artist/1345/kshmr",
+      "publisher": "Platinumlist — KSHMR",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/birth_date",
+        "/nationalities/0"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00",
+  "origin": "USA",
+  "best_known_for": "“Combining world (especially Indian) and cinematic sounds with dance music.”",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "USA"
+      },
+      {
+        "label": "DJ style",
+        "value": "“Main stage, techno, psy, drum & bass, and hardstyle.”"
+      },
+      {
+        "label": "Best known for",
+        "value": "“Combining world (especially Indian) and cinematic sounds with dance music.”"
+      }
+    ],
+    "movement_places": 4,
+    "movement": "Up",
+    "article": {
+      "headline": "KSHMR | #19 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/19/kshmr"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_KSHMR.jpg.webp?itok=xt3mc0fw"
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "schema_version": "1.0.0",
+  "id": "chris-stassy",
+  "name": "CHRIS STASSY",
+  "entity_type": "person",
+  "description": "It’s been a busy year marked by change CHRIS STASSY, one of the highest climbers in this year's poll. For one thing, the summer saw him commence “a new chapter” by switching the U in his surname to an A. That aside, there was the release of his debut LP, ‘Lost, Found & Forgotten...’ and its surrounding album tour. He also managed to host a number of his free party N.A.M.E. shows, took his no-phone event series USS around the world and continued a solid run of releases on his label, Up The Stuss.",
+  "nationalities": [
+    "Dutch"
+  ],
+  "styles": [
+    "“House.”"
+  ],
+  "birth_date": null,
+  "gender": null,
+  "image": {
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_CHRISSTASSY.jpg.webp?itok=2UkMC_I7",
+    "source_url": "https://djmag.com/top100djs/2026/59/chris-stassy",
+    "credit": null,
+    "license": null,
+    "license_url": null
+  },
+  "rankings": [
+    {
+      "year": 2026,
+      "rank": 59,
+      "previous_rank": null,
+      "source_url": "https://djmag.com/top100djs/2026/59/chris-stassy"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://djmag.com/top100djs/2026/59/chris-stassy",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-15T04:08:56Z",
+      "fields": [
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/59/chris-stassy",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-15T17:46:41.002707+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/59/chris-stassy",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T18:12:30.616101+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/59/chris-stassy",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
+      "fields": [
+        "/name",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/59/chris-stassy",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:58:27.947291+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://universalmusic.fr/artistes/36380895365",
+      "publisher": "Universal Music France — Chris Stussy",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/entity_type"
+      ]
+    },
+    {
+      "url": "https://www.taets.com/news/chris-stassy-lands-at-taets-for-an-exclusive-10-hour-set",
+      "publisher": "Taets 活动场馆",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/nationalities/0"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00",
+  "origin": "The Netherlands",
+  "best_known_for": "“Unreleased tracks and his label Up The Stuss.”",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "The Netherlands"
+      },
+      {
+        "label": "DJ style",
+        "value": "“House.”"
+      },
+      {
+        "label": "Best known for",
+        "value": "“Unreleased tracks and his label Up The Stuss.”"
+      }
+    ],
+    "movement_places": 22,
+    "movement": "Up",
+    "article": {
+      "headline": "CHRIS STASSY | #59 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/59/chris-stassy"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_CHRISSTASSY.jpg.webp?itok=2UkMC_I7"
+  }
+}

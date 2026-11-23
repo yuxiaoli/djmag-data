@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "id": "solomun",
+  "name": null,
+  "aliases": [],
+  "description": "Solomun 将深度浩室、旋律科技舞曲与独立舞曲结合，以情绪推进组织作品和演出。成长于汉堡的他共同创办 Diynamic Music，并推出《Dance Baby》和《Nobody Is Not Loved》等专辑。",
+  "sources": [
+    {
+      "url": "https://www.allmusic.com/artist/solomun-mn0000991448",
+      "publisher": "AllMusic · Solomun 艺人资料",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "id": "pawsa",
+  "name": null,
+  "aliases": [
+    {
+      "name": "David Esekhile",
+      "type": "alternate_name",
+      "language": "en"
+    }
+  ],
+  "description": "PAWSA 是在伦敦发展的 DJ 与制作人，以简洁、重律动的 Tech House 创作见长。他与 Michael Bibi 共同创办 Solid Grooves Records，并通过《Pilot》等作品建立个人声音。",
+  "sources": [
+    {
+      "url": "https://www.insomniac.com/music/artists/pawsa/",
+      "publisher": "Insomniac — PAWSA",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    },
+    {
+      "url": "https://www.livnightclub.com/miami/event/EVE112156200020260326/pawsa/",
+      "publisher": "LIV Nightclub Miami — PAWSA 官方演出介绍",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

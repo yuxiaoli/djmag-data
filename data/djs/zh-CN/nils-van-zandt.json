@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "id": "nils-van-zandt",
+  "name": null,
+  "aliases": [],
+  "description": "Nils van Zandt 是荷兰 DJ 与制作人，作品融合浩室、电子舞曲和流行元素，代表发行包括《For You》《Party Crasher》与《Destination Paradise》。",
+  "sources": [
+    {
+      "url": "https://www.amsterdam-dance-event.nl/en/artists-speakers/nils-van-zandt/2225175/",
+      "publisher": "Amsterdam Dance Event — Nils van Zandt",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

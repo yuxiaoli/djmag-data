@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "id": "alan-walker",
+  "name": "艾伦·沃克",
+  "aliases": [
+    {
+      "name": "艾伦·沃克",
+      "type": "transliteration",
+      "language": "zh-CN"
+    }
+  ],
+  "description": "Alan Walker 在网络发布电子音乐后，以《Fade》及其人声版本《Faded》打开知名度。出生于英国、成长于挪威的经历，与网络制作文化共同构成了他的音乐起点。",
+  "sources": [
+    {
+      "url": "https://www.xwx.cn/index.php/album/kA1O2Z9M",
+      "publisher": "星外星唱片 ·《迷失》官方发行资料",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0",
+        "/name"
+      ]
+    },
+    {
+      "url": "https://www.amsterdam-dance-event.nl/en/artists-speakers/alan-walker/23590/",
+      "publisher": "Amsterdam Dance Event · Alan Walker",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

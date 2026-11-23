@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0.0",
+  "id": "korolova",
+  "name": "科罗洛娃",
+  "aliases": [
+    {
+      "name": "DJ Da Queen",
+      "type": "alternate_name",
+      "language": "en"
+    },
+    {
+      "name": "科羅洛娃",
+      "type": "transliteration",
+      "language": "zh-TW"
+    }
+  ],
+  "description": "Korolova 以旋律浩室和旋律科技舞曲为主要创作方向，并建立 Captive Soul 厂牌。她的作品与现场将持续推进的节奏和清晰的旋律线条结合，逐步进入国际俱乐部与音乐节舞台。",
+  "sources": [
+    {
+      "url": "https://www.mirrormedia.mg/external/setn_1936055",
+      "publisher": "三立新闻网 / 镜周刊 · KOROLOVA 演出报道",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/1",
+        "/name"
+      ]
+    },
+    {
+      "url": "https://www.koolwaters.com/artists/korolova",
+      "publisher": "Koolwaters · Korolova 官方代理介绍",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    },
+    {
+      "url": "https://www.audiosf.com/event/korolova-03-07/",
+      "publisher": "Audio SF · Korolova 官方演出介绍",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

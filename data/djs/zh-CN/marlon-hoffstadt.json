@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0.0",
+  "id": "marlon-hoffstadt",
+  "name": null,
+  "aliases": [
+    {
+      "name": "DJ Daddy Trance",
+      "type": "alternate_name",
+      "language": "en"
+    }
+  ],
+  "description": "Marlon Hoffstadt 也以 DJ Daddy Trance 活动，从柏林俱乐部场景发展出融合流行旋律、Trance 与 Techno 的演出风格。《It’s That Time》是其具有代表性的原创作品。",
+  "sources": [
+    {
+      "url": "https://www.insomniac.com/music/artists/marlon-hoffstadt/",
+      "publisher": "Insomniac — Marlon Hoffstadt",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0",
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

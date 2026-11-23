@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "id": "giuseppe-ottaviani",
+  "name": null,
+  "aliases": [],
+  "description": "Giuseppe Ottaviani 是意大利出身的 Trance 制作人与现场表演者，从 NU NRG 时期发展出个人创作与 Live 演出体系。《8K》和专辑《Evolver》展示了其旋律驱动的舞曲风格。",
+  "sources": [
+    {
+      "url": "https://www.insomniac.com/music/artists/giuseppe-ottaviani/",
+      "publisher": "Insomniac — Giuseppe Ottaviani",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "id": "marnik",
+  "name": null,
+  "aliases": [],
+  "description": "Marnik 是由 Alessandro Martello 与 Emanuele Longo 组成的意大利米兰双人组合，将 Techno、Trance 与锐舞元素融入音乐节作品，代表合作包括《Bazaar》和《Gam Gam》。",
+  "sources": [
+    {
+      "url": "https://www.koolwaters.com/artists/marnik",
+      "publisher": "Koolwaters — Marnik",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

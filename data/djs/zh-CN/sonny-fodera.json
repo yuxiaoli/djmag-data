@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "id": "sonny-fodera",
+  "name": null,
+  "aliases": [],
+  "description": "Sonny Fodera 是澳大利亚浩室 DJ 与制作人，作品将俱乐部节拍与流行旋律结合。专辑《Rise》《Wide Awake》及与 Jazzy、D.O.D 合作的《Somedays》呈现了这一路线。",
+  "sources": [
+    {
+      "url": "https://www.allmusic.com/artist/sonny-fodera-mn0002433081",
+      "publisher": "AllMusic — Sonny Fodera（Fred Thomas 撰写）",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

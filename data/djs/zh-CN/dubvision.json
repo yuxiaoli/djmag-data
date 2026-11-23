@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "id": "dubvision",
+  "name": null,
+  "aliases": [],
+  "description": "DubVision 原为荷兰双人组合，2024 年起由 Victor Leicher 独立延续。其前卫浩室强调舒展旋律与情绪推进，代表作品包括《Turn It Around》和《Starlight (Keep Me Afloat)》。",
+  "sources": [
+    {
+      "url": "https://djmag.com/top100djs/2026/99/dubvision",
+      "publisher": "DJ Mag — DubVision 2026",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "id": "michael-bibi",
+  "name": null,
+  "aliases": [],
+  "description": "Michael Bibi 是伦敦浩室场景的重要制作人与 DJ。他与 PAWSA 共同发展 Solid Grooves，并通过《Hanging Tree》等作品形成强调律动的科技浩室表达。",
+  "sources": [
+    {
+      "url": "https://www.unvrs.com/artists/michael-bibi",
+      "publisher": "UNVRS · Michael Bibi 官方艺人介绍",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0.0",
+  "id": "mosimann",
+  "name": null,
+  "aliases": [
+    {
+      "name": "Quentin Mosimann",
+      "type": "alternate_name",
+      "language": "fr"
+    },
+    {
+      "name": "John Louly",
+      "type": "alternate_name",
+      "language": "en"
+    }
+  ],
+  "description": "Mosimann 是法国与瑞士背景的 DJ、制作人和歌手，将 French Touch 的影响融入浩室创作与现场演出，也为其他歌手担任词曲与制作工作。",
+  "sources": [
+    {
+      "url": "https://allofloride.com/en/our-talents/mosimann/",
+      "publisher": "Allo Floride — Mosimann",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    },
+    {
+      "url": "https://universalmusic.fr/artistes/30161739259",
+      "publisher": "Universal Music France — Mosimann",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0",
+        "/aliases/1"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

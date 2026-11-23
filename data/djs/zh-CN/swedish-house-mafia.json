@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0.0",
+  "id": "swedish-house-mafia",
+  "name": "瑞典浩室黑手党",
+  "aliases": [
+    {
+      "name": "瑞典浩室黑手黨",
+      "type": "common_name",
+      "language": "zh-TW"
+    },
+    {
+      "name": "SHM",
+      "type": "alternate_name",
+      "language": "en"
+    }
+  ],
+  "description": "Swedish House Mafia 由 Axwell、Steve Angello 和 Sebastian Ingrosso 组成。三人于瑞典结成团队，以大型电子舞曲现场和《Don’t You Worry Child》等作品获得国际听众。",
+  "sources": [
+    {
+      "url": "https://aes-global.live/swedishhousemafia/",
+      "publisher": "ASIA ELECTRIK SOUND · Swedish House Mafia 专文",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0",
+        "/aliases/1",
+        "/name"
+      ]
+    },
+    {
+      "url": "https://www.universal-music.co.jp/swedish-house-mafia/biography/",
+      "publisher": "Universal Music Japan · Swedish House Mafia Biography",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

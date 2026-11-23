@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "id": "nico-moreno",
+  "name": null,
+  "aliases": [
+    {
+      "name": "Nicolas Bloche",
+      "type": "alternate_name",
+      "language": "fr"
+    }
+  ],
+  "description": "Nico Moreno 是法国卡昂出身的 DJ 与制作人，以快速底鼓和工业 Techno 声响见长。《Purple Widow》《Insolent Rave》等作品与其 Insolent Rave Records 厂牌构成了鲜明的音乐标识。",
+  "sources": [
+    {
+      "url": "https://www.insomniac.com/music/artists/nico-moreno/",
+      "publisher": "Insomniac — Nico Moreno",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    },
+    {
+      "url": "https://www.2mgroup.es/artistas/nico-moreno",
+      "publisher": "2M GROUP — 演出主办方艺人资料",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

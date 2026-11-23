@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "id": "nicky-romero",
+  "name": "尼基罗米洛",
+  "aliases": [
+    {
+      "name": "尼基羅米洛",
+      "type": "transliteration",
+      "language": "zh-TW"
+    }
+  ],
+  "description": "Nicky Romero 以《Toulouse》和与 Avicii 合作的《I Could Be the One》受到广泛关注。他通过 Protocol Recordings 发行作品、扶持制作人，也持续发展自己的舞池音乐。",
+  "sources": [
+    {
+      "url": "https://altanightclub.kktix.cc/events/ofltret?locale=zh-TW",
+      "publisher": "ALTA / theLOOP · Nicky Romero 官方演出页面",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0",
+        "/name"
+      ]
+    },
+    {
+      "url": "https://www.insomniac.com/music/artists/nicky-romero/",
+      "publisher": "Insomniac · Nicky Romero 艺人介绍",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0.0",
+  "id": "gordo",
+  "name": null,
+  "aliases": [
+    {
+      "name": "Carnage",
+      "type": "alternate_name",
+      "language": "en"
+    },
+    {
+      "name": "Diamanté Anthony Blackmon",
+      "type": "alternate_name",
+      "language": "en"
+    }
+  ],
+  "description": "GORDO 是 Diamanté Anthony Blackmon 在 Carnage 之后采用的艺名，重点转向浩室音乐。他发展 TARAKA 活动，并参与 Drake《Honestly, Nevermind》的多首作品制作。",
+  "sources": [
+    {
+      "url": "https://www.insomniac.com/music/artists/gordo/",
+      "publisher": "Insomniac · GORDO 官方艺人介绍",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0",
+        "/aliases/1",
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

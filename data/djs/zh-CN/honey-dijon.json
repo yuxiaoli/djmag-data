@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "id": "honey-dijon",
+  "name": null,
+  "aliases": [],
+  "description": "Honey Dijon 是芝加哥出身的 DJ 与制作人，在纽约舞池磨练选曲与演出，并将浩室、时尚和艺术创作相联系。专辑《Black Girl Magic》延续了她对舞曲文化与社群表达的探索。",
+  "sources": [
+    {
+      "url": "https://www.insomniac.com/music/artists/honey-dijon/",
+      "publisher": "Insomniac — Honey Dijon（含本人访谈）",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "id": "maddix",
+  "name": null,
+  "aliases": [],
+  "description": "Maddix 是荷兰 DJ 与制作人，将 Techno、Trance 和大型舞台舞曲的力度融为一体。《Heute Nacht》《My Gasoline》等作品体现了这一方向，他也通过 Extatic 厂牌推广自己的声音。",
+  "sources": [
+    {
+      "url": "https://www.insomniac.com/music/artists/maddix/",
+      "publisher": "Insomniac — Maddix",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

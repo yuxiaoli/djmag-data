@@ -321,7 +321,7 @@
   ],
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "DJ profile",
-  "description": "One source-backed artist profile per data/djs/<id>.json. Missing arrays mean no verified values, not a negative assertion. Age is calculated from birth_date at display time; do not persist a stale age.",
+  "description": "One source-backed artist profile per data/djs/en/<id>.json. Missing arrays mean no verified values, not a negative assertion. Age is calculated from birth_date at display time; do not persist a stale age.",
   "allOf": [
     {
       "if": {

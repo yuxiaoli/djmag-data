@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0.0",
+  "id": "chainsmokers",
+  "name": "烟鬼组合",
+  "aliases": [
+    {
+      "name": "钱斯莫客",
+      "type": "transliteration",
+      "language": "zh-CN"
+    }
+  ],
+  "description": "The Chainsmokers 是由 Andrew Taggart 与 Alex Pall 组成的美国电子音乐双人组合，中文常见名称为烟鬼组合。作品《Closer》《Don’t Let Me Down》将流行歌曲写作与电子舞曲结合。",
+  "sources": [
+    {
+      "url": "https://www.xwx.cn/album/P3BREW3l",
+      "publisher": "星外星音乐 — The Chainsmokers《So Far So Good》",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0",
+        "/description",
+        "/name"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

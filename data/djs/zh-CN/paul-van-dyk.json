@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "id": "paul-van-dyk",
+  "name": "保罗·范·戴克",
+  "aliases": [
+    {
+      "name": "保罗·范·戴克",
+      "type": "transliteration",
+      "language": "zh-CN"
+    }
+  ],
+  "description": "Paul van Dyk 长期深耕出神音乐，《For An Angel》是其广为人知的作品。除制作与现场演出外，他也通过 VONYC 节目向听众介绍电子音乐。",
+  "sources": [
+    {
+      "url": "https://www.visitczechia.com/zh-cn/things-to-do/places/experiences/entertainment/g-prague-club-sasazu",
+      "publisher": "捷克旅游局 · SaSaZu 中文介绍",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0",
+        "/name"
+      ]
+    },
+    {
+      "url": "https://www.insomniac.com/music/artists/paul-van-dyk/",
+      "publisher": "Insomniac · Paul van Dyk",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

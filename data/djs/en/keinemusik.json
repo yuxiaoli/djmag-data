@@ -1,0 +1,101 @@
+{
+  "schema_version": "1.0.0",
+  "id": "keinemusik",
+  "name": "Keinemusik",
+  "entity_type": "group",
+  "description": "Since debuting at number 35 in the DJ Mag Top 100 DJs poll in 2024, Keinemusik have only grown in international following. Over the past 12 months, the collective — Adam Port, Rampa, &Me, Reznik and visual artist Monja Gentschow — have enjoyed some massive moments. Whether that’s dropping dancefloor bombs with SG Lewis, being drafted by Thomas Bangalter for immersive Art Basel events, taking to the stage with Drake in Berlin, selling out dancefloors in India and Dubai, or stopping by Ibiza institutions Pacha and DC-10 for exclusive dates that had people queuing round the corner.",
+  "nationalities": [],
+  "styles": [
+    "House and techno."
+  ],
+  "birth_date": null,
+  "gender": null,
+  "image": {
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_Keinemusik.jpg.webp?itok=hjPi3h3p",
+    "source_url": "https://djmag.com/top100djs/2026/31/keinemusik",
+    "credit": null,
+    "license": null,
+    "license_url": null
+  },
+  "rankings": [
+    {
+      "year": 2026,
+      "rank": 31,
+      "previous_rank": null,
+      "source_url": "https://djmag.com/top100djs/2026/31/keinemusik"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://djmag.com/top100djs/2026/31/keinemusik",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T18:00:02.944424+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/31/keinemusik",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
+      "fields": [
+        "/name",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/31/keinemusik",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T05:03:35.875707+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://www.audemarspiguet.com/zh-hans/news/music/keinemusik",
+      "publisher": "爱彼 Audemars Piguet · Keinemusik 官方合作介绍",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/entity_type"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00",
+  "origin": "Germany",
+  "best_known_for": "Heads down tunes, extended sets, huge global crowds.",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "Germany"
+      },
+      {
+        "label": "DJ style",
+        "value": "House and techno."
+      },
+      {
+        "label": "Best known for",
+        "value": "Heads down tunes, extended sets, huge global crowds."
+      }
+    ],
+    "movement_places": 11,
+    "movement": "Down",
+    "article": {
+      "headline": "Keinemusik | #31 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/31/keinemusik"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_Keinemusik.jpg.webp?itok=hjPi3h3p"
+  }
+}

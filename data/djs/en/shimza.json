@@ -1,0 +1,111 @@
+{
+  "schema_version": "1.0.0",
+  "id": "shimza",
+  "name": "Shimza",
+  "entity_type": "person",
+  "description": "From last year’s DJ Mag cover to his first entry in the Top 100 DJs poll, Shimza’s profile has absolutely soared in the past 12 months. The DJ and producer has been bridging worlds with his Afro-house, Afro-tech and tech-house-infused sets for a while, but things have really kicked up a gear since the launch of his Shimza & Co event series in Ibiza last summer — not to mention his Song Of The Year win at the Miami Electronic Dance Awards for ‘Fire Fire’.\n\nIn June he released the ‘Sunset In Pretoria’ EP, three sun-kissed tracks that speak to the unwavering optimism, self-belief and deep love Shimza still holds for his craft.",
+  "nationalities": [
+    "South African"
+  ],
+  "styles": [
+    "Afro-house, Afro-tech, tech-house."
+  ],
+  "birth_date": null,
+  "gender": null,
+  "image": {
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_Shimza.jpg.webp?itok=0KyJ-P41",
+    "source_url": "https://djmag.com/top100djs/2026/75/shimza",
+    "credit": null,
+    "license": null,
+    "license_url": null
+  },
+  "rankings": [
+    {
+      "year": 2026,
+      "rank": 75,
+      "previous_rank": null,
+      "source_url": "https://djmag.com/top100djs/2026/75/shimza"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://djmag.com/top100djs/2026/75/shimza",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T18:06:32.915564+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/75/shimza",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
+      "fields": [
+        "/name",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/75/shimza",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T05:10:09.106588+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://www.insomniac.com/music/artists/shimza/",
+      "publisher": "Insomniac — Shimza",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/entity_type"
+      ]
+    },
+    {
+      "url": "https://zamnafestival.com/artists/shimza",
+      "publisher": "Zamna Festival — Shimza",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/nationalities/0"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00",
+  "origin": "South Africa",
+  "best_known_for": "Tracks like ‘Fire Fire’, ‘Places’ and ‘Missing You’.",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "South Africa"
+      },
+      {
+        "label": "DJ style",
+        "value": "Afro-house, Afro-tech, tech-house."
+      },
+      {
+        "label": "Best known for",
+        "value": "Tracks like ‘Fire Fire’, ‘Places’ and ‘Missing You’."
+      }
+    ],
+    "movement_places": null,
+    "movement": "New entry",
+    "article": {
+      "headline": "Shimza | #75 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/75/shimza"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_Shimza.jpg.webp?itok=0KyJ-P41"
+  }
+}

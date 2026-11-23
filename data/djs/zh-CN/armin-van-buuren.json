@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0.0",
+  "id": "armin-van-buuren",
+  "name": "阿明·范·比伦",
+  "aliases": [
+    {
+      "name": "阿明•凡•布伦",
+      "type": "transliteration",
+      "language": "zh-CN"
+    }
+  ],
+  "description": "Armin Van Buuren 是荷兰 DJ 与制作人，以 Trance 为创作和演出的核心。他长期主持 A State of Trance，并通过同名活动连接全球听众。",
+  "sources": [
+    {
+      "url": "https://www.joox.com/my-zh_cn/artist/uUGC_yeKn9wk50dzIT_noA%3D%3D",
+      "publisher": "JOOX 简体中文艺人页",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/name"
+      ]
+    },
+    {
+      "url": "https://www.arminvanbuuren.com/biography/",
+      "publisher": "Armin van Buuren 官方传记",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    },
+    {
+      "url": "https://www.showstart.com/artist/967518",
+      "publisher": "秀动 — Armin van Buuren 艺人页",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

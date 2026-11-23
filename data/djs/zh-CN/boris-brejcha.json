@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "id": "boris-brejcha",
+  "name": null,
+  "aliases": [],
+  "description": "Boris Brejcha 以自己命名的 High-Tech Minimal 音乐方向建立了鲜明风格，现场也以面具形象为人熟悉。来自德国的他在2015年创办 Fckng Serious，持续发行自己的作品。",
+  "sources": [
+    {
+      "url": "https://www.borisbrejcha.de/bio",
+      "publisher": "Boris Brejcha 官方网站",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}

@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0.0",
+  "id": "vintage-culture",
+  "name": "Vintage Culture",
+  "entity_type": "person",
+  "description": "Brazilian DJ and producer Vintage Culture has had another major year, with his catalogue now surpassing 2.8 billion Spotify streams. In 2026, he launched his Affairs residency at Pacha Ibiza, playing four sold-out dates across June, alongside a packed international touring schedule.\n\nHis productions have continued to rack up Beatport No.1s and support across clubs, festivals and airwaves. Away from his solo sets, he has also shared the booth with names like Solomun, Loco Dice, Adriatique and BLOND:ISH.",
+  "nationalities": [
+    "Brazilian"
+  ],
+  "styles": [
+    "“House, tech-house, melodic house.”"
+  ],
+  "birth_date": "1993-07-07",
+  "gender": null,
+  "image": {
+    "url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_VintageCulture.jpg.webp?itok=5xNrjc3P",
+    "source_url": "https://djmag.com/top100djs/2026/10/vintage-culture",
+    "credit": null,
+    "license": null,
+    "license_url": null
+  },
+  "rankings": [
+    {
+      "year": 2026,
+      "rank": 10,
+      "previous_rank": null,
+      "source_url": "https://djmag.com/top100djs/2026/10/vintage-culture"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://djmag.com/top100djs/2026/10/vintage-culture",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-17T18:08:17.767466+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/10/vintage-culture",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T04:54:54.511767+00:00",
+      "fields": [
+        "/name",
+        "/rankings"
+      ]
+    },
+    {
+      "url": "https://djmag.com/top100djs/2026/10/vintage-culture",
+      "publisher": "DJ Mag",
+      "retrieved_at": "2026-11-18T05:11:55.381703+00:00",
+      "fields": [
+        "/profile_metadata",
+        "/origin",
+        "/best_known_for",
+        "/styles",
+        "/description",
+        "/image"
+      ]
+    },
+    {
+      "url": "https://www.insomniac.com/music/artists/vintage-culture/",
+      "publisher": "Insomniac — Vintage Culture",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/entity_type",
+        "/nationalities/0"
+      ]
+    },
+    {
+      "url": "https://mn2s.com/booking-agency/dj-roster/vintage-culture/",
+      "publisher": "MN2S — Vintage Culture booking biography",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/birth_date"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00",
+  "origin": "Brazil",
+  "best_known_for": "“Moving fluidly between genres, a 24/7 passion for music, and marathon sets that stretch from dusk until dawn.”",
+  "profile_metadata": {
+    "intro_fields": [
+      {
+        "label": "From",
+        "value": "Brazil"
+      },
+      {
+        "label": "DJ style",
+        "value": "“House, tech-house, melodic house.”"
+      },
+      {
+        "label": "Best known for",
+        "value": "“Moving fluidly between genres, a 24/7 passion for music, and marathon sets that stretch from dusk until dawn.”"
+      }
+    ],
+    "movement_places": 1,
+    "movement": "Up",
+    "article": {
+      "headline": "Vintage Culture | #10 | Top 100 DJs 2026 | DJMag.com",
+      "published_at": "2026-10-07T03:00:00+02:00",
+      "modified_at": null,
+      "author_name": "DJ Mag",
+      "url": "https://djmag.com/top100djs/2026/10/vintage-culture"
+    },
+    "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_VintageCulture.jpg.webp?itok=5xNrjc3P"
+  }
+}

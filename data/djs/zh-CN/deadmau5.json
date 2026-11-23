@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0.0",
+  "id": "deadmau5",
+  "name": "鼠来宝",
+  "aliases": [
+    {
+      "name": "Joel Thomas Zimmerman",
+      "type": "alternate_name",
+      "language": "en"
+    },
+    {
+      "name": "鼠來寶",
+      "type": "common_name",
+      "language": "zh-TW"
+    }
+  ],
+  "description": "Deadmau5 是加拿大电子音乐制作人与 DJ Joel Thomas Zimmerman，以大型鼠头造型及原创舞曲为人熟悉。其创作涉及前卫浩室，并通过自有厂牌 mau5trap 发行作品。",
+  "sources": [
+    {
+      "url": "https://www.ccr.com.tw/goods/285998",
+      "publisher": "佳佳唱片 — Deadmau5《while(1<2)》",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/name"
+      ]
+    },
+    {
+      "url": "https://www.officialcharts.com/artist/5536/deadmau5/",
+      "publisher": "Official Charts — Deadmau5",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/0",
+        "/description"
+      ]
+    },
+    {
+      "url": "https://www.bucksmusicgroup.com/artists/209-deadmau5",
+      "publisher": "Bucks Music Group — Deadmau5",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/description"
+      ]
+    },
+    {
+      "url": "https://www.ccr.com.tw/goods/285998",
+      "publisher": "佳佳唱片",
+      "retrieved_at": "2026-11-23T04:13:45+00:00",
+      "fields": [
+        "/aliases/1"
+      ]
+    }
+  ],
+  "updated_at": "2026-11-23T04:13:45+00:00"
+}
