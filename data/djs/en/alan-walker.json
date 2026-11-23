@@ -101,9 +101,25 @@
       "fields": [
         "/gender"
       ]
+    },
+    {
+      "url": "https://open.spotify.com/track/7sBq2OVMqSVlqP2hZklDLH",
+      "publisher": "Spotify",
+      "retrieved_at": "2026-11-23T08:29:43+00:00",
+      "fields": [
+        "/preview_audio"
+      ]
+    },
+    {
+      "url": "https://developer.spotify.com/documentation/embeds/tutorials/creating-an-embed",
+      "publisher": "Spotify",
+      "retrieved_at": "2026-11-23T08:29:43+00:00",
+      "fields": [
+        "/preview_audio"
+      ]
     }
   ],
-  "updated_at": "2026-11-23T04:13:45+00:00",
+  "updated_at": "2026-11-23T08:29:43+00:00",
   "origin": "Norway",
   "best_known_for": "“‘Faded’, wearing a mask and hoodie.”",
   "profile_metadata": {
@@ -131,5 +147,13 @@
       "url": "https://djmag.com/top100djs/2026/32/alan-walker"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_AlanWalker.jpg.webp?itok=_B7vA35g"
+  },
+  "preview_audio": {
+    "provider": "Spotify",
+    "embed_url": "https://open.spotify.com/embed/track/7sBq2OVMqSVlqP2hZklDLH",
+    "source_url": "https://open.spotify.com/track/7sBq2OVMqSVlqP2hZklDLH",
+    "title": "Faded",
+    "rights_evidence_url": "https://developer.spotify.com/documentation/embeds/tutorials/creating-an-embed",
+    "playback_verified_at": "2026-11-23T08:29:43+00:00"
   }
 }

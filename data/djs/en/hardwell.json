@@ -78,9 +78,25 @@
       "fields": [
         "/birth_date"
       ]
+    },
+    {
+      "url": "https://soundcloud.com/hardwell/hardwell-on-air-517",
+      "publisher": "SoundCloud",
+      "retrieved_at": "2026-11-23T06:54:19.555Z",
+      "fields": [
+        "/preview_audio"
+      ]
+    },
+    {
+      "url": "https://developers.soundcloud.com/docs/oembed",
+      "publisher": "SoundCloud",
+      "retrieved_at": "2026-11-23T06:54:19.555Z",
+      "fields": [
+        "/preview_audio"
+      ]
     }
   ],
-  "updated_at": "2026-11-23T04:13:45+00:00",
+  "updated_at": "2026-11-23T06:54:19.555Z",
   "origin": "The Netherlands",
   "best_known_for": "“Two-time World’s No.1 DJ, founder of Revealed Recordings and playing some of the biggest festivals around the globe.”",
   "profile_metadata": {
@@ -108,5 +124,13 @@
       "url": "https://djmag.com/top100djs/2026/29/hardwell"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_Hardwell.jpg.webp?itok=VnhrMBOD"
+  },
+  "preview_audio": {
+    "title": "Hardwell On Air 517",
+    "provider": "SoundCloud",
+    "embed_url": "https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F2047116100&show_artwork=true",
+    "source_url": "https://soundcloud.com/hardwell/hardwell-on-air-517",
+    "rights_evidence_url": "https://developers.soundcloud.com/docs/oembed",
+    "playback_verified_at": "2026-11-23T06:54:19.555Z"
   }
 }

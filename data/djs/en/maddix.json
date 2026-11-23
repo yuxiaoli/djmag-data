@@ -86,9 +86,25 @@
       "fields": [
         "/birth_date"
       ]
+    },
+    {
+      "url": "https://music.apple.com/us/album/heute-nacht/1649005918?i=1649005919",
+      "publisher": "Apple Music",
+      "retrieved_at": "2026-11-23T08:29:43+00:00",
+      "fields": [
+        "/preview_audio"
+      ]
+    },
+    {
+      "url": "https://artists.apple.com/support/1117-apple-music-marketing-tools",
+      "publisher": "Apple Music",
+      "retrieved_at": "2026-11-23T08:29:43+00:00",
+      "fields": [
+        "/preview_audio"
+      ]
     }
   ],
-  "updated_at": "2026-11-23T04:13:45+00:00",
+  "updated_at": "2026-11-23T08:29:43+00:00",
   "origin": "The Netherlands",
   "best_known_for": "Huge tunes and his EXTATIC label.",
   "profile_metadata": {
@@ -116,5 +132,13 @@
       "url": "https://djmag.com/top100djs/2026/52/maddix"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/2026-11/Maddix%202026%20-%20Credit%20Sven%20Scholten.jpg.webp?itok=Tj_HD3yM"
+  },
+  "preview_audio": {
+    "provider": "Apple Music",
+    "embed_url": "https://embed.music.apple.com/us/album/heute-nacht-single/1649005918?i=1649005919",
+    "source_url": "https://music.apple.com/us/album/heute-nacht/1649005918?i=1649005919",
+    "title": "Heute Nacht",
+    "rights_evidence_url": "https://artists.apple.com/support/1117-apple-music-marketing-tools",
+    "playback_verified_at": "2026-11-23T08:29:43+00:00"
   }
 }

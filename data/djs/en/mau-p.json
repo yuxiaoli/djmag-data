@@ -78,9 +78,25 @@
         "/birth_date",
         "/nationalities/0"
       ]
+    },
+    {
+      "url": "https://music.apple.com/us/album/drugs-from-amsterdam-single/1645283569",
+      "publisher": "Apple Music",
+      "retrieved_at": "2026-11-23T06:54:19.555Z",
+      "fields": [
+        "/preview_audio"
+      ]
+    },
+    {
+      "url": "https://artists.apple.com/support/1117-apple-music-marketing-tools",
+      "publisher": "Apple Music",
+      "retrieved_at": "2026-11-23T06:54:19.555Z",
+      "fields": [
+        "/preview_audio"
+      ]
     }
   ],
-  "updated_at": "2026-11-23T04:13:45+00:00",
+  "updated_at": "2026-11-23T06:54:19.555Z",
   "origin": "The Netherlands",
   "best_known_for": "His records and Baddest Behaviour events.",
   "profile_metadata": {
@@ -108,5 +124,13 @@
       "url": "https://djmag.com/top100djs/2026/55/mau-p"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_MauP.jpg.webp?itok=qx2Bc24i"
+  },
+  "preview_audio": {
+    "title": "Drugs From Amsterdam",
+    "provider": "Apple Music",
+    "embed_url": "https://embed.music.apple.com/us/album/drugs-from-amsterdam-single/1645283569",
+    "source_url": "https://music.apple.com/us/album/drugs-from-amsterdam-single/1645283569",
+    "rights_evidence_url": "https://artists.apple.com/support/1117-apple-music-marketing-tools",
+    "playback_verified_at": "2026-11-23T06:54:19.555Z"
   }
 }

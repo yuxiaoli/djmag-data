@@ -79,9 +79,25 @@
         "/gender",
         "/nationalities/0"
       ]
+    },
+    {
+      "url": "https://music.apple.com/us/album/5-mins-of-acid/1754150167?i=1754150168",
+      "publisher": "Apple Music",
+      "retrieved_at": "2026-11-23T08:29:43+00:00",
+      "fields": [
+        "/preview_audio"
+      ]
+    },
+    {
+      "url": "https://artists.apple.com/support/1117-apple-music-marketing-tools",
+      "publisher": "Apple Music",
+      "retrieved_at": "2026-11-23T08:29:43+00:00",
+      "fields": [
+        "/preview_audio"
+      ]
     }
   ],
-  "updated_at": "2026-11-23T04:13:45+00:00",
+  "updated_at": "2026-11-23T08:29:43+00:00",
   "origin": "The Netherlands",
   "best_known_for": "High-BPM sets and her euphoric sound.",
   "profile_metadata": {
@@ -109,5 +125,13 @@
       "url": "https://djmag.com/top100djs/2026/100/kiki"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_KIKI.jpg.webp?itok=wslsw8xl"
+  },
+  "preview_audio": {
+    "provider": "Apple Music",
+    "embed_url": "https://embed.music.apple.com/us/album/slash-010-5-mins-of-acid-single/1754150167?i=1754150168",
+    "source_url": "https://music.apple.com/us/album/5-mins-of-acid/1754150167?i=1754150168",
+    "title": "5 Mins of Acid",
+    "rights_evidence_url": "https://artists.apple.com/support/1117-apple-music-marketing-tools",
+    "playback_verified_at": "2026-11-23T08:29:43+00:00"
   }
 }

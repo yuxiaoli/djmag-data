@@ -142,7 +142,7 @@ def main():
             preserved_image = old['image'] is not None
             for field in ('entity_type','description','nationalities','styles','birth_date','gender','image'):
                 if old[field] is not None and old[field] != []: row[field]=old[field]
-            for field in ('origin','best_known_for','profile_metadata'):
+            for field in ('origin','best_known_for','profile_metadata','preview_audio'):
                 if field in old: row[field]=old[field]
             historical_rankings=[r for r in old['rankings'] if r['year']!=row['rankings'][0]['year']]
             retained_ranking_urls={r['source_url'] for r in historical_rankings}

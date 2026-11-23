@@ -78,9 +78,25 @@
         "/birth_date",
         "/nationalities/0"
       ]
+    },
+    {
+      "url": "https://music.apple.com/us/album/dirty-cash-money-talks/1778288335?i=1778288336",
+      "publisher": "Apple Music",
+      "retrieved_at": "2026-11-23T08:29:43+00:00",
+      "fields": [
+        "/preview_audio"
+      ]
+    },
+    {
+      "url": "https://artists.apple.com/support/1117-apple-music-marketing-tools",
+      "publisher": "Apple Music",
+      "retrieved_at": "2026-11-23T08:29:43+00:00",
+      "fields": [
+        "/preview_audio"
+      ]
     }
   ],
-  "updated_at": "2026-11-23T04:13:45+00:00",
+  "updated_at": "2026-11-23T08:29:43+00:00",
   "origin": "UK",
   "best_known_for": "Solid Grooves and GOLFOS, and hits like ‘Dirty Cash (Money Talks)’.",
   "profile_metadata": {
@@ -108,5 +124,13 @@
       "url": "https://djmag.com/top100djs/2026/86/pawsa"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_PAWSA.jpg.webp?itok=2o3nDo8d"
+  },
+  "preview_audio": {
+    "provider": "Apple Music",
+    "embed_url": "https://embed.music.apple.com/us/album/dirty-cash-money-talks-single/1778288335?i=1778288336",
+    "source_url": "https://music.apple.com/us/album/dirty-cash-money-talks/1778288335?i=1778288336",
+    "title": "Dirty Cash (Money Talks)",
+    "rights_evidence_url": "https://artists.apple.com/support/1117-apple-music-marketing-tools",
+    "playback_verified_at": "2026-11-23T08:29:43+00:00"
   }
 }

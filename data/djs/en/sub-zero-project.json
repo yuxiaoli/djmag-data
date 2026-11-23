@@ -75,9 +75,25 @@
       "fields": [
         "/entity_type"
       ]
+    },
+    {
+      "url": "https://music.apple.com/us/album/dediqated-20-years-of-q-dance/1495967920?i=1495977356",
+      "publisher": "Apple Music",
+      "retrieved_at": "2026-11-23T08:32:03+00:00",
+      "fields": [
+        "/preview_audio"
+      ]
+    },
+    {
+      "url": "https://artists.apple.com/support/1117-apple-music-marketing-tools",
+      "publisher": "Apple Music",
+      "retrieved_at": "2026-11-23T08:32:03+00:00",
+      "fields": [
+        "/preview_audio"
+      ]
     }
   ],
-  "updated_at": "2026-11-23T04:13:45+00:00",
+  "updated_at": "2026-11-23T08:32:03+00:00",
   "origin": "The Netherlands",
   "best_known_for": "Signature kicks and uplifting melodies.",
   "profile_metadata": {
@@ -105,5 +121,13 @@
       "url": "https://djmag.com/top100djs/2026/67/sub-zero-project"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_SubZeroProject.jpg.webp?itok=jYvzMaef"
+  },
+  "preview_audio": {
+    "provider": "Apple Music",
+    "embed_url": "https://embed.music.apple.com/us/album/dediqated-20-years-of-q-dance/1495967920?i=1495977356",
+    "source_url": "https://music.apple.com/us/album/dediqated-20-years-of-q-dance/1495967920?i=1495977356",
+    "title": "The Project (Q-dance compilation version)",
+    "rights_evidence_url": "https://artists.apple.com/support/1117-apple-music-marketing-tools",
+    "playback_verified_at": "2026-11-23T08:32:03+00:00"
   }
 }

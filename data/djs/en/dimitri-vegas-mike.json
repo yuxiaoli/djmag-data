@@ -67,9 +67,25 @@
       "fields": [
         "/entity_type"
       ]
+    },
+    {
+      "url": "https://open.spotify.com/track/3o5BRFHFkLxVvgYgEUeJ1c",
+      "publisher": "Spotify",
+      "retrieved_at": "2026-11-23T08:29:43+00:00",
+      "fields": [
+        "/preview_audio"
+      ]
+    },
+    {
+      "url": "https://developer.spotify.com/documentation/embeds/tutorials/creating-an-embed",
+      "publisher": "Spotify",
+      "retrieved_at": "2026-11-23T08:29:43+00:00",
+      "fields": [
+        "/preview_audio"
+      ]
     }
   ],
-  "updated_at": "2026-11-23T04:13:45+00:00",
+  "updated_at": "2026-11-23T08:29:43+00:00",
   "origin": "Belgium",
   "best_known_for": "Being the kings of Tomorrowland.",
   "profile_metadata": {
@@ -97,5 +113,13 @@
       "url": "https://djmag.com/top100djs/2026/5/dimitri-vegas-mike"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_DimitriVegasandLikeMike.jpg.webp?itok=GnQoVpMG"
+  },
+  "preview_audio": {
+    "provider": "Spotify",
+    "embed_url": "https://open.spotify.com/embed/track/3o5BRFHFkLxVvgYgEUeJ1c",
+    "source_url": "https://open.spotify.com/track/3o5BRFHFkLxVvgYgEUeJ1c",
+    "title": "Tremor (Radio Edit)",
+    "rights_evidence_url": "https://developer.spotify.com/documentation/embeds/tutorials/creating-an-embed",
+    "playback_verified_at": "2026-11-23T08:29:43+00:00"
   }
 }

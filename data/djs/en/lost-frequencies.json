@@ -71,9 +71,25 @@
         "/entity_type",
         "/nationalities/0"
       ]
+    },
+    {
+      "url": "https://music.apple.com/us/album/are-you-with-me-single/899597149",
+      "publisher": "Apple Music",
+      "retrieved_at": "2026-11-23T08:29:43+00:00",
+      "fields": [
+        "/preview_audio"
+      ]
+    },
+    {
+      "url": "https://artists.apple.com/support/1117-apple-music-marketing-tools",
+      "publisher": "Apple Music",
+      "retrieved_at": "2026-11-23T08:29:43+00:00",
+      "fields": [
+        "/preview_audio"
+      ]
     }
   ],
-  "updated_at": "2026-11-23T04:13:45+00:00",
+  "updated_at": "2026-11-23T08:29:43+00:00",
   "origin": "Belgium",
   "best_known_for": "“‘Are You With Me’, ‘Where Are You Now’, ‘The Feeling’, ‘Black Friday’ and touring the world.”",
   "profile_metadata": {
@@ -101,5 +117,13 @@
       "url": "https://djmag.com/top100djs/2026/17/lost-frequencies"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_LostFrequencies.jpg.webp?itok=VSogGzFW"
+  },
+  "preview_audio": {
+    "provider": "Apple Music",
+    "embed_url": "https://embed.music.apple.com/us/album/are-you-with-me-single/899597149",
+    "source_url": "https://music.apple.com/us/album/are-you-with-me-single/899597149",
+    "title": "Are You With Me",
+    "rights_evidence_url": "https://artists.apple.com/support/1117-apple-music-marketing-tools",
+    "playback_verified_at": "2026-11-23T08:29:43+00:00"
   }
 }

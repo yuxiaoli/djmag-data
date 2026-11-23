@@ -71,9 +71,25 @@
         "/entity_type",
         "/nationalities/0"
       ]
+    },
+    {
+      "url": "https://music.apple.com/us/album/strobe/1813489294?i=1813489559",
+      "publisher": "Apple Music",
+      "retrieved_at": "2026-11-23T08:29:43+00:00",
+      "fields": [
+        "/preview_audio"
+      ]
+    },
+    {
+      "url": "https://artists.apple.com/support/1117-apple-music-marketing-tools",
+      "publisher": "Apple Music",
+      "retrieved_at": "2026-11-23T08:29:43+00:00",
+      "fields": [
+        "/preview_audio"
+      ]
     }
   ],
-  "updated_at": "2026-11-23T04:13:45+00:00",
+  "updated_at": "2026-11-23T08:29:43+00:00",
   "origin": "Canada",
   "best_known_for": "'Strobe'",
   "profile_metadata": {
@@ -101,5 +117,13 @@
       "url": "https://djmag.com/top100djs/2026/91/deadmau5"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_deadmau5.jpg.webp?itok=WiPUu_HX"
+  },
+  "preview_audio": {
+    "provider": "Apple Music",
+    "embed_url": "https://embed.music.apple.com/us/album/for-lack-of-a-better-name-the-extended-mixes/1813489294?i=1813489559",
+    "source_url": "https://music.apple.com/us/album/strobe/1813489294?i=1813489559",
+    "title": "Strobe",
+    "rights_evidence_url": "https://artists.apple.com/support/1117-apple-music-marketing-tools",
+    "playback_verified_at": "2026-11-23T08:29:43+00:00"
   }
 }

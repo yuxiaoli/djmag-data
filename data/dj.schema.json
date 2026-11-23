@@ -187,6 +187,52 @@
       },
       "uniqueItems": true
     },
+    "preview_audio": {
+      "type": "object",
+      "description": "Official third-party player for the researched work, with documented embedding and browser-verified playback.",
+      "additionalProperties": false,
+      "properties": {
+        "title": { "type": "string", "minLength": 1 },
+        "provider": { "enum": ["Apple Podcasts", "Apple Music", "Spotify", "SoundCloud", "Beatport"] },
+        "embed_url": { "type": "string", "format": "uri" },
+        "source_url": { "type": "string", "format": "uri", "pattern": "^https://" },
+        "rights_evidence_url": { "type": "string", "format": "uri", "pattern": "^https://" },
+        "playback_verified_at": { "type": "string", "format": "date-time" }
+      },
+      "required": ["title", "provider", "embed_url", "source_url", "rights_evidence_url", "playback_verified_at"],
+      "oneOf": [
+        {
+          "properties": {
+            "provider": { "const": "Apple Podcasts" },
+            "embed_url": { "pattern": "^https://embed\\.podcasts\\.apple\\.com/[a-z]{2}/podcast/[a-z0-9-]+/id[0-9]+\\?i=[0-9]+$" }
+          }
+        },
+        {
+          "properties": {
+            "provider": { "const": "Apple Music" },
+            "embed_url": { "pattern": "^https://embed\\.music\\.apple\\.com/[a-z]{2}/album/([a-z0-9-]|%[0-9A-Fa-f]{2})+/[0-9]+(\\?i=[0-9]+)?$" }
+          }
+        },
+        {
+          "properties": {
+            "provider": { "const": "Spotify" },
+            "embed_url": { "pattern": "^https://open\\.spotify\\.com/embed/track/[A-Za-z0-9]+(\\?(theme=0|utm_source=oembed))?$" }
+          }
+        },
+        {
+          "properties": {
+            "provider": { "const": "SoundCloud" },
+            "embed_url": { "pattern": "^https://w\\.soundcloud\\.com/player/\\?visual=true&url=https%3A%2F%2Fapi\\.soundcloud\\.com%2Ftracks%2F[0-9]+&show_artwork=true$" }
+          }
+        },
+        {
+          "properties": {
+            "provider": { "const": "Beatport" },
+            "embed_url": { "pattern": "^https://embed\\.beatport\\.com/\\?id=[0-9]+&type=track$" }
+          }
+        }
+      ]
+    },
     "updated_at": {
       "type": "string",
       "format": "date-time",

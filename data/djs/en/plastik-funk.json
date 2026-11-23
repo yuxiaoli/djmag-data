@@ -70,9 +70,25 @@
         "/entity_type",
         "/nationalities/0"
       ]
+    },
+    {
+      "url": "https://artists.apple.com/support/1117-apple-music-marketing-tools",
+      "publisher": "Apple Music",
+      "retrieved_at": "2026-11-23T08:29:43+00:00",
+      "fields": [
+        "/preview_audio"
+      ]
+    },
+    {
+      "url": "https://music.apple.com/us/album/dare-me/1490619615?i=1490619616",
+      "publisher": "Apple Music",
+      "retrieved_at": "2026-11-23T08:29:43+00:00",
+      "fields": [
+        "/preview_audio"
+      ]
     }
   ],
-  "updated_at": "2026-11-23T04:13:45+00:00",
+  "updated_at": "2026-11-23T08:29:43+00:00",
   "origin": "Spain/Germany",
   "best_known_for": "“‘WHO’ with Tujamo, ‘Dare Me’ with NERVO, ‘Reveille’ with Timmy Trumpet.”",
   "profile_metadata": {
@@ -100,5 +116,13 @@
       "url": "https://djmag.com/top100djs/2026/90/plastik-funk"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_PlastikFunk.jpg.webp?itok=rhszHIUm"
+  },
+  "preview_audio": {
+    "provider": "Apple Music",
+    "embed_url": "https://embed.music.apple.com/us/album/dare-me-single/1490619615?i=1490619616",
+    "source_url": "https://music.apple.com/us/album/dare-me/1490619615?i=1490619616",
+    "title": "Dare Me",
+    "rights_evidence_url": "https://artists.apple.com/support/1117-apple-music-marketing-tools",
+    "playback_verified_at": "2026-11-23T08:29:43+00:00"
   }
 }

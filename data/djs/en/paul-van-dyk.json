@@ -85,9 +85,25 @@
       "fields": [
         "/birth_date"
       ]
+    },
+    {
+      "url": "https://music.apple.com/us/album/for-an-angel-2009/1607460341?i=1607460351",
+      "publisher": "Apple Music",
+      "retrieved_at": "2026-11-23T08:29:43+00:00",
+      "fields": [
+        "/preview_audio"
+      ]
+    },
+    {
+      "url": "https://artists.apple.com/support/1117-apple-music-marketing-tools",
+      "publisher": "Apple Music",
+      "retrieved_at": "2026-11-23T08:29:43+00:00",
+      "fields": [
+        "/preview_audio"
+      ]
     }
   ],
-  "updated_at": "2026-11-23T04:13:45+00:00",
+  "updated_at": "2026-11-23T08:29:43+00:00",
   "origin": "Germany",
   "best_known_for": "“Making people dance.”",
   "profile_metadata": {
@@ -115,5 +131,13 @@
       "url": "https://djmag.com/top100djs/2026/35/paul-van-dyk"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_PaulvanDyk.jpg.webp?itok=Uyg8ZDbJ"
+  },
+  "preview_audio": {
+    "provider": "Apple Music",
+    "embed_url": "https://embed.music.apple.com/us/album/for-an-angel-2009/1607460341?i=1607460351",
+    "source_url": "https://music.apple.com/us/album/for-an-angel-2009/1607460341?i=1607460351",
+    "title": "For An Angel (PvD Remix ’09)",
+    "rights_evidence_url": "https://artists.apple.com/support/1117-apple-music-marketing-tools",
+    "playback_verified_at": "2026-11-23T08:29:43+00:00"
   }
 }

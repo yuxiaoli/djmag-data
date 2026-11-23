@@ -68,9 +68,25 @@
         "/entity_type",
         "/gender"
       ]
+    },
+    {
+      "url": "https://music.apple.com/us/album/not-about-you-feat-hadiya-george-extended-mix/1783950053?i=1783950055",
+      "publisher": "Apple Music",
+      "retrieved_at": "2026-11-23T08:29:43+00:00",
+      "fields": [
+        "/preview_audio"
+      ]
+    },
+    {
+      "url": "https://artists.apple.com/support/1117-apple-music-marketing-tools",
+      "publisher": "Apple Music",
+      "retrieved_at": "2026-11-23T08:29:43+00:00",
+      "fields": [
+        "/preview_audio"
+      ]
     }
   ],
-  "updated_at": "2026-11-23T04:13:45+00:00",
+  "updated_at": "2026-11-23T08:29:43+00:00",
   "origin": "USA",
   "best_known_for": "Injecting groove into everything she does.",
   "profile_metadata": {
@@ -98,5 +114,13 @@
       "url": "https://djmag.com/top100djs/2026/98/honey-dijon"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_HoneyDijon.jpg.webp?itok=sNRuSUT-"
+  },
+  "preview_audio": {
+    "provider": "Apple Music",
+    "embed_url": "https://embed.music.apple.com/us/album/not-about-you-feat-hadiya-george-single/1783950053?i=1783950055",
+    "source_url": "https://music.apple.com/us/album/not-about-you-feat-hadiya-george-extended-mix/1783950053?i=1783950055",
+    "title": "Not About You (feat. Hadiya George) [Extended Mix]",
+    "rights_evidence_url": "https://artists.apple.com/support/1117-apple-music-marketing-tools",
+    "playback_verified_at": "2026-11-23T08:29:43+00:00"
   }
 }

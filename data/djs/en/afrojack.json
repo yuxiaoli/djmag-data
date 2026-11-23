@@ -97,9 +97,25 @@
       "fields": [
         "/nationalities/0"
       ]
+    },
+    {
+      "url": "https://open.spotify.com/track/5EzaAqVMIcq1iT7t9e6a3Y",
+      "publisher": "Spotify",
+      "retrieved_at": "2026-11-23T08:29:43+00:00",
+      "fields": [
+        "/preview_audio"
+      ]
+    },
+    {
+      "url": "https://developer.spotify.com/documentation/embeds/tutorials/creating-an-embed",
+      "publisher": "Spotify",
+      "retrieved_at": "2026-11-23T08:29:43+00:00",
+      "fields": [
+        "/preview_audio"
+      ]
     }
   ],
-  "updated_at": "2026-11-23T04:13:45+00:00",
+  "updated_at": "2026-11-23T08:29:43+00:00",
   "origin": "The Netherlands",
   "best_known_for": "Big tracks and his Wall Recordings label.",
   "profile_metadata": {
@@ -127,5 +143,13 @@
       "url": "https://djmag.com/top100djs/2026/15/afrojack"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_Afrojack.jpg.webp?itok=gkbsqf9C"
+  },
+  "preview_audio": {
+    "provider": "Spotify",
+    "embed_url": "https://open.spotify.com/embed/track/5EzaAqVMIcq1iT7t9e6a3Y",
+    "source_url": "https://open.spotify.com/track/5EzaAqVMIcq1iT7t9e6a3Y",
+    "title": "Take Over Control (feat. Eva Simons) [Radio Edit]",
+    "rights_evidence_url": "https://developer.spotify.com/documentation/embeds/tutorials/creating-an-embed",
+    "playback_verified_at": "2026-11-23T08:29:43+00:00"
   }
 }

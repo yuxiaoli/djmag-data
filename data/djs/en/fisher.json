@@ -77,9 +77,25 @@
       "fields": [
         "/nationalities/0"
       ]
+    },
+    {
+      "url": "https://music.apple.com/us/album/losing-it-single/1408454984",
+      "publisher": "Apple Music",
+      "retrieved_at": "2026-11-23T08:29:43+00:00",
+      "fields": [
+        "/preview_audio"
+      ]
+    },
+    {
+      "url": "https://artists.apple.com/support/1117-apple-music-marketing-tools",
+      "publisher": "Apple Music",
+      "retrieved_at": "2026-11-23T08:29:43+00:00",
+      "fields": [
+        "/preview_audio"
+      ]
     }
   ],
-  "updated_at": "2026-11-23T04:13:45+00:00",
+  "updated_at": "2026-11-23T08:29:43+00:00",
   "origin": "Australia",
   "best_known_for": "‘Losing It’",
   "profile_metadata": {
@@ -107,5 +123,13 @@
       "url": "https://djmag.com/top100djs/2026/9/fisher"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_FISHER.jpg.webp?itok=ydE-24fy"
+  },
+  "preview_audio": {
+    "provider": "Apple Music",
+    "embed_url": "https://embed.music.apple.com/us/album/losing-it-single/1408454984",
+    "source_url": "https://music.apple.com/us/album/losing-it-single/1408454984",
+    "title": "Losing It",
+    "rights_evidence_url": "https://artists.apple.com/support/1117-apple-music-marketing-tools",
+    "playback_verified_at": "2026-11-23T08:29:43+00:00"
   }
 }

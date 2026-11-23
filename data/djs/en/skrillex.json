@@ -71,9 +71,25 @@
         "/entity_type",
         "/nationalities/0"
       ]
+    },
+    {
+      "url": "https://artists.apple.com/support/1117-apple-music-marketing-tools",
+      "publisher": "Apple Music",
+      "retrieved_at": "2026-11-23T08:29:43+00:00",
+      "fields": [
+        "/preview_audio"
+      ]
+    },
+    {
+      "url": "https://music.apple.com/us/album/bangarang-feat-sirah/491596645?i=491596647",
+      "publisher": "Apple Music",
+      "retrieved_at": "2026-11-23T08:29:43+00:00",
+      "fields": [
+        "/preview_audio"
+      ]
     }
   ],
-  "updated_at": "2026-11-23T04:13:45+00:00",
+  "updated_at": "2026-11-23T08:29:43+00:00",
   "origin": "USA",
   "best_known_for": "Blowing up dubstep in the US and countless hit tracks.",
   "profile_metadata": {
@@ -101,5 +117,13 @@
       "url": "https://djmag.com/top100djs/2026/25/skrillex"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_Skrillex.jpg.webp?itok=YcblMAQ4"
+  },
+  "preview_audio": {
+    "provider": "Apple Music",
+    "embed_url": "https://embed.music.apple.com/us/album/bangarang-feat-sirah/491596645?i=491596647",
+    "source_url": "https://music.apple.com/us/album/bangarang-feat-sirah/491596645?i=491596647",
+    "title": "Bangarang (feat. Sirah)",
+    "rights_evidence_url": "https://artists.apple.com/support/1117-apple-music-marketing-tools",
+    "playback_verified_at": "2026-11-23T08:29:43+00:00"
   }
 }

@@ -71,9 +71,25 @@
         "/entity_type",
         "/nationalities/0"
       ]
+    },
+    {
+      "url": "https://podcasts.apple.com/ca/podcast/resonation-radio-312/id361221823?i=1000802778769",
+      "publisher": "Apple Podcasts",
+      "retrieved_at": "2026-11-23T06:54:19.555Z",
+      "fields": [
+        "/preview_audio"
+      ]
+    },
+    {
+      "url": "https://podcasters.apple.com/support/5619-apple-podcasts-embed-player",
+      "publisher": "Apple Podcasts",
+      "retrieved_at": "2026-11-23T06:54:19.555Z",
+      "fields": [
+        "/preview_audio"
+      ]
     }
   ],
-  "updated_at": "2026-11-23T04:13:45+00:00",
+  "updated_at": "2026-11-23T06:54:19.555Z",
   "origin": "The Netherlands",
   "best_known_for": "“Drawing from trance’s roots while continually pushing the sound forward.”",
   "profile_metadata": {
@@ -101,5 +117,13 @@
       "url": "https://djmag.com/top100djs/2026/83/ferry-corsten"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_FerryCorsten.jpg.webp?itok=i34Wsyy8"
+  },
+  "preview_audio": {
+    "title": "Resonation Radio 312",
+    "provider": "Apple Podcasts",
+    "embed_url": "https://embed.podcasts.apple.com/us/podcast/resonation-radio-by-ferry-corsten/id361221823?i=1000802778769",
+    "source_url": "https://podcasts.apple.com/ca/podcast/resonation-radio-312/id361221823?i=1000802778769",
+    "rights_evidence_url": "https://podcasters.apple.com/support/5619-apple-podcasts-embed-player",
+    "playback_verified_at": "2026-11-23T06:54:19.555Z"
   }
 }

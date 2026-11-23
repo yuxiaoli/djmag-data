@@ -85,9 +85,25 @@
       "fields": [
         "/birth_date"
       ]
+    },
+    {
+      "url": "https://artists.apple.com/support/1117-apple-music-marketing-tools",
+      "publisher": "Apple Music",
+      "retrieved_at": "2026-11-23T08:29:43+00:00",
+      "fields": [
+        "/preview_audio"
+      ]
+    },
+    {
+      "url": "https://music.apple.com/us/album/morenita-feat-cumbiafrica-single/1570417967",
+      "publisher": "Apple Music",
+      "retrieved_at": "2026-11-23T08:29:43+00:00",
+      "fields": [
+        "/preview_audio"
+      ]
     }
   ],
-  "updated_at": "2026-11-23T04:13:45+00:00",
+  "updated_at": "2026-11-23T08:29:43+00:00",
   "origin": "France",
   "best_known_for": "His album ‘Twenty One’ and his Hï Ibiza residency.",
   "profile_metadata": {
@@ -115,5 +131,13 @@
       "url": "https://djmag.com/top100djs/2026/48/hugel"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_HUGEL.jpg.webp?itok=3vweWc0f"
+  },
+  "preview_audio": {
+    "provider": "Apple Music",
+    "embed_url": "https://embed.music.apple.com/us/album/morenita-feat-cumbiafrica-single/1570417967",
+    "source_url": "https://music.apple.com/us/album/morenita-feat-cumbiafrica-single/1570417967",
+    "title": "Morenita (feat. Cumbiafrica)",
+    "rights_evidence_url": "https://artists.apple.com/support/1117-apple-music-marketing-tools",
+    "playback_verified_at": "2026-11-23T08:29:43+00:00"
   }
 }

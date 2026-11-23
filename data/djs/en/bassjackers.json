@@ -87,9 +87,25 @@
       "fields": [
         "/entity_type"
       ]
+    },
+    {
+      "url": "https://artists.apple.com/support/1117-apple-music-marketing-tools",
+      "publisher": "Apple Music",
+      "retrieved_at": "2026-11-23T08:29:43+00:00",
+      "fields": [
+        "/preview_audio"
+      ]
+    },
+    {
+      "url": "https://music.apple.com/us/album/el-mariachi/1337256809?i=1337256813",
+      "publisher": "Apple Music",
+      "retrieved_at": "2026-11-23T08:29:43+00:00",
+      "fields": [
+        "/preview_audio"
+      ]
     }
   ],
-  "updated_at": "2026-11-23T04:13:45+00:00",
+  "updated_at": "2026-11-23T08:29:43+00:00",
   "origin": "The Netherlands",
   "best_known_for": "Festival-sized productions, explosive sets, embracing faster sounds.",
   "profile_metadata": {
@@ -117,5 +133,13 @@
       "url": "https://djmag.com/top100djs/2026/58/bassjackers"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_Bassjackers.jpg.webp?itok=uKITST7z"
+  },
+  "preview_audio": {
+    "provider": "Apple Music",
+    "embed_url": "https://embed.music.apple.com/us/album/el-mariachi-single/1337256809?i=1337256813",
+    "source_url": "https://music.apple.com/us/album/el-mariachi/1337256809?i=1337256813",
+    "title": "El Mariachi",
+    "rights_evidence_url": "https://artists.apple.com/support/1117-apple-music-marketing-tools",
+    "playback_verified_at": "2026-11-23T08:29:43+00:00"
   }
 }

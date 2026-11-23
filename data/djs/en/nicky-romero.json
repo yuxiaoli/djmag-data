@@ -78,9 +78,25 @@
         "/birth_date",
         "/nationalities/0"
       ]
+    },
+    {
+      "url": "https://podcasts.apple.com/us/podcast/protocol-radio-745/id561124694?i=1000802958156",
+      "publisher": "Apple Podcasts",
+      "retrieved_at": "2026-11-23T06:54:19.555Z",
+      "fields": [
+        "/preview_audio"
+      ]
+    },
+    {
+      "url": "https://podcasters.apple.com/support/5619-apple-podcasts-embed-player",
+      "publisher": "Apple Podcasts",
+      "retrieved_at": "2026-11-23T06:54:19.555Z",
+      "fields": [
+        "/preview_audio"
+      ]
     }
   ],
-  "updated_at": "2026-11-23T04:13:45+00:00",
+  "updated_at": "2026-11-23T06:54:19.555Z",
   "origin": "The Netherlands",
   "best_known_for": "“Mega hits like ‘I Could Be The One’ with Avicii, and ‘Toulouse’.”",
   "profile_metadata": {
@@ -108,5 +124,13 @@
       "url": "https://djmag.com/top100djs/2026/27/nicky-romero"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_NickyRomero.jpg.webp?itok=lIoW8PtZ"
+  },
+  "preview_audio": {
+    "title": "Protocol Radio 745",
+    "provider": "Apple Podcasts",
+    "embed_url": "https://embed.podcasts.apple.com/us/podcast/protocol-radio/id561124694?i=1000802958156",
+    "source_url": "https://podcasts.apple.com/us/podcast/protocol-radio-745/id561124694?i=1000802958156",
+    "rights_evidence_url": "https://podcasters.apple.com/support/5619-apple-podcasts-embed-player",
+    "playback_verified_at": "2026-11-23T06:54:19.555Z"
   }
 }

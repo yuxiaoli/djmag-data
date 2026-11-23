@@ -93,9 +93,25 @@
       "fields": [
         "/gender"
       ]
+    },
+    {
+      "url": "https://open.spotify.com/track/2toRTtkHZ70ZvKHQcemRv2",
+      "publisher": "Spotify",
+      "retrieved_at": "2026-11-23T06:54:19.555Z",
+      "fields": [
+        "/preview_audio"
+      ]
+    },
+    {
+      "url": "https://developer.spotify.com/documentation/embeds/tutorials/creating-an-embed",
+      "publisher": "Spotify",
+      "retrieved_at": "2026-11-23T06:54:19.555Z",
+      "fields": [
+        "/preview_audio"
+      ]
     }
   ],
-  "updated_at": "2026-11-23T04:13:45+00:00",
+  "updated_at": "2026-11-23T06:54:19.555Z",
   "origin": "The Netherlands",
   "best_known_for": "“Blurring the lines between old school and new school, while building worlds that connect music, art, fashion and technology. Pushing house music into the future.”",
   "profile_metadata": {
@@ -123,5 +139,13 @@
       "url": "https://djmag.com/top100djs/2026/12/don-diablo"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_DonDiablo.jpg.webp?itok=pw4-zcEy"
+  },
+  "preview_audio": {
+    "title": "On My Mind - Radio Edit",
+    "provider": "Spotify",
+    "embed_url": "https://open.spotify.com/embed/track/2toRTtkHZ70ZvKHQcemRv2?theme=0",
+    "source_url": "https://open.spotify.com/track/2toRTtkHZ70ZvKHQcemRv2",
+    "rights_evidence_url": "https://developer.spotify.com/documentation/embeds/tutorials/creating-an-embed",
+    "playback_verified_at": "2026-11-23T06:54:19.555Z"
   }
 }

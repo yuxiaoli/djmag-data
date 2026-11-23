@@ -78,9 +78,25 @@
       "fields": [
         "/nationalities/0"
       ]
+    },
+    {
+      "url": "https://music.apple.com/us/album/clarity-feat-foxes/1440861402?i=1440861976",
+      "publisher": "Apple Music",
+      "retrieved_at": "2026-11-23T08:29:43+00:00",
+      "fields": [
+        "/preview_audio"
+      ]
+    },
+    {
+      "url": "https://artists.apple.com/support/1117-apple-music-marketing-tools",
+      "publisher": "Apple Music",
+      "retrieved_at": "2026-11-23T08:29:43+00:00",
+      "fields": [
+        "/preview_audio"
+      ]
     }
   ],
-  "updated_at": "2026-11-23T04:13:45+00:00",
+  "updated_at": "2026-11-23T08:29:43+00:00",
   "origin": "Russia/Germany",
   "best_known_for": "Loads of EDM and dance-pop mega-hits.",
   "profile_metadata": {
@@ -108,5 +124,13 @@
       "url": "https://djmag.com/top100djs/2026/54/zedd"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_Zedd.jpg.webp?itok=dm-V3WYv"
+  },
+  "preview_audio": {
+    "provider": "Apple Music",
+    "embed_url": "https://embed.music.apple.com/us/album/clarity/1440861402?i=1440861976",
+    "source_url": "https://music.apple.com/us/album/clarity-feat-foxes/1440861402?i=1440861976",
+    "title": "Clarity (feat. Foxes)",
+    "rights_evidence_url": "https://artists.apple.com/support/1117-apple-music-marketing-tools",
+    "playback_verified_at": "2026-11-23T08:29:43+00:00"
   }
 }

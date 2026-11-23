@@ -78,9 +78,25 @@
       "fields": [
         "/nationalities/0"
       ]
+    },
+    {
+      "url": "https://www.beatport.com/track/all-you-got-to-do/19333419",
+      "publisher": "Beatport",
+      "retrieved_at": "2026-11-23T08:36:10+00:00",
+      "fields": [
+        "/preview_audio"
+      ]
+    },
+    {
+      "url": "https://about.beatport.com/wp-content/uploads/sites/2/2020/12/Beatport-62315-Embeddable-Streaming-Music-Player-0288.pdf",
+      "publisher": "Beatport",
+      "retrieved_at": "2026-11-23T08:36:10+00:00",
+      "fields": [
+        "/preview_audio"
+      ]
     }
   ],
-  "updated_at": "2026-11-23T04:13:45+00:00",
+  "updated_at": "2026-11-23T08:36:10+00:00",
   "origin": "Germany",
   "best_known_for": "“Highly energetic performances, crazy outfits and playing 80% of my own productions.”",
   "profile_metadata": {
@@ -108,5 +124,13 @@
       "url": "https://djmag.com/top100djs/2026/49/lilly-palmer"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_LillyPalmer.jpg.webp?itok=yiJ20kkx"
+  },
+  "preview_audio": {
+    "provider": "Beatport",
+    "embed_url": "https://embed.beatport.com/?id=19333419&type=track",
+    "source_url": "https://www.beatport.com/track/all-you-got-to-do/19333419",
+    "title": "All You Got To Do (Extended Mix)",
+    "rights_evidence_url": "https://about.beatport.com/wp-content/uploads/sites/2/2020/12/Beatport-62315-Embeddable-Streaming-Music-Player-0288.pdf",
+    "playback_verified_at": "2026-11-23T08:36:10+00:00"
   }
 }

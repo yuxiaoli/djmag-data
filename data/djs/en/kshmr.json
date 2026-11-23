@@ -78,9 +78,25 @@
         "/birth_date",
         "/nationalities/0"
       ]
+    },
+    {
+      "url": "https://open.spotify.com/track/3yYERdiobRofecj62hCHVU",
+      "publisher": "Spotify",
+      "retrieved_at": "2026-11-23T08:29:43+00:00",
+      "fields": [
+        "/preview_audio"
+      ]
+    },
+    {
+      "url": "https://developer.spotify.com/documentation/embeds/tutorials/creating-an-embed",
+      "publisher": "Spotify",
+      "retrieved_at": "2026-11-23T08:29:43+00:00",
+      "fields": [
+        "/preview_audio"
+      ]
     }
   ],
-  "updated_at": "2026-11-23T04:13:45+00:00",
+  "updated_at": "2026-11-23T08:29:43+00:00",
   "origin": "USA",
   "best_known_for": "“Combining world (especially Indian) and cinematic sounds with dance music.”",
   "profile_metadata": {
@@ -108,5 +124,13 @@
       "url": "https://djmag.com/top100djs/2026/19/kshmr"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_KSHMR.jpg.webp?itok=xt3mc0fw"
+  },
+  "preview_audio": {
+    "provider": "Spotify",
+    "embed_url": "https://open.spotify.com/embed/track/3yYERdiobRofecj62hCHVU",
+    "source_url": "https://open.spotify.com/track/3yYERdiobRofecj62hCHVU",
+    "title": "Secrets (feat. Vassy)",
+    "rights_evidence_url": "https://developer.spotify.com/documentation/embeds/tutorials/creating-an-embed",
+    "playback_verified_at": "2026-11-23T08:29:43+00:00"
   }
 }

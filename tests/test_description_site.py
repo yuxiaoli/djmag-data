@@ -39,7 +39,8 @@ class DescriptionSiteTests(unittest.TestCase):
    self.assertLess(html.index('Best known for</dt>'),html.index('Ranking change</dt>'))
    self.assertLess(html.index('Ranking change</dt>'),html.index('<h2>Profile details</h2>'))
    self.assertLess(html.index('<h2>Profile details</h2>'),html.index('First &lt;unsafe&gt;'))
-   self.assertLess(html.index('Last paragraph.'),html.index('</section>'))
+   profile_section = html.index('<section class="profile-details">')
+   self.assertLess(html.index('Last paragraph.'), html.index('</section>', profile_section))
    self.assertEqual(html.count('First &lt;unsafe&gt;'),1)
    css=(root/'site/style.css').read_text(encoding='utf-8')
    self.assertIn('.ranking-label,.profile-facts dt,.profile-details dt,.profile-details h2{color:#9eabc1;font-size:16px;font-weight:400;line-height:1.55;letter-spacing:normal;margin:12px 0 0}',css)
@@ -66,9 +67,10 @@ class DescriptionSiteTests(unittest.TestCase):
    subprocess.run([sys.executable,str(root/'scripts/build_site.py')],check=True,capture_output=True)
    html=(root/'site/djs/david-guetta.html').read_text(encoding='utf-8')
    plain = plain_headings_and_terms(html)
-   for label,value in [('Birth date','1967-11-07'),('Gender','Male')]:
-    self.assertRegex(plain, rf'<dt>{label}</dt>\s*<dd>{value}</dd>')
-    self.assertGreater(plain.index(label+'</dt>'),plain.index('<h2>Profile details</h2>'))
+   self.assertRegex(plain, r'<dt>Birth date</dt>\s*<dd>1967-11-07</dd>')
+   self.assertGreater(plain.index('Birth date</dt>'), plain.index('<h2>Profile details</h2>'))
+   self.assertNotIn('Gender</dt>', plain)
+   self.assertNotIn('data-zh="性别"', html)
    self.assertRegex(html, r'<dt\b[^>]*\bhidden\b[^>]*>Age</dt>\s*<dd\b')
    age = next(attrs for tag, attrs in PageTags(html).tags if tag == 'dd' and attrs.get('data-birth-date') == '1967-11-07')
    self.assertIn('hidden', age)
@@ -120,7 +122,9 @@ class DescriptionSiteTests(unittest.TestCase):
 
    output = root / 'site'
    home = (output / 'index.html').read_text(encoding='utf-8')
-   self.assert_language_selector(home)
+   self.assert_language_selector(home, hidden_label=True)
+   self.assertNotIn('Latest annual poll ranks', home)
+   self.assertNotIn('排名来自 DJ Mag 最新一期年度投票', home)
    cards = {
     attrs['href']: json.loads(attrs['data-search'])
     for tag, attrs in PageTags(home).tags
@@ -139,8 +143,10 @@ class DescriptionSiteTests(unittest.TestCase):
    self.assertNotIn('hidden', bios['en'])
    self.assertIn('hidden', bios['zh-CN'])
    self.assertIn(escape(name), detail)
-   self.assertRegex(detail, r'<span\b[^>]*\blang="en"[^>]*>Mixed &amp; Match</span>')
-   self.assertRegex(detail, r'<span\b[^>]*\blang="zh-CN"[^>]*>小例子</span>')
+   self.assertIn(
+    '<ul class="alias-list" role="list"><li lang="en">Mixed &amp; Match</li>'
+    '<li lang="zh-CN">小例子</li></ul>', detail
+   )
    self.assertIn('中文首段 &lt;unsafe&gt; &amp; 内容。', detail)
    self.assertIn('最后一段。', detail)
    self.assertNotIn('<unsafe>', detail)
@@ -154,6 +160,52 @@ class DescriptionSiteTests(unittest.TestCase):
    heading = re.search(r'<h1\b[^>]*>(.*?)</h1>', fallback, re.DOTALL)
    self.assertIsNotNone(heading)
    self.assertEqual(re.sub(r'<[^>]+>', '', heading.group(1)).strip(), 'Anyma')
+
+ def test_only_cited_previews_are_rendered_without_autoplay(self):
+  with tempfile.TemporaryDirectory() as tmp:
+   root = Path(tmp)
+   self.copy_build_inputs(root)
+   no_preview = root / 'data/djs/en/anyma.json'
+   without_audio = json.loads(no_preview.read_text(encoding='utf-8'))
+   without_audio.pop('preview_audio', None)
+   without_audio['sources'] = [source for source in without_audio['sources'] if '/preview_audio' not in source['fields']]
+   no_preview.write_text(json.dumps(without_audio), encoding='utf-8')
+   profile = root / 'data/djs/en/david-guetta.json'
+   record = json.loads(profile.read_text(encoding='utf-8'))
+   embed_url = 'https://open.spotify.com/embed/track/Example37?utm_source=oembed'
+   source_url = 'https://open.spotify.com/track/Example37'
+   rights_url = 'https://developer.spotify.com/documentation/embeds/reference/oembed'
+   record['preview_audio'] = {
+    'title': 'One & Only',
+    'provider': 'Spotify',
+    'embed_url': embed_url,
+    'source_url': source_url,
+    'rights_evidence_url': rights_url,
+    'playback_verified_at': '2026-11-22T00:00:00Z',
+   }
+   record['sources'].extend({
+    'url': url, 'publisher': 'Spotify', 'retrieved_at': '2026-11-22T00:00:00Z', 'fields': ['/preview_audio'],
+   } for url in (source_url, rights_url))
+   profile.write_text(json.dumps(record), encoding='utf-8')
+   subprocess.run([sys.executable, str(root / 'scripts/build_site.py')], check=True, capture_output=True)
+   detail = (root / 'site/djs/david-guetta.html').read_text(encoding='utf-8')
+   player, = (attrs for tag, attrs in PageTags(detail).tags if tag == 'iframe')
+   self.assertEqual(player['src'], embed_url)
+   self.assertEqual(player['title'], 'One & Only · Spotify')
+   self.assertNotIn('autoplay', player.get('allow', ''))
+   self.assertIn('data-zh="试听"', detail)
+   self.assertNotIn('<iframe', (root / 'site/djs/anyma.html').read_text(encoding='utf-8'))
+
+   for value, expected in (
+    ({'embed_url': 'https://open.spotify.com/embed/track/Example37?autoplay=1'}, b'invalid preview record'),
+    ({'source_url': 'https://open.spotify.com/track/Other'}, b'missing preview release or rights source'),
+   ):
+    with self.subTest(value=value):
+     original = record['preview_audio']
+     profile.write_text(json.dumps(dict(record, preview_audio={**original, **value})), encoding='utf-8')
+     result = subprocess.run([sys.executable, str(root / 'scripts/build_site.py')], capture_output=True)
+     self.assertNotEqual(result.returncode, 0)
+     self.assertIn(expected, result.stderr)
 
  def test_build_publishes_localized_profile_and_excludes_research_input(self):
   with tempfile.TemporaryDirectory() as tmp:
@@ -185,11 +237,13 @@ class DescriptionSiteTests(unittest.TestCase):
      self.assertIn(message, result.stderr)
      self.assertFalse((root / 'site').exists())
 
- def assert_language_selector(self, markup):
+ def assert_language_selector(self, markup, *, hidden_label=False):
   tags = PageTags(markup).tags
   controls = [attrs for tag, attrs in tags if tag == 'select' and attrs.get('id') == 'site-language']
   self.assertEqual(len(controls), 1)
-  self.assertTrue(any(tag == 'label' and attrs.get('for') == 'site-language' for tag, attrs in tags))
+  labels = [attrs for tag, attrs in tags if tag == 'label' and attrs.get('for') == 'site-language']
+  self.assertEqual(len(labels), 1)
+  self.assertEqual('visually-hidden' in labels[0].get('class', '').split(), hidden_label)
 
   match = re.search(r'<select\b(?=[^>]*\bid="site-language")[^>]*>(.*?)</select>', markup, re.DOTALL)
   self.assertIsNotNone(match)
@@ -203,8 +257,18 @@ class DescriptionSiteTests(unittest.TestCase):
    self.assertRegex(options_markup, rf'<option\b(?=[^>]*\bvalue="{locale}")[^>]*>\s*{label}\s*</option>')
 
  def copy_build_inputs(self, root):
-  for directory in ('scripts', 'data', 'assets'):
-   shutil.copytree(ROOT / directory, root / directory)
+  for name in (
+   'scripts/build_site.py', 'scripts/presentation.py',
+   'assets/dj-age.js', 'assets/dj-site.js',
+   'data/dj.schema.json', 'data/dj.zh-CN.schema.json', 'data/dj.zh-CN.example.json',
+   'data/djs/en/david-guetta.json', 'data/djs/en/anyma.json',
+  ):
+   destination = root / name
+   destination.parent.mkdir(parents=True, exist_ok=True)
+   shutil.copyfile(ROOT / name, destination)
+  placeholder = root / 'data/djs/zh-CN/.gitkeep'
+  placeholder.parent.mkdir(parents=True)
+  placeholder.touch()
 
  def write_localized_example(self, root, identity='david-guetta', **changes):
   record = json.loads((root / 'data/dj.zh-CN.example.json').read_text(encoding='utf-8'))

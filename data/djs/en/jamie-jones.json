@@ -78,9 +78,25 @@
       "fields": [
         "/birth_date"
       ]
+    },
+    {
+      "url": "https://open.spotify.com/track/1Ue7Kj1fW6l8Mhuub1JNWq",
+      "publisher": "Spotify",
+      "retrieved_at": "2026-11-23T08:29:43+00:00",
+      "fields": [
+        "/preview_audio"
+      ]
+    },
+    {
+      "url": "https://developer.spotify.com/documentation/embeds/tutorials/creating-an-embed",
+      "publisher": "Spotify",
+      "retrieved_at": "2026-11-23T08:29:43+00:00",
+      "fields": [
+        "/preview_audio"
+      ]
     }
   ],
-  "updated_at": "2026-11-23T04:13:45+00:00",
+  "updated_at": "2026-11-23T08:29:43+00:00",
   "origin": "UK",
   "best_known_for": "‘Summertime’, Hot Creations, Paradise and Hot Natured.",
   "profile_metadata": {
@@ -108,5 +124,13 @@
       "url": "https://djmag.com/top100djs/2026/33/jamie-jones"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_JamieJones.jpg.webp?itok=6bU2Hkue"
+  },
+  "preview_audio": {
+    "provider": "Spotify",
+    "embed_url": "https://open.spotify.com/embed/track/1Ue7Kj1fW6l8Mhuub1JNWq",
+    "source_url": "https://open.spotify.com/track/1Ue7Kj1fW6l8Mhuub1JNWq",
+    "title": "My Paradise",
+    "rights_evidence_url": "https://developer.spotify.com/documentation/embeds/tutorials/creating-an-embed",
+    "playback_verified_at": "2026-11-23T08:29:43+00:00"
   }
 }

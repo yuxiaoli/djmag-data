@@ -70,9 +70,25 @@
         "/entity_type",
         "/nationalities/0"
       ]
+    },
+    {
+      "url": "https://developers.soundcloud.com/docs/oembed",
+      "publisher": "SoundCloud",
+      "retrieved_at": "2026-11-23T08:32:03+00:00",
+      "fields": [
+        "/preview_audio"
+      ]
+    },
+    {
+      "url": "https://soundcloud.com/mochakkmusic/mochakk-jealous-extended-mix",
+      "publisher": "SoundCloud",
+      "retrieved_at": "2026-11-23T08:32:03+00:00",
+      "fields": [
+        "/preview_audio"
+      ]
     }
   ],
-  "updated_at": "2026-11-23T04:13:45+00:00",
+  "updated_at": "2026-11-23T08:32:03+00:00",
   "origin": "Brazil",
   "best_known_for": "His Mochakk Calling event series and his skater aesthetic.",
   "profile_metadata": {
@@ -100,5 +116,13 @@
       "url": "https://djmag.com/top100djs/2026/46/mochakk"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_Mochakk.jpg.webp?itok=gTwEomBb"
+  },
+  "preview_audio": {
+    "provider": "SoundCloud",
+    "embed_url": "https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1600855518&show_artwork=true",
+    "source_url": "https://soundcloud.com/mochakkmusic/mochakk-jealous-extended-mix",
+    "title": "Jealous (Extended Mix)",
+    "rights_evidence_url": "https://developers.soundcloud.com/docs/oembed",
+    "playback_verified_at": "2026-11-23T08:32:03+00:00"
   }
 }

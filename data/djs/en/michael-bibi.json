@@ -77,9 +77,25 @@
       "fields": [
         "/nationalities/0"
       ]
+    },
+    {
+      "url": "https://developer.spotify.com/documentation/embeds/tutorials/creating-an-embed",
+      "publisher": "Spotify",
+      "retrieved_at": "2026-11-23T08:29:43+00:00",
+      "fields": [
+        "/preview_audio"
+      ]
+    },
+    {
+      "url": "https://open.spotify.com/track/7n0cOjwadpms08yfGEeyOQ",
+      "publisher": "Spotify",
+      "retrieved_at": "2026-11-23T08:29:43+00:00",
+      "fields": [
+        "/preview_audio"
+      ]
     }
   ],
-  "updated_at": "2026-11-23T04:13:45+00:00",
+  "updated_at": "2026-11-23T08:29:43+00:00",
   "origin": "UK",
   "best_known_for": "Solid Grooves parties, label, and sound.",
   "profile_metadata": {
@@ -107,5 +123,13 @@
       "url": "https://djmag.com/top100djs/2026/37/michael-bibi"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_MichaelBibi.jpg.webp?itok=orLKgMX7"
+  },
+  "preview_audio": {
+    "provider": "Spotify",
+    "embed_url": "https://open.spotify.com/embed/track/7n0cOjwadpms08yfGEeyOQ",
+    "source_url": "https://open.spotify.com/track/7n0cOjwadpms08yfGEeyOQ",
+    "title": "Hanging Tree - Original Mix",
+    "rights_evidence_url": "https://developer.spotify.com/documentation/embeds/tutorials/creating-an-embed",
+    "playback_verified_at": "2026-11-23T08:29:43+00:00"
   }
 }

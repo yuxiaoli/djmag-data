@@ -78,9 +78,25 @@
       "fields": [
         "/nationalities/0"
       ]
+    },
+    {
+      "url": "https://music.apple.com/us/album/its-that-time/1702716203?i=1702716217",
+      "publisher": "Apple Music",
+      "retrieved_at": "2026-11-23T08:29:43+00:00",
+      "fields": [
+        "/preview_audio"
+      ]
+    },
+    {
+      "url": "https://artists.apple.com/support/1117-apple-music-marketing-tools",
+      "publisher": "Apple Music",
+      "retrieved_at": "2026-11-23T08:29:43+00:00",
+      "fields": [
+        "/preview_audio"
+      ]
     }
   ],
-  "updated_at": "2026-11-23T04:13:45+00:00",
+  "updated_at": "2026-11-23T08:29:43+00:00",
   "origin": "Germany",
   "best_known_for": "“Some say ‘It’s That Time’, others say dad jokes.”",
   "profile_metadata": {
@@ -108,5 +124,13 @@
       "url": "https://djmag.com/top100djs/2026/97/marlon-hoffstadt"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_MarlonHoffstadt.jpg.webp?itok=mqpvkrhC"
+  },
+  "preview_audio": {
+    "provider": "Apple Music",
+    "embed_url": "https://embed.music.apple.com/us/album/its-that-time-single/1702716203?i=1702716217",
+    "source_url": "https://music.apple.com/us/album/its-that-time/1702716203?i=1702716217",
+    "title": "It's That Time",
+    "rights_evidence_url": "https://artists.apple.com/support/1117-apple-music-marketing-tools",
+    "playback_verified_at": "2026-11-23T08:29:43+00:00"
   }
 }

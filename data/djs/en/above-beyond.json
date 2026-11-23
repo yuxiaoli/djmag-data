@@ -87,9 +87,25 @@
       "fields": [
         "/entity_type"
       ]
+    },
+    {
+      "url": "https://artists.apple.com/support/1117-apple-music-marketing-tools",
+      "publisher": "Apple Music",
+      "retrieved_at": "2026-11-23T08:29:43+00:00",
+      "fields": [
+        "/preview_audio"
+      ]
+    },
+    {
+      "url": "https://music.apple.com/us/album/sun-moon-feat-richard-bedford-downtempo-version/6801209404?i=6801209405",
+      "publisher": "Apple Music",
+      "retrieved_at": "2026-11-23T08:29:43+00:00",
+      "fields": [
+        "/preview_audio"
+      ]
     }
   ],
-  "updated_at": "2026-11-23T04:13:45+00:00",
+  "updated_at": "2026-11-23T08:29:43+00:00",
   "origin": "UK/Finland",
   "best_known_for": "Trance.",
   "profile_metadata": {
@@ -117,5 +133,13 @@
       "url": "https://djmag.com/top100djs/2026/87/above-beyond"
     },
     "image_url": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/top-100-d/abx-g/6/t10026_AboveandBeyond.jpg.webp?itok=WQOvmjH3"
+  },
+  "preview_audio": {
+    "provider": "Apple Music",
+    "embed_url": "https://embed.music.apple.com/us/album/sun-moon-downtempo-version-feat-richard-bedford-single/6801209404?i=6801209405",
+    "source_url": "https://music.apple.com/us/album/sun-moon-feat-richard-bedford-downtempo-version/6801209404?i=6801209405",
+    "title": "Sun & Moon (feat. Richard Bedford) [Downtempo Version]",
+    "rights_evidence_url": "https://artists.apple.com/support/1117-apple-music-marketing-tools",
+    "playback_verified_at": "2026-11-23T08:29:43+00:00"
   }
 }
