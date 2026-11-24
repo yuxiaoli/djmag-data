@@ -1,0 +1,110 @@
+{
+  "id": "ghost-bar",
+  "name": "Ghostbar Las Vegas",
+  "listing_category": "nightclub",
+  "facts": {
+    "location": "Palms 酒店",
+    "nights": "周三、周四、周五、周六",
+    "music": "Top 40、多曲风混播",
+    "size": "8,000 平方英尺",
+    "address": "4321 W Flamingo Rd, Las Vegas, NV 89103",
+    "hours": "22:30 至次日 04:00"
+  },
+  "description": "Ghostbar Las Vegas 位于 Palms 酒店，音乐风格包括 Top 40 和多曲风混播。",
+  "sections": [
+    {
+      "heading": "Ghostbar 夜店完整指南",
+      "source_url": "https://nocovernightclubs.com/nightclubs/ghost-bar"
+    },
+    {
+      "heading": "拉斯维加斯的 Ghostbar 在哪里？",
+      "source_url": "https://nocovernightclubs.com/nightclubs/ghost-bar"
+    },
+    {
+      "heading": "如何前往 Ghostbar？",
+      "source_url": "https://nocovernightclubs.com/nightclubs/ghost-bar"
+    },
+    {
+      "heading": "入场费是多少？",
+      "source_url": "https://nocovernightclubs.com/nightclubs/ghost-bar"
+    },
+    {
+      "heading": "Ghostbar 何时营业？",
+      "source_url": "https://nocovernightclubs.com/nightclubs/ghost-bar"
+    },
+    {
+      "heading": "Ghostbar 播放什么音乐？",
+      "source_url": "https://nocovernightclubs.com/nightclubs/ghost-bar"
+    },
+    {
+      "heading": "去 Ghostbar 有什么着装要求？",
+      "source_url": "https://nocovernightclubs.com/nightclubs/ghost-bar"
+    }
+  ],
+  "field_provenance": {
+    "location": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/ghost-bar",
+      "retrieved_at": "2026-11-16T07:13:54.029046+00:00"
+    },
+    "nights": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/ghost-bar",
+      "retrieved_at": "2026-11-16T07:13:54.029046+00:00"
+    },
+    "music": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/ghost-bar",
+      "retrieved_at": "2026-11-16T07:13:54.029046+00:00"
+    },
+    "size": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/ghost-bar",
+      "retrieved_at": "2026-11-16T07:13:54.029046+00:00"
+    },
+    "address": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/ghost-bar",
+      "retrieved_at": "2026-11-16T07:13:54.029046+00:00"
+    },
+    "hours": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/ghost-bar",
+      "retrieved_at": "2026-11-16T07:13:54.029046+00:00"
+    }
+  },
+  "links": [
+    {
+      "kind": "image",
+      "url": "https://nocovernightclubs.com/wp-content/uploads/2022/12/Ghostbar-Nightclub-L.jpg"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/nightclubs/ghostbar-nightclub-guest-list/#guestlist"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/nightclubs/ghostbar-nightclub-table-service-reservations/"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/ghostbar-nightclub-event-calendar/"
+    },
+    {
+      "kind": "image",
+      "url": "https://nocovernightclubs.com/wp-content/uploads/2022/12/Ghostbar-Nightclub-Guest-List-L.jpg"
+    },
+    {
+      "kind": "source",
+      "url": "http://nocovernightclubs.com/nightclubs/ghostbar-nightclub-table-service-reservations/"
+    }
+  ],
+  "source": {
+    "url": "https://nocovernightclubs.com/nightclubs/ghost-bar",
+    "observed_at": "2026-11-16T07:13:54.029046+00:00",
+    "listing_url": "https://nocovernightclubs.com/nightclubs/"
+  },
+  "quality": {
+    "profile_parsed": true,
+    "description_kind": "fact_summary"
+  },
+  "directory_facts": {
+    "location": "Palms 酒店",
+    "days": "周三、周四、周五、周六",
+    "music": "Top 40、多曲风混播"
+  }
+}

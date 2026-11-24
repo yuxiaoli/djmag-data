@@ -1,0 +1,118 @@
+{
+  "id": "encore-beach-club",
+  "name": "Encore Beach Club",
+  "listing_category": "dayclub",
+  "facts": {
+    "location": "Encore 酒店",
+    "days": "周五、周六、周日",
+    "music": "EDM、Top 40、多曲风混播",
+    "size": "60,000 平方英尺",
+    "address": "3131 S Las Vegas Blvd, Las Vegas, NV 89109",
+    "hours": "11:00 至 17:00"
+  },
+  "description": "Encore Beach Club 位于 Encore 酒店，音乐风格包括 EDM、Top 40 和多曲风混播。",
+  "sections": [
+    {
+      "heading": "Encore Beach Club 完整指南",
+      "source_url": "https://nocovernightclubs.com/pool-parties/encore-beach-club/"
+    },
+    {
+      "heading": "Encore Beach Club 在哪里？",
+      "source_url": "https://nocovernightclubs.com/pool-parties/encore-beach-club/"
+    },
+    {
+      "heading": "如何前往 Encore Beach Club？",
+      "source_url": "https://nocovernightclubs.com/pool-parties/encore-beach-club/"
+    },
+    {
+      "heading": "Encore Beach Club 虚拟导览",
+      "source_url": "https://nocovernightclubs.com/pool-parties/encore-beach-club/"
+    },
+    {
+      "heading": "入场费是多少？",
+      "source_url": "https://nocovernightclubs.com/pool-parties/encore-beach-club/"
+    },
+    {
+      "heading": "Encore Beach Club 何时营业？",
+      "source_url": "https://nocovernightclubs.com/pool-parties/encore-beach-club/"
+    },
+    {
+      "heading": "Encore Beach Club 播放什么音乐？",
+      "source_url": "https://nocovernightclubs.com/pool-parties/encore-beach-club/"
+    },
+    {
+      "heading": "去 EBC 有什么着装要求？",
+      "source_url": "https://nocovernightclubs.com/pool-parties/encore-beach-club/"
+    }
+  ],
+  "field_provenance": {
+    "location": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/encore-beach-club/",
+      "retrieved_at": "2026-11-16T07:16:20.718334+00:00"
+    },
+    "days": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/encore-beach-club/",
+      "retrieved_at": "2026-11-16T07:16:20.718334+00:00"
+    },
+    "music": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/encore-beach-club/",
+      "retrieved_at": "2026-11-16T07:16:20.718334+00:00"
+    },
+    "size": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/encore-beach-club/",
+      "retrieved_at": "2026-11-16T07:16:20.718334+00:00"
+    },
+    "address": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/encore-beach-club/",
+      "retrieved_at": "2026-11-16T07:16:20.718334+00:00"
+    },
+    "hours": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/encore-beach-club/",
+      "retrieved_at": "2026-11-16T07:16:20.718334+00:00"
+    }
+  },
+  "links": [
+    {
+      "kind": "video",
+      "url": "https://www.youtube.com/embed/e0rCqUwgDsE"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/pool-parties/encore-beach-club-guest-list/#guestlist"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/pool-parties/encore-beach-club-table-service-reservations/"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/encore-beach-club-event-calendar/"
+    },
+    {
+      "kind": "image",
+      "url": "https://nocovernightclubs.com/wp-content/uploads/2022/01/Encore-Beach-Club-L.jpg"
+    },
+    {
+      "kind": "source",
+      "url": "http://nocovernightclubs.com/nightclubs/encore-beach-club-table-service-reservations/"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/pool-parties/encore-beach-club-guest-list/"
+    }
+  ],
+  "source": {
+    "url": "https://nocovernightclubs.com/pool-parties/encore-beach-club/",
+    "observed_at": "2026-11-16T07:16:20.718334+00:00",
+    "listing_url": "https://nocovernightclubs.com/pool-parties/"
+  },
+  "quality": {
+    "profile_parsed": true,
+    "description_kind": "fact_summary"
+  },
+  "directory_facts": {
+    "location": "Encore 酒店",
+    "days": "周五、周六、周日",
+    "music": "EDM、Top 40、多曲风混播"
+  }
+}

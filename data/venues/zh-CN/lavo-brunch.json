@@ -1,0 +1,110 @@
+{
+  "id": "lavo-brunch",
+  "name": "Lavo Party Brunch",
+  "listing_category": "dayclub",
+  "facts": {
+    "location": "Palazzo 酒店",
+    "days": "周六",
+    "music": "多曲风混播、Top 40",
+    "size": "20,000 平方英尺",
+    "address": "3325 S Las Vegas Blvd, Las Vegas, NV 89109",
+    "hours": "13:00 至 19:00"
+  },
+  "description": "Lavo Party Brunch 位于 Palazzo 酒店，音乐风格包括多曲风混播和 Top 40。",
+  "sections": [
+    {
+      "heading": "Lavo Party Brunch 完整指南",
+      "source_url": "https://nocovernightclubs.com/pool-parties/lavo-brunch/"
+    },
+    {
+      "heading": "拉斯维加斯的 Lavo 在哪里？",
+      "source_url": "https://nocovernightclubs.com/pool-parties/lavo-brunch/"
+    },
+    {
+      "heading": "如何前往 Lavo Brunch？",
+      "source_url": "https://nocovernightclubs.com/pool-parties/lavo-brunch/"
+    },
+    {
+      "heading": "入场费是多少？",
+      "source_url": "https://nocovernightclubs.com/pool-parties/lavo-brunch/"
+    },
+    {
+      "heading": "Lavo Party Brunch 何时营业？",
+      "source_url": "https://nocovernightclubs.com/pool-parties/lavo-brunch/"
+    },
+    {
+      "heading": "Lavo 播放什么音乐？",
+      "source_url": "https://nocovernightclubs.com/pool-parties/lavo-brunch/"
+    },
+    {
+      "heading": "去 Lavo Brunch 有什么着装要求？",
+      "source_url": "https://nocovernightclubs.com/pool-parties/lavo-brunch/"
+    }
+  ],
+  "field_provenance": {
+    "location": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/lavo-brunch/",
+      "retrieved_at": "2026-11-16T07:15:45.192858+00:00"
+    },
+    "days": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/lavo-brunch/",
+      "retrieved_at": "2026-11-16T07:15:45.192858+00:00"
+    },
+    "music": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/lavo-brunch/",
+      "retrieved_at": "2026-11-16T07:15:45.192858+00:00"
+    },
+    "size": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/lavo-brunch/",
+      "retrieved_at": "2026-11-16T07:15:45.192858+00:00"
+    },
+    "address": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/lavo-brunch/",
+      "retrieved_at": "2026-11-16T07:15:45.192858+00:00"
+    },
+    "hours": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/lavo-brunch/",
+      "retrieved_at": "2026-11-16T07:15:45.192858+00:00"
+    }
+  },
+  "links": [
+    {
+      "kind": "video",
+      "url": "https://www.youtube.com/embed/AyvVgjzN5HA"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/pool-parties/lavo-party-brunch-guest-list/#guestlist"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/pool-parties/lavo-brunch-table-service/"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/lavo-brunch-las-vegas-event-calendar/"
+    },
+    {
+      "kind": "image",
+      "url": "https://nocovernightclubs.com/wp-content/uploads/2022/01/Lavo-Party-Brunch-L.jpg"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/pool-parties/lavo-party-brunch-guest-list/"
+    }
+  ],
+  "source": {
+    "url": "https://nocovernightclubs.com/pool-parties/lavo-brunch/",
+    "observed_at": "2026-11-16T07:15:45.192858+00:00",
+    "listing_url": "https://nocovernightclubs.com/pool-parties/"
+  },
+  "quality": {
+    "profile_parsed": true,
+    "description_kind": "fact_summary"
+  },
+  "directory_facts": {
+    "location": "Palazzo 酒店",
+    "days": "周六",
+    "music": "多曲风混播、Top 40"
+  }
+}

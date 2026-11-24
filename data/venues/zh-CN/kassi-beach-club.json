@@ -1,0 +1,98 @@
+{
+  "id": "kassi-beach-club",
+  "name": "Kassi Beach Club",
+  "listing_category": "dayclub",
+  "facts": {
+    "location": "Virgin 酒店",
+    "days": "每天",
+    "music": "Top 40、多曲风混播",
+    "size": "60,000 平方英尺",
+    "address": "4455 Paradise Rd, Las Vegas, NV 89169",
+    "hours": "11:00 至 17:00"
+  },
+  "description": "Kassi Beach Club 位于 Virgin 酒店，音乐风格包括 Top 40 和多曲风混播。",
+  "sections": [
+    {
+      "heading": "Kassi Beach Club 完整指南",
+      "source_url": "https://nocovernightclubs.com/pool-parties/kassi-beach-club/"
+    },
+    {
+      "heading": "Kassi Beach Club 在哪里？",
+      "source_url": "https://nocovernightclubs.com/pool-parties/kassi-beach-club/"
+    },
+    {
+      "heading": "如何前往 Kassi Beach Club？",
+      "source_url": "https://nocovernightclubs.com/pool-parties/kassi-beach-club/"
+    },
+    {
+      "heading": "入场费是多少？",
+      "source_url": "https://nocovernightclubs.com/pool-parties/kassi-beach-club/"
+    },
+    {
+      "heading": "Kassi Beach 何时营业？",
+      "source_url": "https://nocovernightclubs.com/pool-parties/kassi-beach-club/"
+    },
+    {
+      "heading": "Kassi 播放什么音乐？",
+      "source_url": "https://nocovernightclubs.com/pool-parties/kassi-beach-club/"
+    },
+    {
+      "heading": "去 Kassi Beach Club 有什么着装要求？",
+      "source_url": "https://nocovernightclubs.com/pool-parties/kassi-beach-club/"
+    }
+  ],
+  "field_provenance": {
+    "location": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/kassi-beach-club/",
+      "retrieved_at": "2026-11-16T07:17:18.584704+00:00"
+    },
+    "days": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/kassi-beach-club/",
+      "retrieved_at": "2026-11-16T07:17:18.584704+00:00"
+    },
+    "music": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/kassi-beach-club/",
+      "retrieved_at": "2026-11-16T07:17:18.584704+00:00"
+    },
+    "size": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/kassi-beach-club/",
+      "retrieved_at": "2026-11-16T07:17:18.584704+00:00"
+    },
+    "address": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/kassi-beach-club/",
+      "retrieved_at": "2026-11-16T07:17:18.584704+00:00"
+    },
+    "hours": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/kassi-beach-club/",
+      "retrieved_at": "2026-11-16T07:17:18.584704+00:00"
+    }
+  },
+  "links": [
+    {
+      "kind": "image",
+      "url": "https://nocovernightclubs.com/wp-content/uploads/2024/06/Kassi-Beach-Club-L.jpg"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/pool-parties/kassi-beach-club-guest-list/#guestlist"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/pool-parties/kassi-beach-club-guest-list/"
+    }
+  ],
+  "source": {
+    "url": "https://nocovernightclubs.com/pool-parties/kassi-beach-club/",
+    "observed_at": "2026-11-16T07:17:18.584704+00:00",
+    "listing_url": "https://nocovernightclubs.com/pool-parties/"
+  },
+  "quality": {
+    "profile_parsed": true,
+    "description_kind": "fact_summary"
+  },
+  "directory_facts": {
+    "location": "Virgin 酒店",
+    "days": "每天",
+    "music": "Top 40、多曲风混播"
+  }
+}

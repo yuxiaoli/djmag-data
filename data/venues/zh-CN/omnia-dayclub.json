@@ -1,0 +1,110 @@
+{
+  "id": "omnia-dayclub",
+  "name": "Omnia Dayclub",
+  "listing_category": "dayclub",
+  "facts": {
+    "location": "凯撒宫酒店",
+    "days": "周四、周五、周六、周日",
+    "music": "EDM、Top 40、多曲风混播",
+    "size": "46,000 平方英尺",
+    "address": "3570 S Las Vegas Blvd, Las Vegas, NV 89109",
+    "hours": "11:00 至 17:00"
+  },
+  "description": "Omnia Dayclub 位于凯撒宫酒店，音乐风格包括 EDM、Top 40 和多曲风混播。",
+  "sections": [
+    {
+      "heading": "Omnia Dayclub 完完整指南",
+      "source_url": "https://nocovernightclubs.com/pool-parties/omnia-dayclub/"
+    },
+    {
+      "heading": "Omnia Dayclub 在哪里？",
+      "source_url": "https://nocovernightclubs.com/pool-parties/omnia-dayclub/"
+    },
+    {
+      "heading": "如何前往 Omnia Dayclub？",
+      "source_url": "https://nocovernightclubs.com/pool-parties/omnia-dayclub/"
+    },
+    {
+      "heading": "入场费是多少？",
+      "source_url": "https://nocovernightclubs.com/pool-parties/omnia-dayclub/"
+    },
+    {
+      "heading": "Omnia Dayclub 何时营业？",
+      "source_url": "https://nocovernightclubs.com/pool-parties/omnia-dayclub/"
+    },
+    {
+      "heading": "Omnia Dayclub 播放什么音乐？",
+      "source_url": "https://nocovernightclubs.com/pool-parties/omnia-dayclub/"
+    },
+    {
+      "heading": "去 Omnia 泳池有什么着装要求？",
+      "source_url": "https://nocovernightclubs.com/pool-parties/omnia-dayclub/"
+    }
+  ],
+  "field_provenance": {
+    "location": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/omnia-dayclub/",
+      "retrieved_at": "2026-11-16T07:16:44.204691+00:00"
+    },
+    "days": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/omnia-dayclub/",
+      "retrieved_at": "2026-11-16T07:16:44.204691+00:00"
+    },
+    "music": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/omnia-dayclub/",
+      "retrieved_at": "2026-11-16T07:16:44.204691+00:00"
+    },
+    "size": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/omnia-dayclub/",
+      "retrieved_at": "2026-11-16T07:16:44.204691+00:00"
+    },
+    "address": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/omnia-dayclub/",
+      "retrieved_at": "2026-11-16T07:16:44.204691+00:00"
+    },
+    "hours": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/omnia-dayclub/",
+      "retrieved_at": "2026-11-16T07:16:44.204691+00:00"
+    }
+  },
+  "links": [
+    {
+      "kind": "image",
+      "url": "https://nocovernightclubs.com/wp-content/uploads/2018/08/Omnia-Dayclub-L.jpg"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/pool-parties/omnia-dayclub-guest-list/#guestlist"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/pool-parties/omnia-dayclub-table-service-reservations/"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/omnia-dayclub-event-calendar/"
+    },
+    {
+      "kind": "image",
+      "url": "https://nocovernightclubs.com/wp-content/uploads/2026/04/Omnia-Dayclub-Guest-List-L.jpg"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/pool-parties/momnia-dayclub-guest-list/"
+    }
+  ],
+  "source": {
+    "url": "https://nocovernightclubs.com/pool-parties/omnia-dayclub/",
+    "observed_at": "2026-11-16T07:16:44.204691+00:00",
+    "listing_url": "https://nocovernightclubs.com/pool-parties/"
+  },
+  "quality": {
+    "profile_parsed": true,
+    "description_kind": "fact_summary"
+  },
+  "directory_facts": {
+    "location": "凯撒宫",
+    "days": "周四、周五、周六、周日",
+    "music": "EDM、Top 40、多曲风混播"
+  }
+}

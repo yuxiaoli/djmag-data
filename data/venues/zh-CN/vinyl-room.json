@@ -1,0 +1,105 @@
+{
+  "id": "vinyl-room",
+  "name": "Vinyl Room",
+  "listing_category": "nightclub",
+  "facts": {
+    "location": "Mandalay Bay 酒店",
+    "nights": "每晚",
+    "music": "Top 40、嘻哈、舞曲",
+    "address": "3950 S Las Vegas Blvd, Las Vegas, NV 89119",
+    "hours": "22:00 至次日 03:00"
+  },
+  "description": "Vinyl Room 位于 Mandalay Bay 酒店，音乐风格包括 Top 40、嘻哈和舞曲。",
+  "sections": [
+    {
+      "heading": "Vinyl Room 完整指南",
+      "source_url": "https://nocovernightclubs.com/nightclubs/vinyl-room/"
+    },
+    {
+      "heading": "Vinyl Room 在哪里？",
+      "source_url": "https://nocovernightclubs.com/nightclubs/vinyl-room/"
+    },
+    {
+      "heading": "如何前往 Vinyl Room？",
+      "source_url": "https://nocovernightclubs.com/nightclubs/vinyl-room/"
+    },
+    {
+      "heading": "入场费是多少？",
+      "source_url": "https://nocovernightclubs.com/nightclubs/vinyl-room/"
+    },
+    {
+      "heading": "Vinyl Room 何时营业？",
+      "source_url": "https://nocovernightclubs.com/nightclubs/vinyl-room/"
+    },
+    {
+      "heading": "Vinyl Room 播放什么音乐？",
+      "source_url": "https://nocovernightclubs.com/nightclubs/vinyl-room/"
+    },
+    {
+      "heading": "去 Vinyl Room 有什么着装要求？",
+      "source_url": "https://nocovernightclubs.com/nightclubs/vinyl-room/"
+    }
+  ],
+  "field_provenance": {
+    "location": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/vinyl-room/",
+      "retrieved_at": "2026-11-16T07:14:27.486281+00:00"
+    },
+    "nights": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/vinyl-room/",
+      "retrieved_at": "2026-11-16T07:14:27.486281+00:00"
+    },
+    "music": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/vinyl-room/",
+      "retrieved_at": "2026-11-16T07:14:27.486281+00:00"
+    },
+    "address": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/vinyl-room/",
+      "retrieved_at": "2026-11-16T07:14:27.486281+00:00"
+    },
+    "hours": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/vinyl-room/",
+      "retrieved_at": "2026-11-16T07:14:27.486281+00:00"
+    }
+  },
+  "links": [
+    {
+      "kind": "image",
+      "url": "https://nocovernightclubs.com/wp-content/uploads/2026/07/Vinyl-Room-Las-Vegas-L.jpg"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/nightclubs/vinyl-room-guest-list/#guestlist"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/nightclubs/vinyl-room-table-service-reservations/"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/vinyl-room-event-calendar/"
+    },
+    {
+      "kind": "image",
+      "url": "https://nocovernightclubs.com/wp-content/uploads/2026/07/Vinyl-Room-Calendar-L.jpg"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/nightclubs/vinyl-room-guest-list/"
+    }
+  ],
+  "source": {
+    "url": "https://nocovernightclubs.com/nightclubs/vinyl-room/",
+    "observed_at": "2026-11-16T07:14:27.486281+00:00",
+    "listing_url": "https://nocovernightclubs.com/nightclubs/"
+  },
+  "quality": {
+    "profile_parsed": true,
+    "description_kind": "fact_summary"
+  },
+  "directory_facts": {
+    "location": "Mandalay Bay 酒店",
+    "days": "每天",
+    "music": "Top 40、嘻哈、舞曲"
+  }
+}

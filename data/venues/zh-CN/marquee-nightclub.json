@@ -1,0 +1,117 @@
+{
+  "id": "marquee-nightclub",
+  "name": "Marquee Nightclub",
+  "listing_category": "nightclub",
+  "facts": {
+    "location": "大都会酒店",
+    "nights": "周一、周三、周五、周六",
+    "music": "多曲风混播、EDM、Top 40",
+    "size": "60,000 平方英尺",
+    "hours": "22:30 至次日 04:00"
+  },
+  "description": "Marquee Nightclub 位于大都会酒店，音乐风格包括多曲风混播、EDM 和 Top 40。",
+  "sections": [
+    {
+      "heading": "拉斯维加斯 Marquee 完完整指南",
+      "source_url": "https://nocovernightclubs.com/nightclubs/marquee-nightclub/"
+    },
+    {
+      "heading": "拉斯维加斯 Marquee 在哪里？",
+      "source_url": "https://nocovernightclubs.com/nightclubs/marquee-nightclub/"
+    },
+    {
+      "heading": "如何前往 Marquee？",
+      "source_url": "https://nocovernightclubs.com/nightclubs/marquee-nightclub/"
+    },
+    {
+      "heading": "Marquee Nightclub 虚拟导览",
+      "source_url": "https://nocovernightclubs.com/nightclubs/marquee-nightclub/"
+    },
+    {
+      "heading": "入场费是多少？",
+      "source_url": "https://nocovernightclubs.com/nightclubs/marquee-nightclub/"
+    },
+    {
+      "heading": "Marquee Nightclub 何时营业？",
+      "source_url": "https://nocovernightclubs.com/nightclubs/marquee-nightclub/"
+    },
+    {
+      "heading": "Marquee 播放什么音乐？",
+      "source_url": "https://nocovernightclubs.com/nightclubs/marquee-nightclub/"
+    },
+    {
+      "heading": "去 Marquee 夜店有什么着装要求？",
+      "source_url": "https://nocovernightclubs.com/nightclubs/marquee-nightclub/"
+    }
+  ],
+  "field_provenance": {
+    "location": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/marquee-nightclub/",
+      "retrieved_at": "2026-11-16T07:13:31.794437+00:00"
+    },
+    "nights": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/marquee-nightclub/",
+      "retrieved_at": "2026-11-16T07:13:31.794437+00:00"
+    },
+    "music": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/marquee-nightclub/",
+      "retrieved_at": "2026-11-16T07:13:31.794437+00:00"
+    },
+    "size": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/marquee-nightclub/",
+      "retrieved_at": "2026-11-16T07:13:31.794437+00:00"
+    },
+    "hours": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/marquee-nightclub/",
+      "retrieved_at": "2026-11-16T07:13:31.794437+00:00"
+    }
+  },
+  "links": [
+    {
+      "kind": "video",
+      "url": "https://www.youtube.com/embed/7z8WygsEgv0"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/nightclubs/marquee-nightclub-guest-list/#guestlist"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/nightclubs/marquee-nightclub-table-service-reservations/"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/marquee-nightclub-las-vegas-event-calendar/"
+    },
+    {
+      "kind": "image",
+      "url": "https://nocovernightclubs.com/wp-content/uploads/2025/10/Marquee-Nightclub-2025-L.jpg"
+    },
+    {
+      "kind": "source",
+      "url": "http://nocovernightclubs.com/nightclubs/marquee-nightclub-table-service-reservations/"
+    },
+    {
+      "kind": "virtual_tour",
+      "url": "https://taogroup.com/venues/marquee-las-vegas-2/360-tour/"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/nightclubs/marquee-nightclub-guest-list/"
+    }
+  ],
+  "source": {
+    "url": "https://nocovernightclubs.com/nightclubs/marquee-nightclub/",
+    "observed_at": "2026-11-16T07:13:31.794437+00:00",
+    "listing_url": "https://nocovernightclubs.com/nightclubs/"
+  },
+  "quality": {
+    "profile_parsed": true,
+    "description_kind": "fact_summary"
+  },
+  "directory_facts": {
+    "location": "大都会酒店",
+    "days": "周一、周三、周五、周六",
+    "music": "多曲风混播、EDM、Top 40"
+  }
+}
