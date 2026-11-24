@@ -1,0 +1,106 @@
+{
+  "id": "tailgate-beach-club",
+  "name": "Tailgate Beach Club",
+  "listing_category": "dayclub",
+  "facts": {
+    "location": "Mandalay Bay 酒店",
+    "days": "周四、周五、周六、周日",
+    "music": "EDM、Top 40、多曲风混播",
+    "size": "50,000 平方英尺",
+    "address": "3950 S Las Vegas Blvd, Las Vegas, NV 89119",
+    "hours": "11:00 至 20:00"
+  },
+  "description": "Tailgate Beach Club 位于 Mandalay Bay 酒店，音乐风格包括 EDM、Top 40 和多曲风混播。",
+  "sections": [
+    {
+      "heading": "Tailgate Beach Club 完整指南",
+      "source_url": "https://nocovernightclubs.com/pool-parties/tailgate-beach-club/"
+    },
+    {
+      "heading": "Tailgate Beach Club 在哪里？",
+      "source_url": "https://nocovernightclubs.com/pool-parties/tailgate-beach-club/"
+    },
+    {
+      "heading": "如何前往 Tailgate Beach Club？",
+      "source_url": "https://nocovernightclubs.com/pool-parties/tailgate-beach-club/"
+    },
+    {
+      "heading": "入场费是多少？",
+      "source_url": "https://nocovernightclubs.com/pool-parties/tailgate-beach-club/"
+    },
+    {
+      "heading": "Tailgate Beach Club 何时营业？",
+      "source_url": "https://nocovernightclubs.com/pool-parties/tailgate-beach-club/"
+    },
+    {
+      "heading": "Tailgate Beach Club 播放什么音乐？",
+      "source_url": "https://nocovernightclubs.com/pool-parties/tailgate-beach-club/"
+    },
+    {
+      "heading": "去 Tailgate Beach Club 有什么着装要求？",
+      "source_url": "https://nocovernightclubs.com/pool-parties/tailgate-beach-club/"
+    }
+  ],
+  "field_provenance": {
+    "location": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/tailgate-beach-club/",
+      "retrieved_at": "2026-11-16T07:16:08.583159+00:00"
+    },
+    "days": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/tailgate-beach-club/",
+      "retrieved_at": "2026-11-16T07:16:08.583159+00:00"
+    },
+    "music": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/tailgate-beach-club/",
+      "retrieved_at": "2026-11-16T07:16:08.583159+00:00"
+    },
+    "size": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/tailgate-beach-club/",
+      "retrieved_at": "2026-11-16T07:16:08.583159+00:00"
+    },
+    "address": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/tailgate-beach-club/",
+      "retrieved_at": "2026-11-16T07:16:08.583159+00:00"
+    },
+    "hours": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/tailgate-beach-club/",
+      "retrieved_at": "2026-11-16T07:16:08.583159+00:00"
+    }
+  },
+  "links": [
+    {
+      "kind": "image",
+      "url": "https://nocovernightclubs.com/wp-content/uploads/2026/03/Tailgate-Beach-Club-L.jpg"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/pool-parties/tailgate-beach-club-guest-list/#guestlist"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/pool-parties/tailgate-beach-club-table-service-reservations/"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/tailgate-beach-club-event-calendar/"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/pool-parties/tailgate-beach-club-guest-list/"
+    }
+  ],
+  "source": {
+    "url": "https://nocovernightclubs.com/pool-parties/tailgate-beach-club/",
+    "observed_at": "2026-11-16T07:16:08.583159+00:00",
+    "listing_url": "https://nocovernightclubs.com/pool-parties/"
+  },
+  "quality": {
+    "profile_parsed": true,
+    "description_kind": "fact_summary"
+  },
+  "directory_facts": {
+    "location": "Mandalay Bay 酒店",
+    "days": "周六、周日",
+    "music": "Top 40、多曲风混播"
+  }
+}

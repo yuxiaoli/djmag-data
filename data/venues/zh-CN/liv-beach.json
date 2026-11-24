@@ -1,0 +1,97 @@
+{
+  "id": "liv-beach",
+  "name": "LIV Beach",
+  "listing_category": "dayclub",
+  "facts": {
+    "location": "枫丹白露酒店",
+    "days": "周五、周六、周日",
+    "music": "EDM、Top 40、多曲风混播",
+    "size": "待公布",
+    "hours": "11:00 至 17:00"
+  },
+  "description": "LIV Beach 位于枫丹白露酒店，音乐风格包括 EDM、Top 40 和多曲风混播。",
+  "sections": [
+    {
+      "heading": "LIV Beach 完完整指南",
+      "source_url": "https://nocovernightclubs.com/pool-parties/liv-beach/"
+    },
+    {
+      "heading": "如何前往 LIV Beach？",
+      "source_url": "https://nocovernightclubs.com/pool-parties/liv-beach/"
+    },
+    {
+      "heading": "入场费是多少？",
+      "source_url": "https://nocovernightclubs.com/pool-parties/liv-beach/"
+    },
+    {
+      "heading": "LIV Beach 何时营业？",
+      "source_url": "https://nocovernightclubs.com/pool-parties/liv-beach/"
+    },
+    {
+      "heading": "LIV Beach 播放什么音乐？",
+      "source_url": "https://nocovernightclubs.com/pool-parties/liv-beach/"
+    },
+    {
+      "heading": "去 LIV Beach 有什么着装要求？",
+      "source_url": "https://nocovernightclubs.com/pool-parties/liv-beach/"
+    }
+  ],
+  "field_provenance": {
+    "location": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/liv-beach/",
+      "retrieved_at": "2026-11-16T07:16:55.522457+00:00"
+    },
+    "days": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/liv-beach/",
+      "retrieved_at": "2026-11-16T07:16:55.522457+00:00"
+    },
+    "music": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/liv-beach/",
+      "retrieved_at": "2026-11-16T07:16:55.522457+00:00"
+    },
+    "size": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/liv-beach/",
+      "retrieved_at": "2026-11-16T07:16:55.522457+00:00"
+    },
+    "hours": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/liv-beach/",
+      "retrieved_at": "2026-11-16T07:16:55.522457+00:00"
+    }
+  },
+  "links": [
+    {
+      "kind": "video",
+      "url": "https://www.youtube.com/embed/9rZu54n86FE"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/pool-parties/liv-beach-guest-list/#guestlist"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/pool-parties/liv-beach-table-service-reservations/"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/liv-beach-event-calendar/"
+    },
+    {
+      "kind": "image",
+      "url": "https://nocovernightclubs.com/wp-content/uploads/2026/07/LIV-Beach-Table-Service-L.jpg"
+    }
+  ],
+  "source": {
+    "url": "https://nocovernightclubs.com/pool-parties/liv-beach/",
+    "observed_at": "2026-11-16T07:16:55.522457+00:00",
+    "listing_url": "https://nocovernightclubs.com/pool-parties/"
+  },
+  "quality": {
+    "profile_parsed": true,
+    "description_kind": "fact_summary"
+  },
+  "directory_facts": {
+    "location": "枫丹白露酒店",
+    "days": "周五、周六、周日",
+    "music": "EDM、Top 40、多曲风混播"
+  }
+}

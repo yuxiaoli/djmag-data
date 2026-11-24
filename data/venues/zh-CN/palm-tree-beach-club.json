@@ -1,0 +1,114 @@
+{
+  "id": "palm-tree-beach-club",
+  "name": "Palm Tree Beach Club",
+  "listing_category": "dayclub",
+  "facts": {
+    "location": "美高梅大酒店",
+    "days": "周三、周四、周五、周六、周日",
+    "music": "EDM、Top 40、多曲风混播",
+    "size": "54,500 平方英尺",
+    "address": "3799 S Las Vegas Blvd Las Vegas, NV 89109",
+    "hours": "11:00 至 17:00"
+  },
+  "description": "Palm Tree Beach Club 位于美高梅大酒店，音乐风格包括 EDM、Top 40 和多曲风混播。",
+  "sections": [
+    {
+      "heading": "Palm Tree Beach Club 完完整指南",
+      "source_url": "https://nocovernightclubs.com/pool-parties/palm-tree-beach-club/"
+    },
+    {
+      "heading": "拉斯维加斯 Palm Tree Beach Club 在哪里？",
+      "source_url": "https://nocovernightclubs.com/pool-parties/palm-tree-beach-club/"
+    },
+    {
+      "heading": "如何前往 Palm Tree Beach Club？",
+      "source_url": "https://nocovernightclubs.com/pool-parties/palm-tree-beach-club/"
+    },
+    {
+      "heading": "入场费是多少？",
+      "source_url": "https://nocovernightclubs.com/pool-parties/palm-tree-beach-club/"
+    },
+    {
+      "heading": "Palm Tree Beach Club 何时营业？",
+      "source_url": "https://nocovernightclubs.com/pool-parties/palm-tree-beach-club/"
+    },
+    {
+      "heading": "Palm Tree Beach Club 播放什么音乐？",
+      "source_url": "https://nocovernightclubs.com/pool-parties/palm-tree-beach-club/"
+    },
+    {
+      "heading": "去 Palm Tree Beach Club 有什么着装要求？",
+      "source_url": "https://nocovernightclubs.com/pool-parties/palm-tree-beach-club/"
+    }
+  ],
+  "field_provenance": {
+    "location": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/palm-tree-beach-club/",
+      "retrieved_at": "2026-11-16T07:16:32.328775+00:00"
+    },
+    "days": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/palm-tree-beach-club/",
+      "retrieved_at": "2026-11-16T07:16:32.328775+00:00"
+    },
+    "music": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/palm-tree-beach-club/",
+      "retrieved_at": "2026-11-16T07:16:32.328775+00:00"
+    },
+    "size": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/palm-tree-beach-club/",
+      "retrieved_at": "2026-11-16T07:16:32.328775+00:00"
+    },
+    "address": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/palm-tree-beach-club/",
+      "retrieved_at": "2026-11-16T07:16:32.328775+00:00"
+    },
+    "hours": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/palm-tree-beach-club/",
+      "retrieved_at": "2026-11-16T07:16:32.328775+00:00"
+    }
+  },
+  "links": [
+    {
+      "kind": "video",
+      "url": "https://www.youtube.com/embed/NrAeSy-EDKg"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/pool-parties/palm-tree-beach-club-guest-list/#guestlist"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/pool-parties/palm-tree-beach-club-table-service-reservations/"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/palm-tree-beach-club-event-calendar/"
+    },
+    {
+      "kind": "image",
+      "url": "https://nocovernightclubs.com/wp-content/uploads/2025/01/Palm-Tree-Beach-Club-Las-Vegas.jpg"
+    },
+    {
+      "kind": "source",
+      "url": "http://nocovernightclubs.com/nightclubs/palm-tree-beach-club-table-service-reservations/"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/pool-parties/palm-tree-beach-club-guest-list/"
+    }
+  ],
+  "source": {
+    "url": "https://nocovernightclubs.com/pool-parties/palm-tree-beach-club/",
+    "observed_at": "2026-11-16T07:16:32.328775+00:00",
+    "listing_url": "https://nocovernightclubs.com/pool-parties/"
+  },
+  "quality": {
+    "profile_parsed": true,
+    "description_kind": "fact_summary"
+  },
+  "directory_facts": {
+    "location": "美高梅大酒店",
+    "days": "周三、周四、周五、周六、周日",
+    "music": "EDM、Top 40、多曲风混播"
+  }
+}

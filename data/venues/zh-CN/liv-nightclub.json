@@ -1,0 +1,97 @@
+{
+  "id": "liv-nightclub",
+  "name": "LIV Nightclub Las Vegas",
+  "listing_category": "nightclub",
+  "facts": {
+    "location": "枫丹白露酒店",
+    "nights": "周五、周六、周日",
+    "music": "EDM、Top 40、多曲风混播",
+    "size": "50,000 平方英尺",
+    "hours": "22:30 至次日 04:00"
+  },
+  "description": "LIV Nightclub Las Vegas 位于枫丹白露酒店，音乐风格包括 EDM、Top 40 和多曲风混播。",
+  "sections": [
+    {
+      "heading": "LIV Nightclub 完完整指南",
+      "source_url": "https://nocovernightclubs.com/nightclubs/liv-nightclub/"
+    },
+    {
+      "heading": "如何前往 LIV？",
+      "source_url": "https://nocovernightclubs.com/nightclubs/liv-nightclub/"
+    },
+    {
+      "heading": "入场费是多少？",
+      "source_url": "https://nocovernightclubs.com/nightclubs/liv-nightclub/"
+    },
+    {
+      "heading": "LIV Nightclub 何时营业？",
+      "source_url": "https://nocovernightclubs.com/nightclubs/liv-nightclub/"
+    },
+    {
+      "heading": "LIV 播放什么音乐？",
+      "source_url": "https://nocovernightclubs.com/nightclubs/liv-nightclub/"
+    },
+    {
+      "heading": "去 LIV 有什么着装要求？",
+      "source_url": "https://nocovernightclubs.com/nightclubs/liv-nightclub/"
+    }
+  ],
+  "field_provenance": {
+    "location": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/liv-nightclub/",
+      "retrieved_at": "2026-11-16T07:15:12.104190+00:00"
+    },
+    "nights": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/liv-nightclub/",
+      "retrieved_at": "2026-11-16T07:15:12.104190+00:00"
+    },
+    "music": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/liv-nightclub/",
+      "retrieved_at": "2026-11-16T07:15:12.104190+00:00"
+    },
+    "size": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/liv-nightclub/",
+      "retrieved_at": "2026-11-16T07:15:12.104190+00:00"
+    },
+    "hours": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/liv-nightclub/",
+      "retrieved_at": "2026-11-16T07:15:12.104190+00:00"
+    }
+  },
+  "links": [
+    {
+      "kind": "video",
+      "url": "https://www.youtube.com/embed/nU2DUZzQ2Ek"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/nightclubs/liv-nightclub-guest-list/#guestlist"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/nightclubs/liv-nightclub-table-service-reservations/"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/liv-nightclub-event-calendar/"
+    },
+    {
+      "kind": "image",
+      "url": "https://nocovernightclubs.com/wp-content/uploads/2024/01/LIV-Nightclub-Table-Service-L.jpg"
+    }
+  ],
+  "source": {
+    "url": "https://nocovernightclubs.com/nightclubs/liv-nightclub/",
+    "observed_at": "2026-11-16T07:15:12.104190+00:00",
+    "listing_url": "https://nocovernightclubs.com/nightclubs/"
+  },
+  "quality": {
+    "profile_parsed": true,
+    "description_kind": "fact_summary"
+  },
+  "directory_facts": {
+    "location": "枫丹白露酒店",
+    "days": "周五、周六、周日",
+    "music": "EDM、Top 40、多曲风混播"
+  }
+}

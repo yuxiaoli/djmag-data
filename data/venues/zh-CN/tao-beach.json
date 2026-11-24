@@ -1,0 +1,114 @@
+{
+  "id": "tao-beach",
+  "name": "TAO Beach",
+  "listing_category": "dayclub",
+  "facts": {
+    "location": "威尼斯人酒店",
+    "days": "周四、周五、周六、周日",
+    "music": "EDM、Top 40、多曲风混播",
+    "size": "47,000 平方英尺",
+    "address": "3355 S Las Vegas Blvd, Las Vegas, NV 89109",
+    "hours": "11:00 至 17:00"
+  },
+  "description": "TAO Beach 位于威尼斯人酒店，音乐风格包括 EDM、Top 40 和多曲风混播。",
+  "sections": [
+    {
+      "heading": "TAO Beach 完整指南",
+      "source_url": "https://nocovernightclubs.com/pool-parties/tao-beach/"
+    },
+    {
+      "heading": "TAO Beach 在哪里？",
+      "source_url": "https://nocovernightclubs.com/pool-parties/tao-beach/"
+    },
+    {
+      "heading": "如何前往 TAO Beach？",
+      "source_url": "https://nocovernightclubs.com/pool-parties/tao-beach/"
+    },
+    {
+      "heading": "TAO Beach 虚拟导览",
+      "source_url": "https://nocovernightclubs.com/pool-parties/tao-beach/"
+    },
+    {
+      "heading": "入场费是多少？",
+      "source_url": "https://nocovernightclubs.com/pool-parties/tao-beach/"
+    },
+    {
+      "heading": "TAO Beach 何时营业？",
+      "source_url": "https://nocovernightclubs.com/pool-parties/tao-beach/"
+    },
+    {
+      "heading": "TAO Beach 播放什么音乐？",
+      "source_url": "https://nocovernightclubs.com/pool-parties/tao-beach/"
+    },
+    {
+      "heading": "去 TAO 泳池有什么着装要求？",
+      "source_url": "https://nocovernightclubs.com/pool-parties/tao-beach/"
+    }
+  ],
+  "field_provenance": {
+    "location": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/tao-beach/",
+      "retrieved_at": "2026-11-16T07:17:07.131809+00:00"
+    },
+    "days": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/tao-beach/",
+      "retrieved_at": "2026-11-16T07:17:07.131809+00:00"
+    },
+    "music": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/tao-beach/",
+      "retrieved_at": "2026-11-16T07:17:07.131809+00:00"
+    },
+    "size": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/tao-beach/",
+      "retrieved_at": "2026-11-16T07:17:07.131809+00:00"
+    },
+    "address": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/tao-beach/",
+      "retrieved_at": "2026-11-16T07:17:07.131809+00:00"
+    },
+    "hours": {
+      "source_url": "https://nocovernightclubs.com/pool-parties/tao-beach/",
+      "retrieved_at": "2026-11-16T07:17:07.131809+00:00"
+    }
+  },
+  "links": [
+    {
+      "kind": "video",
+      "url": "https://www.youtube.com/embed/B9CO2A-4uJU"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/pool-parties/tao-beach-guest-list/#guestlist"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/pool-parties/tao-beach-table-service-reservations/"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/tao-beach-event-calendar/"
+    },
+    {
+      "kind": "image",
+      "url": "https://nocovernightclubs.com/wp-content/uploads/2022/01/Tao-Beach-L.jpg"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/pool-parties/tao-beach-guest-list/"
+    }
+  ],
+  "source": {
+    "url": "https://nocovernightclubs.com/pool-parties/tao-beach/",
+    "observed_at": "2026-11-16T07:17:07.131809+00:00",
+    "listing_url": "https://nocovernightclubs.com/pool-parties/"
+  },
+  "quality": {
+    "profile_parsed": true,
+    "description_kind": "fact_summary"
+  },
+  "directory_facts": {
+    "location": "威尼斯人酒店",
+    "days": "周四、周五、周六、周日",
+    "music": "EDM、Top 40、多曲风混播、嘻哈"
+  }
+}

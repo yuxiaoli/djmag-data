@@ -1,0 +1,114 @@
+{
+  "id": "zouk-nightclub",
+  "name": "Zouk Nightclub",
+  "listing_category": "nightclub",
+  "facts": {
+    "location": "Resorts World 酒店",
+    "nights": "周五、周六",
+    "music": "EDM、Top 40、多曲风混播",
+    "size": "26,060 平方英尺",
+    "address": "3000 S Las Vegas Blvd, Las Vegas, NV 89109",
+    "hours": "22:30 至次日 04:00"
+  },
+  "description": "Zouk Nightclub 位于 Resorts World 酒店，音乐风格包括 EDM、Top 40 和多曲风混播。",
+  "sections": [
+    {
+      "heading": "Zouk Nightclub 完整指南",
+      "source_url": "https://nocovernightclubs.com/nightclubs/zouk-nightclub/"
+    },
+    {
+      "heading": "拉斯维加斯的 Zouk 在哪里？",
+      "source_url": "https://nocovernightclubs.com/nightclubs/zouk-nightclub/"
+    },
+    {
+      "heading": "如何前往 Zouk？",
+      "source_url": "https://nocovernightclubs.com/nightclubs/zouk-nightclub/"
+    },
+    {
+      "heading": "入场费是多少？",
+      "source_url": "https://nocovernightclubs.com/nightclubs/zouk-nightclub/"
+    },
+    {
+      "heading": "Zouk 何时营业？",
+      "source_url": "https://nocovernightclubs.com/nightclubs/zouk-nightclub/"
+    },
+    {
+      "heading": "Zouk 播放什么音乐？",
+      "source_url": "https://nocovernightclubs.com/nightclubs/zouk-nightclub/"
+    },
+    {
+      "heading": "去 Zouk 有什么着装要求？",
+      "source_url": "https://nocovernightclubs.com/nightclubs/zouk-nightclub/"
+    }
+  ],
+  "field_provenance": {
+    "location": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/zouk-nightclub/",
+      "retrieved_at": "2026-11-16T07:14:05.581546+00:00"
+    },
+    "nights": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/zouk-nightclub/",
+      "retrieved_at": "2026-11-16T07:14:05.581546+00:00"
+    },
+    "music": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/zouk-nightclub/",
+      "retrieved_at": "2026-11-16T07:14:05.581546+00:00"
+    },
+    "size": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/zouk-nightclub/",
+      "retrieved_at": "2026-11-16T07:14:05.581546+00:00"
+    },
+    "address": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/zouk-nightclub/",
+      "retrieved_at": "2026-11-16T07:14:05.581546+00:00"
+    },
+    "hours": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/zouk-nightclub/",
+      "retrieved_at": "2026-11-16T07:14:05.581546+00:00"
+    }
+  },
+  "links": [
+    {
+      "kind": "video",
+      "url": "https://www.youtube.com/embed/PpyRFmuxPBE"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/nightclubs/zouk-nightclub-guest-list/#guestlist"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/nightclubs/zouk-nightclub-table-service-reservations/"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/zouk-nightclub-event-calendar/"
+    },
+    {
+      "kind": "image",
+      "url": "https://nocovernightclubs.com/wp-content/uploads/2022/01/Zouk-Nightclub-L.jpg"
+    },
+    {
+      "kind": "source",
+      "url": "http://nocovernightclubs.com/nightclubs/zouk-nightclub-table-service-reservations/"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/nightclubs/zouk-nightclub-guest-list/"
+    }
+  ],
+  "source": {
+    "url": "https://nocovernightclubs.com/nightclubs/zouk-nightclub/",
+    "observed_at": "2026-11-16T07:14:05.581546+00:00",
+    "listing_url": "https://nocovernightclubs.com/nightclubs/"
+  },
+  "quality": {
+    "profile_parsed": true,
+    "description_kind": "fact_summary"
+  },
+  "directory_facts": {
+    "location": "Resorts World 酒店",
+    "days": "周五、周六",
+    "music": "EDM、Top 40、多曲风混播"
+  }
+}

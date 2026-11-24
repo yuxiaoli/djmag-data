@@ -1,0 +1,127 @@
+{
+  "id": "omnia-nightclub",
+  "name": "Omnia Nightclub",
+  "listing_category": "nightclub",
+  "facts": {
+    "location": "凯撒宫酒店",
+    "nights": "周二、周五、周六、周日",
+    "music": "EDM、Top 40、多曲风混播",
+    "size": "75,000 平方英尺",
+    "address": "3570 S Las Vegas Blvd, Las Vegas, NV 89109",
+    "hours": "22:30 至次日 04:00"
+  },
+  "description": "Omnia Nightclub 位于凯撒宫酒店，音乐风格包括 EDM、Top 40 和多曲风混播。",
+  "sections": [
+    {
+      "heading": "Omnia Nightclub 完完整指南",
+      "source_url": "https://nocovernightclubs.com/nightclubs/omnia-nightclub/"
+    },
+    {
+      "heading": "拉斯维加斯 Omnia 在哪里？",
+      "source_url": "https://nocovernightclubs.com/nightclubs/omnia-nightclub/"
+    },
+    {
+      "heading": "如何前往 Omnia？",
+      "source_url": "https://nocovernightclubs.com/nightclubs/omnia-nightclub/"
+    },
+    {
+      "heading": "Omnia 虚拟导览",
+      "source_url": "https://nocovernightclubs.com/nightclubs/omnia-nightclub/"
+    },
+    {
+      "heading": "入场费是多少？",
+      "source_url": "https://nocovernightclubs.com/nightclubs/omnia-nightclub/"
+    },
+    {
+      "heading": "Omnia 何时营业？",
+      "source_url": "https://nocovernightclubs.com/nightclubs/omnia-nightclub/"
+    },
+    {
+      "heading": "Omnia 播放什么音乐？",
+      "source_url": "https://nocovernightclubs.com/nightclubs/omnia-nightclub/"
+    },
+    {
+      "heading": "去 Omnia 有什么着装要求？",
+      "source_url": "https://nocovernightclubs.com/nightclubs/omnia-nightclub/"
+    }
+  ],
+  "field_provenance": {
+    "location": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/omnia-nightclub/",
+      "retrieved_at": "2026-11-16T07:14:49.384360+00:00"
+    },
+    "nights": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/omnia-nightclub/",
+      "retrieved_at": "2026-11-16T07:14:49.384360+00:00"
+    },
+    "music": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/omnia-nightclub/",
+      "retrieved_at": "2026-11-16T07:14:49.384360+00:00"
+    },
+    "size": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/omnia-nightclub/",
+      "retrieved_at": "2026-11-16T07:14:49.384360+00:00"
+    },
+    "address": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/omnia-nightclub/",
+      "retrieved_at": "2026-11-16T07:14:49.384360+00:00"
+    },
+    "hours": {
+      "source_url": "https://nocovernightclubs.com/nightclubs/omnia-nightclub/",
+      "retrieved_at": "2026-11-16T07:14:49.384360+00:00"
+    }
+  },
+  "links": [
+    {
+      "kind": "video",
+      "url": "https://www.youtube.com/embed/UAGuJJF2KDo"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/omnia-nightclub-guest-list/#guestlist"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/nightclubs/omnia-nightclub-table-service-reservations/"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/omnia-nightclub-las-vegas-event-calendar/"
+    },
+    {
+      "kind": "image",
+      "url": "https://nocovernightclubs.com/wp-content/uploads/2022/01/Omnia-Nightclub-L.jpg"
+    },
+    {
+      "kind": "source",
+      "url": "http://nocovernightclubs.com/nightclubs/omnia-nightclub-table-service-reservations/"
+    },
+    {
+      "kind": "virtual_tour",
+      "url": "https://invisionstudio.com/projects/omnia-nightclub-virtual-tour/"
+    },
+    {
+      "kind": "source",
+      "url": "https://nocovernightclubs.com/nightclubs/omnia-nightclub-guest-list/"
+    }
+  ],
+  "source": {
+    "url": "https://nocovernightclubs.com/nightclubs/omnia-nightclub/",
+    "observed_at": "2026-11-16T07:14:49.384360+00:00",
+    "listing_url": "https://nocovernightclubs.com/nightclubs/"
+  },
+  "quality": {
+    "profile_parsed": true,
+    "description_kind": "fact_summary",
+    "source_conflicts": [
+      "目录列有周四，详情页仅列周二、周五、周六和周日。两处记录均未作为已核实的现行营业信息采用。",
+      "详情页着装要求一节提到 XS，可能是来源文案误植，因此未收录相关内容。"
+    ],
+    "source_conflicts_observed_at": "2026-11-15T18:25:43.167832+00:00"
+  },
+  "directory_facts": {
+    "location": "凯撒宫酒店",
+    "days": "周二、周四、周五、周六、周日",
+    "music": "EDM、Top 40、多曲风混播"
+  }
+}
