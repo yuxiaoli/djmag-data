@@ -244,7 +244,7 @@ def artist_page(artist, translation):
     )
     if birth_date:
         body += '<script src="../dj-age.js" defer></script>'
-    return page(artist['name'], chinese_name, body, '../')
+    return page(artist['name'], chinese_name, body, '../', hide_language_label=True)
 
 
 def ranking_page(rows, localized, year):

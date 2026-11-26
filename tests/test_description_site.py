@@ -136,7 +136,7 @@ class DescriptionSiteTests(unittest.TestCase):
    self.assertNotIn(None, cards['djs/anyma.html'])
 
    detail = (output / 'djs/david-guetta.html').read_text(encoding='utf-8')
-   self.assert_language_selector(detail)
+   self.assert_language_selector(detail, hidden_label=True)
    tags = PageTags(detail).tags
    bios = {attrs['data-bio-language']: attrs for _, attrs in tags if 'data-bio-language' in attrs}
    self.assertEqual(set(bios), {'en', 'zh-CN'})
